@@ -1,0 +1,745 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="Institutionenregister" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title>Institutionenregister</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <header>
+            <nav class="navbar navbar-expand-md navbar-light  bg-white box-shadow"><a class="navbar-brand" href="index.html">
+                  thun
+                  </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Info
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="about.html">Über die Webseite</a><a class="dropdown-item" href="how-to-use.html">Benützungshinweise</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Bestände
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="toc-nachlass.html">Nachlass Leo Thun</a><a class="dropdown-item" href="toc-autographen.html">Autographen Leo Thun / Briefe aus anderen Archiven</a><a class="dropdown-item" href="toc.html">Gesamter Bestand</a><div class="dropdown-divider"></div><a class="dropdown-item" href="calendar.html">Kalender Ansicht</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Register
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="listperson.html">Personen</a><a class="dropdown-item" href="listplace.html">Orte</a><a class="dropdown-item" href="listorg.html">Institutionen</a><a class="dropdown-item" href="schlagworte.html">Schlagworte</a><div class="dropdown-divider"></div><a class="dropdown-item" href="beacon.txt">GND-BEACON</a><a class="dropdown-item" href="cmfi.xml">CMIF</a></div>
+                     </li>
+                  </ul>
+                  <form method="get" action="search.html" class="form-inline my-2 my-lg-0"><input name="q" class="form-control mr-sm-2" type="text" placeholder="Suche in allen Dokumenten" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
+               </div>
+            </nav>
+         </header>
+         <div class="container-fluid">
+            <div class="card">
+               <div class="card-header" style="text-align:center;">
+                  <h1>Institutionenregister</h1>
+                  <h2><a><i class="fas fa-info" title="Info" data-toggle="modal" data-target="#exampleModal"></i></a>
+                     |
+                     <a href="listorg.xml"><i class="fas fa-download" title="show TEI source"></i></a></h2>
+               </div>
+               <div class="card-body">
+                  <table class="table table-striped display" id="tocTable" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th scope="col">Name</th>
+                           <th scope="col">Erwähnungen</th>
+                           <th scope="col">Normdaten-URL</th>
+                           <th scope="col">ID</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td><a href="org_0001.html">Rechtsakademie Hermannstadt</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/5029374-6">http://d-nb.info/gnd/5029374-6</a></td>
+                           <td><a href="org_0001.html">org_0001</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0002.html">Universität Pavia</a></td>
+                           <td>8</td>
+                           <td><a href="http://d-nb.info/gnd/40464-0">http://d-nb.info/gnd/40464-0</a></td>
+                           <td><a href="org_0002.html">org_0002</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0003.html">Universität Padua</a></td>
+                           <td>9</td>
+                           <td><a href="http://d-nb.info/gnd/1011210-8">http://d-nb.info/gnd/1011210-8</a></td>
+                           <td><a href="org_0003.html">org_0003</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0004.html">Ministerrath</a></td>
+                           <td>7</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0004.html">org_0004</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0005.html">k.k. Ministerium für Kultus und Unterricht</a></td>
+                           <td>142</td>
+                           <td><a href="http://d-nb.info/gnd/1086824806">http://d-nb.info/gnd/1086824806</a></td>
+                           <td><a href="org_0005.html">org_0005</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0006.html">Maximilians-Gymnasium (München)</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/108601362X">http://d-nb.info/gnd/108601362X</a></td>
+                           <td><a href="org_0006.html">org_0006</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0007.html">jesuitische Hochschule in Prag</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1600912-5">http://d-nb.info/gnd/1600912-5</a></td>
+                           <td><a href="org_0007.html">org_0007</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0008.html">Universität Pest</a></td>
+                           <td>15</td>
+                           <td><a href="http://d-nb.info/gnd/83557-2">http://d-nb.info/gnd/83557-2</a></td>
+                           <td><a href="org_0008.html">org_0008</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0010.html">Pazmaneum</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/4733779-5">http://d-nb.info/gnd/4733779-5</a></td>
+                           <td><a href="org_0010.html">org_0010</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0011.html">Josefs Polytechnikum (Budapest)</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/16005151-4">http://d-nb.info/gnd/16005151-4</a></td>
+                           <td><a href="org_0011.html">org_0011</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0012.html">k.k. Finanzministerium (Österreich)</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/118073-3">http://d-nb.info/gnd/118073-3</a></td>
+                           <td><a href="org_0012.html">org_0012</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0013.html">k.k. Justizministerium (Österreich)</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/39547-X">http://d-nb.info/gnd/39547-X</a></td>
+                           <td><a href="org_0013.html">org_0013</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0014.html">Universität Neapel</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/36296-7">http://d-nb.info/gnd/36296-7</a></td>
+                           <td><a href="org_0014.html">org_0014</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0015.html">kaiserliche Akademie der Wissenschaften</a></td>
+                           <td>11</td>
+                           <td><a href="http://d-nb.info/gnd/110494894X">http://d-nb.info/gnd/110494894X</a></td>
+                           <td><a href="org_0015.html">org_0015</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0016.html">k.k. Theresianische Ritterakademie</a></td>
+                           <td>9</td>
+                           <td><a href="http://d-nb.info/gnd/5005464-8">http://d-nb.info/gnd/5005464-8</a></td>
+                           <td><a href="org_0016.html">org_0016</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0017.html">Universität Prag</a></td>
+                           <td>38</td>
+                           <td><a href="http://d-nb.info/gnd/16149137-6">http://d-nb.info/gnd/16149137-6</a></td>
+                           <td><a href="org_0017.html">org_0017</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0018.html">Universität Wien</a></td>
+                           <td>49</td>
+                           <td><a href="http://d-nb.info/gnd/2024703-5">http://d-nb.info/gnd/2024703-5</a></td>
+                           <td><a href="org_0018.html">org_0018</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0019.html">Akademie der bildenden Künste Mailand</a></td>
+                           <td>3</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0019.html">org_0019</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0020.html">Universität Innsbruck</a></td>
+                           <td>34</td>
+                           <td><a href="http://d-nb.info/gnd/36165-3">http://d-nb.info/gnd/36165-3</a></td>
+                           <td><a href="org_0020.html">org_0020</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0021.html">Universität Lemberg</a></td>
+                           <td>23</td>
+                           <td><a href="http://d-nb.info/gnd/66083-8">http://d-nb.info/gnd/66083-8</a></td>
+                           <td><a href="org_0021.html">org_0021</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0022.html">Diözese Großwardein</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/4534475-9">http://d-nb.info/gnd/4534475-9</a></td>
+                           <td><a href="org_0022.html">org_0022</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0023.html">Universität Krakau</a></td>
+                           <td>17</td>
+                           <td><a href="http://d-nb.info/gnd/1012007-5">http://d-nb.info/gnd/1012007-5</a></td>
+                           <td><a href="org_0023.html">org_0023</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0024.html">Warschauer Realgymnasium</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0024.html">org_0024</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0025.html">Universität Heidelberg</a></td>
+                           <td>12</td>
+                           <td><a href="http://d-nb.info/gnd/2024349-2">http://d-nb.info/gnd/2024349-2</a></td>
+                           <td><a href="org_0025.html">org_0025</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0026.html">Universität Graz</a></td>
+                           <td>24</td>
+                           <td><a href="http://d-nb.info/gnd/36157-4">http://d-nb.info/gnd/36157-4</a></td>
+                           <td><a href="org_0026.html">org_0026</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0027.html">Universität Berlin</a></td>
+                           <td>20</td>
+                           <td><a href="http://d-nb.info/gnd/1016783-3">http://d-nb.info/gnd/1016783-3</a></td>
+                           <td><a href="org_0027.html">org_0027</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0028.html">Universität München</a></td>
+                           <td>14</td>
+                           <td><a href="http://d-nb.info/gnd/2002585-3">http://d-nb.info/gnd/2002585-3</a></td>
+                           <td><a href="org_0028.html">org_0028</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0029.html">Universität Jena</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/36164-1">http://d-nb.info/gnd/36164-1</a></td>
+                           <td><a href="org_0029.html">org_0029</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0030.html">Universität Freiburg</a></td>
+                           <td>8</td>
+                           <td><a href="http://d-nb.info/gnd/2024338-8">http://d-nb.info/gnd/2024338-8</a></td>
+                           <td><a href="org_0030.html">org_0030</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0031.html">Universität Zürich</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/36190-2">http://d-nb.info/gnd/36190-2</a></td>
+                           <td><a href="org_0031.html">org_0031</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0032.html">Universität Bern</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/2023768-6">http://d-nb.info/gnd/2023768-6</a></td>
+                           <td><a href="org_0032.html">org_0032</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0033.html">Universität Erlangen</a></td>
+                           <td>6</td>
+                           <td><a href="http://d-nb.info/gnd/2024186-0">http://d-nb.info/gnd/2024186-0</a></td>
+                           <td><a href="org_0033.html">org_0033</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0034.html">Universität Gießen</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/36154-9">http://d-nb.info/gnd/36154-9</a></td>
+                           <td><a href="org_0034.html">org_0034</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0035.html">k.k. protestantisch-theologische Lehranstalt der Universität Wien</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1700272-2">http://d-nb.info/gnd/1700272-2</a></td>
+                           <td><a href="org_0035.html">org_0035</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0036.html">Josephinum</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/65009-2">http://d-nb.info/gnd/65009-2</a></td>
+                           <td><a href="org_0036.html">org_0036</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0037.html">Universität Leipzig</a></td>
+                           <td>4</td>
+                           <td><a href="http://d-nb.info/gnd/2024343-1">http://d-nb.info/gnd/2024343-1</a></td>
+                           <td><a href="org_0037.html">org_0037</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0038.html">Universität Königsberg</a></td>
+                           <td>4</td>
+                           <td><a href="http://d-nb.info/gnd/1116746166">http://d-nb.info/gnd/1116746166</a></td>
+                           <td><a href="org_0038.html">org_0038</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0039.html">Universität Göttingen</a></td>
+                           <td>12</td>
+                           <td><a href="http://d-nb.info/gnd/2024315-7">http://d-nb.info/gnd/2024315-7</a></td>
+                           <td><a href="org_0039.html">org_0039</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0040.html">Universität Bonn</a></td>
+                           <td>27</td>
+                           <td><a href="http://d-nb.info/gnd/36150-1">http://d-nb.info/gnd/36150-1</a></td>
+                           <td><a href="org_0040.html">org_0040</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0041.html">Universität Marburg</a></td>
+                           <td>5</td>
+                           <td><a href="http://d-nb.info/gnd/2001630-X">http://d-nb.info/gnd/2001630-X</a></td>
+                           <td><a href="org_0041.html">org_0041</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0042.html">Universität Halle</a></td>
+                           <td>4</td>
+                           <td><a href="http://d-nb.info/gnd/1095888250">http://d-nb.info/gnd/1095888250</a></td>
+                           <td><a href="org_0042.html">org_0042</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0043.html">Gerold</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/2168247-1">http://d-nb.info/gnd/2168247-1</a></td>
+                           <td><a href="org_0043.html">org_0043</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0044.html">Universität Tübingen</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/gnd/36187-2">http://d-nb.info/gnd/36187-2</a></td>
+                           <td><a href="org_0044.html">org_0044</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0045.html">Allgemeine Zeitung</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/116616103X">http://d-nb.info/gnd/116616103X</a></td>
+                           <td><a href="org_0045.html">org_0045</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0046.html">k.k. Ministerium des Innern</a></td>
+                           <td>11</td>
+                           <td><a href="http://d-nb.info/gnd/260143-6">http://d-nb.info/gnd/260143-6</a></td>
+                           <td><a href="org_0046.html">org_0046</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0047.html">Universität Olmütz</a></td>
+                           <td>5</td>
+                           <td><a href="http://d-nb.info/gnd/1029776-5">http://d-nb.info/gnd/1029776-5</a></td>
+                           <td><a href="org_0047.html">org_0047</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0048.html">Meraner Gymnasium</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/7521530-5">http://d-nb.info/gnd/7521530-5</a></td>
+                           <td><a href="org_0048.html">org_0048</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0049.html">Stift Marienberg</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/2165566-2">http://d-nb.info/gnd/2165566-2</a></td>
+                           <td><a href="org_0049.html">org_0049</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0050.html">k. baierische Akademie der Wissenschaften</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/2005521-3">http://d-nb.info/gnd/2005521-3</a></td>
+                           <td><a href="org_0050.html">org_0050</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0051.html">k. böhmische Gesellschaft der Wissenschaften</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/63888-2">http://d-nb.info/gnd/63888-2</a></td>
+                           <td><a href="org_0051.html">org_0051</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0052.html">Polytechnikum Prag</a></td>
+                           <td>4</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0052.html">org_0052</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0053.html">Universität Greifswald</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/1124020543">http://d-nb.info/gnd/1124020543</a></td>
+                           <td><a href="org_0053.html">org_0053</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0054.html">Universität Kiel</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/2024175-6">http://d-nb.info/gnd/2024175-6</a></td>
+                           <td><a href="org_0054.html">org_0054</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0055.html">k.k. geologische Reichsanstalt</a></td>
+                           <td>4</td>
+                           <td><a href="http://d-nb.info/gnd/37287-0">http://d-nb.info/gnd/37287-0</a></td>
+                           <td><a href="org_0055.html">org_0055</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0056.html">Universität Klausenburg</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/5058130-2">http://d-nb.info/gnd/5058130-2</a></td>
+                           <td><a href="org_0056.html">org_0056</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0057.html">Zeitschrift für die österreichischen Gymnasien</a></td>
+                           <td>7</td>
+                           <td><a href="http://d-nb.info/011157429">http://d-nb.info/011157429</a></td>
+                           <td><a href="org_0057.html">org_0057</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0058.html">Universität Landshut</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/2024335-2">http://d-nb.info/gnd/2024335-2</a></td>
+                           <td><a href="org_0058.html">org_0058</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0059.html">Accademia degli Agiati</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/4443305-0">http://d-nb.info/gnd/4443305-0</a></td>
+                           <td><a href="org_0059.html">org_0059</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0060.html">Abazia di S. Barbara in Mantova</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0060.html">org_0060</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0061.html">Polytechnikum Wien</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/37787-9">http://d-nb.info/gnd/37787-9</a></td>
+                           <td><a href="org_0061.html">org_0061</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0062.html">Santa Maria dell' Anima</a></td>
+                           <td>9</td>
+                           <td><a href="http://d-nb.info/gnd/4402265-7">http://d-nb.info/gnd/4402265-7</a></td>
+                           <td><a href="org_0062.html">org_0062</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0063.html">Vatikanisches Archiv</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1013819-5">http://d-nb.info/gnd/1013819-5</a></td>
+                           <td><a href="org_0063.html">org_0063</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0064.html">Universität Würzburg</a></td>
+                           <td>6</td>
+                           <td><a href="http://d-nb.info/gnd/36189-6">http://d-nb.info/gnd/36189-6</a></td>
+                           <td><a href="org_0064.html">org_0064</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0065.html">Universität Breslau</a></td>
+                           <td>10</td>
+                           <td><a href="http://d-nb.info/gnd/1220756-1">http://d-nb.info/gnd/1220756-1</a></td>
+                           <td><a href="org_0065.html">org_0065</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0066.html">Universität Münster</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/36175-6">http://d-nb.info/gnd/36175-6</a></td>
+                           <td><a href="org_0066.html">org_0066</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0067.html">Universität Rom</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/1097368-0">http://d-nb.info/gnd/1097368-0</a></td>
+                           <td><a href="org_0067.html">org_0067</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0068.html">Universität Dorpat</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/501111-5">http://d-nb.info/gnd/501111-5</a></td>
+                           <td><a href="org_0068.html">org_0068</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0069.html">k.k. Akademie der bildenden Künste Wien</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/2003761-2">http://d-nb.info/gnd/2003761-2</a></td>
+                           <td><a href="org_0069.html">org_0069</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0070.html">Verein zur Beförderung der Tonkunst (in Böhmen)</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0070.html">org_0070</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0071.html">Seminario Principesco Vescovile</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0071.html">org_0071</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0072.html">Deutscher Bund</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/4011750-9">http://d-nb.info/gnd/4011750-9</a></td>
+                           <td><a href="org_0072.html">org_0072</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0073.html">Universität Paris</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/2025059-9">http://d-nb.info/gnd/2025059-9</a></td>
+                           <td><a href="org_0073.html">org_0073</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0074.html">Universität Brüssel</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/1011179-7">http://d-nb.info/gnd/1011179-7</a></td>
+                           <td><a href="org_0074.html">org_0074</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0075.html">Jesuitenorden</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/80092-2">http://d-nb.info/gnd/80092-2</a></td>
+                           <td><a href="org_0075.html">org_0075</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0076.html">Gymnasium Pforta</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/82742-3">http://d-nb.info/gnd/82742-3</a></td>
+                           <td><a href="org_0076.html">org_0076</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0077.html">Medizinisch-chirurgische Lehranstalt Salzburg</a></td>
+                           <td>2</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0077.html">org_0077</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0078.html">Akademisches Gymnasium Wien</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/600902-5">http://d-nb.info/gnd/600902-5</a></td>
+                           <td><a href="org_0078.html">org_0078</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0079.html">Kaisertum Österreich</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0079.html">org_0079</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0080.html">Lyzeum Rastatt</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/5013990-3">http://d-nb.info/gnd/5013990-3</a></td>
+                           <td><a href="org_0080.html">org_0080</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0081.html">Altstädter Gymnasium (Prag)</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/401873-4">http://d-nb.info/gnd/401873-4</a></td>
+                           <td><a href="org_0081.html">org_0081</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0082.html">Universität Gent</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1009455-6">http://d-nb.info/gnd/1009455-6</a></td>
+                           <td><a href="org_0082.html">org_0082</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0083.html">historischer Verein für Steyermark</a></td>
+                           <td>2</td>
+                           <td><a href="http://d-nb.info/gnd/11486-8">http://d-nb.info/gnd/11486-8</a></td>
+                           <td><a href="org_0083.html">org_0083</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0084.html">Universität Löwen</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0084.html">org_0084</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0085.html">chirurgische Lehranstalt Lemberg</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0085.html">org_0085</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0086.html">chirurgische Lehranstalt Olmütz</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0086.html">org_0086</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0087.html">chirurgische Lehranstalt Gratz</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0087.html">org_0087</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0088.html">chirurgische Lehranstalt Innsbruck</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0088.html">org_0088</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0089.html">Akademie der bildenden Künste Venedig</a></td>
+                           <td>2</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0089.html">org_0089</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0090.html">k.k. Priesterbildungs-Institut zum hl. Augustin</a></td>
+                           <td>3</td>
+                           <td><a href="http://d-nb.info/gnd/400016-X">http://d-nb.info/gnd/400016-X</a></td>
+                           <td><a href="org_0090.html">org_0090</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0091.html">Ministerium des Äußeren</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/119828-2">http://d-nb.info/gnd/119828-2</a></td>
+                           <td><a href="org_0091.html">org_0091</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0093.html">Akademisches Gymnasium Lemberg</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/5034132-7">http://d-nb.info/gnd/5034132-7</a></td>
+                           <td><a href="org_0093.html">org_0093</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0094.html">Dominikaner Lyzeum Lemberg</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0094.html">org_0094</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0095.html">Bernardiner Lycäum Lemberg</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0095.html">org_0095</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0096.html">Technische Akademie Lemberg</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/82774-5">http://d-nb.info/gnd/82774-5</a></td>
+                           <td><a href="org_0096.html">org_0096</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0097.html">Universität Siena</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1024765-8">http://d-nb.info/gnd/1024765-8</a></td>
+                           <td><a href="org_0097.html">org_0097</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0098.html">Universität Pisa</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1011221-2">http://d-nb.info/gnd/1011221-2</a></td>
+                           <td><a href="org_0098.html">org_0098</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0099.html">Universität Turin</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1011229-7">http://d-nb.info/gnd/1011229-7</a></td>
+                           <td><a href="org_0099.html">org_0099</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0100.html">Lyzeum Salzburg</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0100.html">org_0100</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0101.html">Gymnasium Neusatz</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0101.html">org_0101</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0102.html">Cisterzienserstift Engelszell</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1224816-2">http://d-nb.info/gnd/1224816-2</a></td>
+                           <td><a href="org_0102.html">org_0102</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0103.html">Gustav-Adolph-Verein</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0103.html">org_0103</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0104.html">Stift Schlägl</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/2002080-6">http://d-nb.info/gnd/2002080-6</a></td>
+                           <td><a href="org_0104.html">org_0104</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0105.html">katholisch-theologische Akademie in Münster</a></td>
+                           <td>1</td>
+                           <td><a href=""></a></td>
+                           <td><a href="org_0105.html">org_0105</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0106.html">Stift Wilten</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/672482-6">http://d-nb.info/gnd/672482-6</a></td>
+                           <td><a href="org_0106.html">org_0106</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_0107.html">Stift Heiligenkreuz</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/80820-9">http://d-nb.info/gnd/80820-9</a></td>
+                           <td><a href="org_0107.html">org_0107</a></td>
+                        </tr>
+                        <tr>
+                           <td><a href="org_akademie-der-bildenden-kuenste-prag.html">Akademie der Bildenden Künste Prag</a></td>
+                           <td>1</td>
+                           <td><a href="http://d-nb.info/gnd/1175899550">http://d-nb.info/gnd/1175899550</a></td>
+                           <td><a href="org_akademie-der-bildenden-kuenste-prag.html">org_akademie-der-bildenden-kuenste-prag</a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="modal" tabindex="-1" role="dialog" id="exampleModal">
+               <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h5 class="modal-title">Info</h5>
+                     </div>
+                     <div class="modal-body">
+                        <p>
+                           Der Name der jeweiligen Institution ist mit jenen Dokumenten verlinkt, in denen diese
+                           erwähnt wird.
+                           </p>
+                        <p>
+                           Die Sortierung der einzelnen Spalten kann durch einen Klick auf die Spaltenüberschrift
+                           geändert werden. Das Suchfeld links oberhalb der Tabelle durchsucht den gesamten Tabelleninhalt.
+                           Darüberhinaus können mit Hilfe der Suchfelder über den Spalten diese gezielt durchsucht
+                           bzw. gefiltert werden.
+                           </p>
+                        <p>Die (ggf. gefilterte) Tabelle kann Excel heruntergeladen bzw. in den Zwischenspeicher
+                           kopiert werden.</p>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <footer class="main-footer">
+            <div class="container">
+               <div class="footer-wrapper">
+                  <div class="footer-sep"><i class="far fa-comment"></i> Kontakt: <a href="mailto:christof.aichner@uibk.ac.at">Christof Aichner</a></div>
+                  <div class="row">
+                     <div class="col-md-3"><a href="https://www.oeaw.ac.at/acdh/" target="_blank" rel="noopener" aria-label="ACDHCH"><img src="https://shared.acdh.oeaw.ac.at/acdh-common-assets/images/acdh-ch-logo-grayscale.svg" alt="ACDH" title="Austrian Centre for Digital Humanities and Cultural Heritage" /></a></div>
+                     <div class="col-md-3"><a href="https://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search[what]=P+22554" target="_blank" rel="noopener" aria-label="FWF P 29329"><img src="img/fwf.gif" alt="FWF" title="FWF funded Project P 22554" /></a></div>
+                     <div class="col-md-3"><a href="http://www.oesterreichische-geschichte.at/" target="_blank" rel="noopener" aria-label="Kommission für Neuere Geschichte Österreichs"><img src="img/logo_kommission.png" alt="Kommission für Neuere Geschichte Österreichs" title="Kommission für Neuere Geschichte Österreichs" style="max-width:30%;" /></a></div>
+                     <div class="col-md-3"><a href="https://www.uibk.ac.at/" target="_blank" rel="noopener" aria-label="UIBK"><img src="img/uibklogo.png" alt="UIBK" title="University of Innsbruck" /></a></div>
+                  </div>
+               </div>
+            </div>
+            <div class="footer-imprint-bar"><a href="imprint.html">Impressum/Imprint</a><div class="row" style="padding-top: 20px;">
+                  <div class="col-sm"><a href="https://github.com/KfNGOe/thun-static"><i class="fab fa-github-square fa-2x"></i></a></div>
+               </div>
+            </div>
+         </footer><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script><script>
+                        $(document).ready(function () {
+                        createDataTable('tocTable')
+                        });
+                    </script></div>
+   </body>
+</html>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="instruktion-zur-verwaltung-gemeindevermoegen-sessana_1849_a3-xxi-d28.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/huldigungslied-fuer-thun-von-innsbrucker-studenten-1854-07-a3-xxi-d271.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/inzaghi-an-thun-1851-12-11-a3-xxi-d137.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Instruktion für die Gemeinde Sessana [Sežana] zur Verwaltung des
+                        Gemeindevermögens<lb/>
+                    <rs type="place" subtype="place" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when="1849">[1849]</date>
+                    <note>Das Dokument wurde im Nachlass
+                        auf das Jahr 1849 datiert. Es steht in Verbindung mit dem vorangehenden und
+                        nachfolgenden Dokument des Nachlasses, die sich ebenfalls mit Organisation
+                        bzw. der Verwaltung der Gemeinden und der Bestellung der Gemeindeorgane
+                        befassen. Es handelt sich dabei wohl um die Vorschriften, die Graf Stadion
+                        1845 für das Küstenland entworfen hat und die dieser 1847 zur Genehmigung
+                        vorgelegt hat. Vgl. dazu bei Bericht der vom Wiener Gemeinderathe
+                        eingesetzten Commission zur Revision des Gemeinde-Statutes, Bd. 1
+                        (Geschichte des Gemeindewesens und ggenwärtiger Stand der
+                        Gemeindegesetzgebung in Oesterreich und in einigen deutschen Staaten mit
+                        besonderer Rücksicht auf Wien. Aeltere Entwürfe für die Revision des Wiener
+                        Gemeinde-Statutes), Wien 1868, S. 208–209.</note>
+                </title>
+            <title type="label">Instruktion für die Gemeinde Sessana [Sežana] zur Verwaltung des Gemeindevermögens, Görz, [1849]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E2-D</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D28</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die vom Kreisamt Görz erlassene Instruktion für die Gemeinde Sessana
+                            beinhaltet die Vorschriften zur Verwaltung des Gemeindevermögens. Der
+                            verstärkte Gemeinderat hat aus neun Abgeordneten und sechs Ersatzmännern
+                            zu bestehen. Anschließend wird die Wahl der Abgeordneten, der
+                            Wahlvorgang, die Wählbarkeit usw. näher erläutert. Weitere Abschnitte
+                            behandeln den Vorgang bei Verwaltung der Gemeindesachen und des
+                            Gemeindevermögens.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.<lb/>Mit handschriftlichen Ergänzungen, Anmerkungen und Korrekturen
+                            von unbekannter Hand.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="gemeindeordnung">Gemeindeordnung</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    <back><listPlace><place xml:id="place_4de166ce82fade94306232184d2c4387">
+                        <placeName>Province of Gorizia</placeName>
+                        <placeName type="pref">goerz</placeName>
+                        <placeName type="alt">Görz</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.93432 13.61834</geo>
+                        </location>
+                        <idno>https://www.geonames.org/6541866</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesetzesentwurf über das Verfahren der Gerichtsbehörden zur Durchführung des allerhöchsten Patents vom 25. September 1850 o. D. [März 1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-verfahren-gerichtsbehoerden-1851-03-a3-xxi-d110.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Instruktion für die Gemeinde Sessana [Sežana] zur Verwaltung des Gemeindevermögens, Görz, [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/instruktion-zur-verwaltung-gemeindevermoegen-sessana_1849_a3-xxi-d28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Görz an Leo Thun, Görz, 5. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-goerz-an-thun-1860-11-05-a3-xxi-d623a30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 4. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1855-02-04-ca180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+
+</TEI>

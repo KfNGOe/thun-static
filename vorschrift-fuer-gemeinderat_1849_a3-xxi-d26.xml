@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="vorschrift-fuer-gemeinderat_1849_a3-xxi-d26.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-von-reichenstein-in-protestantenangelegenheit-ungarn-1860-04-15-a3-xxi-d570.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorschrift für den Gemeinderat<lb/>o. O., <date when="1849">[1849]</date>
+                    <note>Das Dokument wurde im Nachlass auf das Jahr 1849 datiert. Es
+                        steht in Verbindung mit den beiden nachfolgenden Dokumenten des Nachlasses,
+                        die sich ebenfalls mit Organisation bzw. der Verwaltung der Gemeinden und
+                        der Bestellung der Gemeindeorgane befassen. Es handelt sich dabei wohl um
+                        die Vorschriften, die Graf Stadion 1845 für das Küstenland entworfen hat und die
+                        dieser 1847 zur Genehmigung vorgelegt hat. Vgl. dazu bei Bericht der vom
+                        Wiener Gemeinderathe eingesetzten Commission zur Revision des
+                        Gemeinde-Statutes, Bd. 1 (Geschichte des Gemeindewesens und
+                        ggenwärtiger Stand der Gemeindegesetzgebung in Oesterreich und in einigen
+                        deutschen Staaten mit besonderer Rücksicht auf Wien. Aeltere Entwürfe für
+                        die Revision des Wiener Gemeinde-Statutes), Wien 1868, S. 208–209.</note>
+                </title>
+            <title type="label">Vorschrift für den Gemeinderat o. O., [1849]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E9-6</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D26</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die gedruckte Vorschrift beinhaltet die Vorschriften für die
+                            Gemeinderäte. Darin sind die Regelungen zur Einberufung des
+                            Gemeinderates, zur Abhaltung von Gemeindeversammlungen sowie zum
+                            Verfahren des Gemeinderates bei einzelnen Verwaltungsgegenständen
+                            enthalten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="gemeindeordnung">Gemeindeordnung</term>
+                    <term key="verwaltung">Verwaltung</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    <back/></text>
+</TEI>

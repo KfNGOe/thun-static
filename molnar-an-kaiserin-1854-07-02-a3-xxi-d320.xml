@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/modifikationsentwurf-stellung-kirchlicher-knabenseminare-zu-staatsgymnasien-1850-a3-xxi-d87.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#molnar-christian" role="sender:kleriker">Christian
+                        Molnár</rs> an <rs type="person" ref="#elisabeth" role="recipient">Kaiserin
+                        Elisabeth</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</rs> [Rudník],
+                        <date when-iso="1854-07-02">2. Juli 1854</date>
+                </title>
+            <title type="label">Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB1D-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D320</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der evangelische Pastor Christian Molnár bittet Kaiserin Elisabeth um
+                            eine Unterstützung für seine notleidende Familie. Das Einkommen aus
+                            seiner Gemeinde ist aufgrund der Armut der Bevölkerung gering und auch
+                            die Mitgift seiner Frau ist bereits aufgebraucht. Er hofft auf die Gnade
+                            und Barmherzigkeit der Kaiserin und gelobt, für das Kaiserpaar zu
+                            beten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit zehn weiteren
+                            Majestätsgesuchen unter der Signatur A3 XXI D320.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#molnar-christian">Christian Molnár</rs>
+                    <settlement ref="#place_1e6b38f6262c94e732f8d061a68f0523">Hermannseifen</settlement>
+                    <date when-iso="1854-07-02">2. Juli 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#elisabeth">Kaiserin Elisabeth</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="bittgesuch">Bittgesuch</term>
+                </index>
+                <p>Euer Majestät!</p>
+                <p>Von allzu großer Noth getrieben, wagt es ein sehr hart geprüfter Vater vor die
+                    Stufen des geheiligten Thrones Euer Majestät niedergebeugt in tiefster Devotion
+                    zu treten und um eine Gnadengabe zur Ernährung seiner dem Hunger preisgegebenen
+                    6 Kinder und ihrer thränenden Mutter zu flehen. Der Herr hat ihm das Amt eines
+                    evangelischen Seelsorgers anvertraut, in welchem er bereits 22 Jahre treu
+                    arbeitet. Seine Vorgesetzten werden kein Bedenken tragen, ihm ein günstiges
+                    Zeugnis zu ertheilen. Seine sehr kleine im rauhen Riesengebirge gelegene Stelle
+                    gewährt ihm jährlich, alle seine Einkünfte streng zusammengenommen, höchstens
+                    270 fl CM, wovon er jedoch seit langer Zeit in Folge der Theuerung und
+                    Hungersnoth unter seinen sehr armen Kirchkindern, die mittelst Repartition
+                    seinen fixen Gehalt unter sich zu sammeln haben, kaum den dritten <hi rend="ul">Theil</hi> erhält. Die kleine Mitgift seiner Gattin hat er bereits zugebüßt
+                    und leidet nun mit seiner Familie die größte Noth, die in dem Maaße zunimmt, als
+                    seine Kinder heranwachsen. Von Schulden gedrückt hat er natürlich keinen Kredit
+                    mehr.<lb/>In dieser äußerst traurigen Lage sieht er sich genöthigt, an die
+                    christliche Barmherzigkeit zu appellieren, um seine unglückliche Familie vor
+                    Hunger, Blöße und Schmach zu bewahren und seine Schulden zu tilgen. Euer
+                    Majestät wollen allergnädigst geruhen, auf ihn und seine arme Familie von der
+                    Höhe Allerhöchstihrer erhabenen und geheiligten Thrones huldreich herabzublicken
+                    und ihm eine Gnadengabe allergnädigst zu ertheilen.<lb/>Wer Schmerzensthränen in
+                    Dank- und Freudenthränen verwandelt, dem wird es im Himmel wohl belohnt werden.
+                    Selig sind die Barmherzigen, denn sie werden Barmherzigkeit erlangen, spricht
+                    Jesus unser Herr. Er der König aller Könige, der die irdischen Throne mit Glanz
+                    und Ruhm schmückt, möge Euer Majestaet und Allerhöchstderselben hocherhabenes
+                    Herrscherhaus schützen, erhalten und mit Seinem Segen reichlich überschütten. Er
+                    kröne Euer Majestät nach langem glücklichen Erdenleben mit der unvergänglichen
+                    Krone des ewigen seligen Lebens! Amen!</p>
+                <p>In tiefster kindlichen Devotion</p>
+                <p>Euer Majestät</p>
+                <p>allerunterhänigster Knecht und Fürbitter<lb/>Christ. Aug. Molnár,<lb/>evang.
+                    Pastor zu Hermannseifen</p>
+                <p>Hermannseifen,<lb/>Trautenauer Bezirkshauptmannschaft,<lb/>Gitschiner Kreises in
+                    Böhmen am 2. Juli 1854</p>
+            </div>
+        </body>
+    
+    <back><listPlace><place xml:id="place_1e6b38f6262c94e732f8d061a68f0523">
+                        <placeName>Rudník</placeName>
+                        <placeName type="pref">Hermannseifen</placeName>
+                        <placeName type="alt">Hermannseifen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.59517 15.73362</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3066595</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von
+                                Österreich</p>
+                            <p>https://d-nb.info/gnd/1044019484</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1044019484</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josefine Dóczy an Kaiserin Elisabeth, Wien, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/doczy-an-kaiserin-1854-07-19-a3-xxi-d320j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giovanni Maria Gregoretti an Kaiserin Elisabeth, Vendig, 20. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gregoretti-an-kaiserin-1854-06-20-a3-xxi-d320f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Klemens Wenzel Metternich an Leo Thun, o. O., 31. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/metternich-an-thun-1855-01-31-a3-xxi-d326.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Die Nonnen des Benediktinerinnenklosters auf der Insel Krk an Kaiserin Elisabeth, Krk, 16. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/nonnen-an-kaiserin-1854-06-16-a3-xxi-d320h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Pawelek an Kaiserin Elisabeth, Königsberg [Klimkovice], 27. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pawelek-an-kaiserin-1854-06-27-a3-xxi-d320b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Der Trivialschullehrer von Louchov an Kaiserin Elisabeth, Laucha [Louchov], 28. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-kaiserin-1854-06-28-a3-xxi-d320d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Antonia Vuketich an Kaiserin Elisabeth Lesina [, Hvar], 12. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vuketich-an-kaiserin-1854-05-12-a3-xxi-d320e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="molnar-christian">
+                        <persName>
+                            <surname>Molnár</surname>
+                            <forename>Christian August</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>1848–1856 evangelischer Pastor in Hermannseifen</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="publikationsliste-theologie-o-d-a3-xxi-d187.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/puffer-an-thun-1849-11-22-a3-xxi-d16.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Publikationsliste von <rs type="person" ref="#riffel-caspar">Caspar Riffel</rs>
+                    und <rs type="person" ref="#wick-joseph">Joseph Wick</rs>
+                    <lb/>o. O., o. D. [post 1850]</title>
+            <title type="label">Publikationsliste von Caspar Riffel und Joseph Wick o. O., o. D. [post 1850]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAD1-3</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D187</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die undatierten Blätter enthalten zwei Listen mit den Titeln der
+                            Publikationen der Theologen Caspar Riffel aus Mainz und Joseph Wick aus
+                            Breslau. Die Publikationen sind theologischen und kirchengeschichtlichen
+                            Inhalts. Riffels Christliche Kirchengeschichte aus den Jahren 1841–1846
+                            wird eigens hervorgehoben, und dessen gründliche Quellenkenntnis und
+                            kritische Urteilsschärfe gelobt.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                    <term key="theologie">Theologie</term>
+                </index>
+                <p>
+                    <hi rend="ul">Dr. <rs type="person" ref="#riffel-caspar">Caspar Riffels</rs> zu
+                            <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs> in Druck erschienene Werke</hi>:</p>
+                <p>a. <hi rend="ul">Christliche Kirchengeschichte</hi> der neuesten Zeit von dem
+                    Anfang der großen Glaubens- und Kirchenspaltung des 16. Jahrhunderts bis auf
+                    unsere Tage. Mainz 1841–1846, 3 Bde., Großokévos.<lb/>Eine anerkannt gründliche
+                    Arbeit, welche die Sache des Katholizismus entschieden und mit einer – wie
+                    behauptet wird – im Einzelnen beinahe an Ungerechtigkeit wider die Gegenpartei
+                    streifenden Konsequenz vertritt. Gründliche Quellenkenntnis und kritische
+                    Schärfe zeichnen allenthalben dieses Werk aus, welches zugleich in der
+                    Darstellung klar und anziehend ist.<lb/>b. <hi rend="ul">Die Aufhebung des
+                        Jesuitenordens</hi>. Eine Beleuchtung der alten und neuen Anklagen wider
+                    denselben. Mainz 1845, 2. Auflage 1848.<lb/>c. <hi rend="ul">Das Primat
+                        Petri</hi> und seiner Nachfolger auf dem apostolischen Stuhle zu Rom. 3
+                    Predigten. Mainz 1845. Als Fortsetzung 3 weitere Predigten. Ibid 1846.<lb/>d.
+                        <hi rend="ul">Predigten auf alle Sonn- und Feiertage</hi> des Jahres. 2
+                    Bde., zweite revidirte Auflage 1843.<lb/>e. <hi rend="ul">Die Würde des
+                        katholischen Priesters</hi> als Gesandten Gottes und Stellvertreters
+                    Christi. Eine Primitzpredigt. Mainz 1845.<lb/>f. <hi rend="ul">Die Verfolgung
+                        des Kreuzes</hi> in unserer Zeit. Predigt auf das Fest Kreuzerhöhung. Mainz
+                    1848.<lb/>g. <hi rend="ul">Die hohe Gefangene in Chillon</hi> und die Freiburger
+                    Zustände. Nach Beschluß des Kongresses der katholischen Vereine Rheinlandes und
+                    Westphalens abgehalten zu Köln 1849.</p>
+                <p/>
+                <p>
+                    <hi rend="ul">Vom Lizenziaten Curatus <rs type="person" ref="#wick-joseph">J[oseph]
+                            Wick</rs> zu <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> erschien</hi>:</p>
+                <p>
+                    <hi rend="ul">Jesus Christus</hi> der Sohn Gottes. Kanzelvorträge. Als Einleitung
+                    eine kurze Abhandlung über die Echtheit der Evangelien. Breslau 1850.</p>
+            </div>
+        </body>
+    
+    <back><listPlace><place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
+                        <placeName>Mainz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98419 8.2791</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2874225</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karoline Langenau an Caroline Thun o. O., o. D. [Februar 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/caroline-an-caroline-thun-o-d-a3-xxi-d190.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wilhelm Emmanuel Ketteler an Leo Thun, Mainz, 17. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                        <placeName>Breslau</placeName>
+                        <placeName type="alt">Breslauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">51.10773 17.03533</geo>
+                        </location>
+                        <idno>https://www.geonames.org/7531292</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>František Ladislaus Čelakovšký an Leo Thun, o. O., o. D. [1850/51]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Ratibor, 30. August 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1849-08-30-a3-xxi-d5.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 4. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-04-04-a3-xxi-d42.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 4. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-06-04-a3-xxi-d70a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Johannesberg bei Jauernig, 27. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-08-27-a3-xxi-d70b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 9. November 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-11-09-a3-xxi-d76.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 6. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 8. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-08_a3-xxi-d50a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Dunajewski an Leo Thun, Wien, 21. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/dunajewski-an-thun-1852-11-21-a3-xxi-d175.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 4. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-11-04-a3-xxi-d348d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. April 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1858-04-05-a3-xxi-d450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 16. Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1859-06-16-a3-xxi-d508.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 1. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-11-01-a3-xxi-d623a6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Schloß Johannesberg, 17. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun_1854-08-17_a3-xxi-d276.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Purkinje an Leo Thun, Breslau, 22. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/purkinje-an-thun-1849-10-22-a3-xxi-d9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Separavotum zu Beda Dudiks Gutachten über die staatsrechtlichen Beziehungen des Herzogtums Troppau zur Markgrafschaft Mähren Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zu-dudiks-abhandlung-1850-12-a3-xxi-d246.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Brief von Ludwig Wiese an einen unbekannten Empfänger, Berlin, 5. Dezember 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wiese-an-unbekannt-1858-12-05-a3-xxi-d476.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="riffel-caspar">
+                        <persName>
+                            <surname>Riffel</surname>
+                            <forename>Caspar</forename>
+                        </persName>
+                        <note>
+                            <p>Büdesheim 1807–1856 Mainz</p>
+                            <p>kath. Theologe, ab 1830 Prof. für Kirchengeschichte am Seminar in
+                                Mainz, ab 1835 Prof. für Moraltheologie, ab 1837 Prof. für
+                                Kirchengeschichte an der Universität Gießen</p>
+                            <p>https://d-nb.info/gnd/116546824</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/116546824</idno>
+                    </person>
+                    <person xml:id="wick-joseph">
+                        <persName>
+                            <surname>Wick</surname>
+                            <forename>Joseph Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Mellenthin 1820–1903 Breslau</p>
+                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik,
+                                Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert
+                                in Breslau, Gründer zahlreicher katholischer Vereine</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    </person>
+                    </listPerson></back></text>
+</TEI>

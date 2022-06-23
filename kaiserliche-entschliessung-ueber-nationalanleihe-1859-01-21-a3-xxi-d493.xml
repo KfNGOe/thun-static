@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kaiserliche-entschliessung-ueber-nationalanleihe-1859-01-21-a3-xxi-d493.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/kaiser-an-thun-od-a3-xxi-d634c.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/karte-oesterreich-finanzkraft-von-hornstein-1851-a3-xxi-d148.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaiserliche Entschließung über die Genehmigung einer Nationalanleihe<lb/>o.
+                    O., <date when-iso="1859-01-21">21. Januar 1859</date>
+                </title>
+            <title type="label">Kaiserliche Entschließung über die Genehmigung einer Nationalanleihe o. O., 21. Januar 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB83-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D493</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Kaiser Franz Joseph erteilt dem Finanzminister die Erlaubnis Anleihen
+                            auszugeben, um die Defizite der Jahre 1857 und 1858 decken zu können.
+                            Der Finanzminister soll ihm zu gegebener Zeit einen entsprechenden
+                            Entwurf dieser Bestimmung vorlegen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="finanzministerium">Finanzministerium</term>
+                    <term key="ministerkonferenz">Ministerkonferenz</term>
+                    <term key="neoabsolutismus">Neoabsolutismus</term>
+                </index>
+                <p>Kaiserliche Entschließung über den Vortrag des <rs type="person" ref="#bruck-karl-ludwig">Finanzministers</rs> vom 7. Januar [1]858</p>
+                <p>Ich ertheile Ihnen hiemit den [?] über die Verwendung von 500.000 CM fl
+                    Nationalanlehenobligation über die subskribirte Summe dieser Obligationsgattung
+                    zur Deckung des Defizits vom Jahr [1]857 und ermächtige Sie zur Deckung des
+                    Defizits im Vorjahr 1858 die gleiche Summe dieser Obligationsgattung, zusammen
+                    also 100 Millionen fl Nationalanlehenobligation, <hi rend="ul">über</hi> die
+                    subskribirte Summe auszugeben und beauftrage Sie Mir im geeigneten Zeitpunkte
+                    den Entwurf der k.k. Verordnung vorzulegen, womit diese Meine Bestimmung zur
+                    öffentlichen Kenntnis gebracht werde.</p>
+                <p>den 21. Jänner 1859</p>
+                <p>F. J.</p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="bruck-karl-ludwig">
+                        <persName>
+                            <surname>Bruck</surname>
+                            <forename>Karl Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p>Elberfeld 1798–1860 Wien</p>
+                            <p>1848 Mitglied der Frankfurter Nationalversammlung und
+                                Bevollmächtigter der österr. Regierung beim Reichsverweser,
+                                1848–1851 Handelsminister, 1853–1855 österr. Internuntius in
+                                Konstantinopel, 1855–1860 Finanzminister, 1860 Selbstmord, Gründer
+                                des Österr. Lloyd</p>
+                            <p>https://d-nb.info/gnd/118857401</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118857401</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns o. O., Herbst 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-von-thun-ueber-zuruecksetzung-1859-a3-xxi-d523.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kaiserliche Entschließung über die Genehmigung einer Nationalanleihe o. O., 21. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kaiserliche-entschliessung-ueber-nationalanleihe-1859-01-21-a3-xxi-d493.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Interlaken, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1857-08-22-ca1425.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Václav Vladivoi Tomek, Wien, 9. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Guidobald Thun an Leo Thun, Trient, 9. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-guidobald-an-thun-1859-01-09-a3-xxi-d492.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

@@ -1,0 +1,658 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einrichtung-wirkungskreis-bezirksaemter_1852_a3-xxi-d85.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf
+                    für eine Stellungnahme Thuns hierzu<lb/>1860<note>Der
+                        Gesetzesentwurf wurde in den Ministerkonferenzen am 28. Februar und 6. März
+                        1860 besprochen. Das Gesetz wurde per Verordnung am 26. Mai 1860 eingeführt.
+                        Siehe RGBl 130/1860.</note>
+                </title>
+            <title type="label">Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Die Stellungnahme Thuns ist leicht verändert abgedruckt in: Die Protokolle des
+                    Österreichischen Ministerrates 1848–1867. Das Ministerium Rechberg. Bd. 2,
+                    bearbeitet von Stefan Malfèr, Wien 2007, S. 6–7.</p>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7FF-E</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D563</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>In dem Gesetzesentwurf werden die Einrichtung der Friedensgerichte, deren
+                            Zuständigkeiten sowie der Verfahrensablauf an diesen Gerichten
+                            festgesetzt. In Ungarn, Kroatien und Slawonien, in der Wojwodschaft
+                            Serbien und Temeser Banat sowie in Siebenbürgen sollen die
+                            Friedensgerichte sofort bestellt werden. In den anderen Kronländern
+                            hingegen, mit Ausnahme der Militärgrenze, sollen sie erst nach Absprache
+                            mit den Landesbehörden wirksam werden.<lb/>In der beigelegten
+                            Stellungnahme lehnt Leo Thun den Entwurf ab. Er ist der Ansicht, dass
+                            die einzuführenden Gerichte den angestrebten Zweck nicht erfüllen
+                            werden, da die Gerichte nicht durch juridisch geschultes Personal
+                            geleitet werden. Er erkennt zwar die Notwendigkeit, dass es eine
+                            Möglichkeit geben soll, einfache Streitsachen ohne Gerichtsverfahren zu
+                            entscheiden, dennoch ist er der Auffassung, dass dies durch
+                            rechtskundige Juristen erfolgen solle.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Mit eigenhändigen Anmerkungen Leo Thuns.</p>
+                        <p>Beilagen: <ref target="#D563_1">Vier Formulare zu den Paragrafen 5, 21
+                                und 23</ref>.<lb/>
+                            <ref target="#D563_2">Eigenhändiger Entwurf für
+                                eine Stellungnahme Leo Thuns zum Gesetzesvorschlag.<note>Die Stellungnahme wurde in der Ministerkonferenz
+                                    vom 28. Februar 1860 vorgetragen.</note>
+                            </ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="gerichtswesen">Gerichtswesen</term>
+                    <term key="friedensgerichte">Friedensgerichte</term>
+                </index>
+                <p>&lt;Vom <hi rend="ul">
+                        <rs type="person" ref="#nadasdy-franz" key="nadasdy-franz">Herrn
+                            Justizminister</rs>
+                    </hi> zur Conferenzberathung am 28. Februar
+                        1860&gt;<note>Hinzufügung am oberen Blattrand.</note>
+                </p>
+                <p>Entwurf des Einführungspatentes zum Gesetz über die Friedensgerichte</p>
+                <p>Wir Franz Joseph der Erste von Gottes Gnaden Kaiser von Oesterreich, König von
+                    Ungarn und Böhmen, König der Lombardie und Venedigs, von Dalmatien, Kroatien,
+                    Slavonien, Galizien, Lodomerien und Illirien, König von Jerusalem etc.,
+                    Erzherzog von Oesterreich; Großherzog von Toscana und Krakau; Herzog von
+                    Lothringen, von Salzburg, Steier, Kärnthen, Krain und der Bukowina; Großfürst
+                    von Siebenbürgen; Markgraf von Mähren; Herzog von Ober- und Niederschlesien, von
+                    Modena, Parma, Piacenza und Zator, von Teschen, Friaul, Ragusa und Zara;
+                    gefürsteter Graf von Habsburg und Tirol, von Kyburg, Görz und Gradiska; Fürst
+                    von Trient und Brixen; Markgraf von Ober- und Niederlausitz und in Istrien; Graf
+                    von Hohenembs, Feldkirch, Bregenz, Sonnenberg etc.; Herr von Triest, von Cattaro
+                    und auf der windischen Mark; Großwojwod der Wojwodschaft Serbien etc. etc.
+                    <lb/>haben, um bei Rechtsstreitigkeiten von geringerem Belange ein möglichst
+                    einfaches und schleuniges sowie kostenfreies Verfahren einzuführen, nach
+                    Vernehmung Unserer Minister und nach Anhörung unseres Reichsrathes die
+                    Errichtung von Friedensgerichten beschlossen und über ihre Bestellung,
+                    Einrichtung und das bei denselben zu beobachtende Verfahren das nachstehende
+                    Gesetz unter folgenden Bestimmungen erlassen.<lb/>Sobald das Friedensgericht für
+                    eine Gemeinde bestellt ist, dürfen Rechtsstreite, zu deren Verhandlung und
+                    Entscheidung dasselbe nach diesem Gesetze zuständig ist, bei denjenigen
+                    Gerichten, vor welchen sie zu dieser Zeit anhörig sind, nur in dem Falle nach
+                    den bisherigen Vorschriften fortgesetzt und zur endgiltigen Entscheidung
+                    gebracht werden, wenn die Verhandlung darüber in erster Instanz bereits
+                    geschlossen war.<lb/>In den Königreichen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>,
+                        <rs type="place" subtype="country" ref="#place_46ef149805b1b370596a83886b1e010e">Kroatien</rs> und <rs type="place" subtype="country" key="slawonien" ref="#place_15f10264a572e8ce0fe253bc889cdbf5">Slavonien</rs>, in der <rs type="place" subtype="region" key="woiwodschaft-serbien-und-temeser-banat" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">serbischen Wojwodschaft mit dem
+                        Temescher Banate</rs> und im Großfürstenthume <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs>, wo ähnliche Einrichtungen bereits
+                    durch längere Zeit bestanden, zum Theile noch bestehen und sich als zweckmäßig
+                    bewährt haben, sind die Friedensgerichte sogleich zu bestellen; in allen übrigen
+                    Kronländern aber, mit Ausnahme der Militärgränze, sind dieselben nach Vernehmung
+                    der Landesbehörden in Wirksamkeit zu setzen, sobald ihrer Bestellung kein
+                    Hindernis entgegensteht:<lb/>Unser <rs type="person" ref="#nadasdy-franz" key="nadasdy-franz">Minister der
+                        Justiz</rs> ist im Einvernehmen mit Unserem <rs type="person" ref="#goluchowski-agenor" key="goluchowski-agenor">Minister des Innern</rs> mit dem Vollzuge
+                    dieses Patentes beauftragt.<lb/>Gegeben usw.</p>
+                <p>Gesetz<lb/>über die Bestellung von Friedensgerichten, über ihre Einrichtung und
+                    das bei denselben zu beobachtende Verfahren.</p>
+                <p>§ 1.<lb/>Für jede Gemeinde ist ein Friedensgericht zu bestellen; aneinander
+                    gränzende Gemeinden können nach ihrer freien Wahl ein gemeinschaftliches
+                    Friedensgericht bestellen; in Städten oder Märkten können mit Rücksicht auf die
+                    Ortsverhältnisse mehrere Friedensgerichte aufgestellt werden.</p>
+                <p>§ 2.<lb/>Folgende Streitsachen sind ausschließlich bei den Friedensgerichten zu
+                    verhandeln und zu entscheiden:<lb/>a. über Geldsummen ohne Rücksicht auf den
+                    Rechtsgrund, wenn sie in Städten oder Märkten den Betrag von Sechzig Gulden
+                    österreichischer Währung, in anderen Gemeinden aber den Betrag von
+                    fünfundzwanzig Gulden österreichischer Währung nicht übersteigen.<note>Anmerkung Thuns: ob Markt oder Dorf [?] zu unterscheiden
+                        (vgl. § 3 in Art. XX 1836)</note>
+                    <lb/>b. über andere bewegliche Sachen und
+                    über persönliche Leistungen, wenn der Kläger statt derselben eine Geldsumme
+                    anzunehmen sich ausdrücklich erbiethet, welche in Städten oder Märkten den
+                    Betrag von Sechzig Gulden österreichischer Währung, in anderen Gemeinden aber
+                    den Betrag von fünfundzwanzig Gulden österreichischer Währung nicht
+                    übersteigt.<lb/>Streitsachen über höhere Geldsummen darf das Friedensgericht nur
+                    dann verhandeln und entscheiden, wenn die Streittheile sich seiner Entscheidung
+                    ausdrücklich unterwerfen.<lb/>Streitigkeiten solcher selbstständiger
+                    Gewerbsleute aber, welche einer Genossenschaft angehören, mit ihren Gehilfen aus
+                    dem Dienst- und Lehrverhältnisse, sind, selbst wenn der Streitgegenstand die
+                    unter a. und b. angegebenen Beträge nicht übersteigt, dann bei der Vorstehung
+                    dieser Genossenschaft anzubringen, wenn diese sich am Orte des Friedensgerichtes
+                    befindet und wenn seit dem Aufhören des Dienst- oder Lehrverhältnisses dreissig
+                    Tage noch nicht verstrichen sind.</p>
+                <p>§ 3.<lb/>In Ansehung der im § 1 erwähnten Streitsachen ist Jedermann bei dem
+                    Friedensgerichte für diejenige Gemeinde zu klagen, in deren Bezirke er wohnt;
+                    doch können Reisende und andere Personen, welche sich in dem Bezirke einer
+                    Gemeinde nur vorübergehend aufhalten, wegen derjenigen Verbindlichkeiten der im
+                    § 1 erwähnten Art, welche hier in dem Bezirke übernommen oder in Folge einer
+                    dasselbst zugefügten Beschädigung zu erfüllen haben, auch bei dem
+                    Friedensgerichte dieser Gemeinde geklagt werden.<lb/>Dagegen können vor dem
+                    Friedensgerichte nicht geklagt werden:<lb/>a. katholische Geistliche, dann
+                    Seelsorger und Religionslehrer einer gesetzlich anerkannten Kirche oder
+                    Religionsgesellschaft;<lb/>b. Personen, welche der Militärgerichtsbarkeit oder
+                    dem Obersthofmarschallamte unterstehen;<lb/>c. der Besitzer adeliger Güter, auf
+                    welchen bis zum Jahre 1848 die Gerichtsbarkeit über die Gemeinde durch Abhaltung
+                    eines Herrnstuhles ausgeübt wurde;<lb/>d. Vorsteher der vorgesetzten politischen
+                    - und Gerichtsbehörden.</p>
+                <p>§ 4.<lb/>Das Friedensgericht hat aus einem Obmann und mehreren &lt;Beisitzern&gt;
+                        <note>Korrektur Thuns aus: Vertrauensmännern</note>zu
+                    bestehen.<lb/>Diese sind bis zur Wirksamkeit eines neuen Gemeindegesetzes von
+                    der dermaligen Gemeindevertretung frei aus ihr selbst oder aus den übrigen
+                    Gemeindegliedern zu wählen, wobei zugleich zu bestimmen ist, wer im
+                    Verhinderungsfalle den Obmann zu vertreten und nach welcher Reihenfolge er die
+                    Vertrauensmänner zur Ausübung ihres Amtes zu berufen hat.<lb/>Diese Wahl hat der
+                    Gemeindevorsteher zu leiten, er selbst kann sowohl zum Obmann als zum
+                    Vertrauensmann gewählt werden. Die Gewählten sind dem Komitats (Kreis-)
+                    Vorstande anzuzeigen, welcher, wenn er gegen die Tauglichkeit eines der
+                    Gewählten Bedenken hat, eine neue Wahl zu veranlassen hat.</p>
+                <p>§ 5.<lb/>Jeder Gewählte ist zur Ausübung seines Amtes von der politischen Behörde
+                    zu beeiden.<lb/>Er hat sein Amt unentgeltlich zu versehen und kann nach Ablauf
+                    eines Jahres wieder dazu gewählt werden.<lb/>Treten bei einem der Gewählten
+                    Umstände ein, welche ihn an der Ausübung seines Amtes bleibend verhindern oder
+                    welche ihm das Vertrauen der Gemeinde entziehen, so soll an seiner Stelle ein
+                    Anderer gewählt werden.</p>
+                <p>§ 6.<lb/>Unfähig zum Amte eines Obmannes oder Vertrauensmannes sind:<lb/>a.
+                    diejenigen, welche wegen eines Verbrechens oder Vergehens oder einer aus
+                    Gewinnsucht oder gegen die öffentliche Sittlichkeit begangenen Übertretung
+                    schuldig erkannt oder wegen eines Verbrechens blos aus Unzulänglichkeit der
+                    Beweismittel freigesprochen worden sind;<lb/>b. diejenigen, gegen welche wegen
+                    einer strafbaren Handlung der unter a. bemerkten Art das strafgerichtliche
+                    Verfahren eingeleitet wurde; während der Dauer desselben;<lb/>c. diejenigen,
+                    über deren Vermögen die Konkursverhandlung oder das Ausgleichsverfahren
+                    eingeleitet wurde; insolange das eine oder andere dauert und nach Beendigung
+                    derselben, wenn sie hinsichtlich des Anlasses ihrer Zahlungsunvermögenheit nicht
+                    für schuldlos erkannt worden sind.</p>
+                <p>§ 7.<lb/>Verhandlungen vor dem Friedensgerichte dürfen nur in gleichzeitiger
+                    Anwesenheit des Obmannes oder seines Stellvertreters und zweier Vertrauensmänner
+                    vorgenommen werden.<lb/>Jedes Mitglied des Friedensgerichtes ist sowohl auf sein
+                    eigenes, als auch auf Verlangen eines Streittheiles von der Verhandlung solcher
+                    Streitsachen auszuschließen, welche seine Gläubiger oder Schuldner, seine
+                    Ehefrau oder Personen betreffen, die mit ihm oder seiner Ehefrau in auf und
+                    absteigender Linie oder in der Seitenlinie bis einschließlich auf Oheim und
+                    Neffen oder auf Muhme und Nichte verwandt sind.<lb/>Statt des Ausgeschlossenen
+                    ist ein Anderer nach der gemäß § 4 bestimmten Reihenfolge zu berufen.</p>
+                <p>§ 8.<lb/>Wenn der Kläger allein sein Begehren bei dem Obmann anmeldet, so hat
+                    Letzterer entweder sogleich oder auf einem der nächstfolgenden Tage das
+                    Friedensgericht zur Verhandlung zu versammeln und im letzteren Falle zu sorgen,
+                    daß die kurze Bezeichnung des Gegners und des Streitgegenstandes in das Amtsbuch
+                    eingetragen werde (§§ 7 und 23 a.)<lb/>Wenn beide Streittheile ihre Streitsache
+                    gemeinschaftlich bei dem versammelten Friedensgerichte anmelden, so ist die
+                    Verhandlung sogleich vorzunehmen.</p>
+                <p>§ 9.<lb/>Streittheile haben persönlich zu erscheinen und können nur durch ihre
+                    Hausgenossen, Beamten und Diener oder Verwandte vertreten werden; eine
+                    Vertretung durch Advokaten ist unzulässig. <note>Anmerkung
+                        Thuns: im siebenbürgischen Gesetz Advokaten ausdrücklich
+                    zulässig!!</note>
+                </p>
+                <p>§ 10.<lb/>Das Verfahren vor den Friedensgerichten darf nur mündlich stattfinden;
+                    es dürfen weder schriftliche Klagen angenommen noch überhaupt Protokolle verfaßt
+                    werden. <note>Anmerkung Thuns: Art. XX 8, 10, 12.</note>
+                    <lb/>Das
+                    Friedensgericht hat sich vor Allem davon zu überzeugen:<lb/>a. daß es zur
+                    Entscheidung der Streitsache zuständig ist,<lb/>b. daß die Streittheile sich
+                    selbst zu vertreten fähig sind oder<lb/>c. daß, wenn sie wegen Minderjährigkeit,
+                    Kuratel, Konkurs oder aus einem anderen Grunde nicht fähig wären, sie durch jene
+                    Personen vertreten sind, welche nach dem Gesetze für sie vor Gericht zu handeln
+                    haben und <note>Anmerkung Thuns: Bauern!</note>
+                    <lb/>d. daß die
+                    etwa in Vertretung eines Streittheiles erschienene Person (§ 9) von ihm zur
+                    Verhandlung geschickt wurde.</p>
+                <p>§ 11.<lb/>Sind beide Streittheile erschienen, so hat das Friedensgericht die
+                    Streitsache durch Vernehmung des Klägers und des Geklagten in das Klare zu
+                    setzen und sich hierauf zu bemühen, zwischen den Streittheilen einen Vergleich
+                    zu Stande zu bringen, welcher dann sogleich in das Amtsbuch einzutragen ist. (§
+                    23 b.)<lb/>Kommt ein Vergleich nicht zu Stande, so haben die Richter sich von
+                    der Wahrheit der von jedem Streittheile vorgebrachten Angaben, soweit diese zur
+                    Streitsache gehören und von dem Gegentheile in Abrede gestellt werden, zu
+                    überzeugen und zu diesem Zwecke Zeugen und Sachverständige zu vernehmen,
+                    vorhandene Urkunden einzusehen und dem Gegentheile zur Einsicht vorzulegen oder
+                    auch einen Augenschein vorzunehmen. Eide sind unzulässig. <note>Anmerkung Thuns: Bauern!</note>
+                </p>
+                <p>§ 12.<lb/>Ist der Geklagte zur bestimmten Zeit vor dem Friedensgerichte nicht
+                    erschienen, so hat dasselbe zu erheben, warum er ausgeblieben ist.<lb/>Zeigt
+                    sich hiebei, daß er entweder vor seiner Vorladung keine genaue Kenntnis erhalten
+                    hat oder aus einer gegründeten Ursache nicht erscheinen konnte, so ist ein
+                    anderer Tag zur Verhandlung zu bestimmen.<lb/>Ist dieses nicht der Fall, so hat
+                    das Friedensgericht die Verhandlung mit dem erschienenen Kläger allein
+                    vorzunehmen und sich von der Wahrheit der von demselben gemachten Angaben auf
+                    die im § 11 vorgezeichnete Art zu überzeugen und hiernach die Streitsache auch
+                    ohne Vernehmung des ausgebliebenen Geklagten zu entscheiden.<lb/>Ist der Kläger
+                    ausgeblieben, so ist mit einer Entscheidung der Streitsache nicht vorzugehen,
+                    doch hat er die durch sein Ausbleiben dem erschienenen Geklagten etwa
+                    verursachten Kosten auf Verlangen zu ersetzen.</p>
+                <p>§ 13.<lb/>Aussagen von Zeugen und Sachverständigen dürfen nur dann bei der
+                    Entscheidung berücksichtiget werden, wenn sie das Friedensgericht selbst
+                    vernommen hat.<lb/>Die Streittheile haben dafür zu sorgen, daß die Zeugen
+                    sogleich vernommen werden können.</p>
+                <p>§ 14.<lb/>Zeugen und Sachverständige sind schuldig ihre Aussage nach bestem
+                    Wissen und Gewissen abzugeben.<lb/>Den Streittheilen steht frei, bei deren
+                    Vernehmung zugegen zu sein und die Umstände zu bezeichnen, über welche sie
+                    befragt werden sollen. <note>Anmerkung Thuns: Dies soll ein
+                        Bauer[?] leiten[?]!.</note>
+                    <lb/>Jeder Zeuge oder Sachverständige hat vor
+                    Ablegung seiner Aussage dem Gerichte durch Handschlag zu bekräftigen, daß er
+                    über alle Umstände, über welche er befragt werden wird, unzweideutig, das ist,
+                    daß er nicht anders rede, als er denkt und nicht anders denke, als er redet,
+                    ohne Gunst, Haß oder Furcht nach seinem besten Wissen und Gewissen die reine und
+                    volle Wahrheit getreulich angeben und nichts davon verschweigen wolle.<lb/>Die
+                    Bestimmungen des allgemeinen Strafgesetzes über falsche Zeugnisse bei Gericht
+                    sind auch auf Zeugnisse bei Friedensgerichten anzuwenden.</p>
+                <p>§ 15.<lb/>Die Mitglieder des Friedensgerichtes sind verpflichtet, bei Verhandlung
+                    und Entscheidung der Streitsache nach ihrem besten Wissen und Gewissen <note>Streichung: und nach ihrem Rechtsbewußtsein.</note>
+                    vorzugehen. Die Entscheidung ist auf Grund der geschlossenen Verhandlung und
+                    nach der Stimmenmehrheit unverzüglich zu fällen und wenn beide Streittheile
+                    anwesend sind, sogleich zu verkünden. <note>Anmerkung Thuns: in
+                        Siebenbürgen sind die [?] nur [?].</note>
+                    <lb/>Wurde die Verhandlung in
+                    Abwesenheit des Geklagten erschlossen und ist er sachfällig geworden, so ist ihm
+                    die Entscheidung durch eine schriftliche Ausfertigung unverzüglich bekannt zu
+                        machen.<note>Anmerkung Thuns: von einem
+                    Bauern!</note>
+                    <lb/>Die Entscheidung ist sogleich in das Amtsbuch einzutragen (§
+                    23 c.)</p>
+                <p>§ 16.<lb/>Wurde den Sachfälligen die Zahlung einer Summe Geldes aufgetragen, so
+                    ist ihm dazu eine Frist zu bestimmen, welche aber vierzehn Tage nie
+                    überschreiten darf.<lb/>In andern Fällen ist ihm eine den Umständen angemessene
+                    Frist festzusetzen, binnen welcher er seine Verbindlichkeit zu erfüllen oder
+                    diejenige Geldsumme zu zahlen hat, welche statt derselben der Entscheidung gemäß
+                    vom Kläger anzunehmen ist. (§ 2 b.)<lb/>Die Frist zur Erfüllung der Entscheidung
+                    beginnt mit dem Tage nach demjenigen, an welchem diese verkündet oder an welchem
+                    sie dem Sachfälligen zugestellt worden ist.</p>
+                <p>§ 17.<lb/>Beschwerden gegen Verfügungen, welche im Laufe des Verfahrens getroffen
+                    wurden, sind unzulässig.<lb/>Friedensgerichtliche Entscheidungen können nur aus
+                    folgenden Gründen angefochten werden:<lb/>a. weil dem Friedensgerichte die
+                    Gerichtsbarkeit der Streitsache nicht zustand oder<lb/>b. weil dasselbe bei der
+                    Verhandlung nicht vorschriftmäßig besetzt war.<lb/>Die Beschwerde ist bei dem
+                    Gerichte 1. Instanz anzubringen, in dessen Sprengel die Entscheidung gefällt
+                    wurde und darf nur durch acht Tage nach Kundmachung der Entscheidung angenommen
+                    werden.<lb/>Sie hemmt den Lauf der Execution nicht.<lb/>Das Gericht 1. Instanz
+                    hat den Gegner des Beschwerdeführers und die Richter, welche bei der
+                    Entscheidung mitgewirkt haben, zu vernehmen und sohin entweder auf Nichtigkeit
+                    der Entscheidung oder auf Zurückweisung der Beschwerde zu erkennen.<lb/>Gegen
+                    diese Erkenntnis findet eine weitere Berufung nicht statt.</p>
+                <p>§ 18.<lb/>Wird die durch Vergleich oder Entscheidung bestimmte Verbindlichkeit
+                    binnen der dazu festgesetzten Frist nicht erfüllt, so kann bei dem
+                    Friedensgerichte die Exekution angesucht werden; dieses kann zu ihrer Vornahme
+                    sich der Gemeindeorgane bedienen.</p>
+                <p>§ 19.<lb/>Wenn ein Streittheil dem andern eine Sache zu übergeben schuldig ist,
+                    so ist dieselbe ihm abzunehmen und dem Letzteren einzuhändigen.<lb/>Wenn ein
+                    Streittheil dem andern eine Summe Geldes zu zahlen schuldig ist, so ist dem
+                    Schuldner von der bei ihm etwa vorfindigen Barschaft so viel abzunehmen, als zur
+                    Tilgung der Schuld erforderlich ist und seinem Gläubiger zu übergeben.<lb/>Wird
+                    eine zulängliche Barschaft bei dem Schuldner nicht vorgefunden, so ist die
+                    executive Feilbietung seines beweglichen Vermögens anzuordnen, dann Ort und Zeit
+                    derselben durch Anschlag am Gemeindehause kundzumachen. In keinem Falle dürfen
+                    unentbehrliche Kleidungsstücke und die nöthigen Werkzeuge, mit welchen er den
+                    persönlichen Unterhalt für sich und seine Familie erwerben kann, in Exekution
+                    gezogen werden. </p>
+                <p>§ 20.<lb/>Zur Feilbiethung ist nur ein Termin anzuordnen und zur Bestimmung des
+                    Ausrufspreises und zum Ausrufen nur ein Sachverständiger zu verwenden.<lb/>Dem
+                    Schuldner steht frei, die Reihenfolge anzugeben, in welcher die Gegenstände
+                    feilgeboten werden sollen. Der mit der Feilbietung Beauftragte hat den Erlös
+                    nach Abzug des zur Deckung der Feilbietungskosten nöthigen Betrages, dem
+                    Gläubiger nach Maßgabe seiner Forderung gegen Aushändigung der etwa vorhandenen
+                    Schuldurkunden oder Abschreibung der Theilzahlung auf denselben, den etwaigen
+                    Überschuß aber dem Schuldner zu übergeben; es wäre denn, daß das Friedensgericht
+                    wegen der Ansprüche anderer Gläubiger oder aus andern Gründen den Erlag des
+                    Erlöses bei dem Obmanne verordnet hätte oder daß bei der Kommission selbst
+                    erworbene Pfandrechte anderer Gläubiger ausgewiesen wurden und nicht alle
+                    Betheiligten über die Vertheilung einverstanden wären.</p>
+                <p>§ 21.<lb/>Wenn bei dem Schuldner bewegliches Vermögen, welches in die Execution
+                    gezogen werden darf, nicht vorgefunden wird oder wenn der Gläubiger durch den
+                    Erlös der verkauften Sachen nicht gänzlich befriedigt wurde, so kann die
+                    Exekution auf das sonstige Vermögen des Schuldners bei dem ordentlichen Gerichte
+                    angesucht werden.<lb/>Zu diesem Ende hat das Friedensgericht dem Gläubiger eine
+                    Abschrift des Vergleiches oder der Entscheidung mit der Bestätigung
+                    auszufertigen, daß derselbe im Wege der Exekution auf seine Forderung noch keine
+                    oder nur theilweise Bezahlung und im letzteren Falle mit welchen Betrage
+                    erhalten hat.</p>
+                <p>§ 22.<lb/>Jedes Friedensgericht ist von der politischen Behörde mit einem
+                    paginirten Amtsbuche zu versehen, welches auf der letzten Blattseite die Angabe
+                    der Zahl der Blätter sowie das Siegel und die Unterfertigung der politischen
+                    Behörde zu enthalten hat.<lb/>Der Obmann hat dafür zu sorgen, daß das Amtsbuch
+                    genau, vollständig und deutlich geführt und gut aufbewahrt werde.</p>
+                <p>§ 23.<lb/>In das Amtsbuch ist einzutragen:<lb/>a. der Tag, an welchem der Kläger
+                    sich wegen Anordnung der Friedensgerichtlichen Verhandlung gemeldet hat, unter
+                    Bezeichnung seines Gegners und des Streitgegenstandes;<lb/>b. der wörtliche
+                    Inhalt der geschlossenen Vergleiche; jeder Vergleich ist von beiden
+                    Streittheilen und von den Gerichtspersonen, vor welchen er geschlossen wurde, zu
+                    unterzeichnen.<lb/>c. der wörtliche Inhalt der gefällten Entscheidungen unter
+                    deutlicher Bezeichnung der Streittheile und des Streitgegenstandes; jede
+                    Entscheidung ist von den Gerichtspersonen, welche sie gefällt haben, zu
+                    unterzeichnen.<lb/>Haben die Streittheile sich der Entscheidung des
+                    Friedensgerichtes in einer Streitsache über mehr als sechzig und rücksichtlich
+                    fünfundzwanzig Gulden freiwillig unterworfen, so ist dies bei der Entscheidung
+                    anzumerken;<lb/>d. der Erfolg der vorgenommenen Execution;<lb/>e. die etwa
+                    erfolgte Aufhebung einer Entscheidung. <lb/>Jedem Streittheile sind auf
+                    Verlangen einfache oder von dem Obmanne des Friedensgerichtes beglaubigte
+                    Abschriften der ihre Streitsache betreffenden Stellen des Amtsbuches
+                    auszufertigen.</p>
+                <p>§ 24.<lb/>Die politischen Behörden haben darüber zu wachen, daß für jede Gemeinde
+                    das Friedensgericht stets gehörig bestellt sei und daß die ihm zugewiesenen
+                    Geschäfte unaufgehalten und ordnungsmäßig geführt werden.</p>
+                <p>§ 25.<lb/>Das ganze Verfahren vor den Friedensgerichten ist stempel- und
+                    gebührenfrei.<lb/>Zeugen und Sachverständige können eine Entlohnung nicht
+                    ansprechen; auch darf außer dem im § 12 bestimmten Falle keinem Streittheile die
+                    Vergütung der etwa von dem Gegner gemachten Auslagen auferlegt werden. <note>Anmerkung Thuns: nichts über Tragung der
+                        Prozeßkosten!</note>
+                </p>
+                <p/>
+                <div xml:id="D563_1" type="enclosure">
+                    <p>ad Z. 349/J.M.</p>
+                    <p>
+                        <hi rend="ul">Formularien</hi> zu dem Entwurfe einer Verordnung über die
+                        Bestellung von Friedensgerichten und das Verfahren von denselben gehörig</p>
+                    <p>
+                        <hi rend="ul">Anmerkung</hi>: Das in den Formularien Unterstrichene ist für
+                        die praktische Anwendung vorzudrucken.</p>
+                    <p/>
+                    <p>
+                        <hi rend="ul">I. Formular zu § 5.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Eidesformel</hi> für die Mitglieder eines Friedensgerichtes </p>
+                    <p>Sie werden einen Eid zu Gott dem Allmächtigen schwören, Seiner k.k.
+                        apostolischen Majestät, Franz Josef dem Ersten, von Gottes Gnaden Kaiser von
+                        Oesterreich und dessen Erben treu und gehorsam zu sein und die Ihnen als
+                        Mitglied des Friedensgerichtes obliegenden Pflichten mit Gewissenhaftigkeit
+                        und nach ihrer besten Überzeugung zu erfüllen.<lb/>Was mir so eben
+                        vorgehalten worden und ich wohl und deutlich verstanden habe, dem soll und
+                        will ich getreu nachkommen.<lb/>So wahr mir Gott helfe!</p>
+                    <p/>
+                    <p>
+                        <hi rend="ul">II. Formular zu § 21.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Es wird hiemit bestätiget, daß</hi> Franz N. Schneider,
+                        wohnhaft Nr. 3, in A. <hi rend="ul">auf seine ihm entweder: durch
+                            Entscheidung dieses Friedensgerichtes vom ... 18.. zuerkannte</hi>
+                        <lb/>
+                        <hi rend="ul">oder: vermöge des bei diesem Friedensgerichte am ... 18..
+                            abgeschlossenen Vergleiches zustehende Forderung im Betrage von ... fl
+                            ... kr wider den</hi> Georg N. Inwohner, wohnhaft Nr. 5, in A. <hi rend="ul">wegen Unzulänglichkeit der von dem Friedensgerichte versuchten
+                            Execution entweder: noch keine Bezahlung oder: die Bezahlung nur in dem
+                            Betrage von ... fl ... kr erhalten hat.</hi>
+                        <lb/>
+                        <hi rend="ul">Von dem Friedensgerichte für die Gemeinde</hi> A.
+                            <lb/>
+                        <hi rend="ul">den</hi> 4. Juli 1859<lb/>N. N.<lb/>
+                        <hi rend="ul">Obmann</hi>
+                    </p>
+                    <p/>
+                    <p>
+                        <hi rend="ul">III. Formular zu § 23.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Kronland N.</hi>
+                        <lb/>
+                        <hi rend="ul">Bezirk N.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Amtsbuch</hi> über die Amtshandlungen, welche von dem
+                        Friedensgerichte der Gemeinde N. kraft der demselben von Seiner k.k.
+                        apostolischen Majestät verliehenen Amtsgewalt vorgenommen wurden.</p>
+                    <p>
+                        <table rows="8" cols="4">
+                            <head/>
+                            <row role="label">
+                                <cell>Zahl</cell>
+                                <cell>Datum</cell>
+                                <cell>Gegenstand</cell>
+                                <cell>Anmerkung</cell>
+                            </row>
+                            <row>
+                                <cell>1.</cell>
+                                <cell>3. Jänner 1860</cell>
+                                <cell>Jakob Schwarz, Bauer in N. C. 7, klagt den Josef Laurenz,
+                                    Tischler in N. C. 85, auf Bezahlung von 18 fl Lohn für ein
+                                    December vorigen Jahres zugeführtes Holz.<lb/>Beide Theile haben
+                                    sich auf 16 fl verglichen, wovon 10 fl sogleich baar bezahlt
+                                    wurden und 6 fl am 1. Februar dieses Jahres zu berichtigen
+                                    sind.<lb/>Jakob Schwarz<lb/>Josef Laurenz<lb/>N. Obmann<lb/>N.
+                                    Vertrauensmann<lb/>N. dato</cell>
+                                <cell>Am 2. Februar 1860 durch Execution oder [?] von 6 fl CM
+                                    bezahlt.<lb/>N. Vertrauensmann</cell>
+                            </row>
+                            <row>
+                                <cell>2. </cell>
+                                <cell>10. Jänner 1860</cell>
+                                <cell>Johann N., Bauer in N. C. 2, klagt den Taglöhner Josef N. in
+                                    N. C. 3, wegen 20 fl Pacht für das Jahr 1859, von dem Acker beim
+                                    rothen Kreuz.<lb/>Wird der Kläger angewiesen, diese Streitsache
+                                    vor dem ordentlichen Gerichte anzubringen.<lb/>N. Obmann<lb/>N.
+                                    N. Vertrauensmänner</cell>
+                                <cell>
+                                    <lb/>
+                                </cell>
+                            </row>
+                            <row>
+                                <cell>3.</cell>
+                                <cell>20. Februar 1860</cell>
+                                <cell>Peter N., Taglöhner in N. C. 82, klagt den Michael N. in N. C.
+                                    17, wegen 10 fl Drescherlohn für die Zeit vom 5. bis 15.
+                                    Februar.</cell>
+                                <cell>Auf den 24. Februar vorgeladen.<lb/>Siehe Zahl 6</cell>
+                            </row>
+                            <row>
+                                <cell>4.</cell>
+                                <cell>20. Februar 1860</cell>
+                                <cell>Anton N., Schmidt in N. C. 6, klagt den Franz N., Bauer in N.
+                                    C. 10, wegen 15 fl für Hufbeschlag in den Monaten 8., 9. und 10.
+                                    1859</cell>
+                                <cell>Auf den 24. Februar vorgeladen.<lb/>Siehe Zahl 7</cell>
+                            </row>
+                            <row>
+                                <cell>5. </cell>
+                                <cell>20. Februar 1860</cell>
+                                <cell>Über ausdrückliche Unterwerfung beider persönlich erschienenen
+                                    Streittheile wird nach Anhörung derselben zu Recht erkannt:
+                                    <lb/>Ludwig N., Gastwirth in N. C. 20, ist schuldig dem Josef
+                                    N., Fleischer in N. C. 36, für im Jänner geliefertes Fleisch 75
+                                    fl 50 kr binnen 8 Tagen zu bezahlen.<lb/>N. (Obmann)<lb/>N. N.
+                                    (Vertrauensmann)</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>6.</cell>
+                                <cell>24. Februar 1860</cell>
+                                <cell>In der unter Zahl 3 angebrachten Streitsache wird Michael N.
+                                    schuldig erkannt, dem Peter N. den Drescherlohn mit 8 fl binnen
+                                    3 Tagen zu bezahlen.<lb/>Hierauf hat Michael N. diese 8 fl
+                                    sogleich dem Peter N. baar bezahlt.<lb/>N. Obmann<lb/>N.
+                                    Vertrauensmann</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>7.</cell>
+                                <cell>24. Februar 1860</cell>
+                                <cell>In der unter Zahl 4 angebrachten Streitsache wird zu Recht
+                                    erkannt:<lb/>Franz N. ist schuldig, dem Anton N. für den
+                                    Hufbeschlag die angesprochenen 15 fl, und zwar am 28. Februar 10
+                                    fl und am 4. März 5 fl zu bezahlen.<lb/>N. Obmann<lb/>N.
+                                    Vertrauensmann</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>8. </cell>
+                                <cell>24. Februar 1860</cell>
+                                <cell>Es wird über Erscheinen beider Theile zu Recht erkannt:
+                                    <lb/>Johann N., Bauer in N. C. 11, ist schuldig, dem Anton N.,
+                                    Bauer in N. C. 12, binnen 3 Tagen entweder 8 Metzen Saatweizen
+                                    zurückzustellen oder 40 fl zu bezahlen.<lb/>N. Obmann<lb/>N.
+                                    Vertrauensmann</cell>
+                                <cell>Diese Entscheidung ist durch das Dekret des k.k.
+                                    Bezirksgerichtes vom 10. April 1860 Z. 476 aufgehoben
+                                    worden.</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p/>
+                    <p>
+                        <hi rend="ul">IV. Formular zu § 23.</hi>
+                    </p>
+                    <p>
+                        <hi rend="ul">Das Friedensgericht zu</hi> N. hat <hi rend="ul">laut seinem
+                            Amtsbuche Seite 2, Zahl 8, kraft der ihm von Seiner k.k. apostolischen
+                            Majestät verliehenen Amtsgewalt</hi> am 24. Jänner 1860 <hi rend="ul">zu
+                            Recht erkannt</hi>:<lb/>Johann N., Bauer in C. Nr. 11, ist schuldig, dem
+                        Anton N. Bauer in C. Nr. 12, binnen 3 Tagen entweder 8 Metzen Saatweizen
+                        zurückzustellen oder 40 fl zu bezahlen.<lb/>N., den 26. Jänner 1860<lb/>N.
+                        mp.<lb/>Obmann</p>
+                </div>
+                <div xml:id="D563_2" type="enclosure">
+                    <p>Die Vorlage ist ihrem Inhalte nach ein Gesetz über Bagatellprozesse, warum
+                        soll es den Namen von <hi rend="ul">Friedensgerichten</hi> tragen? Mit dem
+                        Frieden hat es nicht mehr zu schaffen als jedes Gericht.<lb/>Es scheint mir
+                        sehr wünschenswerth den Namen "Friedensrichter" für eine ganz andere
+                        Institution vorzubehalten.<lb/>Die Vorlage hat theilweise Analogien mit dem
+                        ungarischen Gesetzartikel XX von 1836 de verbalicem processuum judiciis und
+                        mit der in Ausführung einer Justizministerialverordnung vom 10. Mai 1852 für
+                            <rs type="place" subtype="region" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> von den
+                        Ministerialgerichtseinteilungscommissionen erlassenen Instruktion vom 7.
+                        Sept. 1852 (LGBl 184).<lb/>Allein die letztere – abgesehen davon, daß sie
+                        sich nur auf Forderungen bis 12 fl erstreckt – gestattet dem Kläger
+                        sogleich, sich an den Bezirksrichter zu wenden oder im Verfahren von
+                        demselben abzusehen gegen Bezahlung der Prozeßkosten und die Sache beim
+                        Bezirksrichter anhängig zu machen und beide Theile, nach dem Spruch binnen 8
+                        Tagen, an das Bezirksgericht zu appeliren, in welchem Falle der Spruch des
+                        Gemeindevorstandes wirkungslos ist; und immer kann die Exekution nur bei dem
+                        Bezirksgericht angesucht werden.<lb/>Das ungarische Gesetz kennt nur bis 12
+                        fl in Orten, die eines ordentlichen Magistrates entbehren, eine
+                        Gerichtsbarkeit des Ortsrichters, dann aber doch eine Appelazion an den
+                        Herrenstuhl.<lb/>In allen andern Fällen ist die Gerichtsbarkeit
+                        rechtskundigen Richtern anvertraut; und immer – wenn auch nur extra dominium
+                        Appelazion an die Komitatssedia gewährt. Es verlangt übrigens, daß dem
+                        Geklagten bei der Zustellung von einem Jurat der Gegenstand erklärt, daß der
+                        ganze Prozeß zu Protokoll genommen und auf Verlangen der Parthei in
+                        Abschrift mitgetheilt werde.<lb/>Nach der Vorlage <hi rend="ul">muß</hi> der
+                        Kläger in Sachen bis zu 25 fl beziehungsweise in Städten bis zu 60 fl bei
+                        dem Landesgerichte anbringen. In jeder Gemeinde (§ 4) muß ein solches
+                        aufgestellt werden, die Glieder desselben sind von der Gemeindevertretung (§
+                        4) zu wählen, vielleicht nicht einmal des Lesens kundig. Gegen den Ausspruch
+                        ist gar keine Rechtshilfe zulässig (§ 1), nicht einmal, wenn völlig
+                        ordnungswidrig verfahren wurde. Es darf über den Prozeß gar nichts
+                        schriftlich aufgesetzt werden (§ 10) und nur die politische Behörde soll
+                        darüber wachen (es ist kaum begreiflich wie), daß ordnungsmäßig verfahren
+                        werde (§ 24) und "das Friedensgericht" führt auch die Exekution (§§ 18–20).
+                        Nur wenn dies aus dem beweglichen Vermögen nicht erzielt werden kann, soll
+                        das ordentliche Gericht über bloße Abschrift der Entscheidung des
+                        "Friedensgerichtes" die weitere Exekution ertheilen (§ 21).<lb/>Solche
+                        Vorschriften begründen meines Erachtens keine Rechtspflege, sondern würden
+                        eine unerhörte Justizverweigerung begründen.<lb/>Ich halte die Annahme
+                        dieser Vorlage für absolut unmöglich.<lb/>Wer ein Gericht leiten soll, muß
+                        doch vor allem befähiget sein, das Gesetz, das seine Gerichtsbarkeit
+                        begründet und nach dem er vorgehen soll, sich vollkommen eigen zu machen.
+                        Und wer den Richter ernennen soll, muß über diese Befähigung desselben ein
+                        Urtheil haben. Hier liegt weder für das eine noch für das andere die
+                        mindeste Bürgschaft, ja für die meisten Fälle auch nicht einmal irgendeine
+                        Wahrscheinlichkeit vor.<lb/>Unter diesen Umständen kann ich nicht umhin
+                        gegen diesen Entwurf die entschiedenste Verwahrung einzulegen und deshalb
+                        verzichte ich auf Einzelheiten einzugehen, z. B. auf die Frage, warum die
+                        Parthei sich soll von einem Diener oder Verwandten, aber nicht von einem
+                        Advokaten vertreten lassen dürfen (§ 9), während in der siebenbürgischen
+                        Verordnung die Vertretung durch Advokaten ausdrücklich gestattet und nur
+                        angeordnet ist, daß gleichwohl die Parthei auch persönlich zu erscheinen
+                        verhalten werden kann oder auf den Mangel, daß von Tragung der Prozeßkosten
+                        keine Erwähnung geschieht.</p>
+                    <p>Thun</p>
+                    <p>Der Cultusminister kann sich durch die vorgenommene Änderung des § 17 nicht
+                        bestimmt finden, von seinen Bedenken gegen die Vorlage abzustehen. Eine
+                        Verfügung zu dem Ende, daß geringfügige, einfache Rechtsstreitigkeiten in
+                        möglichst einfacher schneller Weise geschlichtet werden, sei gewiß ein
+                        Bedürfnis. Aber die Gesetzgebung kann sich nicht der Sorge entschlagen, auch
+                        die Entscheidung solcher Angelegenheit so viel als möglich – wie es in dem
+                        ungarischen Gesetze von 1836 geschehen ist – in die Hände rechtskundiger
+                        Richter zu legen. Wo es nicht möglich ist, möge man zu dem Nothbehelfe
+                        greifen, die Gerichtsbarkeit anderen Personen anzuvertrauen, insoferne der
+                        Kläger vor ihnen sein Recht suchen will; ihn dazu zu zwingen, auch wenn er
+                        voraus zu sehen glaubt, daß er genöthigt sein werde, an den ordentlichen
+                        Richter zu appelliren, begründet nur eine nutzlose Verzögerung. &lt;Daß ein
+                        solcher Zwang nicht nothwendig ist, um den ordentlichen Richter einer großen
+                        Menge von Prozessen zu entledigen, beweist die in Siebenbürgen gemachte
+                        Erfahrung. Wenn durch eine [?] Justizpflege dafür gesorgt ist, daß nicht
+                        jeder Prozeß, so schwer auch das endliche Ergebnis sein mag, [?] [?] werden
+                        kann, so werde in einfachen Angelegenheiten die Parthei ganz freiwillig auf
+                        die Entscheidung eines rechtskundigen Obmannes sich [?].&gt;<note>Streichung.</note>
+                    </p>
+                </div>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="goluchowski-agenor">
+                        <persName>
+                            <surname>Goluchowski</surname>
+                            <forename>Agenor</forename>
+                        </persName>
+                        <note>
+                            <p>Skala Podolska 1812–1875 Lemberg</p>
+                            <p>1849–1859 Statthalter von Galizien, 1859–1860 Minister des Innern</p>
+                            <p>https://d-nb.info/gnd/11676516X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/11676516X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns o. O., Herbst 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-von-thun-ueber-zuruecksetzung-1859-a3-xxi-d523.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Olmütz, 18. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1853-09-18-a3-xxi-d234.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 15. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1859-07-15-a3-xxi-d512.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 14. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-14-a3-xxi-d232.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Michael Malinowski an einen unbekannten Empfänger, Lemberg, 6. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/malinowski-an-unbekannt-1860-10-06-a3-xxi-d619.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. September 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-09-19-ca1427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eigenhändiger Entwurf von Leo Thun für sein Votum in der Ministerkonferenz in der Frage eines Statuts für die Landesvertretung in der Steiermark o. D. [Mai 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-thun-ministerconferenz-landtag-steiermark-1860-a3-xxi-d630.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="nadasdy-franz">
+                        <persName>
+                            <surname>Nádasdy</surname>
+                            <forename>Franz Seraphin</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1883 Wien</p>
+                            <p>1857–1860 Justizminister, dann Präsident des Reichsrats, 1861–1865
+                                Hofkanzler für Siebenbürgen</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über eine Konferenz mit den protestantischen Deputierten und Regierungsmitgliedern in der Angelegenheit der Protestanten in Ungarn [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-konferenz-in-protestantenangelegenheit-1860-a3-xxi-d559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an Ludwig Benedek und an den Kultusminister o. O., o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliches-handschreiben-an-benedek-1860-a3-xxi-d579.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eh. Notiz von Leo Thun zu einer Mitteilung von Franz Nádasdy über die Patrimonial- und Komitatsverwaltung in Ungarn vor 1848 o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-thun-comitatsverwaltung-ungarn-od-a3-xxi-d625a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Schriftliches Votum von Justizminister Franz Nádasdy in den Ministerkonferenzen vom 7. Januar und 21., 25. und 28. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-01-07-a3-xxi-d625e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Schriftliches Votum von Justizminister Franz Nádasdy in der Ministerkonferenz vom 30. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-03-30-a3-xxi-d625d.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_46ef149805b1b370596a83886b1e010e" type="placeName">
+                        <placeName type="pref">Kroatien und
+                            Slavonien</placeName>
+                        <placeName type="alt">Croazien</placeName>
+                        <placeName type="alt">Kroatien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.25 15.466667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4073841-3</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein kaiserliches Patent zur Regelung der Rechte der Protestanten in Ungarn o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-patent-evangelische-kirche-ungarn-1858-a3-xxi-d488.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 9 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 17. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Svetozar Kušević an Leo Thun, Zagreb, 24. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kusevic-an-thun-1851-02-24-a3-xxi-d105.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slavíček an Leo Thun, Preßburg, 25. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1860-10-25-a3-xxi-d623a15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hipolit Vladimir Terlecki an Leo Thun, Wien, 8. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/terlecki-an-thun-1860-08-08-a3-xxi-d601.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 19. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-19-ca78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Gregor Zeithammer, Wien, 8. August o. J. [post Mai 1850–ante Oktober 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-08-08-ca992.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Alleruntertänigsten Vortrages Leo Thuns zur Regelung der Verwaltung der Religionsfonds, Wien, 12. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-thun-regelung-verwaltung-religionsfond-1852-05-12-a3-xxi-d166.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_35d1161cc45f7c1d2b14ff99f1d259a3" type="placeName">
+                        <placeName type="pref">Serbisch-Banater Wojwodschaft</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.756111 21.229444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/400449-8</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an Ludwig Benedek und an den Kultusminister o. O., o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliches-handschreiben-an-benedek-1860-a3-xxi-d579.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf von Leo Thun für ein Patent zur Aufhebung des Artikels 20 des ungarischen Reichstags 1848 [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-patent-zur-aufhebung-artikel-20-ungarn-1859-a3-xxi-d539.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pavel Josef Šafařík an Leo Thun, Prag, 8. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/safarik-an-thun-1850-07-08-a3-xxi-d59.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Pavel Josef Šafařik, Wien, 5. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1850-07-05-ca982.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_601df943a89d2ac73e0e43a5d37fc228">
+                        <placeName type="pref">Ungarn</placeName>
+                        <placeName type="alt">Ungarns</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.0 20.0</geo>
+                        </location>
+                        <idno>https://www.geonames.org/719819</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Äußerungen von Wilhelm Schmidt zum evangelischen Kirchenverfassungsentwurf, Wien, 5. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aeusserung-zum-kirchenverfassungsentwurf-von-schmidt-1850-06-05-a3-xxi-d55.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stellungnahme Leo Thuns zum Resolutionsentwurf des Reichsratspräsidenten Erzherzog Rainer[?] zur Reform der Gymnasien o. O., o. D. [1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/alleruntertanigste-bemerkungen-thuns-zu-gymnasialreform-1857-a3-xxi-d439.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Vorschriften zur Bestreitung der Schulbaukosten in Österreich von Ludwig Heufler, Wien, 6. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufstellung-vorschriften-bestreitung-schulbaukosten-von-heufler-1853-05-06-a3-xxi-d203.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen über die Einrichtung der Landtage [Januar 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-ueber-landtag-fuer-boehmen-von-clam-martinitz-od-a3-xxi-d554.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über eine Konferenz mit den protestantischen Deputierten und Regierungsmitgliedern in der Angelegenheit der Protestanten in Ungarn [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-konferenz-in-protestantenangelegenheit-1860-a3-xxi-d559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Bernhard Brühl an Leo Thun, Wien, 26. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bruehl-an-thun-1860-09-26-a3-xxi-d615.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>František Ladislaus Čelakovšký an Leo Thun, o. O., 24. November [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-1850-11-24-ca1064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Chlumecký an Leo Thun o. O., 12. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an Leo Thun, Wien, 10. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Dunajewski an Leo Thun, Wien, 21. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/dunajewski-an-thun-1852-11-21-a3-xxi-d175.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf zur Einrichtung und zu den Kompetenzen der Bezirksämter [1851/52]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einrichtung-wirkungskreis-bezirksaemter_1852_a3-xxi-d85.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anweisungen Thuns zur Kundmachung der Regierungserlässe in Ungarn, Wien, o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-fuer-bekanntmachung-regierungserlaesse-in-ungarn-1858-a3-xxi-d484.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an Ludwig Benedek und an den Kultusminister o. O., o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliches-handschreiben-an-benedek-1860-a3-xxi-d579.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein kaiserliches Patent zur Regelung der Rechte der Protestanten in Ungarn o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-patent-evangelische-kirche-ungarn-1858-a3-xxi-d488.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf von Leo Thun für ein Patent zur Aufhebung des Artikels 20 des ungarischen Reichstags 1848 [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-patent-zur-aufhebung-artikel-20-ungarn-1859-a3-xxi-d539.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakte zur gesetzlichen Regelung der theologischen Studien an der Universität Pest 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-vorschrift-theologische-studien-universitaet-pest-1851-a3-xxi-d143.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Verfassungspatents für die gefürstete Grafschaft Tirol und Stellungnahmen Leo Thun dazu o. D. [1849/50]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verfassungspatent-tirol-1849-a3-xxi-d25.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für eine Verfassungspatent für die gefürstete Grafschaft Tirol und Stellungnahmen von Leo Thun dazu o. D. [1849/50]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verfassungspatent-tirol_1849_a3-xxi-d25.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Erwiderung von Václav Vladivoj Tomek auf die Rezension seines "Handbuches der österreichischen Geschichte" im Literarischen Centralblatt für Deutschland vom 12. Februar 1859 o. O., Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/erwiderung-auf-rezension-von-tomek-1859-02-a3-xxi-d496.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 16. Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1859-06-16-a3-xxi-d508.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von Karl Kuzmany o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Schwarzenberg an Leo Thun, Wien, 5. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gruener-an-schwarzenberg-1850-05-30-a3-xxi-d53.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 17 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 23. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-aufsicht-schulen-israeliten-von-krombholz-1856-08-23-a3-xxi-d383o.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 9 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 17. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 6 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-konfessionell-gemischte-schulen-von-kleemann-1856-a3-xxi-d383e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-lehramtskandidaten-von-krombholz-1856-08-30-a3-xxi-d383p.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-leitung-von-schulen-von-krombholz-1856-08-15-a3-xxi-d383f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Michael Haas an Leo Thun, Sathmar [Satu Mare], 26. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/haas-an-thun-1860-10-26-a3-xxi-d623a8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Carl Heiller an Leo Thun, Pressburg [Bratislava], 11. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heiller-an-thun-1850-06-11-a3-xxi-d56.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 23. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-08-23-a3-xxi-d226.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 7. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-07-a3-xxi-d230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Hübner an Leo Thun, Pest, 12. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1849-12-12-a3-xxi-d18.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1852-05-11-a3-xxi-d204.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alleruntertänigster Vortrag zur Neuregelung der Verwaltung der Religionsfonde von Leo Thun-Hohenstein, Wien, 3. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/majestaetsvortrag-1856-05-05-a3-xxi-d378.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge von Johann Mikulas zur Neuordnung der Superintendenzen in Ungarn o. D. [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-neueinteilung-superintendenzen-1860-a3-xxi-d627.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von unbekannter Hand zu den politischen Gruppierungen in Ungarn o. D. [post 1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-parteiverhaeltnisse-ungarn-od-a3-xxi-d645.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von unbekannter Hand zu Sonderrechten und Besonderheiten der katholischen Kirche in Ungarn o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-unbekannt-katholische-kirche-ungarn-od-a3-xxi-d643.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Handschriftliche Notizen von Leo Thun zum Verfassungsentwurf für die evangelischen Kirchen von Karl Kuzmány o. O., o. D.[1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1850-a3-xxi-d94.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Joseph Othmar Rauscher zu den gemischten Ehen in Ungarn o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-gemischte-ehen-ungarn-od-a3-xxi-d644.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zum alleruntertänigsten Vortrag vom 4. September 1858 o. O., 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-zum-vortrag-neuordnung-protestanten-ungarn-1858-a3-xxi-d469.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten o. O., 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-von-thun_1860-04-17_a3-xxi-d572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Vortrag des Ministerialrates Metel Ožegović von Barlabaševec und Bela o. D. [Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/osegovic-ueber-slowaken-1849-a3-xxi-d656.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jean-Baptiste Pitra an Leo Thun, Wien, 4. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-04-a3-xxi-d608.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 11. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-01-11-a3-xxi-d324.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 4. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1857-01-04-a3-xxi-d403.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rede Leo Thuns bei einer Promotion sub auspiciis, [Wien], 11. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Resolutionsentwurf bezüglich der kirchlichen Organisation der Protestanten beider Bekenntnisse in Ungarn, Wien, Dezember 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/resolutionsentwurf-kirchliche-organisation-protestanten-ungarn-1858-12-a3-xxi-d478.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rezension des Organisationsentwurfes für die Österreichischen Gymnasien in der Zeitschrift Religio Nr. 52–55 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rezension-organisationsentwurf-in-zeitschrift-religio-1851-a3-xxi-d144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rohanyi an Leo Thun, Gložan, 14. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rohanyi-an-thun-1854-10-14-a3-xxi-d292.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakt zur Neuregelung der Ehegesetze (Konkordat) 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-neuregelung-ehegesetz-1855-a3-xxi-d360.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-14-a3-xxi-d296b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-01-a3-xxi-d296d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jan Skrzynecki an Leo Thun, Brüssel, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/skrzynecki-an-thun_1850-03-30_a3-xxi-d38.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slavíček an Leo Thun, Preßburg, 25. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1860-10-25-a3-xxi-d623a15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Steger an einen unbekannten Adressaten, Marburg, 25. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über die Stimmung unter den Protestanten Ungarns, Pest, 28. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Szeberinyi an Leo Thun, Schemnitz, 29. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szeberinyi-an-thun-1859-11-29-a3-xxi-d529.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hipolit Vladimir Terlecki an Leo Thun, Wien, 8. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/terlecki-an-thun-1860-08-08-a3-xxi-d601.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>64 Thesen gegen die Kirchenbeschlüsse der Unkirchlichen in Ungarn o. O., o. D. [1859/60?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thesen-gegen-kirchenbeschluesse-protestanten-ungarn-od-a3-xxi-d490.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Frantisek Ladislaus Čelakovšký, Wien, 16. November 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-celakovsky-1850-11-16-ca1058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. September 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-09-19-ca1427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Gregor Zeithammer, Wien, 8. August o. J. [post Mai 1850–ante Oktober 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-08-08-ca992.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Guidobald Thun an Leo Thun, Trient, 9. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-guidobald-an-thun-1859-01-09-a3-xxi-d492.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Briefes von Leo Thun ohne Adressat o. O., o. D. [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-oa-konzept-1849-a3-xxi-d2.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen Leo Thuns zu den Verhältnissen in Ungarn o. O., November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Virozsil an Leo Thun, Ofen, 27. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/virozsil-an-thun-1853-07-27-a3-xxi-d221.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge zur Besetzung der Stellen im Reichskirchenrat o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-besetzung-evangelische-reichskirchenratsstellen-1850-a3-xxi-d97.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschlag von Franz Reichenstein zur Lösung der Frage der Protestanten in Ungarn o. O., 15. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-von-reichenstein-in-protestantenangelegenheit-ungarn-1860-04-15-a3-xxi-d570.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Alleruntertänigsten Vortrages Leo Thuns zur Regelung der Verwaltung der Religionsfonds, Wien, 12. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-thun-regelung-verwaltung-religionsfond-1852-05-12-a3-xxi-d166.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zirkular Leo Thuns an sämtliche Referenten und Vorsteher der Hilfsämter des Ministeriums für Kultus und Unterricht hinsichtlich des Wirkungskreises des Militär- und Zivilgouverneurs von Ungarn, Wien, 12. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zirkular-thuns-an-referenten-und-vorsteher-der-hilfsaemter-unterrichtsministerium-1852-02-12-a3-xxi-d179.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_15f10264a572e8ce0fe253bc889cdbf5" type="placeName">
+                        <placeName type="pref">Slavonien</placeName>
+                        <placeName type="alt">Slawonien</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.45 17.916667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4055289-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein kaiserliches Patent zur Regelung der Rechte der Protestanten in Ungarn o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-patent-evangelische-kirche-ungarn-1858-a3-xxi-d488.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 9 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 17. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_45e0bb0b029ff4919974c4717bb7a4b4" type="placeName">
+                        <placeName type="pref">Siebenbürgen</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.5 25</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4054835-1</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Äußerungen von Wilhelm Schmidt zum evangelischen Kirchenverfassungsentwurf, Wien, 5. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aeusserung-zum-kirchenverfassungsentwurf-von-schmidt-1850-06-05-a3-xxi-d55.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stellungnahme Leo Thuns zum Resolutionsentwurf des Reichsratspräsidenten Erzherzog Rainer[?] zur Reform der Gymnasien o. O., o. D. [1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/alleruntertanigste-bemerkungen-thuns-zu-gymnasialreform-1857-a3-xxi-d439.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Vorschriften zur Bestreitung der Schulbaukosten in Österreich von Ludwig Heufler, Wien, 6. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufstellung-vorschriften-bestreitung-schulbaukosten-von-heufler-1853-05-06-a3-xxi-d203.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kritik von Samuel Schiel am reformierten Rekrutierungsgesetz o. O., o. D. [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bedenken-gegen-neues-rekrutierungsgesetz-von-schiel-o-d-a3-xxi-d480.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Paul Binder an Kaiser Franz Joseph, Wien, 9. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/binder-an-kaiser-1854-05-09-a3-xxi-d259.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Festl an Leo Thun, Maros-Vásárhely, 27. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/festl-an-thun-1857-06-27-a3-xxi-d421.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von Karl Kuzmany o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 13 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katholische-schulen-siebenbuergen-von-krombholz-1856-08-20-a3-xxi-d383k.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 6 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-konfessionell-gemischte-schulen-von-kleemann-1856-a3-xxi-d383e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann und Marian Koller zu § 5 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-seelsorge-von-kleemann-und-koller-1856-a3-xxi-d383d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun [, Hermannstadt, April 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-29-a3-xxi-d47.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Kronstadt, 14. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-05-14-a3-xxi-d51.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-07-12-a3-xxi-d61.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun [, Hermannstadt, Ende August/Anfang September 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-08-a3-xxi-d65.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Carl Jesz an Leo Thun, Hermannstadt [Sibiu], 16. Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jesz-an-thun-1859-06-16-a3-xxi-d509.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alleruntertänigster Vortrag zur Neuregelung der Verwaltung der Religionsfonde von Leo Thun-Hohenstein, Wien, 3. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/majestaetsvortrag-1856-05-05-a3-xxi-d378.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Handschriftliche Notizen von Leo Thun zum Verfassungsentwurf für die evangelischen Kirchen von Karl Kuzmány o. O., o. D.[1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1850-a3-xxi-d94.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten o. O., 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-von-thun_1860-04-17_a3-xxi-d572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jean-Baptiste Pitra an Leo Thun, Wien, 4. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-04-a3-xxi-d608.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die evangelische Geistlichkeit A.B. in Siebenbürgen von Georg Binder o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-binder-1850-a3-xxi-d95.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Joseph Rajačić an Johann Dobran o. O., 23. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 4. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1857-01-04-a3-xxi-d403.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rede Leo Thuns bei einer Promotion sub auspiciis, [Wien], 11. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Schaguna an Kaiser Franz Joseph, Wien, 9. September 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Schaguna an Joseph Rajačić, Hermannstadt, 27. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-rajacic-1850-07-27-a3-xxi-d63.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Die Schulräte von Siebenbürgen an Leo Thun, Hermannstadt, 31. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulraete-siebenbuergen_1860-10-31_a3-xxi-d623a40.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slavíček an Leo Thun, Preßburg, 25. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1860-10-25-a3-xxi-d623a15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 19. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-19-ca78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, o. O., 24. Mai [post 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-05-24-ca783.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge zur Besetzung der Stellen im Reichskirchenrat o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-besetzung-evangelische-reichskirchenratsstellen-1850-a3-xxi-d97.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschlag von Franz Reichenstein zur Lösung der Frage der Protestanten in Ungarn o. O., 15. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-von-reichenstein-in-protestantenangelegenheit-ungarn-1860-04-15-a3-xxi-d570.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Alleruntertänigsten Vortrages Leo Thuns zur Regelung der Verwaltung der Religionsfonds, Wien, 12. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-thun-regelung-verwaltung-religionsfond-1852-05-12-a3-xxi-d166.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

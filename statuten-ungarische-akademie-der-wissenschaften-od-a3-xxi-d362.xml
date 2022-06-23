@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="statuten-ungarische-akademie-der-wissenschaften-od-a3-xxi-d362.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Statuten der ungarischen Akademie der Wissenschaften<lb/>o. O., o. D. [<date when="1855">1855</date>]<note xml:id="note_1">Das Dokument wurde im Nachlass
+                        auf das Jahr 1855 datiert.</note>
+                </title>
+            <title type="label">Statuten der ungarischen Akademie der Wissenschaften o. O., o. D. [1855]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA6D-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D362</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>In den Statuten werden der Zweck und die Aufgaben der Akademie sowie
+                            deren Aufbau und Organisation erläutert. Außerdem werden die Wahlen zu den
+                            verschiedenen Gremien sowie die Besoldung der Mitglieder und
+                            Verwaltungsbeamten festgelegt.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="akademie-der-wissenschaften">Akademie der Wissenschaften</term>
+                    <term key="ungarn">Ungarn</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back/></text>
+</TEI>

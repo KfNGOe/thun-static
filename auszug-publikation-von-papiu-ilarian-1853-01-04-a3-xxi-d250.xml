@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="auszug-publikation-von-papiu-ilarian-1853-01-04-a3-xxi-d250.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auszug aus der Geschichte der Romanen Oberdakiens von <rs type="person" ref="#papiu-ilarian-alexandru">Alexandru Papiu-Ilarian</rs>
+                    <lb/>o. O.,
+                        <date when-iso="1853-01-04">4. Januar 1853</date>
+                </title>
+            <title type="label">Auszug aus der Geschichte der Romanen Oberdakiens von Alexandru Papiu-Ilarian o. O., 4. Januar 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt in: Alexandru Papiu Ilarianu, Istoria românilor din Dacia Superioară,
+                    Wien 1852.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC29-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D250</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die Signatur enthält einen übersetzten Auszug aus dem Buch „Die
+                            Geschichte der Romanen Oberdakiens“ von Alexandru Papiu-Ilarian. Der
+                            erste Teil behandelt die Geschichte der Romanen vom 2. Jahrhundert bis
+                            1848. Hier werden die geschichtlichen und politischen Ereignisse und
+                            Begebenheiten behandelt und das wechselnde Verhältnis der Romanen zu
+                            anderen Völkern und Herrscherhäusern dargelegt. Außerdem wird die
+                            Vielfalt der verschiedenen Religionen und Konfessionen im dem Gebiet
+                            beschrieben. Der zweite Teil widmet sich den Ereignissen des Jahres 1848
+                            bis zur Nationalversammlung in Blasendorf am 15. Mai 1848. In diesem
+                            Teil werden unter anderem die verschiedenen Konzepte der einzelnen
+                            Nationalitäten in Siebenbürgen und Ungarn beleuchtet. Das Verhältnis
+                            zwischen den Romanen und den Magyaren wird ebenso analyisert wie
+                            dasjenige zwischen den verschiedenen christlichen Konfessionen. Ferner
+                            wird dargestellt, inwiefern die Bischöfe zur Bildung bzw. Förderung
+                            eines rumänischen Nationalitätsbewusstseins in Siebenbürgen beigetragen
+                            haben.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="revolution">Revolution</term>
+                    <term key="nationalitatenfrage">Nationalitätenfrage</term>
+                    <term key="siebenburgen">Siebenbürgen</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde hier nicht transkribiert, da es an anderer
+                        Stelle bereits ediert ist.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="papiu-ilarian-alexandru">
+                        <persName>
+                            <surname>Papiu-Ilarian</surname>
+                            <forename>Alexandru</forename>
+                        </persName>
+                        <note>
+                            <p>Bezded 1827–1877 Hermannstadt</p>
+                            <p>Politiker und Jurist</p>
+                            <p>https://d-nb.info/gnd/1025028732</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1025028732</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Auszug aus der Geschichte der Romanen Oberdakiens von Alexandru Papiu-Ilarian o. O., 4. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszug-publikation-von-papiu-ilarian-1853-01-04-a3-xxi-d250.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

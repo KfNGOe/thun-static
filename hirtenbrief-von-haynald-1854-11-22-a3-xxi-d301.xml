@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hirtenbrief-von-haynald-1854-11-22-a3-xxi-d301.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hirtenbrief von Bischof <rs type="person" ref="#haynald-lajos">Lajos
+                        Haynald</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_14fde9ff1bc88b6a4b3884b69424d59f">Karlsburg</rs> [Alba Iulia], <date when-iso="1854-11-22">22. November 1854</date>
+                </title>
+            <title type="label">Hirtenbrief von Bischof Lajos Haynald, Karlsburg [Alba Iulia], 22. November 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBB4-3</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D301</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>In dem gedruckten Hirtenbrief spricht der Bischof von Siebenbürgen, Lajos
+                            Haynald, über das Verhältnis von Gut und Böse in der Welt. Aus seiner
+                            Sicht herrsche auf Erden ein ständiger Kampf zwischen dem Guten und dem
+                            Bösen. Er lädt daher die Gläubigen zu besonderen Andachtsübungen ein, um
+                            Gottes Barmherzigkeit zu erflehen und durch Andacht und Buße Gottes
+                            Strafgericht abzuwenden. Der Bischof berichtet außerdem, dass Papst Pius
+                            IX. eine Jubiläumsandacht ausgeschrieben habe, die drei Monate dauern
+                            soll. Zudem bestehe die Möglichkeit, durch Beichte einen Jubiläumsablass
+                            zu erhalten. Des Weiteren bittet Haynald nicht nur für Papst Pius,
+                            sondern auch für Kaiser Franz Joseph zu beten, damit dieser in
+                            schwierigen Zeiten mit starker Hand Ruhe und Ordnung bewahre.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="haynald-lajos">
+                        <persName>
+                            <surname>Haynald</surname>
+                            <forename>Lajos</forename>
+                        </persName>
+                        <note>
+                            <p>Szécsény 1816–1891 Kalosca</p>
+                            <p>1842–1846 Prof. der Theologie am Priesterseminar in Gran, ab 1852
+                                Bischof von Karlsburg, 1861 Resignation von seinem Bistum und Umzug
+                                nach Rom, ab 1867 Erzbischof von Kalocsa, 1879 Erhebung zum
+                                Kardinal</p>
+                            <p>https://d-nb.info/gnd/116553677</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/116553677</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Festl an Leo Thun, Maros-Vásárhely, 27. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/festl-an-thun-1857-06-27-a3-xxi-d421.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lajos Haynald an Leo Thun, Karlsburg [Alba Iulia], 3. Dezember 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/haynald-an-thun-1860-12-03-a3-xxi-d623a7.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Lajos Haynald, Karlsburg [Alba Iulia], 22. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-haynald-1854-11-22-a3-xxi-d301.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Carl Jesz an Leo Thun, Hermannstadt [Sibiu], 16. Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jesz-an-thun-1859-06-16-a3-xxi-d509.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Lajos Haynald, Wien, 21. Februar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-haynald-1857-02-21-a3-xxi-d406.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 4. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1857-01-04-a3-xxi-d403.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 31. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1860-01-31-a3-xxi-d553.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Raab, 16. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1860-04-16-a3-xxi-d571.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_14fde9ff1bc88b6a4b3884b69424d59f">
+                        <placeName>Municipiul Alba Iulia</placeName>
+                        <placeName type="pref">Karlsburg [Alba Iulia]</placeName>
+                        <placeName type="alt">Karlsburg [Alba Iulia]</placeName>
+                        <placeName type="alt">Karlsburg</placeName>
+                        <placeName type="alt">Alba Iulia</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.06346 23.57494</geo>
+                        </location>
+                        <idno>https://www.geonames.org/8299636</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lajos Haynald an Leo Thun, Karlsburg [Alba Iulia], 3. Dezember 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/haynald-an-thun-1860-12-03-a3-xxi-d623a7.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Kronstadt, 14. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-05-14-a3-xxi-d51.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Lajos Haynald, Karlsburg [Alba Iulia], 22. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-haynald-1854-11-22-a3-xxi-d301.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

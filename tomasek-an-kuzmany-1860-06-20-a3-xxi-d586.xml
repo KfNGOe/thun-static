@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#tomasek-samuel" role="sender:kleriker">Samuel
+                        Tomášek</rs> an <rs type="person" ref="#kuzmany-karl" role="recipient">Karl
+                        Kuzmány</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</rs>, <date when-iso="1860-06-20">20. Juni 1860</date>
+                </title>
+            <title type="label">Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D6-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D586</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Senior des Gömörer Seniorats, Samuel Tomášek, teilt Karl Kuzmány mit,
+                            dass er bei dem Konvent zu Rosenau seines Amtes enthoben worden sei. Die
+                            Begründung der Delegierten lautete, er habe jene Gemeinden unterstützt,
+                            die das Patent vom 1. September 1859 anerkannt hatten. Außerdem
+                            berichtet er von Gewaltakten, die an Mitgliedern solcher Gemeinden
+                            verübt worden seien. Als eine wesentliche Ursache für die gewaltbereite
+                            und aufgeheizte Stimmung innerhalb der Gegner der Patents sieht er die
+                            Propaganda des magyarischen Adels, der das Volk für seine Zwecke
+                            instrumentalisiere. Er nennt auch das Beispiel einiger Geistlicher und
+                            beschreibt deren schlechtes Verhalten. Abschließend empfiehlt er den
+                            Professor Samuel Ormis, der früher in Rožnava gewirkt hat, für eine
+                            Lehrerstelle in Leutschau.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Abschrift und Übersetzung. Das tschechische Original ist im Nachlass
+                            Thuns unter der Signatur <ref target="thun/thun-korrespondenz/tetschen/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml">A3 XXI D592</ref> abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#tomasek-samuel">Samuel Tomášek</rs>
+                    <settlement ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</settlement>
+                    <date when-iso="1860-06-20">20. Juni 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#kuzmany-karl">Karl Kuzmány</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                    <term key="ungarn">Ungarn</term>
+                    <term key="protestanten">Protestanten</term>
+                    <term key="personalfragen">Personalfragen</term>
+                </index>
+                <p>Übersetzung eines Briefes des Herrn <rs type="person" ref="#tomasek-samuel">Sam[uel]
+                        Tomášek</rs>, Gömörer evangelisch A.B. Seniors,
+                        <rs type="place" subtype="place" ref="#place_7a9f61d953841dd7ac7507d4919975f3">Chyžno</rs>, am 20. Juni 1860</p>
+                <p>Euer Wohlgeboren. Vor allem theile ich Ihnen mit, daß ich nicht mehr Senior bin;
+                    am 8. Mai auf dem zu <rs type="place" subtype="place" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenau</rs> [Rožňava] abgehaltenen
+                    Convente der Autonomisten bin ich meines Amtes entsetzt worden aus der Ursache:
+                    „weil er sich auf die Spitze der patentfreundlichen Gemeinden gestellt habe“.
+                    Mit mir zugleich wurden ihrer Ämter entsetzt: der Consenior <rs type="person" ref="#bradofka">Bradofka</rs> und die (Schul-) Decane <rs type="person" ref="#csipkay">Csipkay</rs>, <rs type="person" ref="#homola-stephan">Homola</rs>, <rs type="person" ref="#chotwas-andreas">Chotráš</rs>,
+                        <rs type="person" ref="#ormis-samuel">Ormisz</rs>; alle patentfreundliche und
+                    der Regierung ergebene Männer. Auf dem am 12. Mai zu Eltsch
+                        (<rs type="place" subtype="place" ref="#place_5dee3b8eea765537aa79e567a2c644e6">Jolsva</rs>) abgehaltenen Convente (auf welchem ich
+                    allerdings nicht zugegen war) ist zum Senior gewählt worden <rs type="person" ref="#bartholomeides-johann">Johann Bartolomeides</rs>, Csesneker
+                    Pfarrer und zu Consenioren <rs type="person" ref="#czekus">Czékus</rs> und
+                        <rs type="person" ref="#schulek">Schulek</rs>, alle drei fanatische
+                    Oppositionalisten; eben so sind neue (Schul-) Decane bestellt worden. Alle diese
+                    Veränderungen würden wir noch als das geringste Übel ansehen; aber daß der
+                    (Comitats-) Adel unsere Gemeinden durch die fortwährenden, wahrhaft satanischen
+                    Agitationen demoralisirt und fanatisirt hat, das ist sehr traurig, und es ist
+                    mir leid unserer evangelischen Kirche, so oft ich daran denke! Gleich nach dem
+                    Erscheinen des kaiserlichen Handbillets stürzten sich die Adeligen wie Wüthende
+                    über unsere organisirten Gemeinden und brachten es zu Wege, unser Volk so
+                    aufzureizen und zu erbosen, daß wir die wildesten Ausbrüche des Fanatismus
+                    erlebten. So z. B. umstellten in <rs type="place" subtype="place" ref="#place_c3ab0aaf87ce972b008c9bd7e40b56cb">Bradno</rs>, in
+                        <rs type="place" subtype="place" ref="#place_fe46905609eb1683b63a5c49183dc7df">Derencsény</rs>
+                    <note xml:id="note_1">Anmerkung des
+                        Übersetzers: Beide Kirchengemeinden liegen nahe zu <rs type="place" subtype="place" ref="#place_514ff74bd78be474d8ccddfe84c1fb67">R[ima]
+                            Szombath</rs>.</note> mit Äxten bewaffnete Leute die Pfarrgebäude
+                    und haben mit Drohungen die Pfarrer genöthigt das Patent für ungiltig zu
+                    erklären; ebenso zu <rs type="place" subtype="place" ref="#place_64563c0ff19df9af9e95926c2c5e6140">Hrussó</rs> und
+                        <rs type="place" subtype="place" ref="#place_edaa6147626b8f7dae594720e7c1b507">Budiksalva</rs>
+                    <note xml:id="note_2">Anmerkung des
+                        Übersetzers: Auch diese Gemeinden liegen in derselben Gegend.</note> und
+                    anderwärts; zu <rs type="place" subtype="place" ref="#place_c382bca7364f2cede24b32dd15a1c6bd">Ujvásár</rs> (Ribnik)
+                        [<rs type="place" subtype="place" ref="#place_ed132d8fe79092bb82ed1c6d7b247d6d">Rybnik</rs>] rottete sich am 2. Pfingstfeiertag das Volk
+                    zusammen und wollte das Pfarrhaus stürmen und die Thüren einbrechen, weil sich
+                    der Pfarrer darin eingeschlossen, bis es ihm gelungen, in den nahegelegenen Wald
+                    zu entfliehen, wohin man ihn ebenfalls verfolgte. In
+                        <rs type="place" subtype="place" ref="#place_bb1ec51841f0efe46207c3c72c7399a6">Vizes-Rét</rs> (<rs type="place" subtype="place" ref="#place_c04064e709222df8d3a714d7233a0c1d">Mokrá Luka</rs>)
+                    rotteten sich Männer, Weiber und Kinder durch den Inspector aufgereizt in der
+                    Kirche, stürzten über den Pfarrer und drohten ihm sein geistliches Kleid auf zu
+                    zerreißen unter vielen Rohheiten, zündeten ihn auch sogleich unter, so daß ihm
+                    der Stall, der Heuschupfen und 3 Wagen Grummet verbrannten. Das war wie ein
+                    Krieg gegen die Pfarrer und unsere Pfarrkinder wurden zu Vandalen und
+                    Cannibalen; denn man hat ihnen fest in die Köpfe gesetzt, daß wir unsere
+                    Kirchengemeinden verkauft (verrathen) haben, und daß ein jeder von uns einen
+                    Geldlohn zu 4.000, zu 6.000, zu 8.000 fl erhalten habe dafür, daß er seine
+                    Gemeinde für katholisch unterschrieben habe. Die Bauern der organisirten
+                    Kirchengemeinden werden von Bürgern und vorzüglich von den Adeligen nicht anders
+                    gegrüßt als: „Gegrüßt sei Jesus Christus“, sie versichernd, daß sie nun selbst
+                    so grüßen müssen, weil sie schon katholisch seien, daher auch nur: Gegrüßet
+                    seiest du Maria usw. beten. Jeder Kirchengemeinde wurde sogleich ein Inspector
+                    aufgedrungen; jeder wurde ein Zettel zugestellt, auf welchem die Namen derer
+                    standen, die man zum Senior, Consenior, Superintendent und Districtualinspector
+                    zu wählen habe. <rs type="person" ref="#czibur-ludwig">Czibur</rs>, der Inspector
+                    zu <rs type="place" subtype="place" ref="#place_bb1ec51841f0efe46207c3c72c7399a6">Vizes-Rét</rs>, ließ zuvor 15 Halbe Slivovitz die
+                    Pfarrkinder austrinken, wobei er sie aufs Höchste gegen den Pfarrer aufgereizt
+                    hat und so in den Convent zusammenberief; und so ist kein Wunder, daß sie ihn
+                    fürchterlich grob behandelten und ihn unterzunden [sic!] haben, ja es ist noch
+                    ein Wunder, daß sie ihn nicht getödtet haben.<lb/>Unter diesen Umständen sind
+                    mir alle Convente zum Eckel geworden, und ich will nun in ruhiger Häuslichkeit
+                    Frieden suchen. Die Autonomie bedeutet jetzt so viel als Opposition gegen die
+                    Regierung, und schon bildet sich der Adel ein, daß <rs type="person" ref="#garibaldi-giuseppe">Garibaldi</rs> heute, morgen, da ist. Soviel
+                    ist gewiß, daß der magyaronische Fanatismus durch Güte nicht beschwichtigt wird,
+                    sondern noch wilder zunimmt.<lb/>So eben schreibt mir der <rs type="place" subtype="region" ref="#place_e309aff41e5a38dbe2dde4aaa8886474">Sároser</rs> Senior <rs type="person" ref="#balint">Balint</rs>, daß der dortige Senioratinspector <rs type="person" ref="#bano">Bánó</rs> den 12. Juni in <rs type="place" subtype="place" ref="#place_e5853e90ec28ed86c205d8d6502aa3a9">Eperies</rs> [Prešov]
+                    einen Convent hielt, auf welchem der Senior <rs type="person" ref="#balint">Balint</rs> abgesetzt und zu ihm sogleich eine Deputation entsendet
+                    wurde, welche ihm Siegel und Archiv abnehmen soll. <rs type="person" ref="#balint">Balint</rs> hat nichts herausgeben wollen, erklärte den Convent für
+                    ungesetzlich und incompetent, zugleich aber, daß er sein Amt nur vor einem
+                    gesetzlichen und competenten Convent niederlegen werde (denn das Amt will er und
+                    wird er nicht ferner führen). Der Inspector <rs type="person" ref="#bano">Bánó</rs>
+                    beschuldigt den <rs type="person" ref="#balint">Senior</rs> und klagt ihn an, daß
+                    er seine Circularschreiben ohne Bestättigung und Unterschrift des Inspectors
+                    herumsende, daß er bei Geistlichen und Kirchengemeinden agitire und so habe er
+                    (der Inspector) den Convent zusammenberufen, den Senior abgesetzt und die
+                    Deputation zu ihm entsendet, welche ihm Siegel und Archiv abnehmen
+                    soll.<lb/>Diese Inspectoren verlangen jetzt von uns, welche wir unsere Gemeinden
+                    organisirt haben, daß wir bekennen sollen, wir hätten unsere Gemeinden verführt
+                    und betrogen, daß wir das Patent öffentlich verdammen sollen, für ungitlig
+                    erklären, die Kirche und die Inspectoren abbitten für den Scandal, den wir
+                    gegeben haben. Nie war die Geistlichkeit und die Kirche so erniedrigt, so dem
+                    Hohn preisgegeben, der Gnade und der Ungnade der Saducäer und Schriftgelehrten –
+                    wie jetzt. Gott wolle das zum Besseren wenden. Aber welcher Vater von den
+                    Pfarrern sollte jetzt wollen seine Söhne unter diesen Umständen dem
+                    theologischen Stande widmen? Wem von uns sollte dieser Stand nicht zum Eckel
+                    werden?! Doch genug des Lamentós – leben Sie wohl.</p>
+                <p>zu Chyžno, 20. Juni 1860</p>
+                <p>Ihr aufrichtiger Freund und Verehrer<lb/>Samuel Tomášek</p>
+                <p>P.S. <rs type="person" ref="#pekar-stefan">Pekar</rs> (Senior in
+                        <rs type="place" subtype="place" ref="#place_493145ae17543372465d43d5f04a1e61">Kis-Honth</rs>) und <rs type="person" ref="#loysch-jonas">Loysch</rs> klagen ebenso. <rs type="person" ref="#ormis-samuel">Sam[uel]
+                        Ormisz</rs>, Pfarrer in <rs type="place" subtype="place" ref="#place_6c663302ed869f8b06b13ee4dd12374d">Also-Sajó</rs>, gewesener
+                    Professor der Mathematik und Physik in <rs type="place" subtype="place" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenau</rs> [Rožňava]
+                    erfährt auch überaus viele Widerwärtigkeiten und Verfolgungen als ein
+                    Schwarzgelb und Patentist. Das wäre ein tüchtiger Professor nach
+                        <rs type="place" subtype="place" ref="#place_acad4f96bf4d389851aa8bd268d57288">Leutschau</rs> [Levoča], er ist auch ein tüchtiger
+                    Linguist, in der slavischen Literatur wohl bewandert, ein glücklicher und
+                    geliebter Lehrer. Haben Sie die Güte ihn zu empfehlen; auch an <rs type="person" ref="#tomasek-jan">meinen Bruder</rs> nach
+                        <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> [Kosiče] habe ich wegen seiner
+                    geschrieben.</p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="ormis-samuel">
+                        <persName>
+                            <surname>Ormis</surname>
+                            <forename>Samuel</forename>
+                        </persName>
+                        <note>
+                            <p>Revúca 1824–1875 Revúca</p>
+                            <p>ab 1849 Lehrer für Naturgeschichte und Mathematik am Lyzeum in
+                                Schemnitz, 1854–1855 Lehrer für Naturgeschichte und Mathematik am
+                                evang. Gymnasium in Rosenau, 1856 Prediger bei der evang. Gemeinde
+                                Oberungarns, dann Lehrer am evang. Gymnasium in Revúca</p>
+                            <p>https://d-nb.info/gnd/1024826031</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1024826031</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bano">
+                        <persName>
+                            <surname>Bánó</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Senioratsinspektor im Zemplin-Sároser Seniorat</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="tomasek-jan">
+                        <persName>
+                            <surname>Tomášek</surname>
+                            <forename>Johann Paul</forename>
+                        </persName>
+                        <note>
+                            <p>Jelšav-Teplic 1802–1887</p>
+                            <p>ab 1833 Lehrer der Philologie und Geschichte am evang. Gymnasium in
+                                Leutschau, ab 1850 Schulrat, 1860 Beamter in der Statthalterei in
+                                Ofen</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="loysch-jonas">
+                        <persName>
+                            <surname>Loysch</surname>
+                            <forename>Jonas</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>evang. Pfarrer in Gölnitz, Senior des Seniorats der 7 Zipser
+                                Bergstädte</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="tomasek-samuel">
+                        <persName>
+                            <surname>Tomášek</surname>
+                            <forename>Samuel</forename>
+                        </persName>
+                        <note>
+                            <p>Jelšav-Teplic 1813</p>
+                            <p>Pfarrer in Chyzno, 1856–1860 Senior des Gömörer evang. Seniorat</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="homola-stephan">
+                        <persName>
+                            <surname>Homola</surname>
+                            <forename>Stephan</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Schuldekan</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="chotwas-andreas">
+                        <persName>
+                            <surname>Chotwáš</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Pfarrer in Vizes-Rét</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bradofka">
+                        <persName>
+                            <surname>Bradovka</surname>
+                            <forename>Karel</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Konsenior im Gömörer Seniorat</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="balint">
+                        <persName>
+                            <surname>Balint</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>evang. Pfarrer in Ófalu, Senior des Zemplin-Sároser Seniorats</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bartholomeides-johann">
+                        <persName>
+                            <surname>Bartholomaeidesz</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>evang. Pfarrer in ab 1860 evang. Senior</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="kuzmany-karl">
+                        <persName>
+                            <surname>Kuzmány</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Brezno 1806–1866 Turčianske Teplice</p>
+                            <p>ab 1829 Lehrer am evang. Gymnasium in Kežmarok, 1830–1832 Pfarrer in
+                                Zvolen, 1832–1849 Pfarrer in Banská Bystrica, 1849–1863 Prof. für
+                                Praktische Theologie und Kirchenrecht an der evang.-theol.
+                                Lehranstalt in Wien, ab 1860 Superintendent in Preßburg</p>
+                            <p>https://d-nb.info/gnd/121675211</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/121675211</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von Karl Kuzmany o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 20. Februar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1850-02-20-a3-xxi-d35.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 8. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-07-08-a3-xxi-d595.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 1. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-01-a3-xxi-d605.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d606.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 7. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-07-a3-xxi-d609.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 13. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-13-a3-xxi-d611.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 15. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-10-15-a3-xxi-d620.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Handschriftliche Notizen von Leo Thun zum Verfassungsentwurf für die evangelischen Kirchen von Karl Kuzmány o. O., o. D.[1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1850-a3-xxi-d94.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge zur Besetzung der Stellen im Reichskirchenrat o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-besetzung-evangelische-reichskirchenratsstellen-1850-a3-xxi-d97.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="csipkay">
+                        <persName>
+                            <surname>Csipkay</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Schuldekan</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="garibaldi-giuseppe">
+                        <persName>
+                            <surname>Garibaldi</surname>
+                            <forename>Giuseppe</forename>
+                        </persName>
+                        <note>
+                            <p>Nizza 1807–1882 Caprera</p>
+                            <p>italienischer Nationalist und militärischer Anführer während des
+                                Risorgimento</p>
+                            <p>https://d-nb.info/gnd/118689592</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118689592</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="czekus">
+                        <persName>
+                            <surname>Czekus</surname>
+                            <forename>Stefan</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Consenior</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="pekar-stefan">
+                        <persName>
+                            <surname>Pekar</surname>
+                            <forename>Stefan</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>evang. Pfarrer in Kokava, Senior des Klein-Honther Seniorats</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="czibur-ludwig">
+                        <persName>
+                            <surname>Czibur</surname>
+                            <forename>Ludwig</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Direktor des Hammerwerks in Csetnek, ab 1860 Senioratsinspektor</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="schulek">
+                        <persName>
+                            <surname>Schulek</surname>
+                            <forename>Ágoston</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Consenior</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_64563c0ff19df9af9e95926c2c5e6140">
+                        <placeName>Hrušovo</placeName>
+                        <placeName type="pref">Hrussó</placeName>
+                        <placeName type="alt">Hrussó</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.51282 20.04908</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724634</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c382bca7364f2cede24b32dd15a1c6bd">
+                        <placeName>Ujvásár Pusta</placeName>
+                        <placeName type="pref">Ujvásár</placeName>
+                        <placeName type="alt">Ujvásár</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.13333 17.45</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3057036</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_493145ae17543372465d43d5f04a1e61">
+                        <placeName>Kis-Honth</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.383333 20.017778</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_7a9f61d953841dd7ac7507d4919975f3">
+                        <placeName>Chyžné</placeName>
+                        <placeName type="pref">Chyžno</placeName>
+                        <placeName type="alt">Chyžno</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.66289 20.20097</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724950</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmany, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_514ff74bd78be474d8ccddfe84c1fb67">
+                        <placeName>Rimavská Sobota</placeName>
+                        <placeName type="pref">R[ima] Szombath</placeName>
+                        <placeName type="alt">R[ima] Szombath</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.38284 20.02239</geo>
+                        </location>
+                        <idno>https://www.geonames.org/723736</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_6c663302ed869f8b06b13ee4dd12374d">
+                        <placeName>Nižná Slaná</placeName>
+                        <placeName type="pref">Also-Sajó</placeName>
+                        <placeName type="alt">Also-Sajó</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.72521 20.40932</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724055</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_dd51fef1ae0877c04e8b4e19eddbabd5">
+                        <placeName>Košice</placeName>
+                        <placeName type="pref">Kaschau</placeName>
+                        <placeName type="alt">Kaschau</placeName>
+                        <placeName type="alt">Kaschauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.71395 21.25808</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724443</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Csajághy an Leo Thun, Temeswar, 27. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/csajaghy-an-thun-1853-02-27-a3-xxi-d191.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein kaiserliches Patent zur Regelung der Rechte der Protestanten in Ungarn o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-patent-evangelische-kirche-ungarn-1858-a3-xxi-d488.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von Karl Kuzmany o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1852-05-11-a3-xxi-d204.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Szögyény an Leo Thun o. O., 21. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szoeyeny-an-thun-1860-04-21-a3-xxi-d577.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 4. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1855-02-04-ca180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Waldert an Leo Thun, Görkau [Jirkov], 9. April 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1854-04-09-a3-xxi-d256.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Zaboysky an Leo Thun, Zips, 11. Dezember 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zaboysky-an-thun-1851-12-11-a3-xxi-d136.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_e309aff41e5a38dbe2dde4aaa8886474">
+                        <placeName>Šariš</placeName>
+                        <placeName type="pref">komitat-saros</placeName>
+                        <placeName type="alt">Saros</placeName>
+                        <placeName type="alt">Saroser</placeName>
+                        <placeName type="alt">Komitate Saros</placeName>
+                        <placeName type="alt">Saròs</placeName>
+                        <placeName type="alt">Sáros</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.998611 21.24</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4599908-9</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_edaa6147626b8f7dae594720e7c1b507">
+                        <placeName>Budikovany</placeName>
+                        <placeName type="pref">Budiksalva</placeName>
+                        <placeName type="alt">Budiksalva</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.48842 20.08824</geo>
+                        </location>
+                        <idno>https://www.geonames.org/725057</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_5dee3b8eea765537aa79e567a2c644e6">
+                        <placeName>Jelšava</placeName>
+                        <placeName type="pref">Jolsva</placeName>
+                        <placeName type="alt">Jolsva</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.62908 20.24141</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724561</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_ed132d8fe79092bb82ed1c6d7b247d6d">
+                        <placeName>Rybnik</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.09713 18.54179</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3086586</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_e5853e90ec28ed86c205d8d6502aa3a9" type="placeName">
+                        <placeName type="pref">Eperies [Prešov]</placeName>
+                        <placeName type="alt">Prešov</placeName>
+                        <placeName type="alt">d'Eperies</placeName>
+                        <placeName type="alt">Eperieser</placeName>
+                        <placeName type="alt">Eperies’er</placeName>
+                        <placeName type="alt">Eperieser</placeName>
+                        <placeName type="alt">Eperies</placeName>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an Ludwig Benedek und an den Kultusminister o. O., o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliches-handschreiben-an-benedek-1860-a3-xxi-d579.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein kaiserliches Patent zur Regelung der Rechte der Protestanten in Ungarn o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-patent-evangelische-kirche-ungarn-1858-a3-xxi-d488.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept Leo Thuns über die Notwendigkeit der Neueinteilung der Superintendenzen in Ungarn o. D. [1860?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-neueinteilung-superintendenzen-ungarn-1858-a3-xxi-d487.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Geschichte der evangelischen Kirche im Kaisertum Österreich von Karl Kuzmany o. O., 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/geschichte-evangelische-kirche-oesterreich-von-kuzmany_1850_a3-xxi-d92.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1852-05-11-a3-xxi-d204.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zum alleruntertänigsten Vortrag vom 4. September 1858 o. O., 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-zum-vortrag-neuordnung-protestanten-ungarn-1858-a3-xxi-d469.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Stlaukal an Leo Thun, Vydrany, 16. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hipolit Vladimir Terlecki an Leo Thun, Wien, 8. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/terlecki-an-thun-1860-08-08-a3-xxi-d601.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_bb1ec51841f0efe46207c3c72c7399a6">
+                        <placeName>Mokrá Lúka</placeName>
+                        <placeName type="pref">Vizes-Rét</placeName>
+                        <placeName type="alt">Vizes-Rét</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.67342 20.14933</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724114</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c3ab0aaf87ce972b008c9bd7e40b56cb">
+                        <placeName>Brádno</placeName>
+                        <placeName type="pref">Bradno</placeName>
+                        <placeName type="alt">Bradno</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.56822 20.01716</geo>
+                        </location>
+                        <idno>https://www.geonames.org/725088</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c04064e709222df8d3a714d7233a0c1d" type="placeName">
+                        <placeName type="pref">Mokrá Luka</placeName>
+                        <placeName type="alt">Mokrá Luka</placeName>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_fe46905609eb1683b63a5c49183dc7df">
+                        <placeName>Drienčany</placeName>
+                        <placeName type="pref">Derencsény</placeName>
+                        <placeName type="alt">Derencsény</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.48131 20.07179</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724870</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_94d458421577f333e584bb7fb0f47e91">
+                        <placeName>Rosenau</placeName>
+                        <placeName type="pref">rosenau [Rožňava]</placeName>
+                        <placeName type="alt">Rosenauer</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.66009 20.53758</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4304792-0</idno>
+                        <idno>https://www.geonames.org/723713</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Kroisbach, 21. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1859-11-21-a3-xxi-d528.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_acad4f96bf4d389851aa8bd268d57288">
+                        <placeName>Levoča</placeName>
+                        <placeName type="pref">Leutschau [Levoča]</placeName>
+                        <placeName type="alt">Leutschauer</placeName>
+                        <placeName type="alt">Leutschau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.02173 20.59212</geo>
+                        </location>
+                        <idno>https://www.geonames.org/724294</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Schreibens von Leo Thun an Joseph Jelačič o. O., 24. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-jelacic-1852-04-24-a3-xxi-d164.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Tomášek an Karl Kuzmány, Chyžno, 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Zaboysky an Leo Thun, Zips, 11. Dezember 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zaboysky-an-thun-1851-12-11-a3-xxi-d136.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

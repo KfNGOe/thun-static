@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="oktoberdiplom-1860-10-20-a3-xxi-d621.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1850-01-18-a3-xxi-d30.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/osegovic-ueber-slowaken-1849-a3-xxi-d656.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ausschnitt aus der Wiener Zeitung vom <date when-iso="1860-10-21">21. Oktober
+                        1860</date> mit Abdruck des Kaiserlichen Manifests vom 20. Oktober 1860
+                    ("Oktoberdiplom") und mehreren Allerhöchsten Handschreiben vom selben
+                    Datum<lb/>und<lb/>Ausschnitt aus der Wiener Zeitung vom 27. Februar 1861 mit
+                    Abdruck des Kaiserlichen Patents vom 26. Februar 1861 ("Februarpatent")</title>
+            <title type="label">Ausschnitt aus der Wiener Zeitung vom 21. Oktober 1860 mit Abdruck des Kaiserlichen Manifests vom 20. Oktober 1860 ("Oktoberdiplom") und mehreren Allerhöchsten Handschreiben vom selben Datum und Ausschnitt aus der Wiener Zeitung vom 27. Februar 1861 mit Abdruck des Kaiserlichen Patents vom 26. Februar 1861 ("Februarpatent")</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Ilse Reiter: Texte zur österreichischen Verfassungsentwicklung 1848–1955. Wien
+                    1997, S. 86–89 und S. 89–93.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAF7-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D621</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p/>
+                    </msContents>
+                    <physDesc>
+                        <p>Mit einigen Unterstreichungen von Leo Thun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="ministerkonferenz">Ministerkonferenz</term>
+                    <term key="oktoberdiplom">Oktoberdiplom</term>
+                </index>
+                <p>
+                    <hi rend="italic">Die Texte wurden hier nicht transkribiert, weil sie an anderer
+                        Stelle bereits ediert sind.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back/></text>
+</TEI>

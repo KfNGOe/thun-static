@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stein-herstellung-valuta-oesterreich_1860_a3-xxi-d639.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellungnahme von <rs type="person" ref="#clam-martinic-heinrich-jaroslav">Heinrich
+                        Clam-Martinitz</rs> zu einem Gesetzesentwurf für ein neues
+                        Handelsrecht<lb/>
+                    <date when-iso="1854-07-07">7. Juli 1854</date>
+                </title>
+            <title type="label">Stellungnahme von Heinrich Clam-Martinitz zu einem Gesetzesentwurf für ein neues Handelsrecht 7. Juli 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA6B-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D265</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Heinrich Clam-Martinitz äußert sich zu einem Entwurf des
+                            Justizministeriums für ein Handels- und Gewerbegesetze für den
+                            österreichischen Kaiserstaat. Clam spricht sich entschieden gegen den
+                            Entwurf aus. Die angestrebten Maßnahmen werden aus seiner Sicht zu einem
+                            Nachlassen der Produktion von Gewerbeprodukten führen und auch die
+                            Gewerbetreibenden verarmen. Vor allem werde der Gewerbetreibende durch
+                            den Entwurf zum Fabrikanten, was auch zum Nachteil für die Arbeiter
+                            werde. Auch die Innungen und Genossenschaften würde dem nicht
+                            entgegenwirken können. Clam-Martinitz glaubt zwar, dass einzelne
+                            Veränderungen nichts an der Qualität des Gesetzesentwurfes ändern würden,
+                            dennoch nennt er einige Punkte, die für ein sinnvolles Handels- und
+                            Gewerbegesetz notwendig seien.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="neoabsolutismus">Neoabsolutismus</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="clam-martinic-heinrich-jaroslav">
+                        <persName>
+                            <surname>Clam-Martinic</surname>
+                            <forename>Heinrich Jaroslav</forename>
+                        </persName>
+                        <note>
+                            <p>St. Georgen, Ungarn 1826–1887 Prag</p>
+                            <p>1853–1859 Landespräsident von Westgalizien, 1860 Mitglied des
+                                Reichsrates, Ehrenmitglied der Kgl.-Böhm. Gesellschaft der
+                                Wissenschaften, Schwager von Leo Thun</p>
+                            <p>https://d-nb.info/gnd/136186343</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/136186343</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Heinrich Clam-Martinic an Leo Thun o. O., 19. Mai [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/clam-martinic-an-thun_1853-05-19_a3-xxi-d206.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Gindely an Leo Thun, Paris, 20. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gindely-an-thun-1860-08-20-a3-xxi-d603.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stellungnahme von Heinrich Clam-Martinitz zu einem Gesetzesentwurf für ein neues Handelsrecht 7. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, o. O. [Wien], [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca938.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen Leo Thuns zu den Verhältnissen in Ungarn o. O., November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Separatvotum zur Bezirkseinteilung in Böhmen von Heinrich Clam-Martinic, Prag, März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-separatum-zur-bezirkseinteilung-boehmens-von-clam-martinic-1853-03-a3-xxi-d197.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

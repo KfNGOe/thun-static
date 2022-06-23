@@ -1,0 +1,674 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-wirkungskreis-ministerium-fuer-kultus-und-unterricht-o-d-a3-xxi-d84.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und
+                    Unterricht<lb/>o. O. o. D.</title>
+            <title type="label">Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und Unterricht o. O. o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC5B-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D84</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Entwurf steckt den Aufgabenbereich des Ministeriums für Kultus und
+                            Unterricht ab. Er enthält einerseits allgemeinen Bestimmungen zur
+                            Infrastruktur, zu Finanz- und Personalfragen. Daneben sind auch
+                            spezielle Anordnungen zu den Kompetenzen in Fragen des Kultus und des
+                            Unterrichts angeführt. Der Entwurf stellt bisher geltende Bestimmungen
+                            den neuen gegenüber.<lb/>In einer Beilage werden einige Bemerkungen zu
+                            einzelnen Paragrafen des Entwurfs festgehalten. Breiten Raum nimmt dabei
+                            die Frage nach Kompetenzen in der Frage nach der Verfügung über die
+                            verschiedenen Fonds ein und die Zusammenarbeit mit dem Finanzministerium
+                            in dieser Hinsicht.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Entwurf ist in zwei Spalten beschrieben: in der rechten Spalte findet
+                            sich der "Entwurf des Wirkungskreises des k.k. Ministeriums für Cultus
+                            und Unterricht", in der linken Spalte sind Änderungsvorschläge zu
+                            einzelnen Paragrafen von anderer Hand angeführt. Diese werden in der
+                            Transkription nach den entsprechenden Abschnitten kursiv
+                            wiedergegeben.</p>
+                        <p>Lithographie mit eigenhändigen Korrekturen und Anmerkungen von Thun.</p>
+                        <p>Beilagen: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d84_1">Ein zweiter Entwurf zum besonderen
+                                Wirkungskreis des Ministeriums für Kultus und Unterricht im Bezug
+                                auf Fragen des katholischen Kultus</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d84_2">Anmerkungen und Überlegungen von fremder Hand zum
+                            Entwurf.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="ministerium-fur-kultus-und-unterricht">Ministerium für Kultus und Unterricht</term>
+                    <term key="verwaltung">Verwaltung</term>
+                    <term key="kultus">Kultus</term>
+                </index>
+                <p>Entwurf des Wirkungskreises des <rs type="org" ref="#org_0005">k.k. Ministeriums für Cultus
+                        und Unterricht</rs>
+                </p>
+                <p>Im Allgemeinen<lb/>§ 1<lb/>In den Wirkungskreis des <rs type="org" ref="#org_0005">Ministeriums für Kultus und
+                        Unterricht</rs> gehört<lb/>a. die Durchführung der den Kultus und den
+                    Unterricht betreffenden Gesetze und Verordnungen und die Überwachung ihrer
+                    Befolgung.<lb/>b. die Erlassung und Abänderung der dazu erforderlichen
+                    Instrukzionen für die Beamten des Ministeriums und die untergeordneten Organe im
+                    Einklange mit den bestehenden Gesetzen.<lb/>
+                    <hi rend="italic">§ 23.<lb/>Die
+                        Verfassung aller Manipulationsvorschriften für die der Kanzlei
+                        untergeordneten Behörden, Veränderungen, Erläuterungen und Zurücknahme
+                        derselben, all dies jedoch mit Ausnahme der für die Länderstellen zu
+                        entwerfenden Instruktionen.</hi>
+                    <lb/>c. die Auslegung der Gesetze und
+                    Verordnungen in zweifelhaften Fällen, in so ferne diese Auslegung aus dem
+                    Wortlaute und der Absicht des Gesetzes hervorgeht.<lb/>
+                    <hi rend="italic">§
+                        24.<lb/>Das Befugnis bei sich ergebenden Anständen die Patente,
+                        Amtsinstruktionen und Vorschriften zu erläutern und zu erklären, jedoch nur
+                        in so fern beydes aus dem klaren Sinn und Wortlaut derselben geschehen kann
+                        und alle Vorschriften, die bloße Manipulationsgegenstände enthalten, nach
+                        Umständen abzuändern.</hi>
+                    <lb/>d. die Entscheidung der über ihre Anwendung
+                    entstehenden Streitigkeiten, wenn sie nicht vor die Gerichtsbehörden
+                        gehören.<note xml:id="note_1">Anmerkung Thuns: d. wurde nicht
+                        aufgenommen.</note>
+                    <lb/>e. Vorschläge zu neuen Gesetzen oder neuen
+                    Organisirungen.</p>
+                <p>§ 2.<lb/>Die Ratifizirung von Verträgen über Veräußerungen von beweglichen und
+                    unbeweglichen, der Verwaltung des <rs type="org" ref="#org_0005">Ministeriums</rs>
+                    anvertrauten Fondsentitäten, wenn der Werth der zu veräußernden Sache den Betrag
+                    von 10.000 fl CM nicht übersteigt.<lb/>
+                    <hi rend="italic">§
+                        15.<lb/>Verkaufsbewilligung kleinerer Realitäten und Häuser, die Städten
+                        oder der Geistlichkeit gehören, in jenen besonderen Fällen, wo die
+                        Eigenthümer dieselben zum eigenen Gebrauche nicht bedürfen und sie auch
+                        sonst zu keinem angemessenen Nutzen gebracht werden können, wenn der
+                        Fiskalpreis die Summe von 12.000 f rheinisch nicht übersteigt.</hi>
+                </p>
+                <p>§ 3.<lb/>Die Ratifizirung von Bestandverträgen oder sonstigen Pachtungen, wenn
+                    der jährliche Zins nicht mehr als 5.000 fl CM beträgt, die Bestandverlassung
+                    nicht über 10 Jahre geschlossen wird und nicht in den Wirkungskreis der
+                    Unterbehörden gehört.<lb/>
+                    <hi rend="italic">§ 16.<lb/>Bestätigungen von
+                        Gefällspachtungen, wofern der jährliche Pachtschilling nicht mehr als 12.000
+                        f rheinisch beträgt.</hi>
+                </p>
+                <p>§ 4.<lb/>Die Genehmigung von Käufen unbeweglicher Sachen, falls dieselben für die
+                    Verwaltungszweige des Ministeriums unumgänglich nothwendig sind, wenn der
+                    Kaufpreis 10.000 fl CM nicht übersteigt.</p>
+                <p>§ 5.<lb/>In Ansehung der Gebäude, welche Fonds betreffen, über welche das Cultus-
+                    und Unterrichtsministerium die Verwaltung führt: Die Reparationen schon
+                    bestehender nothwendiger Gebäude so wie die Ausführung neuer nothwendiger
+                    Gebäude, welche vormals bestandene Gebäude ersetzen, ohne Ausnahme, in so weit
+                    die Kosten derselben 25.000 fl CM nicht überschreiten.<lb/>
+                    <hi rend="italic">§
+                        12.<lb/>In Ansehung der Gebäude, welche Städte oder Fonds betreffen, worüber
+                        die Kanzley die Verwaltung führt. Die Reparationen schon bestehender und für
+                        den Dienst nothwendiger Gebäude so wie die Ausführung neuer nothwendiger
+                        Gebäude, welche schon vormals bestandene erforderliche Gebäude ersetzen,
+                        ohne Ausnahme, in so weit die Kosten derselben 25.000 fl CM nicht
+                        überschreiten, indem sie sonst die vorläufige Bewilligung Seiner Majestät
+                        hierwegen sich zu erbitten hat.</hi>
+                </p>
+                <p>§ 6.<lb/>Zu solchen Gebäuden, welche die erwähnten Fonds betreffen, die vormals
+                    nicht bestanden, deren Nutzen und Nothwendigkeit aber erwiesen und bestimmt ist,
+                    steht dem <rs type="org" ref="#org_0005">Ministerium</rs> die Bewilligung zu, wenn die Kosten den Betrag von
+                    10.000 fl CM nicht übersteigen.<lb/>
+                    <hi rend="italic">§ 13.<lb/>Zu solchen
+                        Gebäuden, welche Städte oder die ad 12 (neuer § 5) angeführten Fonds
+                        betreffen, die vormals nicht bestanden, deren Nutzen und Nothwendigkeit aber
+                        erwiesen oder bestimmt ist, wird der Kanzlei gestattet, die Bewilligung
+                        hierzu, wenn die Kosten den Betrag von 10.000 fl nicht übersteigen, zu
+                        ertheilen, im entgegengesetzten Falle hat sie die Bewilligung Seiner
+                        Majestät hierzu einzuholen.</hi>
+                </p>
+                <p>§ 7.<lb/>Die Ratifizirung von Vergleichen, wenn das Recht des Ärars zufolge des
+                    eingeholten Rechtsgutachtens zweifelhaft ist.</p>
+                <p>§ 8.<lb/>a. Die Erstattung des Voranschlages über die Bedürfnisse des
+                    Ministeriums und der untergeordneten Organe und Anstalten.<lb/>b. Die
+                    Bewilligung aller in das Präliminare aufgenommenen Ausgaben, in so ferne
+                    dieselben die in dem Voranschlage diesfalls ausgesetzten Summen nicht
+                    übersteigen &lt;oder die Übersteigung sich durch den geringeren Aufwand bei
+                    anderen Posten ausgleicht und daher keine Überschreitung der Dotation des ganzen
+                    Verwaltungszweiges veranlaßt.&gt;<note xml:id="note_2">Hinzufügung durch
+                        Thun</note>
+                    <lb/>c. Die Bewilligung einzelner in die Voranschläge nicht
+                    aufgenommenen Ausgaben für Zwecke, die in dem Wirkungskreise des <rs type="org" ref="#org_0005">Ministeriums</rs> liegen,
+                    und in so ferne solche Ausgaben ihre Bedeckung innerhalb der Gesammtsumme des
+                    Präliminars &lt;des ganzen Verwaltungszweiges&gt;<note xml:id="note_3">Hinzufügung
+                        durch Thun</note> finden.<lb/>d. Die Zahlungsanweisungen aus den der
+                    Administration des Kultus- und Unterrichtsministeriums unterstehender
+                        Kassen.<note xml:id="note_4">Korrektur Thuns aus: wenn sie nicht in den
+                        Wirkungskreis der Unterbehörden gehören.</note>
+                    <lb/>
+                    <hi rend="italic">§
+                        41.<lb/>Die Ausgabspassirungen aus dem städtischen und ständischen Fonds,
+                        unter den nämlichen Beschränkungen und Vorsichtsmaßregeln, wie der Hofkammer
+                        die Disposition über das Cameralärar überlassen ist.</hi>
+                </p>
+                <p>§ 9.<lb/>Die Ertheilung der Nachsicht und Abschreibungsbewilligung von
+                    Rückständen, Rechnungsmängeln, Ersätzen oder sonstigen uneinbringlichen oder
+                    zweifelhaften Forderungen im Administrazionsbereiche des Kultus- und
+                    Unterrichtsministeriums bis zum Betrage von 6.000 fl CM mit Beistimmung des
+                    Finanzministeriums und des Generalrechnungsdirektoriums.<lb/>
+                    <hi rend="italic">§
+                        4. und 5.<lb/>Die Abschreibung uneinbringlicher und zweifelhafter
+                        Rückstände, jedoch letzterer nur dann, wenn entweder diese Abschreibung für
+                        die Fonds selbst vortheilhaft ist oder durch gültige Gründe vollkommen
+                        gerechtfertiget wird.<lb/>Nachlässe über uneinbringliche Mängel jedoch nur,
+                        wenn diese Nachlässe auf gerechten Gründen beruhen bis auf 6.000 fl und wenn
+                        die Hofkammer und das Generalrechnungsdirectorium damit einverstanden sind.
+                        Über höhere Posten ist ein Vortrag zu erstatten.</hi>
+                </p>
+                <p>§ 10.<lb/>Die definitive Besetzung aller systemisirten Dienstposten sowohl bei
+                    dem <rs type="org" ref="#org_0005">Ministerium</rs>
+                    selbst als bei den untergeordneten Behörden und Ämtern, in so weit eine solche
+                    Ernennung nicht Seiner k.k. Majestät vorbehalten oder den untergeordneten
+                    Behörden selbst überlassen ist.<lb/>Der allerhöchsten Ernennung Seiner k.k.
+                    Majestät werden mit Ausnahme der Vorstehersstellen bei den Hülfsämtern des
+                    Ministeriums alle Dienstesposten vorbehalten, welche in die VII. oder eine
+                    höhere Diätenklasse gehören.<lb/>
+                    <hi rend="italic">§ 35. Dienstbesetzungen mit
+                        Ausnahme der von Seiner Majestät sich vorbehaltenen Stellen. Dieser
+                        Vorbehalt erstreckt sich auf die Ernennung der Präsidenten, Vizepräsidenten,
+                        Hofräthe und Hofsekretäre der Hofstellen, der Gubernialräthe,
+                        Kreishauptleute und Delegaten, der Kammerprokuratoren, dann der
+                        Kreiskommissäre in dem Falle, wenn die Landes- und Hofstelle über das zu
+                        ernennende Individuum nicht einverstanden sind.</hi>
+                </p>
+                <p>§ 11.<lb/>a. Die Aufnahme provisorischer Beamten oder Diener.<lb/>b. Die Creirung
+                    provisorischer Dienstposten für die Zeit des unabweislichen Bedarfes und die
+                    Bemessung der diesfälligen Gehalte oder Löhnungen.</p>
+                <p>§ 12.<lb/>a. Die Aufnahme der Dienerschaft des <rs type="org" ref="#org_0005">Ministeriums</rs> nach
+                    Maßgabe des Bedarfes.<lb/>b. Aufnahme von Diurnisten und zeitlichen
+                    Aushülfsdienern bei erwiesener Nothwendigkeit und nur für die Dauer derselben
+                    sowohl für sich als die untergeordneten Behörden und in dem Falle, wenn die
+                    Gebühren aus dem Kammerale bestritten werden, im Einvernehmen mit dem
+                        Finanzministerium.<lb/>
+                    <hi rend="italic">§ 35. Ferner wird der Hofkanzley
+                        die Befugnis zur Aufnahme von Diurnisten und zeitlichen Aushilfsdienern bey
+                        erwiesener Nothwendigkeit und nur für die Dauer derselben, sowohl für sich
+                        als die unter untergeordneten Behörden, wobey jedoch in dem Falle, wo die
+                        Gebühren aus dem Camerale bestritten werden, das vorläufige Einvernehmen mit
+                        der Hofkammer gepflogen werden muß.</hi>
+                    <lb/>c. Die Gehaltserhöhungen für
+                    die nicht in die Klasse der eigentlichen Beamten gehörigen Diener, falls die
+                    Nothwendigkeit eine solche Erhöhung fordert, jedoch in so weit sie eine stehende
+                    Auslag bildet, nach vorläufig mit dem Finanzministerium gepflogenem
+                        Einvernehmen.<lb/>
+                    <hi rend="italic">§ 6. Gehalts- und Taglohnserhöhungen für
+                        die Dienerschaft oder anderes nicht in die Klasse der Beamten gehöriges
+                        Personale, wo die Nothwendigkeit solcher Erhöhungen wirklich eintritt,
+                        jedoch in so weit die Auslage das Kameralärar trifft, unter vorläufig mit
+                        der Hofkammer zu treffenden Rücksprache.</hi>
+                </p>
+                <p>§ 13.<lb/>a. Ertheilung von Belohnungen, Remunerazionen und Aushülfen an Beamte
+                    und Diener in Fällen ausgezeichneter, mit ungewöhnlicher Anstrengung und außer
+                    dem Kreise der ordentlichen Dienstverpflichtung geleisteter Dienste, in so weit
+                    eine solche Belohnung oder Aushülfe nicht mehr als 500 fl CM in jedem einzelnen
+                    Falle beträgt und &lt;innerhalb den durch § 8 ad b. und c. bezeichneten
+                        Gränzen.&gt;<note xml:id="note_5">Korrektur Thuns aus: die in dem Präliminare
+                        für solche Zwecke aufgenommene Jahressumme nicht überschritten
+                        wird.</note>
+                    <lb/>
+                    <hi rend="italic">§ 2. Belohnungen aus Kassen zu ertheilen,
+                        worüber der Kanzlei die Disposition zusteht und wenn sie 500 fl nicht
+                        übersteigen, jedoch unter der strengsten Verantwortung, daß nur bey höchst
+                        wichtigen besonderen Gründen vom Normali abgegangen werde.</hi>
+                    <lb/>b.
+                    Belohnungen und Remunerazionen auch von einem höheren Betrage, wenn sie schon
+                    seit einigen Jahren fortwährend bewilligt werden und die Beweggründe die
+                    nämlichen sind.<lb/>
+                    <hi rend="italic">§ 3. Belohnungen und Remunerationen auch
+                        von einem höheren Betrage, wenn sie schon seit einigen Jahren fortwährend
+                        bewilliget werden und die Bewegursachen die nämlichen sind.</hi>
+                </p>
+                <p>§ 14.<lb/>Die Bewilligung von Gehalts- und Lohnvorschüssen, Reise- und
+                    Übersiedlungsentschädigungen und sonstigen systemmäßigen Bezügen, nach Maß der
+                    diesfalls bestehenden Normen.</p>
+                <p>§ 15.<lb/>a. Die normalmäßige Jubilirung, Pensionirung, Provisionirung und
+                    Quieszirung derjenigen Beamten und Diener, deren Ernennung von der eigenen
+                    Wirksamkeit des Ministeriums abhängt.<lb/>
+                    <hi rend="italic">§ 1. Die Anweisung
+                        aller Pensionen, Provisionen, Erziehungsbeiträge, Abfertigungen und
+                        dergleichen, kurz aller Gebühren nach den bestehenden Vorschriften aus
+                        städtischen, ständischen und anderen der Leitung der Kanzley unterstehenden
+                        Fonden und Kassen, in so fern nicht die untern Behörden dazu berechtiget
+                        sind.</hi>
+                    <lb/>b. Die Anweisung aller normalmäßigen Pensionen,
+                    Abfertigungen, Provisionen, Erziehungsbeiträgen und sonstigen normalmäßigen
+                    Gebühren an die Angehörigen der Beamten und Diener, welche ihre Gehalte aus den
+                    der Administration des <rs type="org" ref="#org_0005">Kultus- und Unterrichtsministeriums</rs> unterstehenden Fonden und
+                    Anstalten beziehen und mit Rücksicht auf den Wirkungskreis der
+                        Unterbehörden.<lb/>
+                    <hi rend="italic">§ 36. Jubilationen solcher Beamter, die
+                        bloß wegen Alter oder erwiesener körperlicher Gebrechen in den Ruhestand
+                        gesetzt werden müssen und dabei genau nach den Pesnionsnormalien behandelt
+                        werden, in so fern sie keine solche Dienststelle bekleiden, deren Vergebung
+                        Seiner Majestät vorbehalten ist.</hi>
+                </p>
+                <p>§ 16.<lb/>Diensttauschbewilligungen nach Maßgabe der bestehenden Normen, in
+                    Ansehung aller Stellen, deren Besetzung dem Ministerium zusteht.<lb/>
+                    <hi rend="italic">§ 39. Die Diensttauschbewilligungen. Diese müssen aber nicht
+                        ohne besonders wichtige und dringende Ursachen und auch dann nur, wenn der
+                        Dienst dabei offenbar nichts verliert und kein Dritter gekränkt wird,
+                        ertheilt werden.</hi>
+                </p>
+                <p>§ 17.<lb/>Urlaubsertheilungen an Beamte, deren Anstellung Seiner Majestät
+                    vorbehalten ist, inner dem Zeitraume von 6 Monaten, für alle übrigen Beamten
+                    innerhalb eines Jahres. Dabei ist streng darauf zu sehen, daß sowohl bei
+                    Ertheilung des Urlaubes als der Zeitausmaß desselben, die Bedürfnisse des
+                    Dienstes genau beobachtet und der Urlaub nur dann und in so ferne ertheilt
+                    werde, als hinlängliche Gründe hiezu vorhanden sind und es die
+                    Dienstesrücksichten gestatten.<lb/>
+                    <hi rend="italic">§ 40. Die Beurlaubung
+                        derjenigen Beamten, deren Anstellung Seiner Majestät vorbehalten ist, inner
+                        dem Zeitraume von 6 Monaten im Innlande und 2 Monate im Auslande, für alle
+                        übrigen Beamte inner dem Zeitraume eines Jahres.</hi>
+                </p>
+                <p>§ 18.<lb/>Die Annahme freiwilliger Dienstesresignazionen mit gleichzeitiger
+                    Verzichtleistung auf Rang und Titel und Bezüge aller jener, deren Ernennung dem
+                    Ministerium zusteht.<lb/>
+                    <hi rend="italic">§ 37. Gewährung freiwilliger
+                        Dienstresigantionen mit alleiniger Ausnahme der Raths- und
+                        Kreishauptmannsstellen und aller, der so eben benannten gleichen und höheren
+                        Chargen.</hi>
+                </p>
+                <p>§ 19.<lb/>Die Ausübung der Disziplinargewalt über sämmtliche Beamte und Diener
+                    des <rs type="org" ref="#org_0005">Kultus- und
+                        Unterrichtsministeriums</rs> und der untergeordneten Behörden und
+                    Anstalten, deren Ernennung im Wirkungskreise des Ministeriums liegt, nach Maß
+                    der diesfalls bestehenden Gesetze.<lb/>
+                    <hi rend="italic">§ 38. Entlassung
+                        derjenigen Beamten, deren Benennung von der eigenen Wirksamkeit der
+                        Hofstelle abhängt.</hi>
+                </p>
+                <p>§ 20.<lb/>Die Erklärung der Verfügbarkeit der dem <rs type="org" ref="#org_0005">Kultus- und
+                        Unterrichtsministerium</rs> unterstehenden und nicht von Seiner k.k.
+                    Majestät angestellten Beamten mit Zugestehung des sogenannten
+                    Begünstigungsjahres, wenn Verwaltungsmaßregeln ihre Entbehrlichkeit herbeiführen
+                    oder fordern, daß sie außer Thätigkeit gesetzt werden.</p>
+                <p>§ 21.<lb/>Belobungen, Unterstützungen und Geldbelohnung bis zu dem Betrage von
+                    500 fl CM an Personen, welche dem Ministerium nicht unterstehen, aber sich
+                    rücksichtlich der Dienstzweige desselben besondere Verdienste erworben
+                        haben.<lb/>
+                    <hi rend="italic">§ 2. Belohnungen aus Kassen zu ertheilen,
+                        worüber der Kanzlei die Disposition zusteht und wenn sie 500 fl CM nicht
+                        übersteigen, jedoch unter der strengsten Verantwortung, daß nur bei höchst
+                        wichtigen besonderen Gründen vom Normali abgegangen werde.</hi>
+                </p>
+                <p>§ 22.<lb/>In Fällen, wo offenbare Gefahr auf dem Verzuge haftet, kann das
+                    Ministerium auch provisorische Verfügungen unter Anhoffung der allerhöchsten
+                    Genehmigung treffen, muß jedoch dieselben unverzüglich zur allerhöchsten
+                    Kenntnis bringen.<lb/>
+                    <hi rend="italic">§ 55. In Fällen, wo offenbare Gefahr auf
+                        dem Verzuge haftet, kann und soll zwar die Hofstelle, wie bisher auch,
+                        fernerhin vorgehen, es muß aber das, was unter Anhoffung der allerhöchsten
+                        Genehmigung veranlaßt worden ist, unverzüglich zur allerhöchsten Einsicht
+                        vorgelegt werden.</hi>
+                </p>
+                <p>§ 23.<lb/>In Fällen, wo eine Verhandlung in den Geschäftskreis mehrerer
+                    Ministerien oder des Generalrechnungsdirektoriums einschlägt, ist mit dieser das
+                    Einvernehmen zu pflegen und bei getheilten Meinungen, wenn eine Vereinigung
+                    nicht erzielt werden kann, die allerhöchste Schlußfassung Seiner k.k. Majestät
+                        einzuholen.<lb/>
+                    <hi rend="italic">§ 57. In Fällen, wo eine Verhandlung in
+                        den Geschäftskreis mehrerer Hofstellen einschlägt, ist mit diesen das
+                        Einvernehmen zu pflegen und, wenn getheilte Meinungen sich ergeben,
+                        vorläufig eine gemeinschaftliche Konzertation zu halten und nur dann, wenn
+                        sich keineswegs vereinigt werden könnte, das gemeinschaftliche Protokoll zur
+                        allerhöchsten Schlußfassung vorzulegen.</hi>
+                </p>
+                <p>&lt;II. Besonderer Wirkungskreis des <rs type="org" ref="#org_0005">k.k. Ministeriums für Cultus
+                        und Unterricht</rs>&gt;<note xml:id="note_6">Korrektur Thuns aus:
+                        Insbesondere</note>
+                    <lb/>A. In Kultusangelegenheiten, und zwar<lb/>a. in Angelegenheiten des
+                    katholischen Kultus</p>
+                <p>§ 1.<lb/>Dotation der Mendikantenklöster, dann der Frauenklöster, welche sich mit
+                    der Erziehung und dem Unterrichte der weiblichen Jugend befassen nach den bisher
+                    bestehenden Normen.<lb/>
+                    <hi rend="italic">§ 8. Aushilfen für Klöster und
+                        Bewilligung von Tischtiteln bey wichtigen Beweggründen und dem erhobenen
+                        Umstande, daß der Fond, den es betrifft, die Auslagen aus seinen
+                        Überschüssen bestreiten könne.</hi>
+                </p>
+                <p>§ 2.<lb/>Ergänzungen der Kongrua, wenn sie der Religionsfond zu leisten hat, wie
+                    auch die Bewilligung außerordentlicher geistlicher Unterstützungsbeiträge aus
+                    dem Religionsfonde für solche Seelsorger, welche kein Recht auf den Kongruabezug
+                    aus demselben haben, wenn ihre Einkünfte durch Steuern, Zehentverlust oder
+                    Herabsetzung der Intressen von Stiftungskapitalien geschmälert worden sind,
+                    jedoch nur bis zum Betrage der Kongrua.<lb/>
+                    <hi rend="italic">§ 9. Ergänzungen
+                        der Congrua, wenn sie der Religionsfond zu leisten hat, wie auch die
+                        Bewilligung außerordentlicher zeitlicher Subsistenzbeiträge aus dem
+                        Religionsfonde für solche Seelsorger, welche kein Recht auf den Congruabezug
+                        aus demselben haben, wenn ihre Einkünfte durch Steuern oder Herabsetzung der
+                        Interessen von der in öffentlichen Fonden anliegenden Stiftungskapitalien
+                        geschmälert worden sind – jedoch nur in besonders rücksichtwürdigen Fällen
+                        und höchstens bis zum Betrag der Congrua.</hi>
+                </p>
+                <p>§ 3.<lb/>Die Bewilligung von Defizientengehalten für Seelsorger, wenn ihre
+                    Untauglichkeit zur Verrichtung der Seelsorge und ihre Vermögenslosigkeit strenge
+                    erwiesen ist und wenn nicht eine zweckmäßige Vorsorge durch Aufstellung eines
+                    Hülfspriesters oder nach Umständen eines Pfarrprovisors getroffen werden kann –
+                    ferner Erhöhungen der bereits angewiesenen Defizientengehalte um 100, höchstens
+                    200 fl, endlich die Erhöhung der Pensionen für Individuen aufgehobener Klöster
+                    nach dem bisher beobachteten Maßstabe.<lb/>
+                    <hi rend="italic">§ 10. Die
+                        Bewilligung von Defizientengehalten für Seelsorger, wenn ihre Untauglichkeit
+                        zur Verrichtung der Seelsorge und ihre Vermögenslosigkeit strenge erwiesen
+                        ist und wenn nicht eine zweckmäßige Vorsorge durch Aufstellung eines
+                        Pfarrprovisors getroffen werden kann – ferner Erhöhungen der bereits
+                        angewiesenen Deficientengehalte um 50 fl, höchstens 100 fl CM bey
+                        zulänglichen Kräften des Religionsfonds, endlich die Erhöhung der Pensionen
+                        für Individuen aufgehobener Klöster nach dem bisher beobachteten
+                        Maßstabe.</hi>
+                </p>
+                <p>§ 4.<lb/>Die Erlaubnis, zu Prälatenwahlen schreiten zu dürfen für jene Stifte und
+                    Klöster, welche schon bisher Prälaten gehabt haben und sich über die Mittel der
+                    standesmäßigen Erhaltung gehörig ausweisen.<lb/>
+                    <hi rend="italic">§ 19. Die
+                        Erlaubnis zu Abtenwahlen schreiten zu dürfen für jene Stifte und Klöster,
+                        welche schon bisher Äbte gehabt haben und sich über die Mittel, den Abt
+                        standesmäßig unterhalten zu können gehörig ausweisen.</hi>
+                </p>
+                <p>§ 5.<lb/>Seine k.k. Majestät behalten sich vor: bloß die Ernennung der Bischöfe,
+                    der Stifts- und Titularprälaten, der Dignitäre und der Domherrn an den Dom- und
+                    Kollegialkapiteln so wie die Genehmigung derselben, in so ferne sie aus Wahlen
+                    hervorgehen, die Besetzung aller Pfarren wird den Stellen überlassen, da wo sie
+                    mit dem Vorschlage des Ordinariates einverstanden sind, sonst sind
+                    alleruntertänigste Vorträge an Seine k.k. Majestät zu erstatten.<lb/>
+                    <hi rend="italic">§ 20. Im geistlichen Fache behalten sich Seine Majestät vor:
+                        bloß die Ernennung der Bischöfe, Äbte und Domherrn, die Besetzung aller
+                        Pfarren wird den Stellen überlassen, da wo sie mit dem Vorschlage des
+                        Ordinariats verstanden sind, sonst müssen Vorträge an Seine Majestät
+                        erstattet werden.</hi>
+                </p>
+                <p>§ 6.<lb/>Die Regulirung des bestehenden Vermögens der geistlichen Pfründen,
+                    Korporazionen und Gemeinden, wo sie nothwendig sein sollte und nur nach den
+                    hierüber aufgestellten Grundsätzen und Vorschriften.<lb/>
+                    <hi rend="italic">§ 50.
+                        Die Regulirung des bestehenden Vermögens der geistlichen Pfründen,
+                        Corporationen und Gemeinden, wo sie nothwendig sein sollte und nur nach den
+                        im Allgemeinen hierüber aufgestellten Grundsätzen und Vorschriften.</hi>
+                </p>
+                <p>&lt;b. in Cultusangelegenheiten anderer Confessionen&gt;<note xml:id="note_7">Hinzufügung durch Thun</note>&lt;<lb/>§ 7. hat sich das <rs type="org" ref="#org_0005">Ministerium</rs>
+                    hinsichtlich seines Wirkungskreises vor der Hand an die bisherige Übung und an
+                    die Analogie dessen, was hinsichtlich des katholischen Cultus vorgezeichnet ist,
+                    zu halten.&gt;<note xml:id="note_8"> Korrektur Thuns aus: § 7. Beiträge für
+                        evangelische Pastoren und evangelische Schulhäuser nach den diesfalls
+                        bestehenden Vorschriften.</note>
+                    <lb/>
+                    <hi rend="italic">§ 11. Beiträge für
+                        evangelische Pastoren und evangelische Schulhäuser.</hi>
+                </p>
+                <p>&lt;B. In Unterrichtsangelegenheiten&gt;<note xml:id="note_9">Korrektur Thuns aus:
+                        Insbesondere in Unterrichts- und Kunstangelegenheiten.</note>
+                    <lb/> § 31. Die
+                    Besetzung der Lehrerstellen an Gymnasien und anderer auf gleicher Stufe
+                    stehenden Schulen, der Direktoren der Normalhauptschulen und der
+                    Präparandenkurse.<lb/>Seiner k.k. Majestät ist vorbehalten die Ernennung von:
+                    Professoren an den Universitäten, Rechtsakademien &lt;und andere auf gleicher
+                    Stufe stehenden Lehranstalten, an&gt;<note xml:id="note_10">Korrektur Thuns aus:
+                        und an anderen auf gleicher Stufe stehenden Anstalten, an
+                    den</note>technischen Instituten und Kunstakademien, die &lt;wirklichen
+                        Schulräthe&gt;<note xml:id="note_11">Hinzufügung durch Thun</note>, wirklichen
+                    Direktoren der &lt;Staats&gt;<note xml:id="note_12">Hinzufügung durch
+                    Thun</note>gymnasien, Realschulen und technischen Institute, dann der
+                        Schulenoberaufseher.<note xml:id="note_13">Anmerkung Thuns: Außer den im § 3
+                        des allgemeinen Wirkungskreises angedeuteten Individuen sind der
+                        allerhöchsten Ernennung vorbehalten: z.B. theologische Facultät zu
+                            <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>.</note>
+                </p>
+                <p>§ 32.<lb/>Die normalmäßige Jubilirung, Pensionirung, Provisionirung und
+                    Quieszirung der eben genannten Individuen, deren Ernennung im Wirkungskreise des
+                        <rs type="org" ref="#org_0005">Ministeriums</rs>
+                    liegt und die Annahme ihrer Dienstesresignationen.<lb/>
+                    <hi rend="italic">korrespondirt mit den §§ 15, 18 des neuen Entwurfes &lt;Comitéentwurf §
+                        3&gt;</hi>
+                    <note xml:id="note_14">Hinzufügung durch Thun</note>
+                </p>
+                <p>§ 33.<lb/>Die Ausübung der Disziplinargewalt über die im Lehrfache angestellten
+                    Personen nach Maßgabe der bestehenden Gesetze und Vorschriften.<lb/>
+                    <hi rend="italic">korrespondirt mit dem § 19 des neuen Entwurfes
+                        &lt;Comitéentwurf § 3&gt;</hi>
+                    <note xml:id="note_15">Hinzufügung durch
+                        Thun</note>
+                </p>
+                <p>§ 34.<lb/>Die Bestätigung der Universitätsrektoren und Dekane und die Zulassung
+                    der Privatdozenten.</p>
+                <p>§ 35.<lb/>Die Verleihung von Ärarialstipendien und Stiftungsgenüssen mit Ausnahme
+                    jener &lt;der allerhöchsten Verleihung vorbehaltenen&gt;<note xml:id="note_16">Hinzufügung durch Thun</note>in der theresianischen Akademie &lt;und dem
+                    k.k. Zivilmädchenpensionate in so fern sie nach&gt;<note xml:id="note_17">Hinzufügung durch Thun</note> den bisher bestehenden Anordnungen &lt;nicht
+                    den Unterbehörden überlassen ist – mit Ausnahme der Stiftsplätze in öffentlichen
+                    Knaben- und Mädchenconvicten, deren Besetzung Seiner Majestät vorbehalten
+                        ist.&gt;<note xml:id="note_18">Hinzufügung durch Thun</note>
+                    <lb/>
+                    <hi rend="italic">§ 33. Verleihung aller Stipendien genau nach dem Willen der
+                        Stifter und den bestehenden Anordnungen – mit Ausnahme der Stipendien oder
+                        Plätze in öffentlichen Erziehungsanstalten.</hi>
+                </p>
+                <p>§ 36.<lb/>Anschaffung von Lehrmitteln für Anstalten, die aus öffentlichen Fonden
+                    erhalten werden und Bewilligung von &lt;einmaligen Unterstützungen und
+                    Belohnungen für das Personale solcher Anstalten, desgleichen Bewilligung&gt;<note xml:id="note_19">Hinzufügung durch Thun</note>allerorts Stipendien und
+                    Unterstützungen zu wissenschaftlichen Reisen zur Heranbildung künftiger Lehrer
+                    &lt;innerhalb der durch § 8 bezeichneter Gränzen.&gt;<note xml:id="note_20">Hinzufügung durch Thun</note>
+                </p>
+                <p>§ 37.<lb/>Der Ausspruch, ob Lehranstalten, welche nicht aus öffentlichen Fonden
+                    erhalten werden, berechtigt seien, staatsgültige Zeugnisse auszustellen.</p>
+                <p>§ 38.<lb/>Die Entscheidung über vorzuschreibende oder zum Gebrauche zuzulassende
+                    Schulbücher.</p>
+                <p>§ 39.<lb/>Die Bewilligung des gewöhnlichen Ausstattungsbetrages für aus dem
+                    Civilmädchenpensionate austretende Stiftlinge, deren Verwendung und
+                    Wohlverhalten von der Vorsteherin belobt wird und welche als Erzieherinnen in
+                    ein Privathaus oder als Lehrerinnen in eine öffentliche Unterrichtsanstalt sich
+                        begeben.<lb/>
+                    <hi rend="italic">A.h. Entschließung vom 5/3 1826.</hi>
+                </p>
+                <p>§ 40.<lb/>Nachsicht des überschrittenen Normalalters für in die Theresianische
+                    Akademie und in das Civilmädchenpensionat aufzunehmende zahlende Zöglinge, nur
+                    wenn sie gegen den Antrag der Direkzion gewährt werden soll, ist Vortrag an
+                    Seine k.k. Majestät zu erstatten.<note xml:id="note_21">Anmerkung Thuns: § 41.
+                        Ernennung der Mitglieder der Staatsprüfungscommissionen im Sinne des neuen
+                        Entwurfes vom 30. Juli 1850</note>
+                    <lb/>
+                    <hi rend="italic">Allerhöchste
+                        Entschließungen vom 2/2 und 28/2 1850</hi>
+                </p>
+                <div xml:id="D84_1" type="enclosure">
+                    <p>Besonderer Wirkungskreis des <rs type="org" ref="#org_0005">k.k. Ministeriums für
+                            Cultus und Unterricht</rs>
+                        <lb/>A. In Cultusangelegenheiten und
+                        zwar:<lb/>a. In Angelegenheiten des katholischen Cultus<lb/>§
+                        1.<lb/>Dotation der Mendicanten etc. wie in dem Entwurf des
+                        Cultusministeriums bis incl. § 7.</p>
+                    <p>B. In Unterrichtsangelegenheiten<lb/>§ 8.<lb/>Die Ernennung der Lehrer an
+                        &lt;den aus öffentlichen Fonden dotirten&gt;<note xml:id="note_22">Hinzufügung
+                            durch Thun</note>Gymnasien und an andern auf gleicher Stufe stehenden
+                        Lehranstalten, der Directoren der Normalhauptschulen und der
+                        Präparandencurse.<lb/>Die Bestätigung der Directoren und Lehrer an Gymnasien
+                        und andern Mittelschulen, die nicht Staatslehranstalten sind.<lb/>Eine
+                        allerhöchste Ernennung sind vorbehalten: Die Professoren an den k.k.
+                        Universitäten, Rechtsakademien und andern in die nämliche Kategorie
+                        gehörenden k.k. Lehranstalten, an technischen Instituten und Kunstakademien,
+                        die wirklichen Schulräthe und Directoren an Staatsgymnasien, Realschulen, an
+                        technischen Instituten und Kunstakademien, dann die
+                            Schulenoberaufseher.<note xml:id="note_23">Anmerkung Thuns: theologische
+                            Facultät in <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>
+                        </note>
+                    </p>
+                    <p>§ 9.<lb/>Die Bestätigung der Universitätsrectoren und Dekane sowie die
+                        Zulassung der Privatdocenten.</p>
+                    <p>§ 10.<lb/>Die Ernennung der Commissionsmitglieder für theoretische
+                        Staatsprüfungen so wie der Commission zur Prüfung der
+                        Gymnasiallehramtscandidaten.</p>
+                    <p>§ 11.<lb/>Der Ausspruch, ob Lehranstalten, welche nicht aus öffentlichen
+                        Fonden erhalten werden, berechtiget seyen staatsgiltige Zeugnisse
+                        auszustellen.</p>
+                    <p>§ 12. Die Entscheidung über vorzuschreibende oder zum Gebrauche zuzulassende
+                        Schulbücher.</p>
+                    <p>§ 13.<lb/>Die Verleihung von Stipendien und Stiftungszeugnissen, in so ferne
+                        dieselbe nicht in den Wirkungskreis eines andern Ministeriums gehört, mit
+                        Ausnahme der Stiftplätze und öffentlichen Knaben- und
+                        Mädchenerziehungsanstalten, deren Verleihung Seiner Majestät vorbehalten
+                        ist.</p>
+                    <p>§ 14.<lb/>Die Nachsicht des überschrittenen Normalalters für die in die
+                        Theresianische Ritterakademie und in das Civilmädchenpensionat
+                        aufzunehmenden zahlenden Zöglinge. Nur wenn sie gegen den Antrag der
+                        Direction gewährt werden soll, ist Vortrag an Seine Majestät zu
+                        erstatten.</p>
+                    <p>§ 15.<lb/>Die Bewilligung des gewöhnlichen Ausstattungsbetrages für die aus
+                        dem Civilmädchenpensionate austretenden Stiftlinge, deren Verwendung und
+                        Wohlverhalten von der Vorsteherin belobt wird und welche als Erzieherinnen
+                        in ein Privathaus oder als Lehrerinnen in eine öffentliche
+                        Unterrichtsanstalt sich begeben.</p>
+                    <p>§ 16.<lb/>Die Anschaffung von Lehrmitteln für Anstalten, die aus öffentlichen
+                        Fonden erhalten werden, und die Bewilligung von außerordentlichen Stipendien
+                        und Unterstützungen zu wissenschaftlichen Reisen behufs der Heranbildung
+                        künftiger Lehrer innerhalb der im § 10 des allgemeinen Wirkungskreises
+                        bezeichneten Gränzen.<note xml:id="note_24">Anmerkung Thuns: vorausgesetzt,
+                            daß die beantragten Zusätze ad § 10 lit. a., b. und d. genehmigt
+                            werden.</note>
+                    </p>
+                </div>
+                <div xml:id="D84_2" type="enclosure">
+                    <p>
+                        <hi rend="ul">Bemerkungen</hi> über den Entwurf des Comité</p>
+                    <p>Zahl der §§ nach dem Entwurf des <rs type="org" ref="#org_0005">Cultusministeriums</rs>
+                    </p>
+                    <p>§ 1.<lb/>Der Absatz lit. d. „die Entscheidung der über ihre (der Gesetze)
+                        Anwendung entstehenden Streitigkeiten, wenn sie nicht vor die
+                        Gerichtsbehörden gehören“, wollte das Comité in dem <hi rend="ul">allgemeinen</hi> Wirkungskreis nicht aufnehmen.</p>
+                    <p>§ 20.<lb/>Die im § 20 vorkommende Verfügbarkeit wurde in Folge hohen
+                        Ministerratsbeschluß weggelassen.</p>
+                    <p>§ 3.<lb/>Da in diesem § die Diätenclasse VI. als Grenze nach oben festgesetzt
+                        ist, so wären in den speciellen Wirkungskreis § 31 (§ 9) die <hi rend="ul">wirklichen</hi> Schulräthe, die in die VII. Klasse gehören,
+                        aufzunehmen.<lb/>Ebenso die theologischen Professoren in
+                            <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>, welche die VIII. Diätenclasse
+                        haben.</p>
+                    <p>§ 5<lb/>Ad a. wird bemerkt, daß in der Instruktion für
+                        Finanzlandesdirectionen § 19 und 8 lit. a., c. dem letztern ein gleicher
+                        Wirkungskreis angewiesen ist, weshalb in dem Ministeriumwirkungskreise ein
+                        höherer Betrag angenommen werden muß.<lb/>Ad b. Siehe obigen § 19 und 7 lit.
+                        a., wo den Landesfinanzdirectionen ebenfalls 10.000 fl eingeräumt sind.</p>
+                    <p>§ 7.<lb/>Bemerkungen:<lb/>
+                        <hi rend="ul">Ad b.</hi> In dem Wirkungskreise für
+                        Finanzlandesdirectionen § 20 und 14 kommt ein gleicher Betrag [?] 1.000 fl
+                        vor. Daher für die Min. ein höherer Betrag anzunehmen wäre.</p>
+                    <p>§ 8.<lb/>
+                        <hi rend="ul">Ad a.</hi> Nach den Worten: erforderliche Dotation
+                        wäre einzuschalten: <hi rend="ul">„oder bei politischen Fonden und Anstalten
+                            der Dotationsabgang“</hi>.<lb/>Die <hi rend="ul">Mitwirkung</hi> des
+                        Finanzministeriums bei Voranschlägen führt die vor dem Jahr 1848 bestandene
+                        Übung zurück.<lb/>§ 8. b., c.<lb/>lit b. „die Bewilligung aller in das
+                        Präliminare aufgenommenen Ausgaben, in so ferne dieselben die in dem
+                        Voranschlage diesfalls ausgesetzten Summe nicht übersteigen oder die
+                        Übersteigung sich durch d<hi rend="ul">en geringen Aufwand bei andren Posten
+                            ausgleicht und daher keine Überschreitung der Dotation des ganzen
+                            Verwaltungskunstzweiges veranlaßt.“</hi>
+                        <lb/>lit. c. „Die Bewilligung
+                        einzelner in die Voranschläge nicht aufgenommenen Ausgaben für Zwecke, die
+                        in dem Wirkungskreise des <rs type="org" ref="#org_0005">Ministeriums</rs>
+                        liegen, und <hi rend="ul">in so ferne solche Ausgaben ihre Bedeckung
+                            innerhalb der Gesammtsumme des Präliminars des ganzen Verwaltungszweiges
+                            finden.“</hi>
+                    </p>
+                    <p>§ 10.<lb/>Die Bestimmungen dieses § lit. a. und d. sind den Anträgen des
+                        hierortigen Entwurfs § 8 lit. b. und c. entgegen.</p>
+                    <p>Hier muß man unterscheiden zwischen dem <hi rend="ul">Cameralfonde</hi>, aus
+                        welchem die Kosten der <hi rend="ul">Centralleitung</hi> (des Ministeriums
+                        für Cultus und Unterricht) und der <hi rend="ul">Landesschulbehörden</hi>
+                        bestritten werden, und den sogenannten <hi rend="ul">politischen Fonden und
+                            Anstalten</hi>, welche die Finanzen entweder gar nicht oder nur
+                        theilweise zur Deckung der Dotationsabgänge in Anspruch nehmen. Die
+                        Rücksprache mit dem Finanzministerium dürfte keinem Anstande unterliegen,
+                        wenn es sich um Ausgaben aus dem Cameralfonde handelt oder auch aus den
+                        erwähnten politischen Fonden, wenn dieselben die sub lit. c. bezeichneten
+                        Fälle betreffen.<lb/>Wollte man aber die sub a., b. und d. enthaltenen
+                        Bestimmungen auch auf die politischen Fonde anwenden, so wäre hiedurch das
+                        <rs type="org" ref="#org_0005">Cultus- und
+                            Unterrichtsministerium</rs> mehr beschränkt, als es vor dem Jahr
+                            <date>1848</date> die vereinigte Hofkanzlei und die Studienhofcommission
+                        waren. Denn würde einmal das Präliminare der politischen Fonde
+                        gemeinschaftlich mit einem Abgeordneten der ehemaligen Hofkanzlei berathen
+                        und festgestellt, so bildeten dann alle Fondsprälimarien und resp. die als
+                        Resultat entzifferten Abgänge das Conrectum und auch bei einer strengen
+                        Präliminarprüfung das Minimum des Credites der Finanzen für die bezeichneten
+                        Fondszweige. Inner diesem Minimum hat sich die bestandene
+                        Centralfondsverwaltung der ehemaligen Hofkanzlei (und Studienhofcommission)
+                        stets frei bewegt und den Finanzen doch keine Verlegenheit einer
+                        Nachtragsforderung bereitet.<lb/>Da nun nach den Bestimmungen des § 8 lit.
+                        a. die Feststellung der detaillirten Voranschläge nach vorausgegangener
+                        Berathung mit dem Finanzministerium geschehen soll, so wird die Aufgabe des
+                        letzern seyn hier die Schonung der Finanzen nach Thunlichkeit zu vertreten.
+                        Eine weitere Beschränkung quoad a., b. und d. wäre aber nicht
+                        gerechtfertiget und würde eine Menge unnützer Schreibereien verursachen.
+                        Würden die Einnahmen dieser Fonde an den Staat einfließen, d. i. wären die
+                        letztern incamerirt, dann wäre es wohl gerechtfertiget, in allen
+                        Zahlungsfragen über das Präliminare oder die bezügliche Rubrik hinaus nicht
+                        ohne Einvernehmen mit der Finanzverwaltung zu handeln.<lb/>Das bestehende
+                        Dotationssystem macht aber diese Umständlichkeit für die politischen Fonde
+                        und Anstalten überflüssig. Denn die politischen Fonde haben eine eigene
+                        Bedeckung; einige derselben bedürfen keiner Unterstützung durch die
+                        Staatsfinanzen, bei andern wird der Abgang <hi rend="ul">als Vorschuß gegen
+                            Ersatz</hi> aus dem Ärar bewilliget.<lb/>Endlich gibt es systemmäßige
+                        Ausgaben als Congruaergänzungen an Seelsorger und Schullehrer, Supplirungen
+                        etc., die sich quoad quantum nie genau präliminiren lassen.</p>
+                    <p>Ich erlaube mir daher ad a., b. und d. folgende Zusätze zu beantragen:<lb/>Ad
+                        a. <hi rend="ul">„mit Ausnahme der politischen Fonde und Anstalten, welche
+                            die Finanzen entweder gar nicht oder nur theilweise zur Deckung der
+                            Dotationsabgänge in Anspruch nehmen, wo eine Rücksprache mit dem
+                            Finanzministerium nur alsdann zu pflegen ist, wenn es sich um eine
+                            Überschreitung der Dotation des ganzen Verwaltungszweiges
+                        handelt.“</hi>
+                        <lb/>Zu d. wäre der Beisatz zu machen: <hi rend="ul">„Rücksichtlich der politischen Fonde und Anstalten gilt ad b. und d.
+                            die obige ad a gemeinschaftliche Bemerkung.“</hi>
+                        <lb/>
+                        <hi rend="ul">Bemerkung ad f.</hi> Statt des § 6 ist § 7 zu citiren. Denn: die
+                        Finanzlandesdirectionen können laut § 20 und 14 bis 1.000 fl. nachsehen.
+                        Siehe oben Bemerkung.<lb/>Ad § 7. Hier muß die Summe von 500 fl. wenigstens
+                        auf 1.500 fl. erhöhet werden.</p>
+                    <p>
+                        <hi rend="ul">Schlußbemerkung.</hi>
+                        <lb/>Der Repräsentant des Ministeriums des
+                        Innern hat in dem Wirkungskreis des letztern (als Polizeiministerium) auch
+                        nachstehende Bestimmung aufgenommen:<lb/>„Theilnahme des Ministerium des
+                        Innern bei Berufung von Ausländern zu Lehrämtern.“</p>
+                </div>
+            </div>
+        </body>
+    
+    <back><listOrg><org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Erzherzog Albrecht an Leo Thun, Debrezin, 5. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-thun-1858-05-05-a3-xxi-d451.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Andriewicz an Leo Thun, Czahor, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/andriewicz-an-thun-1859-11-05-a3-xxi-d524.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kritik an der Reform der Gymnasien und der Universitäten in Österreich von Ferdinand Arlt o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-gymnasien-universitaeten-von-arlt-o-d-a3-xxi-d185.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Bayer an einen Ministerialrat im Ministerium für Kultus und Unterricht, Hermannstadt, 28. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bayer-an-einen-ministerialrat-1853-03-28-a3-xxi-d196.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kritik von Samuel Schiel am reformierten Rekrutierungsgesetz o. O., o. D. [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bedenken-gegen-neues-rekrutierungsgesetz-von-schiel-o-d-a3-xxi-d480.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen zur Schulreform von Josef Kwieciński, Biala, 2. Oktober 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-zur-schulreform-von-kwiecinski-1850-10-02-a3-xxi-d73.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über die Maturitätsprüfungen an ungarischen Gymnasien im Schuljahr 1860 von Konrad Halder, Pest, 20. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-maturitaetspruefungen-an-ungarischen-gymnasien-von-halder_1860-08-20_a3-xxi-d602.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>August Bielowski an Leo Thun, Lemberg, 3. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bielowski-an-thun-1855-11-03-a3-xxi-d356.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Blazina an einen Professor [Anton Jaksch], Salzburg, 10. Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 4. Februar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-02-04-a3-xxi-d446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 19. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-19-a3-xxi-d521.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun Wien, 20. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-20-a3-xxi-d615a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>František Ladislaus Čelakovšký an Leo Thun, o. O., o. D. [post April 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Curtius an Hermann Bonitz, Prag, 27. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/curtius-an-bonitz-1853-12-27-a3-xxi-d245.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an Leo Thun, Wien, 10. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 6. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 1. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1853-01-01-a3-xxi-d188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwürfe, Akten und Stellungnahmen zur Ausarbeitung eines neuen Statutes der Universität Wien, o. D. [1854–1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwuerfe-statut-universitaet-wien_1857_a3-xxi-d407.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anweisungen Thuns zur Kundmachung der Regierungserlässe in Ungarn, Wien, o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-fuer-bekanntmachung-regierungserlaesse-in-ungarn-1858-a3-xxi-d484.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf eines Gesetzes für die Volksschulen Österreichs, o. D. [1850/51 ?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-volksschulen-od-a3-xxi-d651.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für die Grundzüge über das Gesetz für die Staatsprüfungen o. O., [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-grundzuege-gesetz-staatspruefungen-1849-a3-xxi-d24.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des kaiserlichen Patents für die Evangelischen Kirchen beider Bekenntnisse in Österreich [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-protestantenpatent-1859-a3-xxi-d541.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakte zur gesetzlichen Regelung der theologischen Studien an der Universität Pest 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-vorschrift-theologische-studien-universitaet-pest-1851-a3-xxi-d143.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und Unterricht o. O. o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-wirkungskreis-ministerium-fuer-kultus-und-unterricht-o-d-a3-xxi-d84.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-01-19-a3-xxi-d551.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Münster, 16.–20. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-09-16-a3-xxi-d612.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 1. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-11-01-a3-xxi-d623a6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Olmütz, 18. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1853-09-18-a3-xxi-d234.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Schwarzenberg an Leo Thun, Wien, 5. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gruener-an-schwarzenberg-1850-05-30-a3-xxi-d53.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 4 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-bischoefliche-kommissaere-von-kleemann-1856-a3-xxi-d383c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 9 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 17. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 3 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katecheten-von-kleemann-1856-a3-xxi-d383b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 13 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katholische-schulen-siebenbuergen-von-krombholz-1856-08-20-a3-xxi-d383k.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 6 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-konfessionell-gemischte-schulen-von-kleemann-1856-a3-xxi-d383e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-lehramtskandidaten-von-krombholz-1856-08-30-a3-xxi-d383p.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-leitung-von-schulen-von-krombholz-1856-08-15-a3-xxi-d383f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann und Marian Koller zu § 5 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-seelsorge-von-kleemann-und-koller-1856-a3-xxi-d383d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Ernst Harrach an Leo Thun, Hrádek, 7. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/harrach-an-thun-1853-09-07-a3-xxi-d229.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1850-07-12-a3-xxi-d60.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Haulik an Leo Thun, Agram, 13. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/haulik-an-thun-1860-11-13-a3-xxi-d623a5.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Carl Heiller an Leo Thun, Pressburg [Bratislava], 11. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heiller-an-thun-1850-06-11-a3-xxi-d56.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 29. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-29-a3-xxi-d237.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adalbert Henniger an Leo Thun, Czernowitz, 26. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/henniger-an-thun-1851-04-26-a3-xxi-d115.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun [, Hermannstadt, April 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-29-a3-xxi-d47.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 16. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1854-07-16-a3-xxi-d267.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Jülg an Leo Thun, Lemberg, 7. Januar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/juelg-an-thun-1852-01-07-a3-xxi-d151.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 27. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-27-a3-xxi-d227c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 6. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Wien, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Albert Kohn an Leo Thun, Raudnitz, 04. Oktober 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kohn-an-thun-1850-10-04-a3-xxi-d74.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kolenati-an-thun_1856-10-15_a3-xxi-d390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Krauss an das Ministerium für Kultus und Unterricht, Hünfeld, 14. Oktober 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/krauss-an-ministerium-fuer-kultus-und-unterricht-1851-10-14-a3-xxi-d126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 20. Februar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1850-02-20-a3-xxi-d35.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 8. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-07-08-a3-xxi-d595.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d606.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 13. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-13-a3-xxi-d611.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 15. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-10-15-a3-xxi-d620.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Lange an Leo Thun, Prag, 28. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1859-04-28-a3-xxi-d503.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Klattau an Leo Thun, Klattau [Klatovy], 1. Januar 1861</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-klattau-an-thun-1861-01-01-a3-xxi-d623a34.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 11. März 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1852-03-11-a3-xxi-d159.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Macher an Leo Thun, Krakau, 22. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/macher-ueber-dydynskische-stiftung-1860-09-22-a3-xxi-d613.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge von Johann Mikulas zur Neuordnung der Superintendenzen in Ungarn o. D. [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-neueinteilung-superintendenzen-1860-a3-xxi-d627.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Modifikationsentwurf zur Stellung kirchlicher Knabenseminare gegenüber den Staatsgymnasien o. O., o. D. [post Juni 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/modifikationsentwurf-stellung-kirchlicher-knabenseminare-zu-staatsgymnasien-1850-a3-xxi-d87.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun, Wien, o. D. [September 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Handschriftliche Notizen von Leo Thun zum Verfassungsentwurf für die evangelischen Kirchen von Karl Kuzmány o. O., o. D.[1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1850-a3-xxi-d94.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten o. O., 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-von-thun_1860-04-17_a3-xxi-d572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Wilhelm Pauli an das Ministerium für Kultus und Unterricht, Wien, 5. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Pebal an einen Ministerialrat im Ministerium für Kultus und Unterricht, Lemberg, 16. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pebal-an-einen-ministerialrat-1860-01-16-a3-xxi-d549.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Joseph Rajačić an Johann Dobran o. O., 23. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 7. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1850-03-07-a3-xxi-d36.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona,18. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1854-07-18-a3-xxi-d269.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rezension des Organisationsentwurfes für die Österreichischen Gymnasien in der Zeitschrift Religio Nr. 52–55 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rezension-organisationsentwurf-in-zeitschrift-religio-1851-a3-xxi-d144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ambrogio Robiati an Leo Thun, Mailand, 6. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/robiati-an-thun-1853-08-06-a3-xxi-d222.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rohanyi an Leo Thun, Gložan, 14. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rohanyi-an-thun-1854-10-14-a3-xxi-d292.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Schaguna an Kaiser Franz Joseph, Wien, 9. September 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Oscar Schmidt an Leo Thun, Graz, 4. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schmidt-an-thun-1859-04-04-a3-xxi-d501.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 22. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1859-12-22-a3-xxi-d533.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 15. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1860-01-15-a3-xxi-d548.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Schwarzenberg an Leo Thun, Prag, 30. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1854-08-30-a3-xxi-d278.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-01-a3-xxi-d296d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 23. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Steger an einen unbekannten Adressaten, Marburg, 25. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Strobach, Adalbert Stifter und Johann Kurz an Leo Thun, Linz, 24. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an einen polnischen Professor in, Wien, Lemberg, 30. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-polnischen-professor-1850-07-30-a3-xxi-d64.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Szeberinyi an Franz Joseph, Schemnitz, 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szeberinyi-an-franz-joseph-1860-02-08-a3-xxi-d560.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Szeberinyi an Leo Thun, Schemnitz, 7. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szebernyi-an-thun-1860-02-07-a3-xxi-d557.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Szögyény an Leo Thun o. O., 26. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Taaffe an Leo Thun, Wien, 15. Februar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>64 Thesen gegen die Kirchenbeschlüsse der Unkirchlichen in Ungarn o. O., o. D. [1859/60?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thesen-gegen-kirchenbeschluesse-protestanten-ungarn-od-a3-xxi-d490.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, o. O. [Wien], 3. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1854-05-03-ca940.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Hermann Bonitz, o. O., 9. August [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bonitz-1855-08-09-ca1011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Václav Vladivoi Tomek, Wien, 9. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns über einige Fragen der Universitätsreform o. O., o. D. [1852/53]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-universitaeten-1852-a3-xxi-d184.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht über die Kompetenzen und Agenden des Ministeriums für Kultus und Unterricht o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-wirkungskreis-mcu-od-a3-xxi-d635.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Virozsil an Leo Thun, Ofen, 27. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/virozsil-an-thun-1853-07-27-a3-xxi-d221.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Wacholz an Leo Thun, Lemberg, o. D. [Oktober 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wacholz-an-thun-1855-10-06-a3-xxi-d349.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Waldert an Leo Thun, Görkau [Jirkov], 22. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1853-09-22-a3-xxi-d236.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Vinařický an Leo Thun, Vyšehrad, 8. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Cajetan Wrana an Heinrich Johann Demel, Nikolsburg, 28. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wrana-an-demel-1852-02-28-a3-xxi-d157.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 22. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josephat Zielonacki an Leo Thun, Chwalbogowo, 22. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zielonacki-an-thun-1853-05-22-a3-xxi-d207.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zirkular Leo Thuns an sämtliche Referenten und Vorsteher der Hilfsämter des Ministeriums für Kultus und Unterricht hinsichtlich des Wirkungskreises des Militär- und Zivilgouverneurs von Ungarn, Wien, 12. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zirkular-thuns-an-referenten-und-vorsteher-der-hilfsaemter-unterrichtsministerium-1852-02-12-a3-xxi-d179.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg><listPlace><place xml:id="place_f2646aa02d03ac5a141ef404d919cd11">
+                        <placeName>Salzburg</placeName>
+                        <placeName type="pref">salzburg</placeName>
+                        <placeName type="alt">Salzburger</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.79941 13.04399</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2766824</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ottokar Attems an Leo Thun, Graz, 19. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/attems-an-thun-1859-07-19-a3-xxi-d513.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Blazina an einen Professor [Anton Jaksch], Salzburg, 10. Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesetzesentwurf über das Verfahren der Gerichtsbehörden zur Durchführung des allerhöchsten Patents vom 25. September 1850 o. D. [März 1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-verfahren-gerichtsbehoerden-1851-03-a3-xxi-d110.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Verfassungspatents für die gefürstete Grafschaft Tirol und Stellungnahmen Leo Thun dazu o. D. [1849/50]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verfassungspatent-tirol-1849-a3-xxi-d25.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für eine Verfassungspatent für die gefürstete Grafschaft Tirol und Stellungnahmen von Leo Thun dazu o. D. [1849/50]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verfassungspatent-tirol_1849_a3-xxi-d25.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und Unterricht o. O. o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-wirkungskreis-ministerium-fuer-kultus-und-unterricht-o-d-a3-xxi-d84.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1857-11-22-a3-xxi-d434.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 1. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Svetozar Kušević an Leo Thun, Zagreb, 24. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kusevic-an-thun-1851-02-24-a3-xxi-d105.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Paris, 22. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-01-22-a3-xxi-d552.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Mischler an Leo Thun, Prag, 25. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mischler-an-thun-1855-02-25-a3-xxi-d330.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Unbekannt [, Innsbruck], 6. Juni 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Steger an einen unbekannten Adressaten, Marburg, 25. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 17. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-07-17-a3-xxi-d597.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 8. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-11-08-a3-xxi-d623a3.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 22. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Brief von Ludwig Wiese an einen unbekannten Empfänger, Berlin, 5. Dezember 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wiese-an-unbekannt-1858-12-05-a3-xxi-d476.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Zobel an einen Professor, Prag, 5. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zobel-an-einen-professor-1853-02-05-a3-xxi-d189.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

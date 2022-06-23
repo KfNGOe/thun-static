@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stein-herstellung-valuta-oesterreich_1860_a3-xxi-d639.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorschlag von <rs type="person" ref="#stein-lorenz" key="stein-lorenz">Lorenz Stein</rs> für "Die
+                    Herstellung der Valuta in Österreich"<lb/>o. D. [1857/58?]<note>Es erscheint als möglich, dass der Vorschlag im Zusammenhang mit der
+                        Diskussion um eine Währungsreform in Österreich enstanden ist. Diese Reform
+                        wurde in den Jahren 1857/58 im Ministerrat diskutiert und im November 1858
+                        abgeschlossen.</note>
+                </title>
+            <title type="label">Vorschlag von Lorenz Stein für "Die Herstellung der Valuta in Österreich" o. D. [1857/58?]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F801-A</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D639</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Staatsrechtler und Nationalökonom Lorenz Stein legt ein Memorandum
+                            zur Einführung einer festen Währung in Österreich vor. Er schlägt dazu
+                            zwei Maßnahmen vor, nämlich die Aufnahme der Barzahlung sowie die
+                            Einführung eines festen Wechselkurses. Zur Deckung des Notengeldes
+                            schlägt er vor, dieses nicht allein an die Silbervorräte zu koppeln,
+                            sondern die Noten auch als Kassenscheine der Steuerleistung anzusehen,
+                            durch die sie gedeckt sind. Diese Kassenscheine sollen als Ersatz für
+                            120–150 Millionen Gulden benutzt werden und als Steuerzahlungsmittel
+                            fungieren. Eine Auslösung bei der Bank soll nicht erlaubt werden, so
+                            dass die Silbervorräte nicht belastet werden. Die Kassenscheine sollen
+                            so zum Verkehrsgeld werden, während die großen Noten bloßes Handelsgeld
+                            werden. Wichtig sei die Schaffung einer unabhängigen Nationalbank. Ein
+                            vom Kaiser ernannter Reichsrat solle die Bank überwachen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="ministerkonferenz">Ministerkonferenz</term>
+                    <term key="wahrungspolitik">Währungspolitik</term>
+                    <term key="finanzen">Finanzen</term>
+                </index>
+                <div>
+                    <p>
+                        <hi rend="ul">Die Herstellung der Valuta in Österreich</hi>
+                    </p>
+                    <p>Es ist <hi rend="ul">möglich</hi>, die feste Valuta in Österreich in kurzer
+                        Zeit und dauernd herzustellen. Dies kann aber nicht anders als durch
+                        Ineinandergreifen <hi rend="ul">zweier</hi> großen Maßregeln geschehen, die
+                        für sich betrachtet und durchgeführt werden müssen, wenn dies Ziel,
+                        entscheidend für die ganze Lage der Monarchie, erreicht werden soll.<lb/>Die
+                        Bedingung der Herstellung einer festen Valuta ist zuerst die Aufnahme der
+                            <hi rend="ul">Baarzahlung</hi>; dann die feste <hi rend="ul">Erhaltung</hi> der Bedingungen für diese Baarzahlung.<lb/>Keines von
+                        Beiden kann für sich allein genügen.<lb/>1. Die <hi rend="ul">Aufnahme</hi>
+                        der Baarzahlungen und damit den festen Cours des Papiergeldes ist absolut nur
+                        unter einer Bedingung möglich – Die gegenwärtige Notenmasse bildet ein
+                        ununterschiedenes Ganzes, das für das Publikum auf den Silbervorrath der
+                        Bank, als seine einzige wahre Sicherheit angewiesen erscheint.<lb/>Auf dem
+                        Mißverhältnis beider Elemente, der Notenmasse, und des Silbervorrathes
+                        beruht das Mißtrauen des Publikums, und es ist wohl zu bedenken, daß es so
+                        gut als unmöglich erscheint, den Silbervorrath <hi rend="ul">so groß zu</hi>
+                        machen – noch unmöglicher ihn so groß zu erhalten, daß er der <hi rend="ul">ganzen</hi> Notenmasse genügen könnte.<lb/>Man muß daher auch äußerlich
+                        die Notenmasse in <hi rend="ul">zwei</hi> Theile theilen, aus denen sie
+                        besteht.<lb/>Jede Note ist nämlich, da sie als Steuerzahlung bei
+                        öffentlichen Kassen angenommen wird, <hi rend="ul">zugleich</hi> ein
+                        Kassenschein. Jede Note hat demnach die Fundation durch die <hi rend="ul">Steuer neben</hi> der Fundation durch den Baarfond.<lb/>Die erstere kömmt
+                        aber nicht zum Bewußtsein, so groß sie auch ist – es handelt sich also
+                        darum, sie neben der Silberfundation zur Geltung zu bringen.<lb/>Dies
+                        geschieht, indem man erstlich eine Summe von 120–150 Millionen Gulden an
+                        Banknoten vertilgt, und statt derselben die <hi rend="ul">gleiche Summe</hi>
+                        in Kassenscheinen ausgibt.<lb/>
+                        <hi rend="ul">Zweitens</hi> diesen
+                        Kassenscheinen das ausschließliche Recht beilegt als Steuerzahlungsmittel
+                        gebraucht werden zu können, während man das Recht der Einlösung derselben
+                        bei der Bank aufhebt und dadurch die Silberfonde der Bank um das doppelte
+                        ihres Betrages liberiert,<lb/>
+                        <hi rend="ul">drittens</hi> die übrig
+                        bleibenden eigentlichen Banknoten von c. 300 Millionen Gulden ausschließlich
+                        auf den Silbervorrath der Bank anweißt.<lb/>
+                        <hi rend="ul">viertens</hi> alle
+                            <hi rend="ul">kleine Noten</hi> bis 50 fl aufhebt und statt diesen
+                        Kassenscheine ausgiebt, während die Bank nur große Noten von mindestens 50
+                        f. ausgeben darf.<lb/>Als dann wird das kleine Papiergeld anfangen, eine
+                        wesentliche andere Funktion zu haben und auf einer wesentlich andern
+                        Fundation zu ruhen als das große.<lb/>Die Note wird <hi rend="ul">Handelsgeld</hi>, der Kassenschein wird <hi rend="ul">Verkehrsgeld</hi>, und damit würde die Valuta sich herstellen lassen, da
+                        die Bank Silber genug hat, um den Cours ihrer Noten auf pari zu bringen,
+                        wenn die Kassenscheine davon geschieden sind.<lb/>2. Allein eben so wichtig
+                        ist die zweite Aufgabe, diese Ordnung der Valuta, wenn sie hergestellt wird,
+                        so zu basiren, daß sie als eine <hi rend="ul">dauernde</hi> erscheint; denn
+                        ohne dies kann die Bank auch jene eigentlichen Noten nicht gegen Entwährung
+                        durch Agioactionen gegen ihre Baarfonds schützen.<lb/>Diese dauernde
+                        Begründung der Valuta kann nur dadurch geschehen, daß die Nationalbank
+                        gänzlich von den Finanzen <hi rend="ul">getrennt wird.</hi>
+                        <lb/>Eine solche
+                        Trennung ist verhältnismäßig leicht herzustellen. Die einmal hergestellte
+                        Trennung allein, nützt aber nichts, da es schwer sein wird, den
+                        Glauben festzuhalten, daß der Staat bei jedem vorkommenden Falle nicht
+                        sofort wieder trotz des Unterschiedes zwischen Noten und Kassenscheinen eine
+                        Papier-Anleihe gegen Schuldscheine bei der Bank erreichen wird, um so eher,
+                        je besser gerade der Cours der Noten steht.<lb/>Es muß daher die Bank unter
+                        eine, nicht von der Regierung sondern von den Actionären selbst eingesetzten
+                        Direktion gestellt werden.<lb/>Diese Maßregel würde aber wieder nur eine
+                        halbe sein, da auch eine solche Direktion als wehrlos erscheinen
+                        dürfte.<lb/>Dieselbe muß sich daher an ein <hi rend="ul">anderes Organ</hi>
+                        anschließen können, welches über jeder Velleität erhaben ist.<lb/>Ein
+                        solches Organ kann <hi rend="ul">nur der Reichsrath</hi> sein – in welchem
+                        daher, man mag ihn wie immer einrichten, ein eigener Ausschuß für die Bank
+                        eingesetzt werden müßte, dem die Verwaltung derselben unter seiner
+                        persönlichen Verantwortung führt.<lb/>Dies kann aber in der öffentlichen
+                        Meinung <hi rend="ul">nur</hi> dann mit Erfolg geschehen, wenn der
+                        Reichsrath zugleich das oberste Organ der <hi rend="ul">Volksvertretung</hi>
+                        wird, wozu er am Ende berufen ist.<lb/>Österreich ist nicht fähig, eine
+                        Volksvertretung zu haben, die auf einer wie immer formulierten Wahl
+                        beruht.<lb/>Österreichs Volksvertretung kann <hi rend="ul">nur</hi> dadurch
+                        entstehen, daß nicht die Völker sondern <hi rend="ul">der Kaiser</hi> die
+                        Personen wählt, welche den Reichsrath zu bilden haben.<lb/>Die Zahl seiner
+                        Mitglieder müßte alsdann <hi rend="ul">über hundert</hi> ausmachen. Von
+                        dieser Anzahl hätte mindestens ein Fünftheil aus Personen zu bestehen, die
+                        sich durch politische oder administrative Opposition auszeichnen, und die
+                        als <hi rend="ul">gefährlich</hi> bezeichnet werden könnten.<lb/>Die
+                        kaiserliche Wahl müßte in bestimmten Zeiträumen erneuert, aber unwandelbar
+                        nach dem obigen Prinzip vorgenommen werden.<lb/>Die Sitzungen wären mit dem
+                        Gesammt Ministerium abzuhalten.<lb/>Eine der <hi rend="ul">ersten
+                            Functionen</hi> dieses Reichsrathes würde sein, sich jenen Bankausschuß
+                        aus seiner Mitte zu wählen, der nicht etwa die Geschäfte, sondern nur die
+                        Sicherheit der Bank zu besorgen, und alle Jahre einen öffentlichen Bericht
+                        abzustatten hätte.<lb/>Die Geschäfte der Bank wären den Kaufleuten wie
+                        bisher zu überlassen.<lb/>Gut würde es sein, wenn ein <hi rend="ul">zweiter</hi> Ausschuß für die Kassenscheine eingesetzt wird.<lb/>Auf
+                        diese Weise dürfte die schnelle und sichere Herstellung der Valuta kaum
+                        irgend einem gegründeten Zweifel unterliegen.</p>
+                    <p>L. Stein.</p>
+                </div>
+            </div>
+        </body>
+    <back><listPerson><person xml:id="stein-lorenz">
+                        <persName>
+                            <surname>Stein</surname>
+                            <forename>Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Borby bei Eckernförde 1815–1890 Hadersdorf-Weidlingau</p>
+                            <p>1846–1852 Prof. für Staatswissenschaften an der Universität Kiel,
+                                1855–1885 Prof. der Staatswissenschaften an der Universität Wien</p>
+                            <p>https://d-nb.info/gnd/118617281</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118617281</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 18. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1854-11-18-a3-xxi-d300.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesprächsnotiz von Leo Thun, o. O., [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1855-a3-xxi-d321.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Professorenkollegium der Universität Wien an Leo Thun, Wien, 21. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/professorenkollegium-wien-an-thun-1860-10-21-a3-xxi-d623a9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschlag von Lorenz Stein für "Die Herstellung der Valuta in Österreich" o. D. [1857/58?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stein-herstellung-valuta-oesterreich_1860_a3-xxi-d639.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Lorenz von Stein o. O., 29. Mai [o. J.]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Lorenz von Stein o. O., 24. März [1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-1854-03-24-ca851.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

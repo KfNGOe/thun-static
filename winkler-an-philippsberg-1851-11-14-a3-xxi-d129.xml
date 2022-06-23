@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#winkler-anton" role="sender:gelehrter">Anton
+                        Winkler</rs> an <rs type="person" ref="#philippsberg-eugen" role="recipient">Eugen Philippsberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when-iso="1851-11-14">14. November 1851</date>
+                </title>
+            <title type="label">Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D99E-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D129</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Mathematiker Anton Winkler übermittelt dem österreichischen Gesandten
+                            in Karlsruhe, Eugen Philippsberg, ein für Friedrich Thun bestimmtes
+                            Schreiben mitsamt einem Bittgesuch an das Ministerium für Kultus und
+                            Unterricht. Winkler bittet darin um eine Anstellung als Professor für
+                            Mathematik. Er bedankt sich schließlich bei Philippsberg, dass er ihn
+                            mit Friedrich Thun bekannt machte und bittet ihn um Unterstützung bei
+                            seinem Ansuchen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage:<lb/>Ein Brief von <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Anton Winkler an Friedrich Thun. Karlsruhe, 11. November
+                                1851.</ref>
+                            <note xml:id="note_1">Der Brief mit Beilage wurde eigens
+                                aufgenommen.</note>
+                            <lb/>Dieser sowie weitere Briefe in dieser
+                            Angelegenheit sind im Nachlass unter der Signatur A3 XXI D129
+                            zusammengefasst.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#winkler-anton">Anton Winkler</rs>
+                    <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
+                    <date when-iso="1851-11-14">14. November 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#philippsberg-eugen">Eugen Philippsberg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="personalfragen">Personalfragen</term>
+                    <term key="universitat">Universität</term>
+                    <term key="mathematik">Mathematik</term>
+                </index>
+                <p>Hochwohlgeborner Herr,<lb/>Hochverehrtester Herr Legationsrath!</p>
+                <p>Euer Hochwohlgeboren gütiger Erlaubnis zufolge habe ich hiermit die Ehre, Ihnen
+                    ein Schreiben an Seine Excellenz den Bundespräsidialgesandten, Herrn <rs type="person" ref="#thun-hohenstein-friedrich">Grafen <hi rend="ul">von
+                        Thun</hi>
+                    </rs>, in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> und eine Eingabe
+                    an das hohe k.k. Ministerium des Unterrichts, worin ich um gnädige Aufnahme in
+                    k.k. Dienste als Lehrer der Mathematik zu bitten mir die Freiheit nehme, mit der
+                    ergebensten Bitte um hochgefällige Beförderung an den Herrn <rs type="person" ref="#thun-hohenstein-friedrich">Grafen von Thun</rs> Excellenz zu
+                        übersenden.<note xml:id="note_2">Vgl. den Brief <ref target="thun/thun-korrespondenz/tetschen/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml">Anton Winklers an Friedrich Thun vom 11. November 1851</ref> sowie die
+                        dort beigelegte Eingabe an das Ministerium für Kultus und Unterricht mit
+                        demselben Datum.</note>
+                    <lb/>Indem ich Euer Hochwohlgeboren meine schuldige
+                    herzliche Danksagung für die Güte und Freundlichkeit, womit Sie mir Gelegenheit
+                    gaben, <rs type="person" ref="#thun-hohenstein-friedrich">jenem hohen Herrn</rs>
+                    meine Aufwartung machen und meine Wünsche vortragen zu können, ergebenst
+                    wiederhole, erlaube ich mir noch die Bitte um Ihre hochgeneigte Unterstützung
+                    der gehorsamsten Eingabe, in welcher ich auf Euer Hochwohlgeboren mich zu
+                    beziehen die Freiheit mir genommen habe.<lb/>In größter Hochachtung habe ich die
+                    Ehre zu sein</p>
+                <p>Euer Hochwohlgeboren</p>
+                <p>dankbarster<lb/>Dr. A. Winckler</p>
+                <p>Carlsruhe, 14. November 1851</p>
+            </div>
+        </body>
+    
+    <back><listPlace><place xml:id="place_2126faa64bfa66d02e06345d06e61a25">
+                        <placeName>Karlsruhe</placeName>
+                        <placeName type="pref">karlsruhe</placeName>
+                        <placeName type="alt">dahier</placeName>
+                        <placeName type="alt">Carlsruhe</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.00937 8.40444</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2892794</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift des Artikels „Die evangelische Kirche Deutschlands und ihre
+                Lebensfragen im Jahr 1849“ eines nicht genannten Autors aus der Allgemeinen
+                Kirchenzeitung, 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-allgemeine-kirchenzeitung_1850_a3-xxi-d91.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 8. August 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Zell an Leo Thun, Heidelberg, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zell-an-thun-1849-12-31-a3-xxi-d21.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+                        <placeName>Frankfurt am Main</placeName>
+                        <placeName type="pref">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Frankfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt a. M.</placeName>
+                        <placeName type="alt">Francfurt</placeName>
+                        <placeName type="alt">Francoforte</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.1497921 8.6662762</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4018118-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Cajetan Bissingen an Leo Thun, Schramberg in Württemberg, 22. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1854-09-22-a3-xxi-d285.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Josef Blum an Joseph Othmar Rauscher, Limburg, 23. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/blum-an-rauscher-1854-08-23-a3-xxi-d277.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Ratibor, 30. August 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1849-08-30-a3-xxi-d5.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis-1854-a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Laurenz Hannibal Fischer an Leo Thun, Frankfurt, 30. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fischer-an-thun-1855-11-30-a3-xxi-d354.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Laurenz Hannibal Fischer an Leo Thun, Frankfurt, 3. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fischer-an-thun-1855-12-03-a3-xxi-d357.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Bamberg, 7. Dezember 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1851-12-07-a3-xxi-d133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Dreis, 10. Oktober 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1855-10-10-a3-xxi-d350.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 18. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-01-04_a3-xxi-d394.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 5. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-04-05-a3-xxi-d161.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Wilhelm Pauli an das Ministerium für Kultus und Unterricht, Wien, 5. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Oskar Redwitz an Leo Thun, Wien, 22. Dezember 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/redwitz-an-thun-1851-12-22-a3-xxi-d138.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Kaiser Franz Joseph, Linz, 18. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1854-12-01-a3-xxi-d305.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="winkler-anton">
+                        <persName>
+                            <surname>Winkler</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Riegel am Kaiserstuhl 1821–1892 Semmeringpass</p>
+                            <p>ab 1847 Assistent der Mathematik am Polytechnikum in Karlsruhe,
+                                1853–1859 Prof. der praktischen Geometrie am Polytechnikum in Brünn,
+                                1858–1866 Prof. für höhere Mathematik am Joanneum in Graz</p>
+                            <p>https://d-nb.info/gnd/110341449</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/110341449</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kolenati-an-thun_1856-10-15_a3-xxi-d390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="philippsberg-eugen">
+                        <persName>
+                            <surname>Philippsberg</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1893</p>
+                            <p>österr. Legationsrat, 1851–1855 Gesandter in Karlsruhe</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

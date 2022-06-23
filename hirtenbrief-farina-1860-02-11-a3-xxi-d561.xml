@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-06-20-a3-xxi-d593.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-haynald-1854-11-22-a3-xxi-d301.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hirtenbrief von Giovanni <rs type="person" ref="#farina-giovanni-antonio">Antonio Farina</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_9fa41ec12d99720833b10d3a9ab6a5cb">Treviso</rs>,
+                    <date when-iso="1860-02-11">11. Februar 1860</date>
+                </title>
+            <title type="label">Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBB5-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D561</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Treviso, Giovanni Antonio Farina, fordert die Gläubigen
+                            in seinem Bistum zum Gebet und zur Einkehr in der bevorstehenden
+                            Fastenzeit auf.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Italienisch.</p>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="farina-giovanni-antonio">
+                        <persName>
+                            <surname>Farina</surname>
+                            <forename>Giovanni Antonio</forename>
+                        </persName>
+                        <note>
+                            <p>Gambellara 1803–1888 Vicenza</p>
+                            <p>1850–1860 Bischof von Treviso, ab 1860 Bischof von Vicenza, 2001
+                                seliggesprochen</p>
+                            <p>https://d-nb.info/gnd/11885402X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/11885402X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giovanni Antonio Farina an Leo Thun, Treviso, 20. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
+                        <placeName>Treviso</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66673 12.2416</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3165201</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giovanni Antonio Farina an Leo Thun, Treviso, 20. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 1. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

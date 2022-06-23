@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:base="https://id.acdh.oeaw.ac.at/thun/meta" xml:id="how-to-use.xml" prev="https://id.acdh.oeaw.ac.at/thun/meta/about.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Benutzerhinweise zur Digitalen Edition</title>
+                <author>
+                    <persName>
+                        <forename>Christof</forename>
+                        <surname>Aichner</surname>
+                    </persName>
+                </author>
+                <respStmt>
+                    <resp>In XML kodiert von</resp>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+                <funder>Fonds zur Förderung der wissenschaftlichen Forschung (FWF)</funder>
+                <funder>
+                    <ref target="http://www.uibk.ac.at/">Universität Innsbruck</ref>
+                </funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Projektteam: Die Korrespondenz von Leo von Thun-Hohenstein.
+                    Projektleitung <name>
+                        <ref target="http://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/univ-prof/mazohl-brigitte/">Brigitte Mazohl</ref>
+                    </name>
+                </publisher>
+                <pubPlace>
+                    <ref target="http://thun-korrespondenz.uibk.ac.at/">http://thun-korrespondenz.uibk.ac.at/</ref>
+                </pubPlace>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/3.0/">
+                        <p>The (CC BY-SA 3.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any
+                            medium or format) and adapt (remix, transform, and build upon the
+                            material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and
+                            indicate if changes were made. You may do so in any reasonable manner,
+                            but not in any way that suggests the licensor endorses you or your
+                            use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you
+                            must distribute your contributions under the same license as the
+                            original.</p>
+                    </licence>
+                </availability>
+                <date when-iso="2020-11-25">Herbst 2020</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+                <p>Written by <name>Christof Aichner</name>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Wie sind die einzelnen Dokumente aufgebaut?</head>
+                <p>Die einzelnen Dokumente bestehen aus einem Titel, einem Regest, Anmerkungen zum
+                    Dokument, den mit dem Text verbundenen Schlagworten, dem Text/den Texten selbst
+                    sowie einem Fußnotenapparat.</p>
+                <p>Der <hi rend="bold">Titel</hi> setzt sich bei Briefen aus dem Absender, dem
+                    Adressaten sowie dem Entstehungsort und Datum des Briefes zusammen. Handelt es
+                    sich nicht um Briefe, wurde von den BearbeiterInnen ein Titel für diese
+                    Dokumente vergeben. Diese weichen teilweise von jenen, die die Dokumente im
+                    Nachlass tragen ab, weil diese entweder falsch oder wenig aussagekräftig waren.
+                    Anmerkungen zu fehlenden, falschen oder erschlossenen Angaben finden sich
+                    jeweils in Fußnoten.<lb/>Die <hi rend="bold">Regesten</hi> geben den Inhalt der
+                    Texte wieder.<lb/>In den <hi rend="bold">Anmerkungen</hi> finden Sie Hinweise
+                    zur verwendeten Sprache, falls diese nicht Deutsch ist, zu Besonderheiten des
+                    Textes, wie etwa Eigenheiten des Schreibers und zum Aufbau eines Dokumentes.
+                    Außerdem sind dort eventuelle Beilagen vermerkt. Sie finden hier überdies,
+                    sofern eine Signatur aus mehreren Dokumenten besteht, eine Übersicht über die
+                    unter der Signatur abgelegten Texte. Zu diesen Dokumenten gelangen Sie jeweils
+                    durch Anklicken.<lb/>Die <hi rend="bold">Schlagworte</hi> wurden von den
+                    Bearbeitern gewählt. Durch Anklicken eines Schlagwortes erhalten Sie alle
+                    Dokumente, die ebenfalls mit diesem Schlagwort versehen sind.<lb/>Im Abschnitt
+                        <hi rend="bold">Text</hi> finden Sie den oder die transkribierten Texte. Zu
+                    den dabei angewandten Editionsrichtlinien finden Sie <ref target="about.html">hier</ref> die notwendigen Informationen.<lb/>Am Ende des Textes findet
+                    sich der <hi rend="bold">Fußnotenapparat</hi> sowie die <hi rend="bold">Signatur</hi> des Dokuments.</p>
+            </div>
+            <div>
+                <head>Welche weiterführenden Informationen bieten die Texte?</head>
+                <p>In den Texten sind die erwähnten Personen, Orte, Institutionen blau markiert.
+                    Durch Anklicken erhalten Sie die weiterführende Informationen, die mit der
+                    Person, der Ort oder der Institution verbunden sind. Außerdem erhalten Sie durch
+                    Anklicken von „erwähnt in“ eine Liste mit allen anderen Dokumenten, in denen die
+                    Person, der Ort oder die Institution vorkommt. Durch Anklicken der verknüpften
+                    Normdaten gelangen Sie zu den Einträgen in den entsprechenden
+                    Datenbanken.<lb/>Bei Anklicken des Pfeilsymbols unterhalb des Titels jeden
+                    einzelnen Dokuments wird Ihnen der in XML/TEI ausgezeichnete Quellcode
+                    angezeigt.</p>
+            </div>
+            <div>
+                <head>Wie kann ich die Edition benutzen?</head>
+                <p>Sie haben unterschiedliche Möglichkeiten, auf die Dokumente in der Edition
+                    zuzugreifen: Über den Reiter Bestände, über die einzelnen Register sowie über
+                    die Volltextsuche.</p>
+                <div>
+                    <head>Zugriff über den Reiter Bestände</head>
+                    <p>Eine Möglichkeit besteht darin, über den Reiter Bestände im Nachlass nach
+                        Briefen und Dokumenten zu suchen. Sie haben dabei die Wahl zwischen dem
+                        Bestand des Nachlasses von Leo Thun-Hohenstein, dem Bestand von dessen
+                        Autographen sowie dem gesamten Bestand.<lb/>Die Briefe dort sind in der
+                        Grundeinstellung alphabetisch nach dem Absender geordnet. Durch Anklicken
+                        einer Rubrik (Absender, Empfänger, Ausstellungsort, Datum) können Sie die
+                        Anordnung der Briefe entsprechend ändern, sodass Sie nach der von Ihnen
+                        gewählten Rubrik sortiert werden. Sie können in der jeweiligen Rubrik
+                        außerdem gezielt suchen, indem Sie das Suchfeld in der jeweiligen Spalte
+                        verwenden. Zu einem Dokument selbst gelangen Sie, indem Sie auf das
+                        PLUS-Zeichen klicken und dort auf den blau eingefärbten Dateinamen
+                        klicken.</p>
+                </div>
+                <div>
+                    <head>Zugriff über die Register</head>
+                    <p>Das <hi rend="bold">Personenregister <ptr target="listperson.html"/>
+                        </hi> ist
+                        alphabetisch aufgebaut, allerdings haben Sie die Möglichkeit nach den
+                        einzelnen Rubriken zu sortieren. Der Aufbau des Registers folgt dem Schema:
+                        Nachname, Vorname, Lebensdaten, Kurzbiographie. Durch Anklicken des
+                        PLUS-Zeichens erhalten Sie zudem die mit dem Eintrag verknüpften Normdaten.
+                        Das Register umfasst etwa 2200 Einträge. Bei Anklicken eines Namens werden
+                        Ihnen sämtliche Dokumente aufgelistet. Bei Anklicken des PLUS-Zeichens
+                        erhalten Sie eine Vorschau der Textstelle, in denen dieser Name vorkommt.
+                        Auch hier gelangen Sie wieder zum vollständigen Dokument, indem Sie auf den
+                        Dateinamen klicken.<lb/>Sie können in der Personenliste auch gezielt nach
+                        Namen suchen, indem Sie das Suchfeld direkt über den einzelnen Einträgen
+                        nutzen.</p>
+                    <p>Im <hi rend="bold">Ortsregister</hi> haben Sie zwei Möglichkeiten des
+                        Zugriffes: entweder über das Anklicken eines Ortes auf der Karte oder über
+                        das alphabetisch sortierte Register. Die Sortierung findet dabei in der
+                        Grundeinstellung auf der Grundlage der normalisierten Ortsnamen statt. Sie
+                        finden daneben aber auch alle alternativen Schreibweisen, die im Bestand
+                        vorkommen. Bei Anklicken eines Namens werden Ihnen sämtliche Dokumente, in
+                        denen dieser Ortsname vorkommt, aufgelistet. Auch hier gelangen Sie wieder
+                        zum vollständigen Dokument, indem Sie auf den Dateinamen klicken.<lb/>Sie
+                        können in der Ortsliste auch gezielt nach einem Ort suchen, indem Sie das
+                        Suchfeld direkt über den einzelnen Einträgen nutzen.</p>
+                    <p>Das <hi rend="bold">Institutionenregister</hi> ist alphabetisch sortiert. Sie
+                        können die Sortierung durch Anklicken der Rubrik ändern. Falls vorhanden,
+                        sind auch die einzelnen Institutionen mit Normdaten verknüpft. Bei Anklicken
+                        eines Namens werden Ihnen sämtliche Dokumente, in denen diese Institution
+                        genannt wird, aufgelistet. Bei Anklicken eines Dokuments wird Ihnen dann
+                        eine Vorschau der entsprechenden Textstelle angezeigt. Zum vollständigen
+                        Dokument gelangen Sie, indem Sie auf den Dateinamen klicken. Sie können in
+                        der Liste gezielt nach einer Institution suchen, indem Sie das Suchfeld
+                        direkt über den einzelnen Einträgen nutzen.</p>
+                    <p>Das <hi rend="bold">Schlagwortregister</hi> ist alphabetisch sortiert. Bei
+                        Anklicken eines Schlagwortes werden Ihnen sämtliche Dokumente aufgelistet,
+                        für die dieses Schlagwort gewählt wurde. Sie können in der Liste auch
+                        gezielt nach einem Schlagwort durchsuchen, indem Sie das Suchfeld direkt
+                        über den einzelnen Einträgen nutzen.</p>
+                </div>
+                <div>
+                    <head>Die Verwendung der Suche</head>
+                    <p>Die letzte Möglichkeit zum Zugriff besteht schließlich über die <hi rend="bold">Volltextsuche</hi>. Sie finden das entsprechende Suchfeld
+                        auf jeder Seite in der Kopfzeile oben rechts (Suche in allen Dokumenten).
+                        Dabei müssen Sie indes beachten, dass durch unterschiedliche Schreibungen im
+                        19. Jahrhundert diese Suche oft nicht zu allen möglichen Treffen führt. Sie
+                        können die Suche aber verbessern, indem Sie Platzhalter für einzelnen oder
+                        mehrere Buchstaben verwenden. Eine Suche von Jose* zeigt Ihnen
+                        beispielsweise Treffer für Joseph, Josef, Josefowicz, josephinisch usw. an.
+                        Die Trefferliste ist nach Relevanz sortiert.</p>
+                </div>
+            </div>
+            <div>
+                <head>Warum sind manche Dokumente nicht transkribiert?</head>
+                <p>Der Nachlass enthält auch zahlreiche Drucke und sehr umfangreiche Dokumente.
+                    Drucke wurden in der Regel nicht transkribiert, sondern lediglich ein Regest von
+                    diesen angefertigt. Vielfach finden Sie bei diesen Dokumenten aber einen
+                    Hinweis, wo der jeweilige Druck zu finden ist.<lb/>Manche Dokumente wurden an
+                    anderer Stelle bereits ediert. Für diese gilt ähnliches, auch hier finden Sie
+                    dann lediglich ein Hinweis auf die Stelle, an der der Text ediert ist sowie ein
+                    Regest des Textes. Schließlich gibt es noch sehr umfangreiche Texte, die zum
+                    Teile mehrere hundert Seiten umfassen. Auf eine Transkription dieser Texte,
+                    gerade wenn Sie für das Thema der Bildungsreform nur von nachrangiger Bedeutung
+                    waren, wurde ebenfalls verzichtet. Sie finden zu den Dokumenten aber ein
+                    Regest.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

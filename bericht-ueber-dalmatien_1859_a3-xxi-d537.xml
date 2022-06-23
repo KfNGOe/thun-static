@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bericht-ueber-dalmatien_1859_a3-xxi-d537.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht über Dalmatien (Reiseskizzen)<lb/>
+                    <date when="1859">1859</date>
+                </title>
+            <title type="label">Bericht über Dalmatien (Reiseskizzen) 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E1-E</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D537</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ein nicht genannter Verfasser beschreibt seine Eindrücke und Erfahrungen
+                            einer Reise durch Dalmatien. Er schildert dabei Geographie sowie die
+                            Geschichte des Landes und seiner Bewohner. Eingehend schildert er die
+                            Städte Zara und Spalato und hebt deren Bedeutung hervor. Einen großen
+                            Teil seiner Beschreibung nehmen die Schilderungen der unterschiedlichen
+                            Nationalitäten des Landes ein, wobei er sich insbesondere dem Verhältnis
+                            von slowenisch- und italienischsprachigen Bewohnern sowie dem Verhältnis
+                            zwischen den dominierenden Konfessionen widmet.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="dalmatien">Dalmatien</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    <back/></text>
+</TEI>

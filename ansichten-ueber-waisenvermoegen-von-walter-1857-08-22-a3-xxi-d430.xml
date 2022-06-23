@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-gymnasien-universitaeten-von-arlt-o-d-a3-xxi-d185.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Memorandum zu den Erfahrungen mit den Veränderungen in der
+                    Waisenkassenverwaltung in einigen Orten
+                        Niederösterreichs<lb/>
+                    <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>, <date when-iso="1857-08-22">22. August 1857</date>
+                </title>
+            <title type="label">Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC1C-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D430</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Schreiber berichtet über die Veränderungen bei der
+                            Waisenkassenverwaltung in einigen Herrschaften in Niederösterreich:
+                            Bisher wurden die Vermögen und Erbschaften von Waisen in Kumulativkassen
+                            eingezahlt, die für die Waisen einen ertragreichen Zinssatz boten. Diese
+                            Kassen konnten der Landbevölkerung günstige Kredite ohne großen Aufwand
+                            vergeben. Nach der Abschaffung der Kassen fehlt es einerseits an einer
+                            guten Vermögensverwaltung für Waisen und andererseits an günstigen
+                            Krediten für die Landbevölkerung. Die meisten Bauern sind auf solche
+                            kleinen Kredite aber angewiesen und müssen nun als Ersatz häufig Land
+                            verkaufen, was zu einer Verarmung der Landbevölkerung führen wird.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="grundentlastung">Grundentlastung</term>
+                    <term key="neoabsolutismus">Neoabsolutismus</term>
+                    <term key="waisenversorgung">Waisenversorgung</term>
+                </index>
+                <p>Notiz</p>
+                <p>Meiner Ansichten und Erfahrungen über die frühere und gegenwärtige
+                    Waisen-Vermögens-Verwaltung auf dem flachen Lande.<lb/>Der Eingangs angesetzten
+                    ziffermäßigen Nachweisung, ist die Annahme, als der Thatsache nahe liegend zu
+                    Grund gelegt "ein Pupillen-Vermögen werde durchschnittlich 10 Jahre
+                    verwaltet."</p>
+                <table rows="5" cols="5">
+                    <row role="label">
+                        <cell rows="2"/>
+                        <cell>In öffentlicher Hand</cell>
+                        <cell>bei Sparrkassen</cell>
+                        <cell>bei Privaten</cell>
+                        <cell rows="2"/>
+                    </row>
+                    <row>
+                        <cell>f.</cell>
+                        <cell>f.</cell>
+                        <cell>f.</cell>
+                    </row>
+                    <row>
+                        <cell>1. Von den Herrschaften <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>,
+                                <rs type="place" subtype="place" ref="#place_9ef8d8da6bd02fc57e90b6cb7908e006">Wartenstein</rs>,<lb/>
+                            <rs type="place" subtype="place" ref="#place_73fece375a80ca8d0b3d0d8699ae4302">Kreisberg</rs>,
+                                <rs type="place" subtype="place" ref="#place_0eb656520cb5b32b271de1bfe161ad3e">Stuppach</rs>, <rs type="place" subtype="place" ref="#place_c6e37b45ed0fb08dd7a402eb4a8b344a">Pottschach</rs>,
+                                <rs type="place" subtype="place" ref="#place_6193df85bc3c052a79293849f3d641b1">Schottwien</rs>,
+                                und<lb/>
+                            <rs type="place" subtype="place" ref="#place_e88f9f6c8602b41f75e9b2df182ff569">Kranichberg</rs> wurde mit Ende Juni 1850
+                            übergeben</cell>
+                        <cell>4.476</cell>
+                        <cell>160</cell>
+                        <cell>250.370</cell>
+                        <cell rows="4"/>
+                    </row>
+                    <row>
+                        <cell>2. Vom 1. Jänner 1851 bis Ende 1856 als neue<lb/>Verwaltungsperiode
+                            beträgt der Zuwachs<lb/>
+                        </cell>
+                        <cell>23265</cell>
+                        <cell>15888</cell>
+                        <cell>157085</cell>
+                    </row>
+                    <row>
+                        <cell>hiezu zur Gleichstellung der 10jährigen Periode 4/58[?]</cell>
+                        <cell>7755</cell>
+                        <cell>5296</cell>
+                        <cell>52362</cell>
+                    </row>
+                    <row>
+                        <cell>3. Gilt das jetzige Verwaltungsverhältnis</cell>
+                        <cell>31.020</cell>
+                        <cell>21.184</cell>
+                        <cell>209.447</cell>
+                    </row>
+                    <row>
+                        <cell>4. Von den Privatschulden haften bei Eltern für Kinder</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>171.024</cell>
+                        <cell rows="2">ein sehr ungünstiges<lb/>Verhältnis, die Eltern
+                            <lb/>mißtrauen den Vormündern schulden<lb/>daher lieber ihren
+                            Kindern<lb/>selbst</cell>
+                    </row>
+                    <row>
+                        <cell>dagegen bei Fremden angelegt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>38.423</cell>
+                    </row>
+                </table>
+                <p>Nach den vor Einführung der lh. Gerichte bestandenen hohen Vorschriften, über die
+                    Waisenamt-Geschäfteführung wurden die baar zu Gerichte erlegten Erbbeträge von
+                    Pupillen in die gemeinschaftliche Waisenkasse genommen, und auf den Namen des
+                    Waisenamtes gegen Realsicherheit hindangegeben. Den Pupillen wurde ein Konto auf
+                    der Kumulativkasse eröffnet, – die 5 % Zinsen soweit selbe nicht behoben wurden,
+                    in runden Guldensummen alljährlich zu Kapital geschlagen, und sofort das
+                    Vermögen in der Regel in 16 Jahren verdoppelt.<lb/>Auf diese Weise genoß
+                    einerseits das Vermögen der Pupillen eine sehr zweckmäßige Verwaltung, und
+                    andererseits zeigte die Waisenkasse als natürliches Creditinstitut für das
+                    flache Land (indem nur selten wie mein Ansatz 1. nachweiset, in öffentlichen
+                    Fonds und Sparrkassen Anlagen gemacht wurden), die segensreichsten Folgen für
+                    Agrikultur und Kontributionsfähigkeit.<lb/>Der Landmann kam zur ehemaligen
+                    Herrschaft both Pupillarsicherheit, und erhielt, in kurzem Wege, ohne allen
+                    Zwischenhandl, ohne allen Auslagen, durch Gänge etc. etc. gegen einen
+                    intabulirten Schuldschein ein Darlehen, das er nach Gepflogenheit seinen Kräften
+                    angemessen, selbst in kleinen Beträgen zurückerstattete; derselbe schaffte sich
+                    im Augenblicke des Bedrängnisses schnell die nöthigen Mittel um sein Reale
+                    gehörig bewirthschaften, – die Mittel auf Verbesserung etwas anwenden – endlich
+                    die Mittel seine materiellen Verhältnisse kräftigen, somit kontributionsfähig
+                    bleiben zu können.<lb/>Die Sicherheit von diesen so schönen Institute wurde
+                    durch die auf den Dominikalgütern gesetzlich haftende Octava und die Kontrolle
+                    theilweise durch Vorlage der Waisenamts-Abschlüße an die k.k. Kreisbehörde und
+                    theilweise durch die Scontrirungen bewerkstelliget.<lb/>Durch Aufhebung der
+                    Patrimonial-Gerichtsbarkeit wurde die Auflösung der cumulativ Waisenkosten und
+                    Umwandlung in Singularmaßen, wie selbe in der k.k. Haupt- und Residenzstadt Wien
+                    früher bestanden, herbeigeführt und dekredirt, was mit schmerzlichen Widerhall
+                    bei dem Landvolk umso mehr empfunden wurde, als es dieses schöne Institut fallen
+                    sah, dem es mit Recht gewohntes, unbedingtes Vertrauen schenkte, es sah sich
+                    seines natürlichen Helfens in der Noth beraubt, und erkannte im richtigen
+                    Vorgefühle, daß in Hinkunft die disponiblen Gelder, wie mein ad 3–1
+                    dargestelltes Verhältnis zeigt, in öffentliche Fonds und Sparrkassen flüßen
+                    werde.<lb/>Nach dem allgemeinen bürgerlichen Gesetzbuche Gerichts- und
+                    Depositeninstruktion, haben die Vormünder, als Vertreter der
+                    Pupillarvermögenschaften, dem Bezirksgerichte Rechnung zu legen, bei
+                    Kapitalanlagen, Fruktificierungs-Vorschläge zu machen (was bei cumulativer
+                    Waisenverwaltung entfällt) bei Erfolglassungen schriftlich hierum
+                    einzuschreiten, zu dessen Bewerkstelligung dieselben, da beinahe keiner im
+                    Stande ist, eine einfache Bitte oder Quittung zu schreiben, Advokaten oder
+                    Notare in Anspruch nehmen müssen, wodurch von der größeren Anzahl kleiner
+                    Kapitalien, die Zinsen auf mehrere Jahre in Anspruch genommen sind, und zur
+                    Folge hat, daß Zinsen von diesen Vermögenschaften 7–8 Jahre nicht behoben,
+                    unfruktificirt, ja oft uneinbringlich werden. Auch tritt häufig der Fall ein,
+                    daß Vormünde die Urkunden in Händen behalten, nicht deponieren, und daß selbst
+                    Schuldurkunden Jahre lange nicht ausgestellt werden.<lb/>Die Gerichte welchem
+                    Zeit und Arbeitskräfte mangeln, kann die Vormünde nicht überwachen, und ich
+                    glaube behaupten zu können, daß über die Hälfte der Pupillarmaßen in der Provinz
+                    Niederösterreich kein Vormundschaftsrechnungen gelegt sind, für diese Annahme,
+                    und den vorangeführten Thatsache spricht der Abschluß der Waisenämter resp. der
+                    summarische Scontro, nach welchem die rückständigen Zinsen mindestens die Höhe
+                    von 1/3 der Kapitalforderungen betragen, und einen namhaften Überschuß im
+                    Aktivstand nachweisen, so ist der Stand der cumulativ Kapitalien in
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs> mit Ende 1856 8802 fl. Dagegen betragen die
+                    fälligen unbehobenen Zinsen 3009 fl.<lb/>Nicht allein in Gloggnitz dürfte sich
+                    dieses Ergebnis zeigen, sondern auch bei einer Zusammenstellung sämtlicher
+                    Waisenamt Scontros, würde sich wahrscheinlich dasselbe ungünstige Resultat für
+                    die Vermögens-Verwaltung der Pupillen herausstellen.<lb/>Somit glaube ich nach
+                    meiner Erfahrung und Anschaungsweise, dargethan zu haben, daß die frühere
+                    Pupillar-Vermögens-Verwaltung ungleich vortheilhafter gegen die jetzige
+                    war.<lb/>Diese dargestellten Nachtheile sind jedoch geringfügig gegenüber den
+                    Nachtheilen, welche die oft besprochene Auflösung der kumulativen Waisenkassen
+                    auf die Landwirtschaft, dieses in der österreichischen Monarchie so wichtigen
+                    Zweig der Nationalökonomie übt. Daher ich mir einiges in dieser Richtung zu
+                    erwähnen erlaube.<lb/>Wie bereits gesagt war die cumulative Waisenkasse das
+                    natürliche alleinige Credits-Institut der Landbewohner, wo sie ohne alle
+                    Schwierigkeit Darlehen bis zu dem Betrage von 20 fl. erhielten – nun aber legen
+                    die Vormünde wie mein ziffermäßiger Ansatz 3–4 beweiset die disponiblen Gelder
+                    größtentheils in Staatspapieren und Sparrkassen an, und nur sehr wenig
+                    Kapitalien und diese größtentheils durch Einlösung von cumulativ Schuldscheinen,
+                    werden bei Privaten elocirt. Größere Creditanstalten geben auf das flache Land
+                    keinen Kredit, Private angezogen durch die hohen Prozentengenuß spekuliren in
+                    öffentlichen Fonds- und Industriepapieren, selbst die Sparrkassen üben dasselbe,
+                    somit ist es für den Landmann der kleine Kapitalien benöthiget gegenwärtig eine
+                    Unmöglichkeit sich selbe zu schaffen.<lb/>Wie groß das Bedürfnis nach kleinen
+                    Kapitalien unter 300 fl ist, zeigt daß von den 600 Aktivschuldscheinen des
+                    Waisendepositenamtes Gloggnitz 450 auf die Beträge bis 300 fl. und kaum 50 über
+                    600 fl. lauten, auch dürften hierüber die Procentual-Eintragungsgebühren
+                    Aufschluß geben. Diese vorbesprochenen ungünstigen Geldverhältnisse haben die
+                    nachtheiligen Folgen, daß der Landmann zum Verkaufe von Grundstücken schreitet,
+                    seine Oekonomie vernachlässiget, sofort den durch die
+                    Landwirtschaftsgesellschaft und rationelle Landwirtschaft gezeigten Fortschritt,
+                    bei sich nicht in Anwendung bringen kann, somit an ein Vorwärtsschreiten der
+                    Landwirtschaft unter den gegenwärtigen Verhältnissen nicht zu denken, und eine
+                    theilweise Kontributions-Unfähigkeit zu besorgen ist.<lb/>Um den Einwurf zu
+                    begegnen, daß die Geldverhältnisse auf dem Lande nicht drückend sind, weil die
+                    l.h. Steuern regelmäßig eingehen, muß ich die unbestreitbare Thatsache
+                    entgegenstellen, daß die Grund- und Häusersteuer, gegenüber dem Werthe der
+                    Naturprodukte zu geringe ist, daher leicht bestritten werden kann.<lb/>Wie sehr
+                    auf dem Lande Geld gesucht wird, mögen die mir nach neuerlichen, in der
+                    kürzesten Zeit vorgekommenen Nachfragen nach Geld, beweisen, wo bei einigen
+                    wegen Mangel, Realitäten verkauft wurden als:<lb/>Ignaz Rabensteiner von
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
+                    <lb/>Franz Huber von
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
+                    <lb/>Wittwe Waseni[?] von
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
+                    <lb/>Johann Höttel von
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
+                    <lb/>Franz Vogt von
+                        <rs type="place" subtype="place" ref="#place_0831676314f526fffedad3539390feb1">Enzenreith</rs>
+                    <lb/>Joseph Ritter[?] von
+                        <rs type="place" subtype="place" ref="#place_cefd4cea70cdc348c3da49568c7d855a">Otterthal</rs>
+                    <lb/>Simon Feiertag von
+                        <rs type="place" subtype="place" ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</rs>
+                    <lb/>Johann Först von
+                        <rs type="place" subtype="place" ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</rs>
+                    <lb/>Ignaz Sika von
+                        <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>
+                    <lb/>Josef Gebhart von
+                        <rs type="place" subtype="place" ref="#place_d5c1dee796f476990e8d70f0ece076f0">Beierbach</rs>
+                    <lb/>Karl Geisel von
+                        <rs type="place" subtype="place" ref="#place_142dafa84c9e26b9573a187037bdce09">Stuppachgraben</rs>
+                    <lb/>Leopold Rottensteiner von
+                        <rs type="place" subtype="place" ref="#place_293c9dd445f881772c61a648df2b53cd">Göttschach</rs>
+                    <lb/>Johann Gruber von
+                        <rs type="place" subtype="place" ref="#place_aa881a42cb967cbfb9baf4cdb1bff268">Grünsting</rs>
+                    <lb/>Karl Fröhlich von ..[?]<lb/>Mathias
+                    Nider..[?] von <rs type="place" subtype="place" ref="#place_feb85c80db4445052588b59a99748fe0">Schlögelmühl</rs>
+                    <lb/>endlich Johann Kostenwein
+                    von <rs type="place" subtype="place" ref="#place_c9fe2ce48d12e0308505cd0da82e9273">Gloggnitz</rs>.<lb/>Letzterer erhielt von einem Vormund
+                    das Versprechen eines Darlehens, Kostenwein ließ sein Reale[?] schätzen, stellte
+                    einen Schuldschein aus, ließ selben intabulieren, zahlte die Prozentualgebühr,
+                    und nach allen diesen verweigerte der Vormund die Gelderfolgung; so hatte der
+                    Mann eine Satzpost auf dem Hause, ohne Geld erhalten zu haben und bei 30 fl.
+                    Auslagen.<lb/>Schließlich erlaube ich mir zu bemerken, daß die Einrichtung von
+                    cumulativ Waisenkassen entweder in den Händen der allerhöchsten Staatsverwaltung
+                    oder in den Händen von Comunen unter gehöriger Controlle, eine unberechenbare
+                    Segnung für das flache Land wäre, welche mit allgemeinem Dankgefühle begrüßt
+                    werden würde.</p>
+                <p>Gloggnitz am 22. August 1857</p>
+                <p>Walter</p>
+            </div>
+        </body>
+    
+    <back><listPlace><place xml:id="place_73fece375a80ca8d0b3d0d8699ae4302">
+                        <placeName>Kriesberg</placeName>
+                        <placeName type="pref">Kreisberg</placeName>
+                        <placeName type="alt">Kreisberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.9527 4.84952</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2793973</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_feb85c80db4445052588b59a99748fe0">
+                        <placeName>Schlöglmühl</placeName>
+                        <placeName type="pref">Schlögelmühl</placeName>
+                        <placeName type="alt">Schlögelmühl</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.68307 15.91232</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2765884</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_0831676314f526fffedad3539390feb1">
+                        <placeName>Enzenreith</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.66713 15.97247</geo>
+                        </location>
+                        <idno>https://www.geonames.org/7871860</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_aa881a42cb967cbfb9baf4cdb1bff268">
+                        <placeName>Grünsting</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.67787 15.80143</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2777403</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c6e37b45ed0fb08dd7a402eb4a8b344a">
+                        <placeName>Pottschach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.69856 16.00725</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2768465</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_293c9dd445f881772c61a648df2b53cd">
+                        <placeName>Göttschach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.67429 16.00279</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2778233</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_6193df85bc3c052a79293849f3d641b1">
+                        <placeName>Schottwien</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.656389 15.8725</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_142dafa84c9e26b9573a187037bdce09">
+                        <placeName>Stuppachgraben</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.6926616 15.9363423</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_cefd4cea70cdc348c3da49568c7d855a">
+                        <placeName>Otterthal</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.61667 15.93333</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2769333</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_d5c1dee796f476990e8d70f0ece076f0">
+                        <placeName>Payerbach</placeName>
+                        <placeName type="pref">Beierbach</placeName>
+                        <placeName type="alt">Beierbach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.69209 15.8634</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2769182</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_e88f9f6c8602b41f75e9b2df182ff569">
+                        <placeName>Kranichberg</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.63333 15.96667</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2773600</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_9ef8d8da6bd02fc57e90b6cb7908e006">
+                        <placeName>Wartenstein</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c9fe2ce48d12e0308505cd0da82e9273">
+                        <placeName>Gloggnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.67487 15.93893</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2778455</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_0eb656520cb5b32b271de1bfe161ad3e">
+                        <placeName>Stuppach</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.6803 15.96451</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2764049</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum zu den Erfahrungen mit den Veränderungen in der Waisenkassenverwaltung in einigen Orten Niederösterreichs, Gloggnitz, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-waisenvermoegen-von-walter-1857-08-22-a3-xxi-d430.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

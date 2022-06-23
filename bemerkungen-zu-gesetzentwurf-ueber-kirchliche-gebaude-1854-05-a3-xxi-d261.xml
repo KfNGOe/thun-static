@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-zu-gesetzentwurf-ueber-kirchliche-gebaude-1854-05-a3-xxi-d261.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-von-thun-ueber-zuruecksetzung-1859-a3-xxi-d523.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-zur-schulreform-von-kwiecinski-1850-10-02-a3-xxi-d73.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bemerkungen zum Gesetzesentwurf über die "Concurrrenz zur Herstellung und
+                    Erhaltung katholischer kirchlicher Gebäude"<lb/>o. O., <date when="1854-05">Mai
+                        1854</date>
+                </title>
+            <title type="label">Bemerkungen zum Gesetzesentwurf über die "Concurrrenz zur Herstellung und Erhaltung katholischer kirchlicher Gebäude" o. O., Mai 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DCBE-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D261</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ein nicht näher genannter Autor äußert sich zu einem Gesetzesentwurf über
+                            die "Concurrenz zur Herstellung und Erhaltung katholischer kirchlicher
+                            Gebäude". Grundsätzlich spricht sich der Autor dahingehend aus, den Bau
+                            und die Erhaltung von Kirchengebäuden wieder in die Hände der Kirche zu
+                            legen. Gleichzeitig betont der Schreiber, dass er den Zeitpunkt für die
+                            Gesetzesinitiative als sehr ungünstig empfinde. Darüber hinaus übt er
+                            grundsätzliche Kritik am Gesetz selbst. Für seine Kritik führt er sowohl
+                            Argumente an, die dem kanonischen als auch dem geltenden
+                            österreichischen Recht entspringen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                    <term key="katholische-kirche">Katholische Kirche</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back/></text>
+</TEI>

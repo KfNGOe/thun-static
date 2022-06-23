@@ -1,0 +1,1131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/austin-sarah-an-thun-1859-07-03-a3-xxi-d511.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/auszug-publikation-von-papiu-ilarian-1853-01-04-a3-xxi-d250.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in
+                    Italien, zusammengestellt von <rs type="person" ref="#heider-gustav" role="sender:beamter">Gustav Heider</rs>
+                    <lb/>o. O., [<date when="1853">1853</date>]</title>
+            <title type="label">Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC2A-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D249</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ministerialsekretär Gustav Heider legt Auszüge aus verschiedenen
+                            Memoranden zum Studienwesen in Italien vor.<lb/>Das erste Promemoria von
+                            Bonifacio di Canossa widmet sich dem Schul- und Universitätswesen.
+                            Bonifacio empfiehlt, die Universitäten für mehrere Jahre zu schließen,
+                            um sie vor Vereinnahmung durch Radikale und Revolutionäre zu schützen.
+                            Während dieser Zeit sollte ein neuer Studienplan entwickelt werden. Er
+                            empfiehlt außerdem, die Schulen unter die Obhut der Bischöfe zu stellen
+                            und geistlichen Orden, etwa den Jesuiten, zu übergeben. Dadurch könnten
+                            auch die Gemeinden Geld einsparen. Allerdings würden der Priesterhass
+                            und die Irreligiosität ein Hindernis bei der Durchführung
+                            darstellen.<lb/>Der Direktor des Mailänder Lyzealgymnasiums, Antonio
+                            Odescalchi, äußert sich kritisch zum neuen Gymnasiallehrplan. Die
+                            Vermehrung der Lehrgegenstände stelle nicht nur für die Schüler, sondern
+                            auch für die Lehrer eine Belastung dar. Besonders traurig sei die
+                            Kürzung der Philosophiestunden, da die Philosophie von jeher in Italien
+                            einen hohen Stellenwert inne gehabt habe.<lb/>Ein nicht näher
+                            bezeichneter Schreiber übt im folgenden Bericht ebenfalls Kritik am
+                            neuen Gymnasiallehrplan. Hier ist ebenfalls von Belastung und
+                            Überbürdung der Schüler wie der Lehrer die Rede. Kritisiert wird auch
+                            das Fachlehrersystem.<lb/>In einem weiteren Promemoria wird die
+                            Forderung erhoben, die Priesterausbildung zu verbessern. Der Schreiber
+                            glaubt auch, dass ein Bischof von Nöten wäre, der den herabgekommenen
+                            Klerus zu neuem Leben erwecken könne.<lb/>Luigi Borroni macht Vorschläge
+                            zur Abänderung des Gymnasiallehrplans für Latein, Griechisch, Geschichte
+                            und Geographie, Naturgeschichte, Physik und Mathematik. Er erläutert
+                            auch seine Vorstellungen davon, was in welchen Klassen gelehrt werden
+                            solle.<lb/>In einem zweiten Elaborat legt Borroni seine Gedanken zur
+                            Universitätsreform in Lombardo-Venetien dar. Zunächst hebt er hervor,
+                            dass es nötig sei, die Studenten besser auf die Universität
+                            vorzubereiten. Er hofft, dass dies jedoch durch die Gymnasialreform
+                            geschehen werde. Er schlägt zudem vor, die Ausbildung der Lehrer durch
+                            die Gründung eines Instituts zur Lehrerausbildung zu verbessern. Die
+                            Lehr- und Lernfreiheit bedürfe aus seiner Sicht einer gewissen
+                            Einschränkung. Die wichtigsten Fächer einer Fakultät sollten für alle
+                            Studenten obligat sein. Anstelle der Privatdozenten sollten die
+                            Adjunkten treten. Schließlich geht Borroni auf die Situation der
+                            einzelnen Fakultäten und Fächer ein, er erteilt Verbesserungsvorschläge
+                            und zeigt an, wo Bedarf für Reformen besteht.<lb/>Das folgende
+                            Memorandum widmet sich wiederum dem Gymnasialunterricht in
+                            Lombardo-Venetien. Antonio Corali übt Kritik am Gymnasiallehrplan und
+                            nennt dabei die allzu große Belastung für die Schüler, die daraus
+                            folgende Konzentrationsunfähigkeit und den Lernunwillen als die
+                            Hauptursachen für die derzeitige Misere. Er berichtet vom Wunsch des
+                            Kommunalrates in Verona, das städtische Gymnasium von sechs auf acht
+                            Klassen zu erweitern, was jedoch vom Unterrichtsministerium abgelehnt
+                            wurde. Corali stellt sich dabei auf die Seite der Stadtverwaltung, da
+                            der Bedarf für ein achtklassiges Gymnasium eindeutig vorhanden
+                            sei.<lb/>Der letzte Auszug stammt aus einem Memorandum über Realschulen
+                            vom Direktor der technischen Schule in Mailand. Durch Ministerialerlass
+                            wurde die technische Schule in eine Oberrealschule umgewandelt. Der
+                            Direktor begrüßt diese Umwandlung zwar, er kritisiert allerdings die
+                            damit verbundene Steigerung der Anzahl an Unterrichtsgegenständen. Er
+                            schlägt daher die Teilung der Schule in eine technische und eine
+                            kaufmännische Richtung vor.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter der Signatur sind Abschriften von Auszügen aus acht verschiedenen
+                            Memoranden zusammengefasst:<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_1">Auszug aus einem
+                                Promemoria über Schulen von .</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_2">Bemerkungen über den Gymnasiallehrplan von
+                                    .</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_3">Bemerkungen
+                                über den Gymnasiallehrplan, o. A.</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_4">Auszug aus einem Promemoria über geistliche
+                                Gegenstände.</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_5">Vorschläge zur
+                                Abänderung des Gymnasiallehrplans von .</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_6">Gedanken über Reformen in den höheren Universitätsstudien in
+                                Lombardo-Venetien von Luigi Borroni.</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_7">Auszug aus einem Memorandum über den öffentlichen Unterricht in
+                                Lombardo-Venetien von .</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d249_8">Auszug aus
+                                einem Memorandum über Realschulen von .</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#heider-gustav">Gustav Heider</rs>
+                    <date>1853</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="lombardo-venetien">Lombardo-Venetien</term>
+                    <term key="gymnasien">Gymnasien</term>
+                    <term key="realschulen">Realschulen</term>
+                    <term key="unterrichtswesen">Unterrichtswesen</term>
+                    <term key="universitat">Universität</term>
+                    <term key="universitat-pavia">Universität Pavia</term>
+                    <term key="universitat-padua">Universität Padua</term>
+                    <term key="reform">Reform</term>
+                </index>
+                <p>Auszüge über das Studienwesen in <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> von <rs type="person" ref="#heider-gustav">Heider</rs>
+                </p>
+                <p/>
+                <div xml:id="D249_1">
+                    <p>
+                        <hi rend="ul">Promemoria über die Schulen von <rs type="person" ref="#bonifacio-di-canossa">Bonifacio di Canossa</rs>
+                        </hi>
+                        <note xml:id="note_1">Anmerkung Thuns: jetzt geheimer Rath in
+                                <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, ultramontan, ganz korrekt,
+                            [?].</note>
+                    </p>
+                    <p>Die öffentlichen Stadt- und Landschulen entsprechen wenig ihrer Einrichtung.
+                        Die gegenwärtige Unterrichtsmethode, die Vertheilung der Lehrgegenstände an
+                        so viele Lehrer verwirrt den Geist der Jünglinge, welche alle Achtung vor
+                        ihren Lehrern einbüßen. Es muß das Augenmerk der Regierung sein, darin
+                        vorzugehen, denn die Jugend wächst irreligiös, ohne Gehorsam und dem
+                        Einfluße revolutionärer Ideen preisgegeben auf. Die Vorgänge des Jahres
+                        1848, an welchen sich die Universitätsschulen im hohen Grade betheiligten,
+                        beweisen es hinreichend; und da an Schülern aller Fakultäten eben nicht sehr
+                        viele sind, so wäre es das Beste, die <hi rend="ul">Universitäten für einige
+                            Jahre zu schließen</hi> und während dieser Zeit einen neuen Studienplan
+                        festzusetzen, welcher mehr auf dem religiösen Gefühle und der Anhänglichkeit
+                        an die Regierung basirt ist.<lb/>Die <hi rend="ul">Überwachung der Schulen
+                            müßte den Bischöfen</hi> anheimgegeben werden und für den <hi rend="ul">Unterricht verschiedene geistliche Orden</hi> verwendet
+                        werden.<lb/>Wenn in <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> das Militärkommando die
+                        Kirche und den Convent des hl. Sebastian abtreten und die Comunalschulen den
+                        Jesuiten übertragen würde, würde vielen der berührten Nachtheile vorgebeugt
+                        werden und es erwüchse für die Comune eine Ersparnis, da diese für 6
+                        Professoren 13.000 Lire und für 8 16.000 Lire ausgeben muß, während früher
+                        den Jesuiten nur 4.000 Lire bezahlt wurden, für das sechsklassige Gymnasium,
+                        wobei der Zins für das Lokale des Comunalgymnasiums nicht mitgerechnet ist.
+                        Ein Hindernis der Durchführung ist allerdings der revolutionäre und
+                        irreligiöse Geist und der Priesterhaß, der sich besonders über geistliche
+                        Orden ergießt, daher nur die höhere Autorität diese entgegenwirkenden
+                        heillosen Kräfte überwinden kann.</p>
+                </div>
+                <div xml:id="D249_2">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Bemerkungen über den neuen Gymnasialplan von <rs type="person" ref="#odescalchi-antonio">A[ntonio]
+                        Odescalchi</rs>
+                        </hi>
+                        <lb/>Direktor am Lycealgymnasium S. Alessandro zu
+                            <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>
+                    </p>
+                    <p>1. Wenn auch die Nothwendigkeit eines näheren Zusammenhanges zwischen den <hi rend="ul">Gymnasien</hi> und <hi rend="ul">Lyceen</hi> bestand, so
+                        wiederstrebt die <hi rend="ul">vollständige Verschmelzung</hi> beider den
+                        Sitten, Gewohnheiten und Anlagen der italienischen Bevölkerung. Das 16. Jahr
+                        ist in diesen Ländern gleichsam der Gränzstein des Knabenalters und der
+                        strengen väterlichen Aufsicht und der Jüngling wagt die ersten
+                        selbstständigen Tritte in die Welt. Der Übertritt aus dem Gymnasium ins
+                        Lyceum war daher bei uns eine bestimmte Lebensepoche und schied pädagogisch
+                        zwei Studienwege, welche mit Rücksicht auf die Gewohnheiten und die Zucht
+                        nicht ohne Schaden verbunden werden sollten.<lb/>2. Die <hi rend="ul">Vervielfältigung der Unterrichtsgegenstände</hi>, besonders in den
+                        unteren Classen, in welchen die Jünglinge gleichzeitig instruirt werden,
+                        schadet der Gründlichkeit des Wissens und erzeugt Verwirrung der Begriffe.
+                        Die besondere Anlage der italienischen Jünglinge, ihre Lebhaftigkeit,
+                        Unruhe, Hastigkeit erlaubt bei ihnen nicht die Anwendung eines lange
+                        hinausgezogenen und ernsten Unterrichtes. Ermüdet in der Schule fassen sie
+                        Widerwillen gegen das Studium und legen es zu Hause gänzlich zur Seite. Die
+                        [sic!] <hi rend="ul">Hinausziehen eines jeden Gegenstandes auf mehrere
+                            Jahre</hi> und dessen Zutheilung in kleinen Portionen tödtet die
+                        Wißbegierde ab, die ein mächtiger Hebel des Lernens ist, und mit ihr auch
+                        die Aufmerksamkeit. Die Knaben lernen, weil sie müssen, aber der lange
+                        mehrjährige Weg, den sie durchlaufen müssen, um das Ganze der Wissenschaft
+                        zu erfassen, ist nicht geeignet, ihre Kräfte lebendig zu erhalten. Und die
+                        Lehrer, welche sich dem Plane gemäß in den unteren Classen mehr auf den
+                        Anschauungsunterricht beschränken, können, ohne vorzugreifen, den
+                        wißbegierigen Fragen der Schüler kein Gehör geben, daher hieraus inkomplette
+                        und oberflächliche Kenntnisse entspringen.<lb/>3. Ein fernerer Schaden wäre
+                        es, wenn die <hi rend="ul">Philosophie</hi> auf 2 wöchentliche Stunden in
+                        der achten Classe beschränkt würde, und zwar mit Ausschluß der
+                        Moralphilosophie. Die Lehrkanzel der Philosophie war in
+                            <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> von jeher die Einleitung zu den höheren
+                        Studien und wird als ein Mittel der Erziehung des Jünglings und der
+                        Heranreifung seiner Denkkräfte auch von den Eltern betrachtet. Die Eltern
+                        selbst erheben deshalb schon die Klage, daß der neue Lehrplan so viel
+                        äußeres materielles Wissen aufpfropfe und dafür die Kenntnis der geistigen
+                        Menschennatur und ihrer Pflichten gänzlich vernachläßige.<lb/>4. Die
+                        Erfahrung hat gezeigt, daß das <hi rend="ul">Institut der Classenlehrer</hi>
+                        in pädagogischer Beziehung schädlich sei. Der Knabe gewöhnt sich in ihm den
+                        Oberen unter den übrigen Lehrern zu erblicken, was seine Achtung gegen
+                        letztere vermindert.<lb/>5. Was die Lehrer anbelangt, so giebt der neue Plan
+                        zu folgenden Bemerkungen Anlaß:<lb/>a. In den oberen Classen, deren
+                        Unterricht sistematisch und wissenschaftlich ist, müssen die Lehrer sich
+                        vorbereiten und andauernd reden, daher sie nur mit der größten Anstrengung
+                        und endlichen Abspannung 15–20 wöchentliche Vorlesestunden halten
+                        können.<lb/>In den früheren Lyceen hatte jeder Professor nur 7–10 Stunden
+                        wöchentlich; und wenige Menschen, wenigstens in <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs>,
+                        können die geistige und körperliche Anstrengung eines täglichen drei- und
+                        vierstündigen Unterrichtes aushalten. In den unteren Schulen gewähren die
+                        instruktiven Demonstrationen und die kleinen Übungen dem Lehrer Zeit, Geist
+                        und Lunge ausruhen zu lassen, nicht so aber in den oberen Classen; in den
+                        früheren Lyceen war die höchste Anzahl der Vorlesestunden 18 in der Woche,
+                        wobei aber nach 30 Dienstjahren schon den Lehrern ihre Jubilation in
+                        Aussicht stand.<lb/>b. Indem die Lehrer in den oberen Classen in zwei oder
+                        mehreren verschiedenen Gegenständen unterrichten müssen, da sie doch nur
+                        einen als Lieblingsgegenstand betreiben, kommt es, daß sie natürlich die
+                        anderen mehr oder weniger lästig betreiben.<lb/>c. Es ist eine pädagogische
+                        Wahrheit, daß ein Lehrer, welcher für kleinere Schüler vollkommen ausreicht,
+                        nicht immer auch die Gabe des Unterrichtes für vorgeschrittenere besitze.
+                        Diese Unzukömmlichkeit wird durch die Verwendung eines Lehrers in mehreren
+                        Classen nothwendig herbeigeführt.<lb/>d. Die große Zahl der
+                        Unterrichtsstunden, womit die Lehrer belastet sind, verbunden mit den
+                        unzähligen didaktischen und disciplinären Modalitäten des neuen Planes, die
+                        häufigen Conferenzen, die vielfachen Beschäftigungen der Classenlehrer usf.
+                        bilden eine solche Reihe von Geschäften, daß sie das ganze Leben in Anspruch
+                        nehmen, daß der Lehrer keine Zeit erübrigt, in seinem Fache vorzuschreiten
+                        oder auch nur auf seine Vorlesungen sich vorzubereiten. Diese Inkonvenienz,
+                        welche bald für die Lehranstalten selbst zum Schaden wird, tritt bereits bei
+                        allen lombardischen Gymnasien hervor, deren zahlreicher Besuch die Erfüllung
+                        aller vorgeschriebenen Geschäfte unmöglich macht.</p>
+                </div>
+                <div xml:id="D249_3">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Bemerkungen über den neuen Gymnasiallehrplan</hi>
+                        <note xml:id="note_2">Anmerkung Thuns: Nova.</note>
+                    </p>
+                    <p>1. Der neue Lehrplan stellt den Grundsatz auf, daß ein und derselbe Professor
+                        nicht wohl in verschiedenen Gegenständen unterrichten könne, daher die
+                        Gegenstände derselben Classe an verschiedene Lehrer vertheilt sind. Es hat
+                        dies allerdings seine Vortheile, aber wie ist der Widerspruch zu lösen, daß
+                        einem schon für den Unterricht reifem Manne die Gewandheit in mehreren
+                        Unterrichtsgegenständen nicht zugemuthet wird, während doch von den Schülern
+                        ein Gleiches verlangt wird. Der Verfaßer des Lehrplanes hatte die Lehrer,
+                        nicht aber die Schüler im Auge.<lb/>2. Die Vertheilung der Lehrgegenstände
+                        an mehrere Professoren bringt es mit sich, daß die Studenten den Unterricht
+                        und den Lehrer jede Stunde wechseln müssen. Dies bedingt einen Zeitverlust.
+                        Der größere Schaden dieses Wechsels aber ist, daß der Geist des jungen
+                        Menschen nicht auf einen Punkt hingelenkt, sondern durch die vielen
+                        Unterrichtsgegenstände zersplittert wird und dadurch in Verwirrung geräth:
+                        Ubi multitudo, ibi confusio.<lb/>3. Jeder Professor hat die Pflicht, den
+                        Unterricht seines Gegenstandes zu ertheilen, daher beschwert jeder den
+                        Schüler ohne Rücksicht auf den andern. Keiner will aus Ehrbegierde sich in
+                        den gesetzten Schranken halten. Die Folge ist, daß talentvolle und fleißige
+                        erkranken, weil ihnen keine Zeit für Erholung bleibt.<lb/>4. Das Sistem
+                        vieler Lehrer in einer Schule ist auch von Nachtheil für die moralische
+                        Erziehung der jungen Leute. Nur, wo ein Lehrer wirkt, bildet sich zwischen
+                        ihm und den Schülern ein elterliches Verhältnis heraus, wo viele Lehrer
+                        sind, fehlt dem Knaben der Mittelpunkt und er sieht auf alle mit
+                        Gleichgültigkeit.<lb/>5. Das neue Sistem lehrt die Schüler Vieles, aber
+                        nichts gründlich, es bürdet dem Geiste Kenntnisse auf, wie dem Leibe
+                        Gewänder, die herabfallen, sobald die Bänder gelichtet sind, der Umfang des
+                        Wissen nimmt zum Nachtheile der Tiefe scheinbar zu. Der frühere Plan lehrte
+                        die Knaben weniger, aber dieses gründlicher.<lb/>6. Auch sind die
+                        Naturanlagen überhaupt und die Auffassungsgabe nach den Altersstufen
+                        verschieden. Die gegenwärtige Gymnasialeinrichtung aber setzt Männer von
+                        reifem Verstande, nicht bloße Knaben voraus.<lb/>7. Griechische Sprache,
+                        Mathematik und Naturwissenschaften sind für die Erziehung eines jungen
+                        Mannes allerdings nothwendig, allein die Frage ist, ob eine Methode, die
+                        eines nach dem andern lehrt, oder eine, welche alles gleichzeitig lehrt,
+                        vorzuziehen sei. Die Erfahrung der Gymnasien und Liceen in
+                            <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> spricht für die erstere Methode.<lb/>8. Es
+                        giebt im Unterrichte zwei unläugbare Erfahrungen. Die eine ist, daß das
+                        vollständige Erlernen der beiden Sprachen, der lateinischen und
+                        italienischen, das Verständnis ihrer Classiker und die Aneignung der
+                        Fähigkeit, seine eigenen Gedanken klar bestimmt und schön auszudrücken ein
+                        nicht leichtes Studium sei, welches alle Fähigkeiten eines Jünglings wie
+                        auch seine Zeit so sehr in Anspruch nimmt, daß neben ihm kaum andere mit
+                        Erfolg betrieben werden können.<note xml:id="note_3">Anmerkung Thuns: nichts
+                            als italienisch und Latein!</note>
+                        <lb/>Die zweite Erfahrung ist, daß ein
+                        so vorgebildeter Jüngling mit Erfolg und Verständnis sich später den
+                        Wissenschaften zuwenden wird, die ihm neue Gebiethe eröffnen, während der
+                        neue Lehrplan, der allen alles biethet, die Wissbegierde abstumpft und
+                        endlich abtödtet.<lb/>9. Es scheint, der neue Gymnasiallehrplan wolle den
+                        Knaben in der Schule zum Gelehrten in allen Fächern ausbilden, während er
+                        doch nur sich die Möglichkeit und den Weg, ein Gelehrter zu werden, anbahnen
+                        soll. Auch die besten Lehrer können keine Wunder wirken und müssen mit
+                        bestem Willen hinter seinem Ziele zurückleiben, welches der
+                        Gymnasiallehrplan vorzeichnet; denn es ist nicht möglich, daß ein Lehrer,
+                        der mit so vielen Schülern zu thun hat, einem jeden hinreichende Obsorge
+                        widme. Die Geschichte des Gymnasialunterrichts in <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs>
+                        giebt gewichtige Anhaltspunkte. Zuerst gab es wenig Unterrichtsgegenstände
+                        und viele Ferien. Hiebei bewahrten die Schüler die Liebe zum Lernen und
+                        benützten theilweise auch die freie Zeit für ihre Fortbildung. Alles dies
+                        nahm ab mit der Vermehrung der Unterrichtsgegenstände und der Verminderung
+                        der Ferien. Die Spitze hievon ist der neue Lehrplan, durch welchen der
+                        Schüler nie zu einem wirklichen Wissen gelangen kann.<lb/>10. Der
+                        Gymnasiallehrplan als Pädagogik für den Lehrer leistet kostbare Dienste,
+                        aber als praktischer Studienplan geht er Idealen nach: er setzt voraus, daß
+                        ein Knabe im zarten Alter fähig sei, gleichzeitig verschiedene Sprachen,
+                        Geografie und Geschichte, Mathematik und Geometrie, Phisik und
+                        Naturgeschichte und theilweise Theologie zu treiben. Auf diesen
+                        Parallelismus der Studien muß man verzichten und für jede Periode der
+                        Studien ein bestimmtes Ziel sich vorsetzen und zwar für Gymnasien die <hi rend="ul">literarische</hi>, für Lyceen die <hi rend="ul">wissenschaftliche</hi> Bildung. Es ist ohne Zweifel gut, daß beide
+                        unter einer Leitung stehen, aber nicht ebenso nützlich, die Scheidelinie
+                        beider zu tilgen, indem die Periode des Übertritts in die Lyceen mit dem
+                        Übertritte des Knaben in das Jünglingsalter zusammentrifft.<lb/>Eine andere
+                        Thatsache verdient die Aufmerksamkeit der Regierung. Die Überbürdung der
+                        Knaben mit Lehrstoff so weit getrieben, daß sie das Lernen und Memoriren
+                        nicht los werden, erzeugt in ihnen und ihren Eltern natürlicher Weise eine
+                        Abneigung gegen jene Behörde, welche sie als den Grund dieser Plackereien
+                        ansehen.<lb/>Auch die Classenlehrer sind ein Schaden für das Gedeihen der
+                        Schule. 8 Professoren von gleichem Ansehen sollen einer dem andern sich
+                        wieder unterordnen. Dies erzeugt Missgunst und Zwietracht. Sind sie aber
+                        einträchtig, so finden sie Mittel und Wege, der Aufsicht der Direktion sich
+                        zu entziehen.<lb/>Anders ist es, wenn der Direktor, ohne an den Ausspruch
+                        des Lehrkörpers gebunden zu sein, allein die Leitung führt. Der Lehrkörper
+                        bildet ein kleines Parlament mit allen Nachtheilen einer solchen
+                        vielköpfigen Regierung. In diesem Punkte beruht der neue Lehrplan auf
+                        demokratischen Grundsätzen. Ist aber das Haupt der Schule ein Direktor mit
+                        einem Präfekten zur Seite, so wird [man] damit einen gleichförmigeren,
+                        regelmäßigen und anstandsvolleren Gang erzielen.</p>
+                </div>
+                <div xml:id="D249_4">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Promemoria über geistliche Gegenstände</hi>
+                        <note xml:id="note_4">Anmerkung Thuns: Bischof von Cremona[?].</note>
+                    </p>
+                    <p>Wir bedürfen eines Bischofes, welcher den Geist unseres so sehr
+                        herabgekommenen und verminderten Clerus erhebe, auch wäre es nothwendig, daß
+                        er unmittelbar die Teilung der Seminare für Cleriker in die Hand nehme,
+                        sowohl was die Aufnahme, als auch die Unterrichtsweise betrifft, denn unser
+                        Clerus stand immer in Ansehen seinem Berufseifer wie seiner
+                        wissenschaftlichen Bildung nach und eine große Anzahl bekannter Prediger,
+                        Theologen, Moralisten, Professoren usw. ging aus der alten
+                        Unterrichtsmethode hervor, während jene nach der neuen Methode Gebildeten
+                        wenig Hoffnung geben, daß sie die früheren erreichen.<lb/>Was die geringe
+                        Anzahl der Cleriker betrifft, hängt dieselbe wohl von der Schwierigkeit ab,
+                        Patrimonien im Regierungssinne zu finden; wenn diese vermindert würden,
+                        würde ohne Zweifel bei deren Ersatz durch Kaplane eine größere Anzahl junger
+                        Leute in den geistlichen Stand eintreten.<lb/>Nothwendig ist auch eine
+                        Verordnung wegen Heiligung der Sonn- und Feiertage und das Verboth, während
+                        der heiligen Funktionen keine Spektakel, Theater usf. zu halten. Auch die
+                        Übung einer strengeren Bücherzensur wäre zu wünschen und das Fernhalten
+                        lasziver Stücke von Theatern.</p>
+                </div>
+                <div xml:id="D249_5">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Vorschlag zu einigen Abänderungen des Gymnasiallehrplanes für
+                            die italienischen Gymnasien von <rs type="person" ref="#borroni-luigi">Luigi
+                                Borroni</rs>, Provinzialdelegat der Provinz
+                                <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs>
+                        </hi>
+                        <note xml:id="note_5">Anmerkung Thuns: Schrift[?] v. Rector der Universität
+                            Pavia[?].</note>
+                    </p>
+                    <p>Religion<lb/>Für die ersten 6 Klassen wöchentlich 2 Stunden wie bisher</p>
+                    <p>Latein<lb/>1. Klasse: wöchentlich 8 Stunden<lb/>1. Semester: Theorie der
+                        regelmäßigen Formen, und zwar der Haupt- und Zeitwörter nach der Instruktion
+                        des Gymnasialplanes p. 79–84<lb/>Die ersten Regeln der Syntax: tägliche
+                        mündliche und schriftliche Übung nach den gegebenen Erklärungen mittelst
+                        Vervielfältigung der Beispiele<lb/>2. Semester: Übersetzung einiger
+                        Lebensgeschichten in dem Compendium der heiligen Geschichte von C[harles]
+                        Lhomond: reichliche grammatikalische Auseinandersetzung und Übung des
+                        Gedächtnisses. Der Lehrer kommt bei unregelmäßigen Formen dem Schüler zu
+                        Hilfe.<lb/>Leseübung: fleißige Sorge für richtige Aussprache und praktische
+                        Prosodie<lb/>2. Klasse: wöchentlich 8 Stunden<lb/>Unregelmäßige und weniger
+                        gebräuchliche Formen und Übungen, Ausdehnung der Syntax auf die
+                        verschiedenen Redetheile mit reichlichen Beispielen. Übersetzung der
+                        römischen Lebensbeschreibungen des Lhomond mit der gewöhnlichen analytischen
+                        Übung. Übersetzungen aus dem Italienischen ins Lateinische schriftlich und
+                        mündlich, deren Berichtigung theils in, theils außer der Schule
+                        erfolgt.<lb/>3. Classe: wöchentlich 6 Stunden<lb/>Beendigung der
+                        regelmäßigen Syntax, wobei jeder Theil durch Übersetzungen aus der einen in
+                        die andre Sprache begründet werde.<lb/>Für die Übersetzung Cornelius Nepus
+                        und Pheidrus. Der Lehrer supplirt die figürlichen und ungewöhnlichen
+                        Redeformen.<lb/>4. Classe: wöchentlich 6 Stunden<lb/>Prosodie und
+                        Versifikation, grammatikalische Figuren.<lb/>Übersetzung des Gallischen
+                        Krieges von Cäsar. Die Elegien des Ovids zur praktischen Übung der
+                        Verse.<lb/>Themen zur Übersetzung: grammatikalische Betrachtungen über die
+                        Texte, die Erklärungen oder figurirte Theile.<lb/>5. Klasse: 6 Stunden
+                        wöchentlich<lb/>Sallust, Cäsar de bello civili und die Verwandlungen
+                        Ovids.<lb/>Praktische Stilübungen über die Tropen, geschichtliche und
+                        mythologische Erklärungen.<lb/>Aufgaben zur Übung in lateinischen
+                        Erzählungen.<lb/>6. Klasse: wöchentlich 6 Stunden.<lb/>Livius: einige
+                        Eklogen und die Aeneide des Virgil, Oden von Horaz, ausgewählte Briefe des
+                        Cicero.<lb/>Betrachtungen und Erklärungen über Inhalt und Stil: lateinische
+                        Themen.<lb/>7. Classe: wöchentlich 4 Stunden<lb/>Reden des Cicero. Aeneide
+                        und Georgiken des Virgil, Oden von Horaz.<lb/>Filologische Betrachtungen und
+                        geeignete Erklärungen. Übungsaufgaben.<lb/>8. Klasse: 5 Stunden
+                        wöchentlich<lb/>Tacitus und Cicero: die Poetik und Episteln des Horaz – mit
+                        den nöthigen filologischen Erläuterungen.<lb/>Übung in lateinischen Themen
+                        zur Vorbereitung für die Maturitätsprüfung<lb/>(von der 3. Classe angefangen
+                        müssen sich die Schüler auf die Textübertragungen in der Schule häuslich
+                        vorbereiten).</p>
+                    <p>Griechisch<lb/>Von der 3. Klasse an 4 Stunden wöchentlich.<lb/>Von der 3. bis
+                        zur 6. Klasse einschließlich werde die Grammatik geübt, nach der für die
+                        lateinische Sprache entworfenen Methode. Übersetzung der Esopischen Fabeln,
+                        der Ciropädie des Xenophon und der Iliade<lb/>7. Classe: Iliade und
+                        Xenophon<lb/>8. Classe: Herodot und Iliade.</p>
+                    <p>Italienische Sprache<lb/>Durch die ersten 4 Classen des Untergymnasiums
+                        wöchentlich 3 Stunden.<lb/>Von der 1. Bis zur 3. Klasse Leseübungen und
+                        leichte Stilübungen. Correkturen, wie für das Latein, sowohl in den Formen
+                        als auch in der Syntax und Rechtschreibung.<lb/>4. Klasse: Italienische
+                        Versifikation, prosaische und poetische Beschreibungen mit grammatikalischen
+                        und sprachlichen Erklärungen, mit Zugrundelegung von geeigneten
+                        Lesebüchern.<lb/>Für die 5. und 6. Klasse 3, für die 7. 2 für die 8. 4
+                        Stunden wöchentlich<lb/>5. Klasse: Geschichte der italienischen Literatur
+                        vom Beginne bis zum 15. Jahrhundert. Eine Abhandlung über den Stil und die
+                        verschiedenen Arten der Prosa und Poesie.<lb/>Themen zu schriftlichen
+                        Übungen geeigneten Inhalts.<lb/>6. Klasse:<lb/>Literatur des 16.
+                        Jahrhunderts<lb/>Fortsetzung der Abhandlung über Prosa und Poesie<lb/>Themen
+                        wie für die 5. Klasse<lb/>7. Klasse:<lb/>Literatur des 17. und 18.
+                        Jahrhunderts mit Übungsstücken<lb/>8. Klasse:<lb/>Lektüre des Dante,
+                        Petrarka und Boccacio, um den Schülern eine hinreichende Idee ihrer Werke zu
+                        geben. Filologische ästhetische Übungen. Compositionen, wie in der 7.
+                        Classe. Die Schüler sollen zu eigenen Ausarbeitungen angeleitet und zu
+                        Gedächtnisübungen angehalten werden.<lb/>(der Lehrer des Obergymnasiums
+                        halte die Classiker der verschiedenen Sprachen, lateinische, griechische und
+                        italienische zur Bildung des Geschmacks aneinander.<lb/>Für jede Classe muß
+                        ein eigenes Lesebuch vorhanden sein.</p>
+                    <p>Geographie und Geschichte<lb/> Durch alle Klassen, für jede wöchentlich 3
+                        Stunden, mit einem geeigneten Lesebuche.<lb/>1. Klasse:<lb/>Einleitende
+                        Kenntnis zum Verständnis der Geografie und Definitionen. Logische politische
+                        und etnografische Geografie.<lb/>Allgemeine Übersicht des Globus, nehmlich
+                        der Meere, Erde, Gebirge, Thäler usw. Eintheilung der Erde im Großen und
+                        insbesondere nach den Nationen und Staaten, insbesondere von Europa.<lb/>2.
+                        Klasse:<lb/>Allgemeine Übersicht der alten Welt, Beschreibung der damals
+                        bekannten Länder, verbunden mit deren Geschichte bis zum Jahre 456.<lb/>3.
+                        Klasse:<lb/>Geschichte des Mittelalters und moderne Geografie, im
+                        Zusammenhange mit der Staatengeschichte, insbesondere Oesterreichs<lb/>4.
+                        Klasse:<lb/>Fortsetzung hievon.<lb/>5. Klasse:<lb/>Übersicht der alten
+                        Geschichte von <rs type="place" subtype="country" ref="#place_842e26ab3b54376d93e22b403f3f9728">Ägypten</rs>,
+                            <rs type="place" subtype="country" ref="#place_685f853b2ad1158b32f42cac11ebdc5c">Karthago</rs>, <rs type="place" subtype="country" ref="#place_ae54a5c026f31ada088992587d92cb3a">China</rs> und vorzüglich von
+                            <rs type="place" subtype="country" ref="#place_9bbe5cef5dacc0b4666c2a1d1a8b5615">Griechenland</rs> und <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> mit der
+                        Geografie der behandelten Länder<lb/>6. Klasse:<lb/>Fortsetzung, zugleich
+                        mit der Archäologie und Kulturgeschichte der Staaten des Alterthums.<lb/>7.
+                        Klasse:<lb/>Übersicht der mittelalterlichen und modernen Geschichte, der
+                        größeren Fassungskraft der Schüler angemessen.<lb/>8. Klasse:<lb/>Allgemeine
+                        Weltgeschichte nach ihrer logischen Anordnung.</p>
+                    <p>Mathematik<lb/>1. Klasse: wöchentlich 2 Stunden<lb/>Arithmetik – die vier
+                        Rechnungsarten und gemeine Brüche, mit Anwendung auf Beispiele. Abkürzungen
+                        der Rechnungsarten, Theilbarkeit der Zahlen, der größte gemeinschaftliche
+                        Theiler<lb/>Geometrie: Allgemeine Bemerkungen über Linien, Flächen, Körper,
+                        Winkel, Parallellinien, Figuren, ihre grafische Construktion, ihre leicht
+                        darstellbaren Beziehungen und Eigenschaften.<lb/>2. Klasse: wöchentlich 2
+                        Stunden<lb/>Arithmetik: die vier Rechnungsarten mit Dezimalen, Verwandlung
+                        gemeiner Brüche in Dezimalbrüche und umgekehrt. Auseinandersetzung des
+                        Decimalsistems für Gewichte, Maße usw. und Übung desselben auf konkrete
+                        Fälle.<lb/>Geometrie: Eigenschaften ebener geometrischer Figuren und
+                        Berechnung ihrer Größe, die einfachsten Fälle der Umbildung äquivalenter
+                        Figuren und der Untertheilung derselben.<lb/>3. Klasse: wöchentlich 3
+                        Stunden<lb/>Arithmetik: Arithmetische Proportionen und Progressionen.
+                        Einfache Regel-de-tri, gerade und verkehrt: Nutzenwerdungen, Kenntnis der
+                        einfachsten algebraischen Zeichen zur Erklärung numerischer Gleichungen des
+                        ersten Grades mit einer Unbekannten.<lb/>Geometrie: Der Kreis und seine
+                        Eigenschaften, Berechnung des Umfanges und Flächenraumes, Theilung des
+                        Umfanges und Messung der Winkel.<lb/>4. Klasse: wöchentlich 3
+                        Stunden<lb/>Arithmetik: vorläufige Kenntnis der Algebra als Hilfe für die
+                        Arithmetik. Die 4 Rechnungsarten und die Brüche mit algebraischen Zeichen
+                        dargestellt. Anwendung auf die Erhebung zu Potenzen und Ausziehen der
+                        Wurzeln (Quadrat- und Cubikwurzeln) mit geraden Zahlen und
+                        Wurzeln.<lb/>Geometrie: Anwendung auf 3 Ausdehnungen. Über Flächen und
+                        zolindrische Winkel: Entstehung de geometrischen Hauptformen, ihre
+                        Eigenschaften, Art, ihr Volumen zu berechnen.<lb/>Für die 5. und 6. Klasse
+                        wöchentlich 3, für die 7. Wöchentlich 5 Stunden.<lb/>In dem Obergymnasium
+                        wird die Algebra, Geometrie, die ebene Trigonometrie, die Anfangsgründe der
+                        Kegelschnittlehre und der Anwendung von Algebra auf die Geometrie
+                        sistematisch behandelt auf Grundlage der Elementarmathematik und der im
+                        Untergymnasium erworbenen Kenntnisse.</p>
+                    <p>Naturgeschichte und Fisik<lb/>Durch die ersten 4 Classen wöchentlich zwei
+                        Stunden.<lb/>1. Klasse: Über Naturwesen im Allgemeinen. Zoologie –
+                        Classifikation der Thiere nach ihrem Charakter<lb/>2. Klasse:
+                        Fortsetzung<lb/>3. Klasse: Mineralogie. Allgemeines, Classeneintheilung –
+                        Beschreibung der für den gemeinen Gebrauch wichtigsten Mineralien.<lb/>4.
+                        Klasse: Populäre Physik.<lb/>Allgemeine Eigenschaften der Körper. Die
+                        Inponderabilien – ihre Phänomene, insbesondere Wärme und Elektrizität<lb/>5.
+                        Klasse: 4 Stunden wöchentlich<lb/>Zoologie in weiterer Ausführung.<lb/>6.
+                        Klasse: 4 Stunden wöchentlich<lb/>Mineralogie – Botanik – Allgemeines über
+                        Vegetabilien, Sistem des <rs type="person" ref="#linne-carl">Linné</rs> und
+                        natürliche Methode von <rs type="person" ref="#jussieu-antoine-laurent">Jussieu</rs>.<lb/>7. Klasse: 5 Stunden
+                        wöchentlich<lb/>Sistematische Fisik in ganzem Umfange und nach der in Liceen
+                        gebräuchlichen Methode.<lb/>8. Klasse: 5 Stunden<lb/>Fortsetzung der
+                        Physik</p>
+                    <p>Philosophie<lb/>für die 8. Klasse wöchentlich 2 Stunden.<lb/>achte Klasse:
+                        Empirische Psichologie und formale Logik<lb/>für die 7. und 8. Klasse
+                        wöchentlich in 2 Stunden an die Stelle des Religionsunterrichtes
+                        Moralphilosophie.</p>
+                    <p>Deutsche Sprache und Literatur<lb/>wie bisher</p>
+                </div>
+                <div xml:id="D249_6">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Gedanken über einige wesentliche Reformen in den höheren
+                            Universitätsstudien des <rs type="place" subtype="country" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen Königreichs</rs>.<lb/>Von <rs type="person" ref="#borroni-luigi">Luigi Borroni</rs> Provinzialdelegat der
+                            Provinz <rs type="place" subtype="place" ref="#place_180ab0761158b959facf0feae6115c4e">Pavia</rs>
+                        </hi>
+                    </p>
+                    <p>A. Allgemeine Betrachtungen</p>
+                    <p>
+                        <lb/>I. Vorerst ist es nothwendig, daß die Studierenden die Hochschule besser
+                        unterrichtet betreten wie bisher. Die Gymnasialreform und die
+                        Maturitätsprüfung wird hoffentlich diesem Übel abhelfen. Indessen schiene es
+                        nützlich, daß auch in den einzelnen Studien, in welche die Universität sich
+                        theilt, die Zöglinge verhalten würden, eine schriftliche Probe ihrer
+                        Vorbildung abzulegen, was damit erreicht werden könnte, wenn ihre Prüfung
+                        ein solches schriftliches Elaborat forderte, auch könnte während des
+                        laufenden Schuljahres der Studierende zur Abgabe eines schriftlichen
+                        Elaborates verhalten werden, woraus der Professor doch entnehmen könnte, ob
+                        er die Gabe, seinen Gedanken eine entsprechende Form zu geben,
+                        besitze.<lb/>II. Die besten dieser Arbeiten sollen durch die Zuerkennung
+                        einer Preismedaille ausgezeichnet werden, und zwar jährlich für jede der
+                        Fakultäten oder Studienkurse. Mit dieser Medaille ist der Vortheil der
+                        Militair- und Schulgeldbefreiung verbunden.<lb/>III. Um ein reiferes
+                        Verhältnis der Professoren unter sich und mit den Studierenden herzustellen,
+                        möge ein Lehrkabinet gegründet werden, sowohl zum Behufe gegenseitiger
+                        Besprechung, wie auch zu musikalischen Produktionen usw. Auch die Herausgabe
+                        eines Universitätsjournal kann damit in Verbindung gesetzt werden. Die
+                        Kosten hätte die Universitätskasse zu tragen. Aber freilich paßt diese
+                        Neuerung nicht für den gegenwärtigen Ausnahmszustand.<lb/>IV. Die Anwendung
+                        der Lern- und Lehrfreiheit auf die italienischen Universitäten bedarf einer
+                        gewißen Einschränkung; aber das frühere Prüfungssistem unterdrückte die
+                        jugendlichen Geister und beengte die Professoren.<lb/>V. Der rechte Weg
+                        liegt zwischen beiden.<lb/>Die wichtigsten Fächer jeder Fakultät seien für
+                        den Studierenden obligat, er hat sich mit jedem Semester in ein Collegium
+                        einschreiben zu lassen, und zwar wenigstens im Belaufe von täglich 4
+                        Stunden. Der Besuch muß ununterbrochen stattfinden, daher das gewöhnliche
+                        Nachnameverlesen und die Classifikation des Besuches und akademischen
+                        Verhaltens beizubehalten ist. Zur Überwachung des Fleißes soll jeder
+                        Professor Schulübungen abhalten, auch die Prüfungen sollen beibehalten
+                        bleiben, jedoch nicht in der Art der früheren Semestralprüfungen, sondern
+                        so, daß die Gegenstände jeder Fakultät in Gruppen zusammengestellt werden
+                        und hierüber eine Comission prüfe. Die erste Prüfung könnte nach Ablauf der
+                        ersten beiden Jahre, die zweite nach Ablauf des dritten Jahres usw.
+                        stattfinden. Diese Gruppen hätten die obligatorischen Gegenstände aus jenen
+                        zu enthalten, welche der Studierende innerhalb des geforderten
+                        Collegienausmaßes sich frei gewählt hat. Für die Einrichtung der Comission
+                        ist jene der Staatsprüfungskomission vollkommen maßgebend.<lb/>VI. Die
+                        Lehrfreiheit stößt auf viele Schwierigkeiten, denn die Privatdozenten wären
+                        für den Unterricht ein Schaden, da sie um sich Zuhörer zu zügeln, das
+                        Ansehen der Professoren schmälern müßten, was bei der Zerrissenheit der
+                        italienischen Zustände sehr bedauernswerth wäre, abgesehen davon, daß Fremde
+                        einen schweren Stand hätten und daher im Kurzen das ganze Institut der
+                        Dozenten in den Händen der Pavesen wäre.<lb/>Das Abhilfemittel wären die
+                        Adjunkten, für jedes Studium nach dem Erfordernis in größerer und kleinerer
+                        Anzahl. Sie werden mittelst Conkurselaborates angestellt, beziehen einen
+                        jährlichen Gehalt von 3–400 fl. aus der Universitätskasse und werden auf 3–4
+                        Jahre angestellt.<lb/>Nach der Anzahl ihrer Zuhörer in besonderen Collegien
+                        beziehen sie außerdem noch einen Antheil an den eingehenden Schulgeldern aus
+                        der Universitätskasse. Jeder Adjunkt wird für ein oder zwei von einem
+                        Professor versehenen Fächer angestellt. Seine Pflicht ist, den Professor zu
+                        suppliren, wenn er länger als eine Woche an seinen Vorlesungen verhindert
+                        ist, ferner einige Specialkurse über jene Gegenstände, für welche er
+                        habilitirt ist, zu lesen, entweder aus der Materie, für welche ein Professor
+                        bestellt ist oder für welche keiner besteht.<lb/>VII. An die Stelle der an
+                        anderen Universitäten üblichen Honorare hätte ein jährliches Schulgeld von
+                        20 Gulden für den Semester zu treten, welches den Fond der Universitätskasse
+                        bildet. Unbemittelte ausgezeichnete Studenten werden von der Entrichtung
+                        befreit. Aus diesem Fonde werden die Adjunkten bezahlt und die übrigen
+                        Auslagen bestritten. Der Rest werde unter das Unterrichtspersonale nach der
+                        Zuhöreranzahl vertheilt.<lb/>VIII. An die Stelle des Rectors an anderen
+                        Universitäten blieben der bisherige Direktor, da nicht jeder Professor die
+                        nöthigen administrativen Kenntnisse besitzt. Oder es müßten wenigstens die
+                        Dekane und Rektoren auf mehrere Jahre und letzterer nicht nach der
+                        Anciennität, sondern nach seiner Geeignetheit und seinen Verdiensten hiezu
+                        ernannt werden.</p>
+                    <p>B. Über die verschiedenen Studien insbesondere</p>
+                    <p>
+                        <lb/>I. Das theologische Studium<lb/>Die <rs type="org" ref="#org_0002">Universität Pavia</rs> entbehrt seit 1796 das theologische
+                        Studium, die österreichische Regierung stellte im Jahre 1815 nur jenes zu
+                            <rs type="org" ref="#org_0003">Padua</rs> her. Diese
+                        Ungleichheit hätte aufzuhören, der Kostenpunkt ist nicht bedeutend, indem
+                        die theologischen Professoren einen minderen Gehalt beziehen. Als
+                        Unterrichtslokal könnte wie in <rs type="org" ref="#org_0003">Padua</rs> das bischöfliche Seminar verwendet werden.
+                        Unterrichtsplan, wie Einflußnahme auf die Anstellung der Professoren ist
+                        Sache der Bischöfe.</p>
+                    <p>
+                        <lb/>II. Das juridisch-politische Studium<lb/>Die Modifikationen desselben
+                        lassen sich auf folgendes zurückführen:<lb/>1. Die Anreihung einiger bisher
+                        nicht gehörig vertretenen Fächer als<lb/>a. Politisches und administratives
+                        Recht und dessen Gesetzgebung, bisher dem Professor der politischen
+                        Wissenschaften zugetheilt, daher nur ungenügend vertreten.<lb/>b.
+                        filosofisches und positives Strafrecht, jetzt durch den Professor des
+                        Naturrechts versehen, eines Gegenstandes, der gehörig vorgetragen, ohnehin
+                        ein ganzes Jahr in Anspruch nimmt.<lb/>c. Eine ins Einzelne gehende
+                        Behandlung der Finanzwissenschaft und ihrer Gesetzgebung. Für diese 3
+                        Gegenstände wäre jedoch nur eine neue Professorenstelle nothwendig, da die
+                        Finanzwissenschaft dem Professor der Statistik, der ohnehin nur täglich eine
+                        Stunde liest, zugetheilt werden könnte, welcher daher in einem Semester
+                        Statistik, in dem anderen die Finanzwissenschaft vorzutragen hätte. Das
+                        Administrationsrecht könnte der Professor des Naturrechts übernehmen und der
+                        Professor des Kirchenrechts mit Beschränkung dieses Gegenstandes auf einen
+                        Semester, die Staatsrechnungswissenschaft, wodurch eine eigene Stelle hiefür
+                        in Ersparung käme. Sollte er jedoch hiezu nicht geeignet sein, so könnte sie
+                        durch einen der Adjunkten vorgetragen werden.<lb/>2. Auch müßte vorgesorgt
+                        werden, daß andere Zweige der Wissenschaft, wie Rechtsgeschichte, Bergrecht
+                        und Internationales Recht vorgetragen werden, wofür vorzugsweise die
+                        Adjunkten zu bestellen wären.<lb/>3. Die Studierenden sollten verhalten
+                        werden, in ihrem Quadriennium einen Curs der Philosophie und der Geschichte,
+                        an der filosofischen und der gerichtlichen Medizin an der medizinischen
+                        Fakultät zu hören.<lb/>Auf diese Weise würden sich die Studien in
+                        obligatorische und freie scheiden:<lb/>Die obligatorischen wären auf die
+                        geeignetste Anzahl und Studienzahl zu beschränken, um den Studierenden freie
+                        Wahl unter den übrigen zu lassen.<lb/>Folgende wären etwa
+                        obligatorisch:<lb/>1. Kirchenrecht, 1 Semester<lb/>2. Positives Strafrecht,
+                        1 Semester<lb/>3. Römisches Recht, 2 Semester<lb/>4. Österreichisches
+                        Civilrecht, 2 Semester<lb/>5. Handels- und Wechselrecht, 1 Semester<lb/>6.
+                        Administrationsrecht, 1 Semester<lb/>8.[sic!] Civilgerichtsordnung, 1
+                        Semester<lb/>Auf diese Art enthielte das Quadriennium 9 Semester, während
+                        welchen Zeitraumes der Studierende auch andere besuchen kann, und um ihn
+                        diesfalls zu binden, wäre überhaupt der Ausweis über 14 besuchte
+                        Semestralcurse, ungerechnet die filosofischen, zu verlangen.<lb/>Die
+                        Prüfungen wären dann: deren erster sich der Student beim Beginne des 3.
+                        Jahres, der zweiten nach Beendigung desselben und der letzten nach
+                        Beendigung seines letzten Curses zu unterziehen hätte.<lb/>Die Gegenstände
+                        des ersten Examens wären:<lb/>1. Kirchenrecht<lb/>2. Politisches und
+                        Administrationsrecht<lb/>3. Drei andere nicht obligate Gegenstände<lb/>Für
+                        das zweite Examen:<lb/>1. Römisches Recht<lb/>2. Österreichisches
+                        bürgerliches Recht<lb/>3. Ein nicht obligater Gegenstand<lb/>Für das letzte
+                        Examen:<lb/>1. Positives Strafrecht<lb/>2. Handels- und Wechselrecht<lb/>3.
+                        Civilprozeß<lb/>4. Zwei nicht obligate Gegenstände, jedoch derart, daß in
+                        einer der Prüfungen das Finanzrecht und die Nationalökonomie miteinbegriffen
+                        sei.<lb/>Die an einer anderen Fakultät gehörten Curse bilden keinen
+                        Gegenstand der Prüfung des juridischen Studiums.<lb/>Die
+                        Unterrichtsgegenstände wären also folgende:<lb/>1. Filosofisches Recht
+                        frei<lb/>2. Rechtsgeschichte frei<lb/>3. Statistik von Europa und
+                        Oesterreich frei<lb/>4. Positives internationales Recht und Diplomatik
+                        frei<lb/>5. Politische und ökonomische Wissenschaften frei<lb/>6.
+                        Finanzrechtswissenschaft frei<lb/>7. Bergrecht frei<lb/>8.
+                        Staatsrechnungswissenschaft frei<lb/>9. filosofisches Strafrecht und
+                        positives Strafrecht, das positive obligat<lb/>10. Kirchenrecht
+                        obligat<lb/>11. Administrationsrecht obligat<lb/>12. Römisches Recht
+                        obligat<lb/>13. Österreichisches Civilrecht obligat<lb/>14. Handels- und
+                        Wechselrecht obligat<lb/>15. Civilprozeß obligat<lb/>16. Besondere Curse der
+                        Adjunkten<lb/>17. Geschichte und Philosophie an der filosofischen
+                        Fakultät<lb/>
+                    </p>
+                    <p>III. Die philosophischen Studien<lb/>Die neue Einrichtung der filosofischen
+                        Fakultät ist dem Standpunkte der Wissenschaft und der Vorbildung der
+                        Studierenden angemessen.<lb/>Nur wäre vorzuschreiben:<lb/>1. daß einige
+                        Gegenstände dieser Fakultät für die Studierenden der Rechte, Medizin und
+                        Mathematik zu frequentiren seien und<lb/>2. daß niemand an einer
+                        filosofischen Fakultät oder an einem öffentlichen Gymnasium Lehrer werden
+                        könne, wenn er nicht das filosofische Studium an einer Fakultät des Reichs
+                        besucht und den Doktorsgrad aus seiner Sektion gewonnen hat, dessen
+                        Unterrichte er sich widmen will. Es theilen sich nehmlich die filosofischen
+                        Fakultätsgegenstände in zwei natürliche Sektionen:<lb/>a. die
+                        filosofisch-literarischen<lb/>b. die naturwissenschaftlichen.<lb/>Zu
+                        ersterer gehören:<lb/>1. die Philosophie und ihre Zweige<lb/>2. die
+                        Geschichte mit ihren Hilfswissenschaften, Archäologie, Numismatik, alte
+                        Geog[ra]fie usw.<lb/>3. Erziehungskunde<lb/>4. Lateinische
+                        Literaturgeschichte und Philologie<lb/>5. Griechische Literatur und
+                        Philologie<lb/>6. Italienische Literatur<lb/>7. deutsche Sprache und
+                        Literatur<lb/>Zur zweiten gehören:<lb/>1. Physik<lb/>2.
+                        Naturgeschichte<lb/>3. Botanik<lb/>4. Chemie<lb/>5. Ackerbaukunde<lb/>6.
+                        höhere Geometrie und Einleitung in die höhere Mathematik<lb/>7. das
+                        Zeichnen<lb/>Diese beiden Sektionen haben auch verschiedene Grade für sich
+                        und es reicht hin, daß der Candidat sämtliche Gegenstände gehört habe, ohne
+                        sich den strengen Prüfungen aus beiden Sektionen zu unterziehen.<lb/>Auch
+                        andre Gegenstände können als freie vorgetragen werden, wobei die Adjunkten
+                        einen vorzugsweise großen Spielraum haben.<lb/>Das ganze Studium könnte in
+                        drei Jahrgänge vertheilt werden, wovon 2 für jeden obligatorisch sind,
+                        welcher das Zeugnis des Licentiats über dieses Studium zu erhalten oder
+                        Doktor aus einer Sektion zu werden wünscht, alle 3 Jahre aber für jene,
+                        welche aus beiden Sektionen das Doktorat ablegen wollen. Auch hier müßten
+                        die Prüfungen nach dem für die juridische Fakultät vorgeschlagenem Sisteme
+                        gemacht werden, ausgenommen jene Studierenden, welche einer andern Fakultät
+                        angehören.<lb/>Auch wäre an dieser Fakultät die Errichtung eines Instituts
+                        zur Bildung von Gymnasiallehrern sehr anzuempfehlen.</p>
+                    <p>IV. Mathematisches Studium<lb/>Dieses ist seit Jahren mit der Universität
+                        verbunden und möge dabei bleiben. Es verlangt wenige Modifikationen,
+                        vielleicht nur eine Vervollkommnung nach der praktischen Seite hin. Auch das
+                        mathematische Studium für Architekten und Ingenieure ist in
+                            <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> bei der Universität und es sind daraus
+                        ausgezeichnete Ingenieure hervorgegangen. Es wäre schade, dieses abzutrennen
+                        und in einer besonderen polytechnischen Schule zu vereinigen, wie dies
+                        anderwärts der Fall ist. Auch die Comission in <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>
+                        sprach sich einstimmig für diese Belassung aus, wie dies aus dem von
+                            <rs type="person" ref="#ambrosoli-franz">Ambrosoli</rs> veröffentlichten
+                        Aktenmemorandum ersichtlich ist.</p>
+                    <p>V. Medicinisch-chirurgisches Studium<lb/>In diesem Theile schienen
+                        nachfolgende Betrachtungen erfüllenswerth:<lb/>1. Die Lehrkanzel des
+                        chirurgischen Unterrichts solle wiederhergestellt werden.<lb/>2. Daran
+                        knüpfe sich ein Unterricht, den man Encykopädische Einleitung in die
+                        medizinisch-chirurgischen Wissenschaften nennen könnte, über Ursprung,
+                        Forstschritt und Wichtigkeit der Medizin. Hiefür kann ein Adjunkt bestellt
+                        oder hiemit einer der minder beschäftigten Professoren beauftragt
+                        werden.<lb/>3. Die Pathologie werde von der Pharmakologie getrennt und für
+                        jede dieser Wissenschaften eine eigene Lehrkanzel bestellt, da ein Professor
+                        hiefür nicht genügt.<lb/>4. E werde eine Lehrkanzel der pathologischen
+                        Anatomie errichtet.<lb/>5. Nach Beendigung des theoretisch-praktischen
+                        Kurses an der Universität haben die Studierenden noch durch 1 Jahr ein
+                        größeres Spital zu besuchen.<lb/>6. Der Unterricht in der Veterinärkunde sei
+                        nicht obligat und solle als freier Gegenstand durch einen Adjunkten
+                        vorgetragen werden.<lb/>7. Bei Übertragung der Naturwissenschaften an die
+                        filosofische Fakultät sind die Studierenden der Medizin anzuweisen:<lb/>a.
+                        zwei Kurse der Botanik zu hören und sich der bezüglichen Licenzprüfung zu
+                        unterziehen.<lb/>Hiezu ist nöthig, daß der botanische Unterricht auf zwei
+                        Semester ausgedehnt werde, deren erster die Organografie, die Fisiologie und
+                        Morfologie der der Pflanzen, der zweite den sistematischen und praktischen
+                        Theil umfaßen soll.<lb/>b. in gleicher Weise die Mineralogie und Zoologie zu
+                        hören, wofür 2 Lehrkanzeln zu bestellen sind.<lb/>c. daß ein eigener Kurs
+                        für allgemeine Chemie bestellt werde, welcher auch die organische
+                        umfaßt.<lb/>Der durch diese Lehrkanzeln gebothene Mehraufwand wird leicht
+                        durch die Ausscheidung des niederen und höheren chirurgischen Studiums von
+                        der Universität und durch das Aufgeben der Lehrkanzel der Veterinärkunde
+                        gedeckt.</p>
+                    <p>VI. Farmaceutisches Studium<lb/>Dieses ist gegenwärtig in
+                            <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> sehr herabgekommen, vorzüglich durch den
+                        mangelhaften Universitätsunterricht. Zur Verbesserung desselben dienen
+                        folgende Vorschläge:<lb/>1. Auch der Farmaceut hat das ganze Gymnasial- und
+                        Lycealstudium zurückzulegen.<lb/>2. Die praktischen Jahre, gegenwärtig 8,
+                        sind auf 4 zu beschränken, wovon er zwei schon während seines
+                        Gymnasialstudiums, die anderen beiden nach beendetem Universitätskurs
+                        zurücklegen kann.<lb/>3. Auf der Universität habe der Farmaceut zu
+                        hören:<lb/>a. Mineralogie, 1 Semester<lb/>b. Zoologie, 1 Semester<lb/>c.
+                        Botanik, zwei Semester<lb/>d. Allgemeine und organische Chemie, 2
+                        Semester<lb/>e. Farmaceutische Chemie, wenigstens 1 Semester<lb/>f.
+                        Farmakologie beschränkt auf die Warenkunde, 1 Semester, da eine Ausdehnung
+                        dieser Lehre auf die Wirkung der Medikamente in der Praxis zu Mißbräuchen
+                        Anlaß geben könnte. Dieser Unterricht kann durch einen Adjunkten oder durch
+                        den Professor der Mineralogie und Botanik oder auch durch jenen der Materia
+                        medica gegeben werden.<lb/>In den medizinisch-chirurgischen Studien sollen
+                        an die Stelle der Adjunkten die gegenwärtigen Assistenten für jene
+                        Professoren bestellt werden, die nicht eigene wissenschaftliche Cabinette
+                        oder praktische Demonstrationen haben. Diese Assistenten werden nur auf zwei
+                        Jahre bestellt, denn bei ihnen, die eine lohnende Praxis vor sich haben, ist
+                        eine weitere Aufmunterung zur Ausbildung nicht so nöthig, wie bei dem
+                        Naturwissenschafter usw.</p>
+                    <p>C. Prüfungen, Promotionen und Academische Grade</p>
+                    <p>1. An der juridisch-politischen Facultät<lb/>Auch das Sistem der strengen
+                        Prüfungen bedarf einer Änderung. Gegenwärtig ist es eine Plage für alle
+                        Professoren.<lb/>An der <rs type="org" ref="#org_0002">Universität
+                            Pavia</rs> werden jährlich bei 100 Doctoren promovirt, daher
+                        jährlich mehr als 400 Prüfungen mit einem Zeitaufwande von 800 Stunden, der
+                        weder der Wissenschaft noch dem Staate zu Gute kommt. Es ist nicht
+                        nothwendig, daß über das Wissen des Candidaten, wie bis nun, 10 Personen
+                        entscheiden, auch ist dies nicht einmal sicher, weil sich eine auf die
+                        andere verläßt und die Verantwortlichkeit sich unter viele theilt.<lb/>In
+                        der Folge sollen diese strengen Prüfungen vor einer Comission abgelegt
+                        werden, welche nur [sic!] den Professoren der betreffenden
+                        Prüfungsgegenstände unter dem Vorsitze des Direktors oder Dekans mit
+                        Beiziehung höchstens eines Professors der verwandten Fächer stattfinden.
+                        Diese Prüfungen sollen auf 3 mündliche und eine schriftliche beschränkt
+                        werden. Jede der mündlichen umfaßt eine bestimmte Anzahl obligater und
+                        freier Fächer, und zwar sollen zum Unterschiede von den Staatsprüfungen,
+                        abgesehen von der größeren Strenge bei den Prüfungen, die Candidaten zwei
+                        Curse mehr ausweisen und Proben eines gründlichen und speciellen Wissens im
+                        positiven Gesetzfache abgeben. Bei der schriftlichen Prüfung hat der
+                        Candidat die Wahl der Wissenschaft, die Fragen, 2 und 3 werden von dem
+                        Prüfungskörper bestimmt.<lb/>Hiebei können zur Zeitersparnis an einem Tage
+                        mehrere Kandidaten unter Überwachung ihre Elaborate machen. An den Taxen für
+                        die Rigorosen nehmen nur die wirklich Prüfenden Theil. Das Urtheil über das
+                        Elaborat fällen sämtliche Professoren.<lb/>2. In den übrigen Fakultäten
+                        würden an die Stelle der Staats- die Licentiatsprüfungen treten. Die
+                        Unterrichtsgegenstände wären in 2–3 Sektionen und Zeitabschnitte zu theilen.
+                        Die Prüfung erfolgt vor einer Comission von Professoren. Das
+                        Licentiatszeugnis giebt, gleich dem gegenwärtigen Absolutorium, den Nachweis
+                        über den zurückgelegten gesetzlichen Kursus.<lb/>In der mathematischen,
+                        medizinisch-chirurgischen Fakultät und bei den farmaceutischen Studien giebt
+                        dieses Zeugnis kein Recht zur Praxis, wenn nicht das Doktorat
+                        hinzutritt.<lb/>Die Laureatsprüfungen an jeder dieser Fakultäten, welche
+                        strenger als gegenwärtig sein müssen, haben auch alle jene neuen Gegenstände
+                        zu umfaßen, die noch hinzukommen sollen, in derselben Weise und Vertheilung
+                        wie bei dem juridisch-politischen Studium.<lb/>In der
+                        medizinisch-chirurgischen Fakultät sind besondere Grade für Geburtshilfe,
+                        Augenheilkunde und Chemie nicht nothwendig. Insoferne Mediziner und
+                        Farmaceuten sich Prüfungen aus filosofischen Fächern zu unterziehen haben,
+                        sind die betreffenden Professoren die Examinatoren, unter dem Vorsitze des
+                        medizinischen Direktors oder Dekanes, wie überhaupt der Studierende während
+                        seiner Studien von jenem Direktor abhängig ist, unter dessen Leitung mit
+                        Rücksicht auf seine künftige Bestimmung seine Berufsstudien stehen.<lb/>Die
+                        strengen Prüfungen für Farmaceuten können auf 2 zurückgeführt werden, nur
+                        wenn der Candidat schon den Doktorsgrad für die Sektion der
+                        Naturwissenschaften hat, auf 1 Prüfung aus den noch übrigen Gegenständen.
+                        Dasselbe könnte für die medizinisch-chirurgischen Studien gelten.<lb/>Die
+                        Promotion ist gegenwärtig eine abgelebte lächerliche Förmlichkeit geworden.
+                        An deren Stelle sollte das Vortragen einer kurzen wissenschaftlichen
+                        Abhandlung treten, welche früher dem Professor des betreffenden Gegenstandes
+                        zur Approbation vorgelegt wurde. Für jede Fakultät werde namentlich 1 Tag
+                        für diese Promotionen bestimmt, wobei jedoch nur ein Kandidat einen Vortrag
+                        hält, worauf einer der Professoren (im Turnus) einen andern kurzen Vortrag
+                        hält, wie es früher üblich war. An dieser Promotion nehmen die Professoren
+                        der Fakultät oder Sektion, für welche der Grad erlangt wird, theil.<lb/>Die
+                        Taxe für jeden durch das Gesetz zur Prüfung berufenen Professor betrage 5
+                        fl, sowohl für die strengen mündlichen als schriftlichen Prüfungen und die
+                        Promotion. Jener Professor, welcher den Vortrag hält, erhalte außerdem noch
+                        20 fl. Die Taxen für die Kanzlei und andere müßten verringert werden. Der
+                        Betrag, welcher außerdem noch an die Kasse des Doktorenkollegiums zu
+                        entrichten ist, würde mit dem Aufgeben desselben wegfallen, was auch
+                        wünschenswerth wäre, da diese Collegien für den Unterricht ganz ohne Nutzen
+                        sind, dem Staate keine Dienste leisten und oft mit dem Lehrkörper in Streit
+                        und Hader sind.<lb/>Nach diesen Vorschlägen würde allerdings ein Theil des
+                        Lehrkörpers an seinen bisherigen Bezügen beträchtlichen Abbruch erleiden.
+                        Einen Ersatz hiefür könnte der projektirte Antheil an dem Schulgelde
+                        biethen. Sollte aber dies nicht beliebt werden, so müßte allerdings die
+                        Regierung eine billige Entschädigung leisten, wobei aber doch der Grundsatz
+                        festzuhalten wäre, daß die fixen Gehalte aller Professoren gleich bemessen
+                        seien.<lb/>Endlich bleibt noch der Wunsch auszusprechen, daß die
+                        Universitätsferien mit halbem August beginnen möchten. Keine der
+                        italienischen Universitäten, mit Ausnahme jener von <rs type="org" ref="#org_0003">Padua</rs> und <rs type="org" ref="#org_0002">Pavia</rs>, überschreitet diesen Termin.
+                        Der Grund hiefür liegt in dem Clima, Temperamente und in der
+                        Landesgewohnheit. Auch erzeugt der Monat August ungewöhnlich viele
+                        Krankheiten und es ist eine mehrjährige Erfahrung, daß in diesem Monate
+                        unter den Studierenden mehr Krankheit und Todesfälle eintreffen als alle
+                        übrigen Monate zusammen.</p>
+                </div>
+                <div xml:id="D249_7">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Über den öffentlichen Unterricht im <rs type="place" subtype="country" ref="#place_f7197ed66a15667400bf934725fd7c3c">Lombardo-Venetianischen
+                                Königreiche</rs>
+                        </hi>
+                        <note xml:id="note_6">Anmerkung Thuns am
+                            oberen Blattrand: <rs type="person" ref="#mozart-joseph">Mozart</rs>.</note>
+                        <lb/>Auszug aus einem Memorandum des <rs type="person" ref="#corali-antonio">
+                            <hi rend="ul">Antonio Corali</hi>
+                        </rs>
+                        <note xml:id="note_7">Anmerkung Thuns: Podestà zu Verona [?].</note>
+                    </p>
+                    <p>Der neue Gymnasiallehrplan hat so große Gebrechen an sich, daß er den
+                        allgemeinen Wunsch nach Reformen erzeugt. Nach ihm geht das Studium der
+                        literarischen und scientifischen Gegenstände parallel, wodurch Knaben von
+                        unreifem Alter zum Studium vielfacher und weit auseinanderliegender
+                        Gegenstände gezwungen werden, was in ihnen Widerwillen und Abmattung
+                        hervorruft und ihr Gedächtnis auf Kosten einer freien Verstandesentwicklung
+                        beschwert.<lb/>Im Ganzen scheinen die Gegenstände zu sehr zerstückelt und
+                        der Unterricht in homogenen Fächern zu wenig koncentrirt. Dies die
+                        allgemeine Klage verbunden mit dem Wunsche zur Rückkehr auf das frühere
+                        Studiensistem, mit Beseitigung seiner Mängel dadurch, daß die Kluft zwischen
+                        den Gymnasien und Lizeen getilgt werde, indem auch in erstern die
+                        vorzüglichsten Resultate der Wissenschaft eingeführt werden.<lb/>Das
+                        Comunalgymnasium von <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> ist ein sehr altes
+                        Institut, der Bevölkerung sehr werth und der Lehrkörper erfreut sich des
+                        öffentlichen Vertrauens im hohen Grade, so daß es bei weitem mehr Schüler
+                        zählt als das öffentliche Gymnasium.<lb/>Der Comunalrath hat in seiner
+                        Sitzung am 6. Juli vorigen Jahres einstimmig beschloßen, es zu einem
+                        Lycealgymnasium durch Hinzufügung einer 7. und 8. Klasse zu erweitern,
+                        welchem Ansuchen aber das <rs type="org" ref="#org_0005">Unterrichtsministerium</rs> mit dem Erlaße vom 18. Sept. 1852 Z.
+                        19797 keine Folge gab.<lb/>Im nächsten Schuljahre kann es nicht mehr als
+                        6-klassiges, sondern nur als 4-klassiges Gymnasium bestehen. Es scheint der
+                        Wunsch der Bevölkerung gerechtfertigt, daß das Comunalgymnasium erweitert
+                        werde, da es für eine so volkreiche Stadt ein wirkliches Bedürfnis ist und
+                        das einzige bestehende vollständige Gymnasium hiefür nicht ausreicht, da
+                        zudem das bischöfliche nur Alumnen zugänglich ist.</p>
+                </div>
+                <div xml:id="D249_8">
+                    <p/>
+                    <p>
+                        <hi rend="ul">Memorandum über Realschulen</hi>
+                        <note xml:id="note_8">Anmerkung Thuns am oberen Blattrand: Beachtenswerth –
+                            Vorschlag zu erstatten.</note>
+                        <lb/>
+                        <hi rend="ul">Von Dr. <rs type="person" ref="#baraldi-pietro">P[ietro] Baraldi</rs>, Direktor der
+                            technischen Schule zu <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>
+                        </hi>
+                    </p>
+                    <p>Die Umwandlung der technischen Schule in eine Oberrealschule erfolgte durch
+                        Minsterialerlaß.<lb/>Das Programm der neuen Schule biethet eine reiche Fülle
+                        von Unterrichtsgegenständen, aber eine Fülle, welche nicht theilbar ist und
+                        alle Schüler, ihr Beruf mag welch immer sein, sind gezwungen, sie zu lernen.
+                        Zweckmäßiger wäre eine Theilung dieser Gegenstände in 2 Sektionen, eine
+                        komerzielle und eine technische, und zugleich eine Vereinfachung der
+                        Unterrealschule.<lb/>Übrigens ist diese Institution überhaupt eine Wohlthat,
+                        wie dies der zahlreiche Besuch von 934 Schülern ausweist. Allein dies soll
+                        nicht täuschen, denn alle jene, welche sich nicht den klassischen Studien
+                        zuwenden wollen, aber auch mit der bloß elementaren Bildung nicht
+                        abschließen, wenden sich der Realschule zu; doch aber beklagt man allgemein,
+                        daß die Studierenden gezwungen sind, Zeit und Mühe so vielen
+                        Unterrichtsgegenständen zuwenden zu müssen, anstatt sie auf die ihrer
+                        künftigen Bestimmung mehr zusagenden konzentriren zu können. Es muß daher
+                        wiederholt werden, daß eine Abtheilung der Schule in Sektionen das Mittel
+                        wäre, diesem gerechten Wunsche zu entsprechen, wodurch das Institut an
+                        Wirksamkeit gewönne, welche es in seiner gegenwärtigen Einrichtung nie
+                        erlangen kann.</p>
+                </div>
+            </div>
+        </body>
+    
+    <back><listOrg><org xml:id="org_0002">
+                        <orgName>Universität Pavia</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/40464-0</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Baruffi an Leo Thun, Rovigo, 10. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Mailand, 21. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 08. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-12-08-a3-xxi-d308.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 06. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1855-01-06-a3-xxi-d322.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ambrogio Robiati an Leo Thun, Mailand, 6. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/robiati-an-thun-1853-08-06-a3-xxi-d222.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="org_0003">
+                        <orgName>Universität Padua</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1011210-8</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Baruffi an Leo Thun, Rovigo, 10. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 08. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-12-08-a3-xxi-d308.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 06. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1855-01-06-a3-xxi-d322.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ambrogio Robiati an Leo Thun, Mailand, 6. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/robiati-an-thun-1853-08-06-a3-xxi-d222.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, o. O., 22. September</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-09-22-ca1431.xml"/></linkGrp></event></listEvent></org>
+                    <org xml:id="org_0005">
+                        <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Erzherzog Albrecht an Leo Thun, Debrezin, 5. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-thun-1858-05-05-a3-xxi-d451.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Samuel Andriewicz an Leo Thun, Czahor, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/andriewicz-an-thun-1859-11-05-a3-xxi-d524.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kritik an der Reform der Gymnasien und der Universitäten in Österreich von Ferdinand Arlt o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansichten-ueber-gymnasien-universitaeten-von-arlt-o-d-a3-xxi-d185.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Bayer an einen Ministerialrat im Ministerium für Kultus und Unterricht, Hermannstadt, 28. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bayer-an-einen-ministerialrat-1853-03-28-a3-xxi-d196.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kritik von Samuel Schiel am reformierten Rekrutierungsgesetz o. O., o. D. [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bedenken-gegen-neues-rekrutierungsgesetz-von-schiel-o-d-a3-xxi-d480.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen zur Schulreform von Josef Kwieciński, Biala, 2. Oktober 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-zur-schulreform-von-kwiecinski-1850-10-02-a3-xxi-d73.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über die Maturitätsprüfungen an ungarischen Gymnasien im Schuljahr 1860 von Konrad Halder, Pest, 20. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-maturitaetspruefungen-an-ungarischen-gymnasien-von-halder_1860-08-20_a3-xxi-d602.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>August Bielowski an Leo Thun, Lemberg, 3. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bielowski-an-thun-1855-11-03-a3-xxi-d356.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Blazina an einen Professor [Anton Jaksch], Salzburg, 10. Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/blazina-an-einen-professor-1852-06-10-a3-xxi-d169.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 4. Februar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-02-04-a3-xxi-d446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 19. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-19-a3-xxi-d521.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun Wien, 20. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-20-a3-xxi-d615a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>František Ladislaus Čelakovšký an Leo Thun, o. O., o. D. [post April 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1063.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Curtius an Hermann Bonitz, Prag, 27. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/curtius-an-bonitz-1853-12-27-a3-xxi-d245.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an Leo Thun, Wien, 10. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 6. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 1. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1853-01-01-a3-xxi-d188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwürfe, Akten und Stellungnahmen zur Ausarbeitung eines neuen Statutes der Universität Wien, o. D. [1854–1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwuerfe-statut-universitaet-wien_1857_a3-xxi-d407.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anweisungen Thuns zur Kundmachung der Regierungserlässe in Ungarn, Wien, o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-fuer-bekanntmachung-regierungserlaesse-in-ungarn-1858-a3-xxi-d484.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf eines Gesetzes für die Volksschulen Österreichs, o. D. [1850/51 ?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-volksschulen-od-a3-xxi-d651.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für die Grundzüge über das Gesetz für die Staatsprüfungen o. O., [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-grundzuege-gesetz-staatspruefungen-1849-a3-xxi-d24.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des kaiserlichen Patents für die Evangelischen Kirchen beider Bekenntnisse in Österreich [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-protestantenpatent-1859-a3-xxi-d541.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakte zur gesetzlichen Regelung der theologischen Studien an der Universität Pest 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-thun-fuer-vorschrift-theologische-studien-universitaet-pest-1851-a3-xxi-d143.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf zur Neuregelung der Kompetenzen des Ministeriums für Kultus und Unterricht o. O. o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-wirkungskreis-ministerium-fuer-kultus-und-unterricht-o-d-a3-xxi-d84.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-01-19-a3-xxi-d551.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Münster, 16.–20. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-09-16-a3-xxi-d612.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 1. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-11-01-a3-xxi-d623a6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Olmütz, 18. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1853-09-18-a3-xxi-d234.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Schwarzenberg an Leo Thun, Wien, 5. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gruener-an-schwarzenberg-1850-05-30-a3-xxi-d53.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 4 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-bischoefliche-kommissaere-von-kleemann-1856-a3-xxi-d383c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 9 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 17. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-halbtaegiger-unterricht-von-krombholz-1856-08-17-a3-xxi-d383g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 3 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katecheten-von-kleemann-1856-a3-xxi-d383b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 13 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katholische-schulen-siebenbuergen-von-krombholz-1856-08-20-a3-xxi-d383k.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 6 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-konfessionell-gemischte-schulen-von-kleemann-1856-a3-xxi-d383e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-lehramtskandidaten-von-krombholz-1856-08-30-a3-xxi-d383p.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 8 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 15. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-leitung-von-schulen-von-krombholz-1856-08-15-a3-xxi-d383f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Anton Krombholz zu § 12 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats, Wien, 20. August 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-schulgeld-lehrergehalt-von-kromholz-1856-08-20-a3-xxi-d383j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann und Marian Koller zu § 5 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-seelsorge-von-kleemann-und-koller-1856-a3-xxi-d383d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Ernst Harrach an Leo Thun, Hrádek, 7. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/harrach-an-thun-1853-09-07-a3-xxi-d229.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1850-07-12-a3-xxi-d60.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Haulik an Leo Thun, Agram, 13. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/haulik-an-thun-1860-11-13-a3-xxi-d623a5.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Carl Heiller an Leo Thun, Pressburg [Bratislava], 11. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heiller-an-thun-1850-06-11-a3-xxi-d56.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 29. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-29-a3-xxi-d237.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adalbert Henniger an Leo Thun, Czernowitz, 26. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/henniger-an-thun-1851-04-26-a3-xxi-d115.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun [, Hermannstadt, April 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-29-a3-xxi-d47.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 16. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1854-07-16-a3-xxi-d267.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Jülg an Leo Thun, Lemberg, 7. Januar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/juelg-an-thun-1852-01-07-a3-xxi-d151.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 27. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-27-a3-xxi-d227c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 6. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Wien, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Albert Kohn an Leo Thun, Raudnitz, 04. Oktober 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kohn-an-thun-1850-10-04-a3-xxi-d74.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kolenati-an-thun_1856-10-15_a3-xxi-d390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Krauss an das Ministerium für Kultus und Unterricht, Hünfeld, 14. Oktober 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/krauss-an-ministerium-fuer-kultus-und-unterricht-1851-10-14-a3-xxi-d126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 20. Februar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1850-02-20-a3-xxi-d35.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Wien, 8. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-07-08-a3-xxi-d595.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d606.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 13. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-13-a3-xxi-d611.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 15. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-10-15-a3-xxi-d620.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Lange an Leo Thun, Prag, 28. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1859-04-28-a3-xxi-d503.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Klattau an Leo Thun, Klattau [Klatovy], 1. Januar 1861</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-klattau-an-thun-1861-01-01-a3-xxi-d623a34.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 11. März 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1852-03-11-a3-xxi-d159.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Macher an Leo Thun, Krakau, 22. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/macher-ueber-dydynskische-stiftung-1860-09-22-a3-xxi-d613.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge von Johann Mikulas zur Neuordnung der Superintendenzen in Ungarn o. D. [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-neueinteilung-superintendenzen-1860-a3-xxi-d627.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Modifikationsentwurf zur Stellung kirchlicher Knabenseminare gegenüber den Staatsgymnasien o. O., o. D. [post Juni 1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/modifikationsentwurf-stellung-kirchlicher-knabenseminare-zu-staatsgymnasien-1850-a3-xxi-d87.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun, Wien, o. D. [September 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Handschriftliche Notizen von Leo Thun zum Verfassungsentwurf für die evangelischen Kirchen von Karl Kuzmány o. O., o. D.[1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-von-thun-1850-a3-xxi-d94.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen Leo Thuns zu verschiedenen Angelegenheiten o. O., 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-von-thun_1860-04-17_a3-xxi-d572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Wilhelm Pauli an das Ministerium für Kultus und Unterricht, Wien, 5. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Pebal an einen Ministerialrat im Ministerium für Kultus und Unterricht, Lemberg, 16. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pebal-an-einen-ministerialrat-1860-01-16-a3-xxi-d549.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Joseph Rajačić an Johann Dobran o. O., 23. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 7. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1850-03-07-a3-xxi-d36.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona,18. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1854-07-18-a3-xxi-d269.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rezension des Organisationsentwurfes für die Österreichischen Gymnasien in der Zeitschrift Religio Nr. 52–55 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rezension-organisationsentwurf-in-zeitschrift-religio-1851-a3-xxi-d144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ambrogio Robiati an Leo Thun, Mailand, 6. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/robiati-an-thun-1853-08-06-a3-xxi-d222.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rohanyi an Leo Thun, Gložan, 14. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rohanyi-an-thun-1854-10-14-a3-xxi-d292.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Schaguna an Kaiser Franz Joseph, Wien, 9. September 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Oscar Schmidt an Leo Thun, Graz, 4. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schmidt-an-thun-1859-04-04-a3-xxi-d501.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 22. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1859-12-22-a3-xxi-d533.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 15. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1860-01-15-a3-xxi-d548.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Schwarzenberg an Leo Thun, Prag, 30. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1854-08-30-a3-xxi-d278.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-01-a3-xxi-d296d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 23. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Steger an einen unbekannten Adressaten, Marburg, 25. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Strobach, Adalbert Stifter und Johann Kurz an Leo Thun, Linz, 24. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an einen polnischen Professor in, Wien, Lemberg, 30. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-polnischen-professor-1850-07-30-a3-xxi-d64.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Szeberinyi an Franz Joseph, Schemnitz, 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szeberinyi-an-franz-joseph-1860-02-08-a3-xxi-d560.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Szeberinyi an Leo Thun, Schemnitz, 7. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szebernyi-an-thun-1860-02-07-a3-xxi-d557.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Szögyény an Leo Thun o. O., 26. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Taaffe an Leo Thun, Wien, 15. Februar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>64 Thesen gegen die Kirchenbeschlüsse der Unkirchlichen in Ungarn o. O., o. D. [1859/60?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thesen-gegen-kirchenbeschluesse-protestanten-ungarn-od-a3-xxi-d490.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, o. O. [Wien], 3. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1854-05-03-ca940.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Hermann Bonitz, o. O., 9. August [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bonitz-1855-08-09-ca1011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Václav Vladivoi Tomek, Wien, 9. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns über einige Fragen der Universitätsreform o. O., o. D. [1852/53]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-universitaeten-1852-a3-xxi-d184.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht über die Kompetenzen und Agenden des Ministeriums für Kultus und Unterricht o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-wirkungskreis-mcu-od-a3-xxi-d635.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Virozsil an Leo Thun, Ofen, 27. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/virozsil-an-thun-1853-07-27-a3-xxi-d221.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Wacholz an Leo Thun, Lemberg, o. D. [Oktober 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wacholz-an-thun-1855-10-06-a3-xxi-d349.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Waldert an Leo Thun, Görkau [Jirkov], 22. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/waldert-an-thun-1853-09-22-a3-xxi-d236.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Vinařický an Leo Thun, Vyšehrad, 8. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Cajetan Wrana an Heinrich Johann Demel, Nikolsburg, 28. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wrana-an-demel-1852-02-28-a3-xxi-d157.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 22. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josephat Zielonacki an Leo Thun, Chwalbogowo, 22. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zielonacki-an-thun-1853-05-22-a3-xxi-d207.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zirkular Leo Thuns an sämtliche Referenten und Vorsteher der Hilfsämter des Ministeriums für Kultus und Unterricht hinsichtlich des Wirkungskreises des Militär- und Zivilgouverneurs von Ungarn, Wien, 12. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zirkular-thuns-an-referenten-und-vorsteher-der-hilfsaemter-unterrichtsministerium-1852-02-12-a3-xxi-d179.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg><listPerson><person xml:id="borroni-luigi">
+                        <persName>
+                            <surname>Borroni</surname>
+                            <forename>Luigi</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Provinzialdelegat in Pavia</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="heider-gustav">
+                        <persName>
+                            <surname>Heider</surname>
+                            <forename>Gustav</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1819–1897 Wien</p>
+                            <p>ab 1842 Assistent in der Bibliothek der Akademie der bildenden Künste
+                                in Wien, 1850–1880 Kunstreferent im Ministerium für Kultus und
+                                Unterricht</p>
+                            <p>https://d-nb.info/gnd/10737742X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/10737742X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 1. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1853-01-01-a3-xxi-d188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 6. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Wien, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 19. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-19-ca78.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="baraldi-pietro">
+                        <persName>
+                            <surname>Baraldi</surname>
+                            <forename>Pietro</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Direktor der Oberrealschule in Mailand</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="corali-antonio">
+                        <persName>
+                            <surname>Corali</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Podestà in Verona</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="jussieu-antoine-laurent">
+                        <persName>
+                            <surname>Jussieu</surname>
+                            <forename>Antoine-Laurent</forename>
+                        </persName>
+                        <note>
+                            <p>Lyon 1748–1836 Paris</p>
+                            <p>Botaniker, Begründer eines natürlichen Pflanzensystems</p>
+                            <p>https://d-nb.info/gnd/119273624</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/119273624</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="odescalchi-antonio">
+                        <persName>
+                            <surname>Odescalchi</surname>
+                            <forename>Antonio</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Direktor und Lehrer am San Alessandro Gymnasium in Mailand</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="linne-carl">
+                        <persName>
+                            <surname>Linné</surname>
+                            <forename>Carl</forename>
+                        </persName>
+                        <note>
+                            <p>Rashult 1707–1778 Uppsala</p>
+                            <p>Naturforscher</p>
+                            <p>https://d-nb.info/gnd/118573349</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118573349</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bonifacio-di-canossa">
+                        <persName>
+                            <surname>Bonifacio di Canossa</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
+                            <p>https://d-nb.info/gnd/136919596</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/136919596</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="ambrosoli-franz">
+                        <persName>
+                            <surname>Ambrosoli</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Como 1797–1868 Mailand</p>
+                            <p>Pädagoge, Philologe und Schriftsteller, bis 1848 Prof. für Literatur
+                                und Ästhetik an der Universität Pavia</p>
+                            <p>https://d-nb.info/gnd/1029700869</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1029700869</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 7. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-07-a3-xxi-d230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="mozart-joseph">
+                        <persName>
+                            <surname>Mozart</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1805–1892 Wien</p>
+                            <p>ab 1849 Sektionsrat im Ministerium für Kultus und Unterricht, 1857
+                                Ministerialrat, zunächst Referent für Gymnasialangelegenheiten, dann
+                                für die italienischen Mittelschulen und Universitäten, 1849–1863
+                                Mitglied der Redaktion der Zeitschrift für die Österreichischen
+                                Gymnasien</p>
+                            <p>https://d-nb.info/gnd/1023724472</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1023724472</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 17. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun, Wien, o. D. [September 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [August/September 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Wenzig an Leo Thun, Prag, 5. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_842e26ab3b54376d93e22b403f3f9728" type="placeName">
+                        <placeName type="pref">Ägypten</placeName>
+                        <location>
+                            <geo decls="#LatLng">26.033333 29.216667</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4000556-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Schmarda an Leo Thun, Sydney, 15. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schmarda-an-thun-1854-12-15-a3-xxi-d309.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_19cb29505c294db5ca9190ea93447e98" type="placeName">
+                        <placeName type="pref">Italy</placeName>
+                        <placeName type="pref">Italien</placeName>
+                        <location>
+                            <geo decls="#LatLng">43 12</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4027833-5</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sarah Austin an Leo Thun, Weybridge, 3. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/austin-sarah-an-thun-1859-07-03-a3-xxi-d511.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Baruffi an Leo Thun, Rovigo, 10. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen über die Einrichtung der Landtage [Januar 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-ueber-landtag-fuer-boehmen-von-clam-martinitz-od-a3-xxi-d554.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen zur Schulreform von Josef Kwieciński, Biala, 2. Oktober 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-zur-schulreform-von-kwiecinski-1850-10-02-a3-xxi-d73.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 4. Februar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-02-04-a3-xxi-d446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 1. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1853-01-01-a3-xxi-d188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Mailand, 21. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Leo Thun, Rom, 5. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-thun-1856-05-05-a3-xxi-d379.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 28. April 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-konzept-1854-04-28-ca196.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 29. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-konzept-1854-05-29-ca197.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf der Grundzüge über die Organisierung der Zivilverwaltung in Lombardo-Venetien, Wien, 7. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/grundzuege-fuer-organisierung-der-zivilverwaltung-lombardo-venetiens-1849-10-07-a3-xxi-d8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 23. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-03-23-a3-xxi-d373.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 18. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-04-18-a3-xxi-d576.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Macédoine Melloni an Karl Littrow o. O., o. D.[1848/49]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/melloni-an-littrow-1854-a3-xxi-d314.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von unbekannter Hand zu den politischen Gruppierungen in Ungarn o. D. [post 1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-parteiverhaeltnisse-ungarn-od-a3-xxi-d645.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jean-Baptiste Pitra an Leo Thun, Wien, 4. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-04-a3-xxi-d608.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 19. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-04-19-a3-xxi-d339.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 7. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1854-10-07-a3-xxi-d290.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Steger an einen unbekannten Adressaten, Marburg, 25. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stimmungsbericht aus Rom, Rom, 16. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an einen polnischen Professor in, Wien, Lemberg, 30. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-polnischen-professor-1850-07-30-a3-xxi-d64.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [April 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1853-ca83.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Schreibens von Leo Thun an Kaiser Franz Joseph, Hetzendorf, Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-franz-joseph-1859-06-a3-xxi-d510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Maximilian Joseph Tarnóczy, Wien, 21. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tarnoczy-1860-11-21-ca844.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Guidobald Thun an Leo Thun, Trient, 9. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-guidobald-an-thun-1859-01-09-a3-xxi-d492.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 6. [August] 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 8. August 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_f7197ed66a15667400bf934725fd7c3c" type="placeName">
+                        <placeName type="pref">Lombardie und
+                            Venedig</placeName>
+                        <placeName type="alt">Lombardo-Venetien</placeName>
+                        <placeName type="alt">lombardisch-venezianischen
+                            Königreichs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4375 12.335833</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4215793-6</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Stellungnahme Leo Thuns zum Resolutionsentwurf des Reichsratspräsidenten Erzherzog Rainer[?] zur Reform der Gymnasien o. O., o. D. [1857]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/alleruntertanigste-bemerkungen-thuns-zu-gymnasialreform-1857-a3-xxi-d439.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Vorschriften zur Bestreitung der Schulbaukosten in Österreich von Ludwig Heufler, Wien, 6. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufstellung-vorschriften-bestreitung-schulbaukosten-von-heufler-1853-05-06-a3-xxi-d203.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer allerhöchsten Entschließung über die kirchliche Vermögensverwaltung 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliche-entschliessung-kirchliche-vermoegensverwaltung-1858-a3-xxi-d489.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des kaiserlichen Patents für die Evangelischen Kirchen beider Bekenntnisse in Österreich [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-protestantenpatent-1859-a3-xxi-d541.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für die Reform der Zentralverwaltung [1859]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-reform-zentralverwaltung-1859-a3-xxi-d538.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf der Grundzüge über die Organisierung der Zivilverwaltung in Lombardo-Venetien, Wien, 7. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/grundzuege-fuer-organisierung-der-zivilverwaltung-lombardo-venetiens-1849-10-07-a3-xxi-d8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 3 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-katecheten-von-kleemann-1856-a3-xxi-d383b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zur Gymnasialreform o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-von-kleemann-1857-a3-xxi-440.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alleruntertänigster Vortrag zur Neuregelung der Verwaltung der Religionsfonde von Leo Thun-Hohenstein, Wien, 3. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/majestaetsvortrag-1856-05-05-a3-xxi-d378.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Schwarzenberg an Leo Thun, Wien, 4. Januar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1852-01-04-a3-xxi-d150.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Schreibens von Leo Thun an Kaiser Franz Joseph, Hetzendorf, Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-franz-joseph-1859-06-a3-xxi-d510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Alleruntertänigsten Vortrages Leo Thuns zur Regelung der Verwaltung der Religionsfonds, Wien, 12. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-thun-regelung-verwaltung-religionsfond-1852-05-12-a3-xxi-d166.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_5f397a1e588cfe96b4aa4bab7a5b1d44">
+                        <placeName>Rom</placeName>
+                        <placeName type="alt">Rome</placeName>
+                        <placeName type="alt">Roms</placeName>
+                        <location>
+                            <geo decls="#LatLng">41.89193 12.51133</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3169070</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz de Paula Colloredo-Waldsee an Leo Thun, Rom, 2. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/colloredo-an-thun-1856-07-02-a3-xxi-d382.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 6. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 1. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1853-01-01-a3-xxi-d188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Leo Thun, Rom, 5. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-thun-1856-05-05-a3-xxi-d379.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 28. April 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-konzept-1854-04-28-ca196.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Flir an Leo Thun, Wien, 6. Februar 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1854-02-06-a3-xxi-d253.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Flir an Leo Thun, Rom, 3. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1855-11-03-a3-xxi-d352.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Flir an Leo Thun o. O. [, Rom], o. D. [29. Juli 1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1858-07-29-a3-xxi-d462.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Schloß Johannesberg, 17. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun_1854-08-17_a3-xxi-d276.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Olmütz, 18. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1853-09-18-a3-xxi-d234.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-07-12-a3-xxi-d61.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Augustin Hille an Leo Thun, Leitmeritz, 17. Dezember 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1858-12-17-a3-xxi-d477.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von unbekannter Hand zu Sonderrechten und Besonderheiten der katholischen Kirche in Ungarn o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-unbekannt-katholische-kirche-ungarn-od-a3-xxi-d643.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, München, 14. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1856-03-14-a3-xxi-d372.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jean-Baptiste Pitra an Leo Thun, Wien, 4. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-04-a3-xxi-d608.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jean-Baptiste Pitra an Leo Thun, Wien, 12. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-12-a3-xxi-d608a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Graz, 18. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1850-08-18-a3-xxi-d69.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 9. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1854-11-09-a3-xxi-d298.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1854-12-01-a3-xxi-d304.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 11. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-01-11-a3-xxi-d324.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 19. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-04-19-a3-xxi-d339.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 16. Mai 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-05-16-a3-xxi-d345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 31. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1860-01-31-a3-xxi-d553.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl August Reisach an Leo Thun, Rom, 24. Mai 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/reisach-an-thun-1859-05-24-a3-xxi-d506.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakt zur Neuregelung der Ehegesetze (Konkordat) 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-neuregelung-ehegesetz-1855-a3-xxi-d360.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-14-a3-xxi-d296b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-01-a3-xxi-d296d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 7. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-07-a3-xxi-d296e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 12. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-12-a3-xxi-d296f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 15. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-15-a3-xxi-d296g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 23. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stimmungsbericht aus Rom, Rom, 16. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hipolit Vladimir Terlecki an Leo Thun, Wien, 8. August 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/terlecki-an-thun-1860-08-08-a3-xxi-d601.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. September 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-09-19-ca1427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Weis an Leo Thun, Speyer, 26. November 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weis-an-thun-1856-11-26-a3-xxi-d392.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 6. [August] 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_180ab0761158b959facf0feae6115c4e">
+                        <placeName>Pavia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.19205 9.15917</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3171366</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Venedig, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_9bbe5cef5dacc0b4666c2a1d1a8b5615" type="placeName">
+                        <placeName type="pref">Griechenland</placeName>
+                        <placeName type="alt">Grecia</placeName>
+                        <location>
+                            <geo decls="#LatLng">38.301111 23.741111</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4022047-3</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Valentino Debiasi an Leo Thun, Trient, 22. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/debiasi-an-thun-1854-06-22-a3-xxi-d263.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_d32a635cff5dcc73a609d313801541d4">
+                        <placeName>Verona</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.4299 10.98444</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3164527</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Mailand, 21. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf der Grundzüge über die Organisierung der Zivilverwaltung in Lombardo-Venetien, Wien, 7. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/grundzuege-fuer-organisierung-der-zivilverwaltung-lombardo-venetiens-1849-10-07-a3-xxi-d8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alexander Hübner an Leo Thun, Paris, 16. Oktober 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1855-10-16-a3-xxi-d351.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona,18. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1854-07-18-a3-xxi-d269.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona, 11. Juli 1857 [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1857-07-11-a3-xxi-d427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Benedikt Riccabona an Leo Thun, Verona, 31. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/riccabona-an-thun-1856-10-31-a3-xxi-d391.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 25. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-25-a3-xxi-d220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Tischendorf an Leo Thun, Leipzig, 17. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_e30630933146ed8683482de23229fd6a">
+                        <placeName>Milan</placeName>
+                        <placeName type="pref">mailand</placeName>
+                        <placeName type="alt">Mailand</placeName>
+                        <placeName type="alt">Mailands</placeName>
+                        <placeName type="alt">Milano</placeName>
+                        <placeName type="alt">Mailand’s</placeName>
+                        <placeName type="alt">questa Città</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.46416 9.19199</geo>
+                        </location>
+                        <idno>https://www.geonames.org/6542283</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "L’Archiepiscopato di Bartolammeo Romilli" von Ferdinando Broggi, Mailand, 26. Juli 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/broggi-ueber-bischof-romilli_1855-07-26_a3-xxi-d346.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Mailand, 21. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-06-21-a3-xxi-d420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Burger an Leo Thun, Mailand, 22. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fontana-an-thun-1855-04-22-a3-xxi-d341.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Gajazzi an Leo Thun, Mailand, 20. Oktober 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gajazzi-an-thun-1851-10-20-a3-xxi-d127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giacomo Ghidoli an Leo Thun, Mailand, 12. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ghidoli-an-thun-1853-07-12-a3-xxi-d214.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf der Grundzüge über die Organisierung der Zivilverwaltung in Lombardo-Venetien, Wien, 7. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/grundzuege-fuer-organisierung-der-zivilverwaltung-lombardo-venetiens-1849-10-07-a3-xxi-d8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ambrogio Robiati an Leo Thun, Mailand, 6. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/robiati-an-thun-1853-08-06-a3-xxi-d222.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Sommaruga an Leo Thun [, Wien], 19. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sommaruga-an-thun-1853-07-19-a3-xxi-d216.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Schreibens von Leo Thun an Kaiser Franz Joseph, Hetzendorf, Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-franz-joseph-1859-06-a3-xxi-d510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Venedig, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Castelfondo, 12. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-08-12-a3-xxi-d224.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Tischendorf an Leo Thun, Leipzig, 17. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakt zu den Verhandlungen um die Überlassung eines Gebäudes an die Gesellschaft Jesu in Mailand 1853–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/verhandlungen-gebaude-jesuiten-mailand-1853-1856-a3-xxi-d251.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_685f853b2ad1158b32f42cac11ebdc5c" type="placeName">
+                        <placeName type="pref">Karthago</placeName>
+                        <location>
+                            <geo decls="#LatLng">36.852778 10.323333</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4029802-4</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_ae54a5c026f31ada088992587d92cb3a" type="placeName">
+                        <placeName type="pref">China</placeName>
+                        <location>
+                            <geo decls="#LatLng">35 105</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4009937-4</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slaviček an Leo Thun, Königgrätz, 12. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1853-03-12-a3-xxi-d194.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
+</TEI>

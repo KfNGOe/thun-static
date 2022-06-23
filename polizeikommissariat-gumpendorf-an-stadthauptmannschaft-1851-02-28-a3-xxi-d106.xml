@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/pitra-an-thun-1860-09-12-a3-xxi-d608a.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die
+                        Stadthauptmannschaft<lb/>[<rs type="place" subtype="place" ref="#place_9bb9483758fe5780cf4244971ccd4578">Gumpendorf</rs>], <date when-iso="1851-02-28">28. Februar 1851</date>
+                </title>
+            <title type="label">Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DADB-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D106</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Polizeibezirkskommissar von Gumpendorf legt einen angeforderten
+                            Bericht zur Ausbreitung des Deutschkatholizismus' in seinem Bezirk vor.
+                            Zunächst muss der Kommissar einschränken, dass er auf Grund seiner
+                            geringen Zeit im Amt bisher wenig zur Situation sagen könne. Er ist
+                            jedoch davon überzeugt, dass der Deutschkatholizismus vor allen Dingen
+                            deshalb Zulauf habe, weil der Pfarrer von Gumpendorf kein guter
+                            Seelsorger sei. Dieser erfülle seine seelsorgerischen Dienste nämlich
+                            nur mit Widerwillen und predige nie selbst. Auch werde der
+                            Religionsunterricht nicht vom Pfarrer selbst, sondern von Kooperatoren
+                            besorgt. Überhaupt trage der Lebenswandel des Pfarrers dazu bei, dass
+                            die Pfarrmitglieder sich von der Religion abwenden. Der Polizeikommissar
+                            ist sich daher sicher, dass bei Vorhandensein von genügend guten
+                            Seelsorgern und Kanzelrednern der Deutschkatholizismus keine Anhänger
+                            finden würde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf D108</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="kultus">Kultus</term>
+                    <term key="deutschkatholiken">Deutschkatholiken</term>
+                </index>
+                <p>Z 1/g</p>
+                <p>Bericht!</p>
+                <p>Über hohen Auftrag von 25. dieses Z. 306/pr. sich zu äußern, ob die angebliche
+                    von Tag zu Tag sich vermehrende Ausbreitung und Regsamkeit der deutsch
+                    Katholiken zu <rs type="place" subtype="place" ref="#place_9bb9483758fe5780cf4244971ccd4578">Gumpendorf</rs>, insbesondere der Lauheit in dem
+                    Schulwesen, ganz besonders aber des <rs type="person" ref="#contriner-leonhard">hiesigen
+                        Pfarrers</rs> zuzuschreiben sey und wie im Wege der Belehrung und
+                    Anregung durch das Schul- und Pfarrwesen dem zu steuern seyn dürfte, muß der
+                    gehorsam Gefertigte vor allem bekennen, daß er in Folge der kurzen Zeit seiner
+                    ämtlichen Wirkens in <rs type="place" subtype="place" ref="#place_9bb9483758fe5780cf4244971ccd4578">Gumpendf.</rs> in
+                    Angelegenheit der freibezirklichen Deutschkatholiken noch nicht mit ihrem
+                    Treiben in der Art sich bekannt machen konnte, daß er mit Bestimmtheit behaupten
+                    könnte, diese Secte nehme an Ausbreitung zu oder ab; doch konnte man so viel
+                    bereits wahrnehmen, daß fast niemand von dieser Secte spricht und also im
+                    allgemeinen doch wenig Theilname haben muß.<lb/>Den Herrn <rs type="person" ref="#contriner-leonhard">Pfarrer von Gumpendorf</rs> anbelangend ist
+                    er gerade wie die meisten andern Pfarrer; er ist Pfarrer, aber kein <hi rend="ul">Seelsorger</hi>, verrichtet mit Wiederwillen[sic!] gerade wie die
+                    meisten Pfarrer seine pfarrämtlichen Verrichtungen, ist barsch gegen Partheien
+                    und grob statt liebevoll gegen die um eine Betheilung einschreitenden Armen,
+                    prediget nie selbst, weil er Cooperatoren hat und weil er auch wirklich nichts
+                    weniger sowohl seiner Person als seines Vortrages nach ein Kanzelredner wäre.
+                    Arme Kranke zu besuchen, selbe zu trösten und womöglich entweder selbst zu
+                    unterstützen oder aus anderer Quelle unterstützen zu lassen, ist bei den meisten
+                    Herren Pfarrer gar nicht recht[?] der Brauch. Der Religionsunterricht der Kinder
+                    in der Schule und Christenlehre wird lediglich nur von den Kooperatoren besorgt
+                    und so sind die meisten Pfarrer keine Seelsorger und genießen daher auch keine
+                    Achtung von Seite ihrer Pfarrkinder. Kommt dann noch hinzu ein zweideutiger
+                    Lebenswandel, so wird der gewöhnliche Mensch ganz irre an der Religion und daher
+                    die Lauheit in allen, was die Religion betrifft und die Leichtigkeit, mit der
+                    manche ihr Religionsbekenntnis wechseln. Und so kann man mit Bestimmtheit
+                    behaupten, daß der große Mangel an wahren Seelsorgern und der Mangel an guten
+                    Kanzelrednern eine Hauptursache bilden, daß diese Secte der Deutschkatholiken
+                    noch immer Zuwachs erhalten kann.<lb/>Wird in der Schule die Jugend von einem
+                    Geistlichen unterrichtet werden, der mit jugendlichen Herzen zu verkehren
+                    versteht, wird in der Kirche das Wort Gottes von Männern verkündet werden, die
+                    sich zu wahren Kanzelrednern herangebildet haben (leider giebt es solche nur
+                    wenige, doch orator fit), wird die Pfarrgeistlichkeit bei jeder Gelegenheit
+                    stets vor Augen behalten, daß unsere Religion eine Religion der Liebe ist, wird
+                    endlich das Sprichwort: <hi rend="ul">In der Kirche sind wir alle</hi> gleich,
+                    zur <hi rend="ul">Wahrheit gemacht</hi>, so wird dieses Machwerk des
+                    Deutschkatholicismus von selbst zerfallen, wie ohnehin diese Secte nur mit ihrem
+                    Schicksal Unzufriedene oder zur Opposition Geneigte als Anhänger vereiniget.</p>
+                <p>k.k. Pol. Bez. Koms. Gumpendorf<lb/>am 28.2.1851<lb/>[?]<note xml:id="note_1">Unterschrift unleserlich</note>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPlace><place xml:id="place_9bb9483758fe5780cf4244971ccd4578">
+                        <placeName>Wien-Gumpendorf</placeName>
+                        <placeName type="pref">gumpendorf</placeName>
+                        <placeName type="alt">Gumpendf.</placeName>
+                        <placeName type="alt">Gumpendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.191389 16.347778</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4136052-7</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="contriner-leonhard">
+                        <persName>
+                            <surname>Contriner</surname>
+                            <forename>Leonhard</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in
+                                Gumpendorf</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

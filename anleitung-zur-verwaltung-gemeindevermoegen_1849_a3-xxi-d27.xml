@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="anleitung-zur-verwaltung-gemeindevermoegen_1849_a3-xxi-d27.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/andriewicz-an-thun-1859-11-05-a3-xxi-d524.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/anonyme-appellation-zum-kirchengesetz-1852-a3-xxi-d186.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anleitung zur Verwaltung des Gemeindevermögens<lb/>o. O., <date when="1849">[1849]</date>
+                    <note>Das Dokument wurde im Nachlass auf das Jahr 1849 datiert. Es
+                        steht in Verbindung mit dem vorangehenden und nachfolgenden Dokument des Nachlasses,
+                        die sich ebenfalls mit Organisation bzw. der Verwaltung der Gemeinden und
+                        der Bestellung der Gemeindeorgane befassen. Es handelt sich dabei wohl um
+                        die Vorschriften, die Graf Stadion 1845 für das Küstenland entworfen hat und die
+                        dieser 1847 zur Genehmigung vorgelegt hat. Vgl. dazu bei Bericht der vom
+                        Wiener Gemeinderathe eingesetzten Commission zur Revision des
+                        Gemeinde-Statutes, Bd. 1 (Geschichte des Gemeindewesens und
+                        ggenwärtiger Stand der Gemeindegesetzgebung in Oesterreich und in einigen
+                        deutschen Staaten mit besonderer Rücksicht auf Wien. Aeltere Entwürfe für
+                        die Revision des Wiener Gemeinde-Statutes), Wien 1868, S. 208–209.</note>
+                </title>
+            <title type="label">Anleitung zur Verwaltung des Gemeindevermögens o. O., [1849]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7F0-D</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die gedruckte Anleitung beinhaltet die Vorgaben zur Verwaltung des
+                            Gemeindevermögens. Zunächst wird der Unterschied zwischen
+                            Gemeindevermögen und Gemeindegut erläutert. Auch die Gemeindewaldungen
+                            und das gewidmete Gemeindevermögen werden in einzelnen Abschnitten
+                            ausführlich behandelt.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="gemeindeordnung">Gemeindeordnung</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    <back/></text>
+</TEI>

@@ -1,0 +1,225 @@
+/* Datatables, provided by https://github.com/babslgam*/
+
+div.dataTables_filter {
+    text-align:left !important;
+  }
+  
+  .btn-link {
+    font-size:20px;
+  }
+  
+  .exportbuttons {
+    text-align: right;
+  }
+  
+  /*.navbar {
+      border-bottom: 5px solid #88dbdf !important;
+  }*/
+  
+  .dataTables_info {
+    text-align: center;
+  }
+  
+  .filters input {
+    width:100%;
+    padding: 3px;
+    box-sizing: border-box;
+  }
+  
+  .dataTables_wrapper table {
+    width:100%;
+  }
+  
+  /**** Font Aweseome ***/
+  .far {
+      font-family: "Font Awesome 5 Free" !important;
+  }
+  
+  .img-fluid {
+      max-width: 160% !important;
+      max-height: 160% !important;
+  }
+  
+  .card {
+      margin-top: 1em;
+  }
+  
+  .index-card {
+      border-top: 5px solid #88dbdf; 
+      transition: transform .2s;
+  }
+  
+  .index-card:hover {
+      transform: scale(1.05);
+  }
+  
+  .index-link:hover {
+      text-decoration: none !important;
+  }
+  
+  .btn-round {
+      border: 1px solid white;
+  }
+  
+  .btn-round:hover {
+      background-color: #fff !important;
+  }
+  
+  .btn-round a {
+      color: white;
+  }
+  
+  p {
+      display: block;
+  }
+  
+  .carousel-indicators {
+      cursor: pointer;
+  }
+  
+  .container-fluid {
+      max-width: 1024px;
+  }
+  
+  span.ssQueryAndButton {
+      margin: 2em auto 0.25em auto !important;
+      max-width: 50% !important;
+      width: 50% !important;
+  }
+  
+  input#ssQuery {
+      font-size: .9rem !important;
+      border-radius: 30px !important;
+      padding: .3rem 1.75rem .3rem .75rem !important;
+      border: 1px solid rgba(0,0,0,.075) !important;
+      background-color: #fff !important;
+      color: rgba(0,0,0,.9) !important;
+  }
+  
+  button#ssDoSearch {
+      border: 0 !important;
+      padding: 0 !important;
+      background: 0 0 !important;
+      cursor: pointer !important;
+      color: rgba(0,0,0,.6) !important;
+      margin-left: -4.1em !important;
+      margin-top: .1em !important;
+  }
+  
+  #github-logo {
+      width: 10%;
+      height: auto;
+      padding: 10px 0 10px 0;
+      transition: transform .2s;
+      margin-left: 1em;
+  }
+  
+  #github-logo:hover {
+      transform: scale(1.05);
+  }
+  
+  .reference {
+      cursor: pointer;
+      color: #0c0c0c;
+  }
+  
+  span.data-hr {
+      background-color: #ffff00;
+  }
+  
+  .card {
+      overflow: visible;
+  }
+  
+  h1 {
+      text-align:center;
+  }
+  
+  a {
+      color: #0063a6;
+  }
+  
+  a:not([href]):not([tabindex]) {
+      color: #0063a6;
+      text-decoration: none;
+  }
+  
+  .markhighlight {
+      background: orange;
+      color: black;
+  }
+  
+  
+  .btn-main {
+      border: 1px solid #0063a6;
+      background-color: #fff;
+      color: #444;
+  }
+  
+  .main-footer .footer-wrapper .footer-sep {
+      border-bottom: 1px solid #333333;
+      padding-bottom: 15px;
+      padding-top: 5px;
+      margin-bottom: 35px;
+      font-weight: 600;
+      font-size: 14px;
+  }
+  
+  .footer-imprint-bar {
+      text-align: center;
+      background-color: #F1F1F1;
+      padding: 8px;
+      font-size: 14px;
+  }
+  
+  .main-footer {
+      background-color: #FFFFFF;
+      display: inline-block;
+      width: 100%;
+      z-index: 3;
+      position: relative;
+  }
+  
+  .card {
+      border-top: 5px solid #0063a6;
+      overflow: hidden;
+  }
+  
+  .card h3::after {
+      content: '';
+      display: block;
+      width: 50px;
+      border-top: 5px solid #0063a6;
+      margin-top: 15px;
+      margin-bottom: 15px;
+  }
+  
+  /** adjustments to match "older" fundament version **/
+  
+  .navbar {
+      padding: 10px 1rem;
+      border-bottom: 5px solid #0063a6;
+      margin-bottom: 20px;
+      }
+  
+  .navbar ul.navbar-nav:after {
+      content: '';
+      position: absolute;
+      margin-left: -20px;
+      height: 100%;
+      border-right: 1px solid #0063a6;
+  }
+  
+  .navbar ul.navbar-nav {
+      padding: 0 20px;
+      align-items: center;
+  }
+  
+  .navbar .navbar-brand {
+      padding-right: 1.2rem;
+      min-height: 65px;
+  }
+  
+  .carousel .carousel-inner .carousel-item {
+      height:inherit;
+  }

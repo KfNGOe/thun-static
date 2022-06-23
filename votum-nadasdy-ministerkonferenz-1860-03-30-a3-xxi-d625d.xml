@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="votum-nadasdy-ministerkonferenz-1860-03-30-a3-xxi-d625d.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-01-07-a3-xxi-d625e.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/votum-separatum-zur-bezirkseinteilung-boehmens-von-clam-martinic-1853-03-a3-xxi-d197.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schriftliches Votum von Justizminister <rs type="person" ref="#nadasdy-franz">Franz Nádasdy</rs>
+                    in der Ministerkonferenz
+                    vom <date when-iso="1860-03-30">30. März 1860</date>
+                </title>
+            <title type="label">Schriftliches Votum von Justizminister Franz Nádasdy in der Ministerkonferenz vom 30. März 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt in: Protokolle des Österreichischen Ministerrates 1848–1867. Das
+                    Ministerium Rechberg. Bd. 2, bearbeitet von Stefan Malfèr, Wien 2007, S.
+                    87–93.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9B8-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D625</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Justizminister Franz Nádasdy äußert sich zur Situation in Ungarn. Die
+                            Äußerung erfolgte in der Ministerkonferenz, in welcher der Kaiser den
+                            Ministern die Bestellung von Ludwig Benedek als Nachfolger Erzherzogs
+                            Albrecht als Gouverneur in Ungarn bekannt gegeben hat. Nádasdy betont in
+                            seiner Stellungnahme, dass in Ungarn allgemein ein Wunsch nach einer
+                            Reform der Verwaltung und des Verhältnisses des Königreiches zu den
+                            übrigen Ländern bestehe. Allerdings gäbe es verschiedene Ausprägungen
+                            dieses Wunsches, wobei er vier zentrale Haltungen ausmacht. Er gibt
+                            allerdings zu bedenken, dass sich die radikaleren Kräfte derzeit im
+                            Aufwind befänden. Anschließend geht er auf die Forderung ein, für ganz
+                            Ungarn wieder einen einzigen Landtag einzuführen, und auf die Folgen,
+                            die dieser Schritt haben dürfte. Er weist dabei insbesondere darauf hin,
+                            dass ein solcher Schritt negative Auswirkungen auf die Stellung Ungarns
+                            zur Gesamtmonarchie haben und zu einer Entfremdung führen werde. Er
+                            spricht sich daher für die Beibehaltung der bestehenden fünf
+                            Verwaltungsgebiete und deren jeweilige Landesvertretung aus. Außerdem
+                            empfiehlt er, dass der nationalen Partei Einhalt geboten werde und die
+                            Regierung durch Standhaftigkeit und Konsequenz den nationalen
+                            Bestrebungen entgegentrete, um die Gesamtmonarchie nicht zu
+                            gefährden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Dokument ist im Nachlass gemeinsam mit sechs weiteren Dokumenten mit
+                            der Rubrik "Hungarica" unter der Signatur A3 XXI D625 abgelegt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="ungarn">Ungarn</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Text wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="nadasdy-franz">
+                        <persName>
+                            <surname>Nádasdy</surname>
+                            <forename>Franz Seraphin</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1883 Wien</p>
+                            <p>1857–1860 Justizminister, dann Präsident des Reichsrats, 1861–1865
+                                Hofkanzler für Siebenbürgen</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über eine Konferenz mit den protestantischen Deputierten und Regierungsmitgliedern in der Angelegenheit der Protestanten in Ungarn [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-konferenz-in-protestantenangelegenheit-1860-a3-xxi-d559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf für ein Patent zur Einführung der Friedensgerichte und ein Entwurf für eine Stellungnahme Thuns hierzu 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-gesetz-friedensgerichte_1860-02-28_a3-xxi-d563.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf Leo Thuns für zwei kaiserliche Handschreiben an Ludwig Benedek und an den Kultusminister o. O., o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-kaiserliches-handschreiben-an-benedek-1860-a3-xxi-d579.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Agenor Goluchowski an Franz Nádasdy o. O., 21. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-goluchowski-an-nadasdy-1859-12-21-a3-xxi-d525c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 6. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-06-a3-xxi-d525f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eh. Notiz von Leo Thun zu einer Mitteilung von Franz Nádasdy über die Patrimonial- und Komitatsverwaltung in Ungarn vor 1848 o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notiz-thun-comitatsverwaltung-ungarn-od-a3-xxi-d625a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Schriftliches Votum von Justizminister Franz Nádasdy in den Ministerkonferenzen vom 7. Januar und 21., 25. und 28. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-01-07-a3-xxi-d625e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Schriftliches Votum von Justizminister Franz Nádasdy in der Ministerkonferenz vom 30. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-nadasdy-ministerkonferenz-1860-03-30-a3-xxi-d625d.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

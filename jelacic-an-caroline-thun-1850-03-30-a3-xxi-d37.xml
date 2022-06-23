@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/jarcke-an-thun-1852-08-07-a3-xxi-d171.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#jelacic-joseph" role="sender:beamter">Joseph
+                        Jelačič</rs> an <rs type="person" ref="#thun-hohenstein-caroline" role="recipient:verwandter">Caroline Thun</rs>
+                    <lb/> o. O., <date when-iso="1850-03-30">30. März 1850</date>
+                </title>
+            <title type="label">Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB96-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D37</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Joseph Jelačič entschuldigt sich bei Caroline Thun, dass er sie nicht
+                            besuchen kann, da er anderweitigen Verpflichtungen nachgehen müsse.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#jelacic-joseph">Joseph Jelačič</rs>
+                    <date when-iso="1850-03-30">30. März 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-caroline">Caroline Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term key="familie-thun-hohenstein">Familie Thun-Hohenstein</term>
+                </index>
+                <p>Gnädigste Gräfin!</p>
+                <p>Ich habe [?] versprochen die Osterfeiertage mit ihnen zuzubringen und nun erhalte
+                    ich so eben ein Schreiben, worin mir bekannt gegeben wird, daß heute Nachts auf
+                    der Eisenbahn zu meinem Empfange die Jäger warten – ich mache überhaupt in
+                    meinen eigenen Angelegenheiten viel Konfusionen, wenn mich nicht <rs type="person" ref="#bigot-de-saint-quentin-karl">St. Quentin</rs> oder sonst einer
+                    meiner Herren auf die socialen Pflichten aufmerksam macht und ich bitte mich
+                    gütigst zu entschuldigen, wenn ich heute nicht das Glück habe Sie zu
+                    sehen.<lb/>Ich küsse der <rs type="person" ref="#clam-martinic-selina">Gräfin
+                        Mutter</rs> und Ihnen die Hände und bin<lb/>Ihr<lb/>ganz
+                    gehorsamer<lb/>Jellacic</p>
+                <p>30.3.[18]50</p>
+            </div>
+        </body>
+    
+    <back><listPerson><person xml:id="jelacic-joseph">
+                        <persName>
+                            <surname>Jelačič</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Peterwardein 1801–1859 Agram</p>
+                            <p>ab 1848 Banus von Kroatien</p>
+                            <p>https://d-nb.info/gnd/118776088</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118776088</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Schreibens von Leo Thun an Joseph Jelačič o. O., 24. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-jelacic-1852-04-24-a3-xxi-d164.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-caroline">
+                        <persName>
+                            <surname>Thun-Hohenstein</surname>
+                            <forename>Caroline</forename>
+                        </persName>
+                        <note>
+                            <p>1822–1898 Bad Ischl</p>
+                            <p>geb. Clam-Martinic, ab 1847 Gattin von Leo Thun</p>
+                            <p>https://d-nb.info/gnd/13016402X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/13016402X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karoline Langenau an Caroline Thun o. O., o. D. [Februar 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/caroline-an-caroline-thun-o-d-a3-xxi-d190.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Augustin Hille an Leo Thun, Leitmeritz, 3. November 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1853-11-03-a3-xxi-d239.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona,18. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1854-07-18-a3-xxi-d269.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bernhard Rechberg an Leo Thun, Verona, 11. Juli 1857 [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rechberg-an-thun-1857-07-11-a3-xxi-d427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Oskar Redwitz an Leo Thun, Schellenberg, 27. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/redwitz-an-thun-1853-12-27-a3-xxi-d244.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Christian Ludwig Senfft von Pilsach an Caroline Thun, Innsbruck, 26. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [August/September 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, o. O., 12. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1850-04-12-a3-xxi-d43.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Venedig, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 25. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-25-a3-xxi-d220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, München, 5. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1849-10-05-a3-xxi-d7.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="clam-martinic-selina">
+                        <persName>
+                            <surname>Clam-Martinic</surname>
+                            <forename>Selina</forename>
+                        </persName>
+                        <note>
+                            <p>1792–1872</p>
+                            <p>geb. Lady Meade, Mutter von Caroline Thun</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Heinrich Clam-Martinic an Leo Thun o. O., 19. Mai [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/clam-martinic-an-thun_1853-05-19_a3-xxi-d206.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Christian Ludwig Senfft von Pilsach an Caroline Thun, Innsbruck, 26. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
+</TEI>

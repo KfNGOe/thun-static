@@ -1,0 +1,392 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title></title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <header>
+            <nav class="navbar navbar-expand-md navbar-light  bg-white box-shadow"><a class="navbar-brand" href="index.html">
+                  thun
+                  </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Info
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="about.html">Über die Webseite</a><a class="dropdown-item" href="how-to-use.html">Benützungshinweise</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Bestände
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="toc-nachlass.html">Nachlass Leo Thun</a><a class="dropdown-item" href="toc-autographen.html">Autographen Leo Thun / Briefe aus anderen Archiven</a><a class="dropdown-item" href="toc.html">Gesamter Bestand</a><div class="dropdown-divider"></div><a class="dropdown-item" href="calendar.html">Kalender Ansicht</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Register
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="listperson.html">Personen</a><a class="dropdown-item" href="listplace.html">Orte</a><a class="dropdown-item" href="listorg.html">Institutionen</a><a class="dropdown-item" href="schlagworte.html">Schlagworte</a><div class="dropdown-divider"></div><a class="dropdown-item" href="beacon.txt">GND-BEACON</a><a class="dropdown-item" href="cmfi.xml">CMIF</a></div>
+                     </li>
+                  </ul>
+                  <form method="get" action="search.html" class="form-inline my-2 my-lg-0"><input name="q" class="form-control mr-sm-2" type="text" placeholder="Suche in allen Dokumenten" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
+               </div>
+            </nav>
+         </header>
+         <div class="container">
+            <div class="card">
+               <div class="card-header">
+                  <div class="col-md-12" align="center">
+                     <h1>Die Korrespondenz von Leo von Thun-Hohenstein</h1><a href=""><i class="fas fa-download" title="show TEI source"></i></a><h5><i>Christof Aichner</i></h5>
+                  </div>
+               </div>
+               <div class="card-body">
+                  <div class="card">
+                     <div class="card-body">
+                        <li>Geschichte der Edition</li>
+                        <li>Beschreibung des Bestandes ‚Nachlass Leo Thun-Hohenstein’</li>
+                        <li>Autographen von Leo Thun-Hohenstein</li>
+                        <li>Hinweise zur Transkription und zu den Editionsrichtlinien</li>
+                     </div>
+                  </div>
+                  
+                  <div id="d6e96">
+                     <a xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar" name="hd1"> </a><h3 xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">
+                        <div>Geschichte der Edition</div>
+                     </h3>
+                     
+                     <p id="d6e100">Die Edition der Korrespondenz von Leo Thun-Hohenstein besitzt eine mehr als achtzigjährige
+                        Vorgeschichte. In den 1930er Jahren wurde das Projekt von Heinrich Ritter von Srbik
+                        angestoßen. Schon damals wurde die Edition von der <a href="http://www.oesterreichische-geschichte.at/">Kommission für Neuere Geschichte Österreichs</a> getragen. Im Jahr 1936 wurden 14 Kartons mit Archivalien aus dem Thunschen Familienarchiv
+                        ins Haus-, Hof- und Staatsarchiv (HHStA) nach Wien gebracht, wo die Bearbeitung erfolgte.
+                        Das damalige Familienoberhaupt, Franz Anton Thun-Hohenstein, hatte der Überführung
+                        zugestimmt, da er selbst an der Edition der Dokumente interessiert war und zugleich
+                        die Beschlagnahmung des Familienarchivs durch die tschechoslowakischen Behörden fürchtete.</p>
+                     
+                     <p id="d6e106">Aus dieser Zeit stammen maschinenschriftliche Transkriptionen zahlreicher Briefe und
+                        Kurzregesten, die zwar noch immer im Besitz der Kommission für Neuere Geschichte Österreichs
+                        sind, die aber heutigen wissenschaftlichen Ansprüchen nicht genügen. Außerdem lag
+                        der Fokus zunächst auf Briefen innerhalb des Nachlasses, andere Dokumente, die ebenfalls
+                        zahlreich vorhanden sind, wurden vorerst ausgespart. Auf Grund der finanziellen Not
+                        der Kommission ging die Edition jedoch nur langsam voran. Nach dem Anschluss 1938
+                        und dem Ausbruch des Kriegs ein Jahr später verlief sich das Projekt dann vollends.<a name="fna_1" href="#fn1" title="Siehe Fritz Fellner, &#34;… ein wahrhaft patriotisches Werk&#34;. Die Kommission für Neuere Geschichte Österreichs 1897–2000 (= Veröffentlichungen der Kommission für Neuere Geschichte Österreichs 91), Wien, Köln, Weimar 2001, S. 108-109."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">1</sup></a>
+                        </p>
+                     
+                     <p id="d6e118">In den Jahren nach dem Zweiten Weltkrieg wurde eine Wiederaufnahme des Projekts in
+                        der Kommission – die Archivalien befanden sich damals noch im HHStA in Wien –  zwar
+                        diskutiert, sie scheiterte aber an zwei Problemen: Einerseits befürchtete man die
+                        baldige Rückstellung der Archivalien in die Tschechoslowakei, so dass eine Bearbeitung
+                        erschwert werden würde. Andererseits war der ehemalige Bearbeiter der Briefe, Taras
+                        Borodajkewycz, bekennender Nationalsozialist (gewesen) und so ging das Präsidium der
+                        Kommission davon aus, dass „der seinerzeitige Bearbeiter“, wie es verklausuliert hieß
+                        „‚vermutlich beruflich verhindert’ wäre“<a name="fna_2" href="#fn2" title="Fritz Fellner, &#34;… ein wahrhaft patriotisches Werk&#34;. Die Kommission für Neuere Geschichte Österreichs 1897–2000 (= Veröffentlichungen der Kommission für Neuere Geschichte Österreichs 91), Wien, Köln, Weimar 2001, S. 134. Vgl. auch einen Brief an Srbik, Wien 14.04.1949, Personalakte Srbik, Archiv der Österreichischen Akademie der Wissenschaften. Für den Hinweis sei Doris Corradini gedankt. Zur Person Borodajkewycz siehe Fritz Fellner/Doris A. Corradini, Österreichische Geschichtswissenschaft im 20. Jahrhundert. Ein biographisch-bibliographisches Lexikon (= Veröffentlichungen der Kommission für Neuere Geschichte Österreichs 99), Wien 2006; zu Borodajkewyczs Wirken nach 1945 und die Skandale um seine Person vor allem Gerald Kasemir, Spätes Ende für &#34;wissenschaftlich&#34; vorgetragenen Rassismus. Die Borodajkewycz-Affäre 1965, in: Michael Gehler (Hg.), Politische Affären und Skandale in Österreich. Von Mayerling bis Waldheim, Innsbruck 22007, S. 486–501; Heinz Fischer, Einer im Vordergrund, Wien 1966."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">2</sup></a>.</p>
+                     
+                     <p id="d6e146">Damit blieb das Projekt mehr als fünf Jahrzehnte unbearbeitet. In dieser Zeit wurde
+                        der Nachlass punktuell von Forschern und Forscherinnen benutzt. In den Jahren 1959–1960
+                        wurden der gesamte Bestand aus der Ministerzeit Thuns (Bestand A3 XXI D) vom Österreichischen
+                        Staatsarchiv mikroverfilmt<a name="fna_3" href="#fn3" title="OeStA/HHStA Repro Ergänzungsfilme Nachlaß Graf Leo Thun-Hohenstein Nachlaß Leo Graf Thun-Hohenstein, 1959–1960."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">3</sup></a>, bereits am 24. März 1950 waren die Archivalien offiziell den Südmährischen Archiven
+                        zurückgegeben worden.<a name="fna_4" href="#fn4" title="Nach schriftlicher Auskunft durch das HHStA. Der Vorgang ist im Kurrentakt 768/50 dokumentiert."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">4</sup></a>
+                        </p>
+                     
+                     <p id="d6e162">Im Jahr 2003 wurde das Editionsprojekt durch die Kommission für Neuere Geschichte
+                        Österreichs schließlich wieder aufgenommen. Dabei wurden zunächst das vorhandene Martial
+                        gesichtet, ein neues Inventar erstellt und die Korrespondenzpartner erfasst sowie
+                        digitale Abzüge der Mikrofilme angefertigt. Initiiert und geleitet wurde das Projekt
+                        von Brigitte Mazohl, Projektmitarbeiter waren Franz Adlgasser und Andreas Bösche.
+                        Auf der Grundlage dieser Vorarbeiten wurde im Jahr 2009 die Edition wieder aufgenommen.
+                        Seit der Wiederaufnahme im Jahr 2003 ist das Projekt an der Universität Innsbruck
+                        angesiedelt. Von 2010–2015 wurde die Edition vom <a href="http://www.fwf.ac.at">Österreichischen Wissenschaftsfonds</a> gefördert (Projekt P 22554). Die Fertigstellung der Edition erfolgt neuerlich mit
+                        Förderung der Kommission für Neuere Geschichte Österreichs.</p>
+                     </div>
+                  
+                  <div id="d6e169">
+                     <a xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar" name="hd2"> </a><h3 xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">
+                        <div>Beschreibung des Bestandes ‚Nachlass Leo Thun-Hohenstein’</div>
+                     </h3>
+                     
+                     <p id="d6e173">Der Nachlass von Leo Thun befindet sich heute in der <a href="http://www.soalitomerice.cz/content/pobocka-decin">Zweigstelle Děčín/Tetschen des Tschechischen Gebietsarchivs Leitmeritz</a>. Im Österreichischen Staatsarchiv werden jedoch Mikrofilmkopien des Nachlasses aufbewahrt.
+                        Der gesamte Nachlass Thuns umfasst mehr als 3.000 Briefe, Tagebücher, Familiendokumente
+                        und Schriftstücke aus dem öffentlichen und privaten Leben Thuns sowie Ergebnisse seiner
+                        literarischen Tätigkeit.<a name="fna_5" href="#fn5" title="Der Nachlass ist wie folgt unterteilt: A 1–36 Persönliches, Ernennungen, Auszeichnungen B 1–46 Jugendzeit (1811–30.10.1835) C 1–136 Vom Eintritt ins öffentliche Leben bis zur Ernennung zum Minister (31.10.1835–27.7.1849) D 1–657 Briefe und Dokumente aus der Ministerzeit 1849–1860) E 1–1248 Nach der Demission bis zu seinem Tode (21.10.1860–1888) F 1–310 Journal „Das Vaterland“ G 1–93 Beileidskundgebungen anlässlich des Ablebens H 1-75 Biographisches J 1–11 Familienkorrespondenz"><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">5</sup></a>
+                        </p>
+                     
+                     <p id="d6e203">Im vorliegenden Projekt wurde der Teil des Bestands, der die Ministerzeit (28.
+                        Juli 1849 bis 20. Oktober 1860) umfasst, bearbeitet. Dieser Teilbestand mit der
+                        Signatur A3 XXI D umfasst 657 Einzelsignaturen (A3 XXI D1–A3 XXI D657). Otto
+                        Chmelik, Abteilungsleiter des Kreisarchivs Tetschen, geht davon aus, dass der
+                        Bestand wohl unter anderem von Wilhelm Urban, einem Mitarbeiter der Verwaltung
+                        der Thun-Hohensteinschen Güter, am Beginn des 20. Jahrhunderts inventarisiert
+                        und geordnet worden ist. Wilhelm Urban war allerdings weder ausgebildeter
+                        Historiker noch Archivar.</p>
+                     
+                     <p id="d6e205">Der Bestand D ist grundsätzlich chronologisch geordnet. In der Regel umfasst eine
+                        Einzelsignatur ein Dokument. Abweichend von dieser chronologischen Ordnung hat Urban
+                        teilweise auch eine Ordnung nach Pertinenz vorgenommen bzw. eine vorgefundene inhaltliche
+                        Ordnung übernommen. So kommt es mehrfach vor, dass unter einer Signatur mehrere Dokumente
+                        zusammengefasst sind. Dokumente und Briefe ohne Datumsangaben finden sich in der Regel
+                        am Ende des gesamten Bestandes, so dass bei den Signaturen ab A3 XXI D625 die chronologische
+                        Ordnung nicht mehr gegeben ist. Offenbar wurde bei der Ordnung des Nachlasses auch
+                        versucht, undatierte Dokumente an der chronologisch richtigen Stelle einzuordnen,
+                        was nicht immer geglückt ist. Die chronologische Ordnung ist auch dadurch teilweise
+                        gestört. Offensichtliche Falschdatierungen bzw. Datierungsversuche wurden bei den
+                        entsprechenden Dokumenten vermerkt. Die historische Ordnung des Bestandes wurde bei
+                        dieser Edition grundsätzlich beachtet. Allerdings wurden insbesondere Briefe, die
+                        zwar inhaltlich – siehe Hinweis oben – verwandt waren, einzeln aufgenommen und jeweils
+                        einzeln mit Regesten versehen. Hinweise auf die Zugehörigkeit zu einer Sammelsignatur
+                        werden dabei stets vermerkt. Ausgenommen davon waren freilich Briefe, die dezidiert
+                        Beilage zu anderen Briefen waren, diese wurden dann auch in der vorliegenden digitalen
+                        Edition gemeinsam aufgenommen.</p>
+                     
+                     <p id="d6e207">Auf Grund der erwähnten Ordnung muss daher beachtet werden, dass der Bestand insgesamt
+                        etwa 520 Briefe und mehr als 250 andere Dokumente unterschiedlichen Typs, darunter
+                        Gesetzesentwürfe, Memoranden, Protokolle und Konzepte Thuns enthält.<a name="fna_6" href="#fn6" title="Zwei Dokumente fehlen seit der Rückgabe des Nachlasses aus Wien, und zwar A3 XXI D66 und A3 XXI D101."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">6</sup></a> Dieser Umstand kommt insbesondere durch das Zusammenziehen mehrerer Dokumente mit
+                        ähnlichem Inhalt zu einer Einzelsignatur zustande. Als Beispiel hierfür können etwa
+                        die 40 Dankschreiben anlässlich des Rücktritts von Leo Thun im Herbst 1860 genannt
+                        werden, die im Nachlass alle unter der Signatur A3 XXI D623 einsortiert sind. Ähnliches
+                        gilt für die Signatur A3 XXI D625, bei der unter dem Titel „Hungarica“ acht Dokumente
+                        um das Jahr 1860 zusammengefasst worden sind, die sich mit der politischen Zukunft
+                        und der zukünftigen Verwaltung des Königreichs Ungarn befassen. Daneben enthalten
+                        zahlreiche Briefe beigelegte Dokumente und/oder weitere Briefe, so dass sich auch
+                        dadurch die Zahl der tatsächlich enthaltenen Einzeldokumente erhöht.</p>
+                     </div>
+                  
+                  <div id="d6e217">
+                     <a xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar" name="hd3"> </a><h3 xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">
+                        <div>Autographen von Leo Thun-Hohenstein</div>
+                     </h3>
+                     
+                     <p id="d6e221">Neben der Edition des Bestandes D aus dem Nachlass von Leo Thun wurden erstmals auch
+                        systematisch nach Autographen von Leo Thun-Hohenstein gesucht und hier ediert. Bisher
+                        waren Briefe von Leo Thun meist nur vereinzelt oder gar nicht bearbeitet worden.</p>
+                     
+                     <p id="d6e223">Insgesamt sind 248 Briefpartner im Nachlass von Leo Thun dokumentiert. Nur von einem
+                        Bruchteil dieser Personen konnte allerdings ein Nachlass ausfindig gemacht werden.
+                        In knapp 40 Archiven wurden Bestände bearbeitet oder mittels Rechercheaufträgen auf
+                        Briefe von Leo Thun hin untersucht. Und nicht in allen Nachlässen von Thuns Briefpartnern,
+                        fanden sich schließlich auch Autographen des Ministers. Letztlich wurden 127 Autographen
+                        gefunden und bearbeitet, die aus der Amtszeit Leo Thuns als Minister für Kultus und
+                        Unterricht stammen und heute in 15 verschiedenen Archiven aufbewahrt werden. In dieser
+                        Edition finden sich Briefe aus folgenden Archiven und Bibliotheken: Bayerische Staatsbibliothek
+                        München, Bundesarchiv Koblenz, Diözesanarchiv St. Pölten, Diözesanarchiv Wien, Archiv
+                        des Instituts für Österreichische Geschichtsforschung, Konsistorialarchiv Salzburg,
+                        Mährisches Landesarchiv (Brünn), Österreichisches Staatsarchiv, Österreichische Nationalbibliothek,
+                        Schleswig-Holsteinsche Landesbibliothek, Staatsarchiv Luzern,  Staatsbibliothek Berlin,
+                        Tschechisches Literaturarchiv (Prag), Tschechisches Nationalmuseum (Prag), Universitätsbibliothek
+                        Breslau, Universitätsbibliothek Münster, Vatikanisches Geheimarchiv,  Württembergische
+                        Landesbibliothek Stuttgart.</p>
+                     
+                     <p id="d6e225">Innerhalb der Liste von Empfängern von Autographen des Ministers finden sich allerdings
+                        auch Namen, die nicht im Register der Briefschreiber aufscheinen. Außerdem befanden
+                        sich in manchen Nachlässen von Briefpartner Thuns zudem Konzepte für Briefe an Leo
+                        Thun, die nicht im Nachlass von Leo Thun auffindbar waren. Damit konnten verschiedentlich
+                        auch Lücken in der Überlieferung geschlossen werden.</p>
+                     
+                     <p id="d6e227">Personen, die nur einen einzigen Brief von Leo Thun erhalten haben, sind insgesamt
+                        deutlich in der Minderzahl, die meisten erhielten mindestens zwei Briefe von Leo Thun.
+                        Die meisten eigenhändigen Briefe aus der Ministerzeit an eine Person gingen an Unterstaatssekretär
+                        Joseph Alexander Helfert mit 19 Briefen. Allerdings sind die meisten davon kurze Begleitschreiben
+                        zu Aktensendungen, Bitten um Auskünfte oder kurze Arbeitsaufträge – oftmals bei Abwesenheit
+                        von Wien. An zweiter Stelle steht mit 17 Briefen Thuns Ministerkollege Alexander Bach,
+                        allerdings handelt es sich bei diesen Briefen meist ebenfalls um sehr kurze Schreiben,
+                        in denen er Thun um eine Verabredung oder Auskunft bittet. An dritter Stelle findet
+                        sich der Innsbrucker Historiker Julius Ficker, in dessen Nachlass sich 14 eigenhändige
+                        Briefe des Ministers überliefert haben, die aber deutlich substantieller sind als
+                        die zuvor genannten.<a name="fna_7" href="#fn7" title="Im Nachlass von Julius Ficker befinden sich insgesamt sogar 23 Autographen von Thun, allerdings entfallen nur 14 davon auf die Zeit der Ministerschaft Thuns"><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">7</sup></a>
+                        </p>
+                     
+                     <p id="d6e237">Die Österreichische Nationalbibliothek besitzt am meisten Autographen von Thun, hier
+                        finden sich Briefe an sieben verschiedene Empfänger.<a name="fna_8" href="#fn8" title="Hier zu nennen sind: Franz Exner, Bernhard Jülg, Theodor Karajan, Heinrich Laube, Franz Miklosich, Bernhard Rechberg-Rothenlöwen, Hermann Vicari."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">8</sup></a> Briefe die nicht während der Amtszeit als Minister entstanden sind, wurden für die
+                        Edition nicht berücksichtigt – würde man diese einbeziehen, so erhöhte sich auch die
+                        Zahl der Briefe und der Empfänger.</p>
+                     
+                     <p id="d6e246">Für die Edition wurden teilweise auch Briefe berücksichtigt, die bereits an einer
+                        anderen Stelle abgedruckt worden sind, deren Originale aber nicht mehr auffindbar
+                        waren. Dies gilt für Briefe an Johann Friedrich Schulte<a name="fna_9" href="#fn9" title="Im Nachlass von Johann Friedrich Schulte in der Bayrischen Staatsbibliothek findet sich hingegen nur ein eh. Brief von Leo Thun-Hohenstein, der wiederum in der Biografie Schultes fehlt."><sup xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">9</sup></a> und Albert Jäger.</p>
+                     
+                     <p id="d6e255">Die Nachlässe von einer Reihe von Personen, die für Thuns Politik eine zentrale Rolle
+                        gespielt haben bzw. von denen eine Vielzahl von Briefen im Nachlass erhalten sind,
+                        konnten nicht gefunden und daher auch nicht auf Briefe von Thun untersucht werden.
+                        Allen voran muss man dabei die ultramontane Trias Karl Ernst Jarcke, George Phillips
+                        und Ernst Moy de Sons nennen.</p>
+                     
+                     <p id="d6e257">Die Autographen von Thun geben insgesamt neue und bisher nicht bekannte Einblicke
+                        in die Person Thun. Wenngleich viele der Briefe mit der ministeriellen Tätigkeit Thuns
+                        in Verbindung stehen, so tritt durch die Einbeziehung der eigenhändigen Briefe auch
+                        die private Person Leo Thun etwas aus dem Schatten der Amtsperson Thun. Neben seiner
+                        Vorliebe für blaues Briefpapier, erfahren wir in manchen Briefen – abseits des politischen
+                        Geschäfts – die privaten Sorgen und auch Freuden des Ministers. Und manchmal ergeben
+                        sich damit auch unerwartete Einsichten in das Leben Thuns.</p>
+                     </div>
+                  
+                  <div id="d6e260">
+                     <a xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar" name="hd4"> </a><h3 xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">
+                        <div>Hinweise zur Transkription und zu den Editionsrichtlinien</div>
+                     </h3>
+                     
+                     <p id="d6e264">Die Transkriptionen der Dokumente erfolgte in der Regel durch Tanja Kraler und/oder
+                        Christof Aichner. Französische Texte wurden von Melanie Fessler, die tschechischen
+                        Briefe von Viktor Velek transkribiert. Die italienischsprachigen Briefe wurden teilweise
+                        von Francesca Brunet transkribiert und kontrolliert. Die Kollationierung der Texte
+                        übernahm überwiegend Sieglinde Kapferer.</p>
+                     
+                     <p id="d6e266">Durch die große Anzahl der Dokumente wurde im Laufe des Projekts der Fokus auf die
+                        Transkription von Dokumenten mit universitäts- und bildungsgeschichtlichem Hintergrund
+                        gelegt. Aus diesem Grund liegen derzeit 36 Dokumente nicht transkribiert vor. Diese
+                        Dokumente sind lediglich mit einem Kurzregest inhaltlich erschlossen. Ebenfalls nicht
+                        transkribiert wurden Drucke.</p>
+                     
+                     <p id="d6e268">Die Grundlage für die Transkription bilden die Vorgaben der Kommission für Neuere
+                        Geschichte Österreichs<i xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">,</i> die von Peter Csendes im Jahr 2007 verfasst worden sind. Diese wurden jedoch in einigen
+                        Punkten angepasst. Dies betrifft insbesondere die Normalisierung des Textes nach den
+                        Regeln der aktuellen Rechtschreibung. Um den historischen Charakter der Briefe in
+                        einem gewissen Maße zu erhalten, haben wir uns dafür entschieden, Normalisierungen
+                        nur in einigen wenigen Fällen vorzunehmen. Folglich lassen sich folgende Editionskriterien
+                        festhalten:</p>
+                     
+                     <ul xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:local="http://dse-static.foo.bar">
+                        
+                        <li>Falls Groß- und Kleinschreibung in einem Dokument willkürlich gebraucht wird, wird
+                           diese normalisiert. Auf regelmäßige Besonderheiten eines Dokuments wird jeweils am
+                           Beginn gesondert hingewiesen.</li>
+                        
+                        <li>Offensichtliche Verschreibungen werden stillschweigend korrigiert. Auf besondere Eigenheiten
+                           eines Schreibers wird am Beginn des jeweiligen Briefes hingewiesen.</li>
+                        
+                        <li>Binnenmajuskeln bleiben unberücksichtigt, die Zusammenschreibung erfolgt in diesem
+                           Fall nach moderner Orthographie.</li>
+                        
+                        <li>hs wird als ß aufgelöst, ss und sz werden beibehalten.</li>
+                        
+                        <li>Abkürzungen werden im Fließtext sinngemäß aufgelöst, allgemein übliche Abkürzungen
+                           (etwa zeitgenössische Währungsangaben, Orden oder Ehrenzeichen), noch heute gängige
+                           Abkürzungen (z.B., usw., etc.) und solche bei Titeln und Anreden (Prof., Dr., militärische
+                           Titel) werden beibehalten.</li>
+                        
+                        <li>Eigennamen (Personen- und Ortsnamen sowie topographische Bezeichnungen) werden buchstabengetreu
+                           wiedergegeben. Abgekürzte Eigennamen sowie heute geläufige Ortsnamen werden in eckigen
+                           Klammern ergänzt. Letzteres betrifft insbesondere im 19. Jahrhundert verwendete deutsche
+                           Namen von Orten in den östlichen und südöstlichen Ländern der Habsburgermonarchie,
+                           die heute wenig oder gar nicht bekannt sind.</li>
+                        
+                        <li>Ein Wechsel in der Schriftform (von Kurrent in lateinische Schrift) bleibt unberücksichtigt
+                           und wird nicht eigens wiedergegeben. Werden in einem Dokument neben der deutschen
+                           Sprache auch andere Sprechen verwendet – abgesehen von einzelnen Worten z.B. Fremdworte
+                           oder geläufige Sprichworte –, wird dies am Beginn des jeweiligen Dokuments erwähnt.</li>
+                        
+                        <li>Satzzeichen werden im Hinblick auf das bessere Verständnis an die modernen Regeln
+                           angepasst. Auf Eigentümlichkeiten des Verfassers (etwa durchgehende Verwendung von
+                           Bindestrichen anstatt Beistrichen, durchgehendes Fehlen von Punkten am Ende der Absätze
+                           o. ä.) wird beim jeweiligen Dokument hingewiesen. Beibehalten werden jedoch Besonderheiten
+                           wie doppelte Ruf- oder Fragezeichen, bei denen angenommen werden kann, dass es sich
+                           um eine bewusste Setzung im Sinn einer Verstärkung oder Betonung handelt.</li>
+                        
+                        <li>Adressen auf den Blättern bzw. evt. vorhandene Umschläge werden nicht transkribiert.</li>
+                        
+                        <li>Beigelegte Drucke wurden ebenfalls nicht transkribiert.</li>
+                        
+                        <li>Streichungen, Einschübe und Einfügungen im Text (abgesehen von einfachen Korrekturen
+                           von Schreibfehlern) werden durch spitze Klammern und Fußnoten gekennzeichnet und erklärt.
+                           In der Fußnote wird auch darauf hingewiesen, ob die Korrektur vom Verfasser des Textes
+                           oder einer fremden Hand stammt.</li>
+                        
+                        <li>Der Wechsel der Tinte oder des Schreibgeräts (etwa Tinte zu Bleistift) bleibt unberücksichtigt,
+                           außer in jenen Fällen, bei denen dadurch auf einen späteren Einschub oder Ergänzungen
+                           geschlossen werden kann.</li>
+                        
+                        <li>Zusätze der Bearbeiter und Bearbeiterinnen werden in eckige Klammern gesetzt. Hinweise
+                           auf ansonsten als Satzfehler zu betrachtende Lesungen werden mit einem nachgestellten
+                           [sic!] gekennzeichnet, fragliche Lesungen werden mit einem nachgestellten[?] versehen.
+                           Nicht lesbare Wörter bzw. Textpassagen werden ebenfalls mit [?] gekennzeichnet. Erklärungen
+                           dazu werden gegebenenfalls in Fußnoten gegeben.</li>
+                        </ul>
+                     </div>
+                  </div>
+               <div class="card-footer">
+                  <p style="text-align:center;">
+                     <div class="footnotes"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>
+                        Siehe Fritz Fellner, "… ein wahrhaft patriotisches Werk". Die Kommission für Neuere
+                        Geschichte Österreichs 1897–2000 (= Veröffentlichungen der Kommission für Neuere Geschichte
+                        Österreichs 91), Wien, Köln, Weimar 2001, S. 108-109.
+                        </div>
+                     <div class="footnotes"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>
+                        Fritz Fellner, "… ein wahrhaft patriotisches Werk". Die Kommission für Neuere Geschichte
+                        Österreichs 1897–2000 (= Veröffentlichungen der Kommission für Neuere Geschichte Österreichs
+                        91), Wien, Köln, Weimar 2001, S. 134. Vgl. auch einen Brief an Srbik, Wien 14.04.1949,
+                        Personalakte Srbik, Archiv der Österreichischen Akademie der Wissenschaften. Für den
+                        Hinweis sei Doris Corradini gedankt. Zur Person Borodajkewycz siehe Fritz Fellner/Doris
+                        A. Corradini, Österreichische Geschichtswissenschaft im 20. Jahrhundert. Ein biographisch-bibliographisches
+                        Lexikon (= Veröffentlichungen der Kommission für Neuere Geschichte Österreichs 99),
+                        Wien 2006; zu Borodajkewyczs Wirken nach 1945 und die Skandale um seine Person vor
+                        allem Gerald Kasemir, Spätes Ende für "wissenschaftlich" vorgetragenen Rassismus.
+                        Die Borodajkewycz-Affäre 1965, in: Michael Gehler (Hg.), Politische Affären und Skandale
+                        in Österreich. Von Mayerling bis Waldheim, Innsbruck 22007, S. 486–501; Heinz Fischer,
+                        Einer im Vordergrund, Wien 1966.
+                        </div>
+                     <div class="footnotes"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>
+                        OeStA/HHStA Repro Ergänzungsfilme Nachlaß Graf Leo Thun-Hohenstein Nachlaß Leo Graf
+                        Thun-Hohenstein, 1959–1960.
+                        </div>
+                     <div class="footnotes"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>
+                        Nach schriftlicher Auskunft durch das HHStA. Der Vorgang ist im Kurrentakt 768/50
+                        dokumentiert.
+                        </div>
+                     <div class="footnotes"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>
+                        Der Nachlass ist wie folgt unterteilt: 
+                        A 1–36 Persönliches, Ernennungen, Auszeichnungen
+                        B 1–46 Jugendzeit (1811–30.10.1835)
+                        C 1–136 Vom Eintritt ins öffentliche Leben bis zur Ernennung zum Minister (31.10.1835–27.7.1849)
+                        D 1–657 Briefe und Dokumente aus der Ministerzeit 1849–1860)
+                        E 1–1248 Nach der Demission bis zu seinem Tode (21.10.1860–1888)
+                        F 1–310 Journal „Das Vaterland“
+                        G 1–93 Beileidskundgebungen anlässlich des Ablebens
+                        H 1-75 Biographisches
+                        J 1–11 Familienkorrespondenz
+                        </div>
+                     <div class="footnotes"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>
+                        Zwei Dokumente fehlen seit der Rückgabe des Nachlasses aus Wien, und zwar A3 XXI D66
+                        und A3 XXI D101.
+                        </div>
+                     <div class="footnotes"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>
+                        Im Nachlass von Julius Ficker befinden sich insgesamt sogar 23 Autographen von Thun,
+                        allerdings entfallen nur 14 davon auf die Zeit der Ministerschaft Thuns
+                        </div>
+                     <div class="footnotes"><a name="fn8"><a href="#fna_8"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">8</span></a></a>
+                        Hier zu nennen sind: Franz Exner, Bernhard Jülg, Theodor Karajan, Heinrich Laube,
+                        Franz Miklosich, Bernhard Rechberg-Rothenlöwen, Hermann Vicari.
+                        </div>
+                     <div class="footnotes"><a name="fn9"><a href="#fna_9"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">9</span></a></a>
+                        Im Nachlass von Johann Friedrich Schulte in der Bayrischen Staatsbibliothek findet
+                        sich hingegen nur ein eh. Brief von Leo Thun-Hohenstein, der wiederum in der Biografie
+                        Schultes fehlt.
+                        </div>
+                  </p>
+                  <p>
+                     <hr />
+                     <h3>Zitierhinweis</h3>
+                     <blockquote class="blockquote"><cite title="Source Title">Christof Aichner, Die Korrespondenz von Leo von Thun-Hohenstein, https://thun-korrespondenz.acdh.oeaw.ac.at/about.html</cite></blockquote>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <footer class="main-footer">
+            <div class="container">
+               <div class="footer-wrapper">
+                  <div class="footer-sep"><i class="far fa-comment"></i> Kontakt: <a href="mailto:christof.aichner@uibk.ac.at">Christof Aichner</a></div>
+                  <div class="row">
+                     <div class="col-md-3"><a href="https://www.oeaw.ac.at/acdh/" target="_blank" rel="noopener" aria-label="ACDHCH"><img src="https://shared.acdh.oeaw.ac.at/acdh-common-assets/images/acdh-ch-logo-grayscale.svg" alt="ACDH" title="Austrian Centre for Digital Humanities and Cultural Heritage" /></a></div>
+                     <div class="col-md-3"><a href="https://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search[what]=P+22554" target="_blank" rel="noopener" aria-label="FWF P 29329"><img src="img/fwf.gif" alt="FWF" title="FWF funded Project P 22554" /></a></div>
+                     <div class="col-md-3"><a href="http://www.oesterreichische-geschichte.at/" target="_blank" rel="noopener" aria-label="Kommission für Neuere Geschichte Österreichs"><img src="img/logo_kommission.png" alt="Kommission für Neuere Geschichte Österreichs" title="Kommission für Neuere Geschichte Österreichs" style="max-width:30%;" /></a></div>
+                     <div class="col-md-3"><a href="https://www.uibk.ac.at/" target="_blank" rel="noopener" aria-label="UIBK"><img src="img/uibklogo.png" alt="UIBK" title="University of Innsbruck" /></a></div>
+                  </div>
+               </div>
+            </div>
+            <div class="footer-imprint-bar"><a href="imprint.html">Impressum/Imprint</a><div class="row" style="padding-top: 20px;">
+                  <div class="col-sm"><a href="https://github.com/KfNGOe/thun-static"><i class="fab fa-github-square fa-2x"></i></a></div>
+               </div>
+            </div>
+         </footer><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+   </body>
+</html>
