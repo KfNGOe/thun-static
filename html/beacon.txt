@@ -1,0 +1,1245 @@
+#FORMAT: BEACON
+#NAME: Thun Korrespondenz
+https://d-nb.info/gnd/118893106|Abdülmecid I. (auch Abdul Mecid)|https://kfngoe.github.io/thun-static/abuelmecid-I.html
+https://d-nb.info/gnd/118500597|Adams, John|https://kfngoe.github.io/thun-static/adams-john.html
+https://d-nb.info/gnd/1034669877|Adler, Marcus Nathan|https://kfngoe.github.io/thun-static/adler-marcus.html
+https://d-nb.info/gnd/118643967|Agassiz, Louis|https://kfngoe.github.io/thun-static/agassiz-louis.html
+https://d-nb.info/gnd/116257474|Ahrens, Heinrich|https://kfngoe.github.io/thun-static/ahrens-heinrich.html
+https://d-nb.info/gnd/116274344|Aigner, Joseph Matthäus|https://kfngoe.github.io/thun-static/aigner-josef-matthaeus.html
+https://d-nb.info/gnd/102418888|Alanus Anglicus|https://kfngoe.github.io/thun-static/alanus.html
+https://d-nb.info/gnd/116257725|Albani, Giuseppe|https://kfngoe.github.io/thun-static/albani-giuseppe.html
+https://d-nb.info/gnd/11850147X|Alberti, Leon Battista|https://kfngoe.github.io/thun-static/alberti-leon-battista.html
+https://d-nb.info/gnd/118501828|Alexander der Große|https://kfngoe.github.io/thun-static/alexander-der-grosse.html
+https://d-nb.info/gnd/118637681|Alfred der Große|https://kfngoe.github.io/thun-static/alfred-der-grosse.html
+https://d-nb.info/gnd/11862783X|Altenstein, Karl|https://kfngoe.github.io/thun-static/altenstein-karl.html
+https://d-nb.info/gnd/119077701|Amalie von Oldenburg|https://kfngoe.github.io/thun-static/amalie-von-oldenburg.html
+https://d-nb.info/gnd/1029700869|Ambrosoli, Franz|https://kfngoe.github.io/thun-static/ambrosoli-franz.html
+https://d-nb.info/gnd/127422722|Amerling, Karl Slavomil|https://kfngoe.github.io/thun-static/amerling-karl.html
+https://d-nb.info/gnd/116299290|Ammon, Christoph|https://kfngoe.github.io/thun-static/ammon-christoph.html
+https://d-nb.info/gnd/118714333|Anaxagoras|https://kfngoe.github.io/thun-static/anaxagoras.html
+https://d-nb.info/gnd/118645110|Ancillon, Jean Pierre|https://kfngoe.github.io/thun-static/ancillon-johann-peter-friedrich.html
+https://d-nb.info/gnd/116011653|Andlaw-Birseck, Franz Xaver|https://kfngoe.github.io/thun-static/andlaw-birseck-franz-xaver.html
+https://d-nb.info/gnd/118649175|Andreas II. von Ungarn|https://kfngoe.github.io/thun-static/andreas-II.html
+https://d-nb.info/gnd/120007533|Andreas III. von Ungarn|https://kfngoe.github.io/thun-static/andreas-III.html
+https://d-nb.info/gnd/118853392|Anselm von Lucca|https://kfngoe.github.io/thun-static/anselm-lucca.html
+https://d-nb.info/gnd/116016671|Antonelli, Giacomo|https://kfngoe.github.io/thun-static/antonelli-giacomo.html
+https://d-nb.info/gnd/118503499|Antoninus Pius|https://kfngoe.github.io/thun-static/antoninus-pius.html
+https://d-nb.info/gnd/118503863|Archimedes|https://kfngoe.github.io/thun-static/archimedes.html
+https://d-nb.info/gnd/116320109|Arenberg, Prosper Ludwig|https://kfngoe.github.io/thun-static/arenberg-prosper-ludwig.html
+https://d-nb.info/gnd/185689361|Aristoteles|https://kfngoe.github.io/thun-static/aristoteles.html
+https://d-nb.info/gnd/102427593|Arlt, Ferdinand|https://kfngoe.github.io/thun-static/arlt-ferdinand.html
+https://d-nb.info/gnd/104572949|Arminius|https://kfngoe.github.io/thun-static/arminius.html
+https://d-nb.info/gnd/100416993|Arndts, Carl Ludwig|https://kfngoe.github.io/thun-static/arndts-carl-ludwig.html
+https://d-nb.info/gnd/13594113X|Arthaber, Rudolf|https://kfngoe.github.io/thun-static/arthaber-rudolf.html
+https://d-nb.info/gnd/119059312|Aschbach, Josef|https://kfngoe.github.io/thun-static/aschbach-joseph.html
+https://d-nb.info/gnd/118651137|Aulike, Matthias|https://kfngoe.github.io/thun-static/aulike-matthias.html
+https://d-nb.info/gnd/123641314|Aurelian|https://kfngoe.github.io/thun-static/aurelian.html
+https://d-nb.info/gnd/118505122|Augustus|https://kfngoe.github.io/thun-static/augustus.html
+https://d-nb.info/gnd/11775031X|August I. von Oldenburg|https://kfngoe.github.io/thun-static/august-I-oldenburg.html
+https://d-nb.info/gnd/11850519X|Austin, John|https://kfngoe.github.io/thun-static/austin-john.html
+https://d-nb.info/gnd/116215208|Austin, Sarah|https://kfngoe.github.io/thun-static/austin-sarah.html
+https://d-nb.info/gnd/11638915X|Avenarius, Eduard|https://kfngoe.github.io/thun-static/avenarius-eduard.html
+https://d-nb.info/gnd/118505238|Averroës|https://kfngoe.github.io/thun-static/averroes.html
+https://d-nb.info/gnd/118505254|Avicenna|https://kfngoe.github.io/thun-static/avicenna.html
+https://d-nb.info/gnd/118505378|Baader, Franz|https://kfngoe.github.io/thun-static/baader-franz.html
+https://d-nb.info/gnd/118651455|Bach, Alexander|https://kfngoe.github.io/thun-static/bach-alexander.html
+https://d-nb.info/gnd/118585754|Bach, Eduard|https://kfngoe.github.io/thun-static/bach-eduard.html
+https://d-nb.info/gnd/137938152|Bach, Otto|https://kfngoe.github.io/thun-static/bach-otto.html
+https://d-nb.info/gnd/120239744|Bacmeister, Lucas|https://kfngoe.github.io/thun-static/backmeister-lucas.html
+https://d-nb.info/gnd/118505696|Bacon, Francis|https://kfngoe.github.io/thun-static/bacon-francis.html
+https://d-nb.info/gnd/115553487|Bähr, Johann Christian Felix|https://kfngoe.github.io/thun-static/baehr-johann-christian.html
+https://d-nb.info/gnd/11944237X|Baluze, Etienne|https://kfngoe.github.io/thun-static/baluze-etienne.html
+https://d-nb.info/gnd/119158086|Baltzer, Johannes Baptist|https://kfngoe.github.io/thun-static/baltzer-johannes-baptist.html
+https://d-nb.info/gnd/1031961437|Bánffy, Dénes|https://kfngoe.github.io/thun-static/banffy-dionys.html
+https://d-nb.info/gnd/15378105X|Barry, Martin|https://kfngoe.github.io/thun-static/barry-martin.html
+https://d-nb.info/gnd/11606238X|Bartels, Ernst|https://kfngoe.github.io/thun-static/bartels-ernst.html
+https://d-nb.info/gnd/116068612|Barthélemy-Saint-Hilaire, Jules|https://kfngoe.github.io/thun-static/barthelemy-saint-hilaire-jules.html
+https://d-nb.info/gnd/116075929|Baruffi, Giuseppe|https://kfngoe.github.io/thun-static/baruffi-giuseppe.html
+https://d-nb.info/gnd/118966480|Báthory, Gabriel|https://kfngoe.github.io/thun-static/bathory-gabriel.html
+https://d-nb.info/gnd/118753495|Báthory, Stephan|https://kfngoe.github.io/thun-static/bathory-stephan.html
+https://d-nb.info/gnd/118507249|Bauer, Bruno|https://kfngoe.github.io/thun-static/bauer-bruno.html
+https://d-nb.info/gnd/119217945|Bauer, Franz|https://kfngoe.github.io/thun-static/bauer-franz.html
+https://d-nb.info/gnd/118653946|Baumgartner, Andreas|https://kfngoe.github.io/thun-static/baumgartner-andreas.html
+https://d-nb.info/gnd/116092521|Baumstark, Anton|https://kfngoe.github.io/thun-static/baumstark-anton.html
+https://d-nb.info/gnd/118855263|Beccaria, Cesare|https://kfngoe.github.io/thun-static/beccaria-cesare.html
+https://d-nb.info/gnd/116100613|Beck, Anton|https://kfngoe.github.io/thun-static/beck-anton.html
+https://d-nb.info/gnd/1020938846|Beck, Martin|https://kfngoe.github.io/thun-static/beck-martin.html
+https://d-nb.info/gnd/116106832|Beckx, Pierre Jean SJ|https://kfngoe.github.io/thun-static/beckx-pierre-jean.html
+https://d-nb.info/gnd/116103736|Becker, Jakob|https://kfngoe.github.io/thun-static/becker-jakob.html
+https://d-nb.info/gnd/117581488|Becker, Moritz Alois|https://kfngoe.github.io/thun-static/becker-moritz.html
+https://d-nb.info/gnd/118089609|Bedeus von Scharberg, Josef|https://kfngoe.github.io/thun-static/bedeus-von-scharberg-josef.html
+https://d-nb.info/gnd/1055523545|Beer, Jacob|https://kfngoe.github.io/thun-static/beer.html
+https://d-nb.info/gnd/119195860|Belgiojoso Barbiano, Johann Jakob|https://kfngoe.github.io/thun-static/belgiojoso-johann-jakob.html
+https://d-nb.info/gnd/11865540X|Benedek, Ludwig August|https://kfngoe.github.io/thun-static/benedek-ludwig.html
+https://d-nb.info/gnd/118655434|Benedikt XIV.|https://kfngoe.github.io/thun-static/benedikt-XIV.html
+https://d-nb.info/gnd/118658174|Beneke, Friedrich Eduard|https://kfngoe.github.io/thun-static/beneke-friedrich-eduard.html
+https://d-nb.info/gnd/119059347|Benfey, Theodor|https://kfngoe.github.io/thun-static/benfey-theodor.html
+https://d-nb.info/gnd/119402173|Benton, Thomas Hart|https://kfngoe.github.io/thun-static/benton-thomas.html
+https://d-nb.info/gnd/116123516|Bentley, Richard|https://kfngoe.github.io/thun-static/bentley-richard.html
+https://d-nb.info/gnd/116131640|Berger, Johann Nepomuk|https://kfngoe.github.io/thun-static/berger-johann-nepomuk.html
+https://d-nb.info/gnd/116133147|Bergmann, Josef|https://kfngoe.github.io/thun-static/bergmann-josef.html
+https://d-nb.info/gnd/118656368|Bernhard von Sachsen-Weimar|https://kfngoe.github.io/thun-static/bernhard-von-sachsen-weimar.html
+https://d-nb.info/gnd/116132663|Bergk, Wilhelm Theodor|https://kfngoe.github.io/thun-static/bergk-wilhelm.html
+https://d-nb.info/gnd/116146516|Bernhardy, Gottfried|https://kfngoe.github.io/thun-static/bernhardy-gottfried.html
+https://d-nb.info/gnd/100937810|Bernhard von Compostela der Ältere, Bernhard von Compostela der Ältere|https://kfngoe.github.io/thun-static/bernhard-compostela.html
+https://d-nb.info/gnd/100938671|Bernhard von Pavia, Bernhard von Pavia|https://kfngoe.github.io/thun-static/bernhard-pavia.html
+https://d-nb.info/gnd/119108542|Bethlen, Gábor|https://kfngoe.github.io/thun-static/bethlen-gabor.html
+https://d-nb.info/gnd/118510444|Beust, Friedrich Ferdinand|https://kfngoe.github.io/thun-static/beust-friedrich-ferdinand.html
+https://d-nb.info/gnd/115749101|Bickell, Johann Wilhelm|https://kfngoe.github.io/thun-static/bickell-wilhelm.html
+https://d-nb.info/gnd/119059363|Biegeleben, Ludwig|https://kfngoe.github.io/thun-static/biegeleben-ludwig.html
+https://d-nb.info/gnd/116165383|Bielowski, August|https://kfngoe.github.io/thun-static/bielowski-august.html
+https://d-nb.info/gnd/100571301|Bigoni, Angelo|https://kfngoe.github.io/thun-static/bigoni-angelo.html
+https://d-nb.info/gnd/18036622X|Binder, Georg Paul|https://kfngoe.github.io/thun-static/binder-georg-paul.html
+https://d-nb.info/gnd/1089307977|Biehl, Wilhelm|https://kfngoe.github.io/thun-static/biohl.html
+https://d-nb.info/gnd/116188634|Bippart, Georg|https://kfngoe.github.io/thun-static/bippart-georg.html
+https://d-nb.info/gnd/118851764|Birnbaum, Johann Michael|https://kfngoe.github.io/thun-static/birnbaum-johann-michael.html
+https://d-nb.info/gnd/118663526|Bischoff, Gottlieb Wilhelm|https://kfngoe.github.io/thun-static/bischoff-gottlieb-wilhelm.html
+https://d-nb.info/gnd/116195843|Bissingen-Nippenburg, Cajetan Alexander|https://kfngoe.github.io/thun-static/bissingen-cajetan.html
+https://d-nb.info/gnd/1035467402|Blazina, Josef|https://kfngoe.github.io/thun-static/blazina-josef.html
+https://d-nb.info/gnd/118511947|Blum, Robert|https://kfngoe.github.io/thun-static/blum-robert.html
+https://d-nb.info/gnd/119512858|Blum, Peter Josef|https://kfngoe.github.io/thun-static/blum-peter-josef.html
+https://d-nb.info/gnd/118512129|Bluntschli, Johann Caspar|https://kfngoe.github.io/thun-static/bluntschli-johann-caspar.html
+https://d-nb.info/gnd/118512242|Bocskay, Stephan|https://kfngoe.github.io/thun-static/bocskay-stephan.html
+https://d-nb.info/gnd/116214023|Bock, Cornelius Peter|https://kfngoe.github.io/thun-static/bock-cornelius-peter.html
+https://d-nb.info/gnd/116215046|Boczek, Alois|https://kfngoe.github.io/thun-static/boczek-alois.html
+https://d-nb.info/gnd/118808850|Böckh, August|https://kfngoe.github.io/thun-static/boeckh-august.html
+https://d-nb.info/gnd/123216605|Böhm, Josef Daniel|https://kfngoe.github.io/thun-static/boehm-josef-daniel.html
+https://d-nb.info/gnd/117609129|Böhm, Josef Georg|https://kfngoe.github.io/thun-static/boehm-josef-georg.html
+https://d-nb.info/gnd/118660748|Böhmer, Johann Friedrich|https://kfngoe.github.io/thun-static/boehmer-johann-friedrich.html
+https://d-nb.info/gnd/118512617|Böhmer, Justus Heinrich|https://kfngoe.github.io/thun-static/boehmer-justus-heinrich.html
+https://d-nb.info/gnd/11851282X|Boëthius, Anicius Manlius Severinus|https://kfngoe.github.io/thun-static/boethius.html
+https://d-nb.info/gnd/11623329X|Bohtz, August Wilhelm|https://kfngoe.github.io/thun-static/bohtz-august-wilhelm.html
+https://d-nb.info/gnd/155109855|Bole, Franz|https://kfngoe.github.io/thun-static/bole-franz.html
+https://d-nb.info/gnd/118513117|Bolzano, Bernard|https://kfngoe.github.io/thun-static/bolzano-bernard.html
+https://d-nb.info/gnd/155530828|Bonald de, Louis Jacques Maurice|https://kfngoe.github.io/thun-static/bonald-louis-jacques-maurice.html
+https://d-nb.info/gnd/173228305|Bonaventura OFM|https://kfngoe.github.io/thun-static/bonaventura.html
+https://d-nb.info/gnd/119427060|Bonghi, Ruggiero|https://kfngoe.github.io/thun-static/bonghi-ruggiero.html
+https://d-nb.info/gnd/136919596|Bonifacio di Canossa|https://kfngoe.github.io/thun-static/bonifacio-di-canossa.html
+https://d-nb.info/gnd/118513257|Bonifaz VIII.|https://kfngoe.github.io/thun-static/bonifaz-VIII.html
+https://d-nb.info/gnd/11905938X|Bonitz, Hermann|https://kfngoe.github.io/thun-static/bonitz-hermann.html
+https://d-nb.info/gnd/116971010|Bormann, Karl|https://kfngoe.github.io/thun-static/bormann-karl.html
+http://www.wikidata.org/wiki/Q665388|Borromeo, Edoardo|https://kfngoe.github.io/thun-static/borromeo-edoardo.html
+https://d-nb.info/gnd/102115591|Bothmer, Carl Franz Ernst Augus|https://kfngoe.github.io/thun-static/bothmer-carl-franz-august.html
+https://d-nb.info/gnd/118513915|Bossuet, Jacques Bénigne|https://kfngoe.github.io/thun-static/bossuet-jacques.html
+https://d-nb.info/gnd/116384344|Bozzelli, Francesco Paolo|https://kfngoe.github.io/thun-static/bozzelli-francesco-paolo.html
+https://d-nb.info/gnd/116402326|Brandis, Christian August|https://kfngoe.github.io/thun-static/brandis-christian-august.html
+https://d-nb.info/gnd/116402369|Brandis, Clemens|https://kfngoe.github.io/thun-static/brandis-clemens.html
+https://d-nb.info/gnd/116415576|Braun, Alexander Carl Heinrich|https://kfngoe.github.io/thun-static/braun-alexander.html
+https://d-nb.info/gnd/116486570|Brenner-Felsach, Adolf Maria|https://kfngoe.github.io/thun-static/brenner-felsach-adolph.html
+https://d-nb.info/gnd/1033676144|Bretislaw|https://kfngoe.github.io/thun-static/bretislaw.html
+https://d-nb.info/gnd/116492678|Bretschneider, Carl Anton|https://kfngoe.github.io/thun-static/bretschneider-carl-anton.html
+https://d-nb.info/gnd/118515497|Brinz, Alois|https://kfngoe.github.io/thun-static/brinz-alois.html
+https://d-nb.info/gnd/1031979638|Brodowicz, Joseph|https://kfngoe.github.io/thun-static/brodowicz-joseph.html
+https://d-nb.info/gnd/116562463|Broglie, Victor de|https://kfngoe.github.io/thun-static/broglie-victor.html
+https://d-nb.info/gnd/118834746|Brougham, Henry|https://kfngoe.github.io/thun-static/brougham-henry.html
+https://d-nb.info/gnd/118857401|Bruck, Karl Ludwig|https://kfngoe.github.io/thun-static/bruck-karl-ludwig.html
+https://d-nb.info/gnd/116725966|Brucker, Johann Jakob|https://kfngoe.github.io/thun-static/brucker-johann-jakob.html
+https://d-nb.info/gnd/118796704|Brücke, Ernst Wilhelm|https://kfngoe.github.io/thun-static/bruecke-ernst.html
+https://d-nb.info/gnd/118516027|Brukenthal, Samuel|https://kfngoe.github.io/thun-static/brukenthal-samuel.html
+https://d-nb.info/gnd/174039352|Brüggemann, Theodor|https://kfngoe.github.io/thun-static/brueggemann-theodor.html
+https://d-nb.info/gnd/117636835|Brühl, Karl Bernhard|https://kfngoe.github.io/thun-static/bruehl-karl-bernhard.html
+https://d-nb.info/gnd/141265825|Brunelli, Giovanni|https://kfngoe.github.io/thun-static/brunelli-giovanni.html
+https://d-nb.info/gnd/11681263X|Bruns, Karl Eduard Georg|https://kfngoe.github.io/thun-static/bruns-karl-georg.html
+https://d-nb.info/gnd/124177204|Buchholtz, Franz Bernhard|https://kfngoe.github.io/thun-static/buchholtz-franz-bernhard.html
+https://d-nb.info/gnd/118895273|Budenz, Josef|https://kfngoe.github.io/thun-static/budenz-josef.html
+https://d-nb.info/gnd/118664468|Bücheler, Franz|https://kfngoe.github.io/thun-static/buecheler-franz.html
+https://d-nb.info/gnd/11705495X|Büdinger, Max|https://kfngoe.github.io/thun-static/buedinger-max.html
+https://d-nb.info/gnd/100062776|Buhle, Johann Gottlieb|https://kfngoe.github.io/thun-static/buhle-johann-gottlieb.html
+https://d-nb.info/gnd/123709733|Bumüller, Johannes|https://kfngoe.github.io/thun-static/bumueller-johannes.html
+https://d-nb.info/gnd/118667734|Brunner, Sebastian|https://kfngoe.github.io/thun-static/brunner-sebastian.html
+https://d-nb.info/gnd/135694582|Buol von Berenberg, Franz|https://kfngoe.github.io/thun-static/buol-von-berenberg-franz.html
+https://d-nb.info/gnd/118665022|Buol-Schauenstein, Karl Ferdinand|https://kfngoe.github.io/thun-static/buol-schauenstein-karl-ferdinand.html
+https://d-nb.info/gnd/118666088|Burchard von Worms|https://kfngoe.github.io/thun-static/burchard-worms.html
+https://d-nb.info/gnd/135705770|Burger, Friedrich Moritz|https://kfngoe.github.io/thun-static/burger-friedrich.html
+https://d-nb.info/gnd/143914073|Brlic, Andrija Torkvat|https://kfngoe.github.io/thun-static/brlic-andrija.html
+https://d-nb.info/gnd/143806793|Caffi, Francesco|https://kfngoe.github.io/thun-static/caffi-francesco.html
+https://d-nb.info/gnd/118518453|Calixt II.|https://kfngoe.github.io/thun-static/calixt-II.html
+https://d-nb.info/gnd/11867532X|Calhoun, John Caldwell|https://kfngoe.github.io/thun-static/calhoun-john.html
+https://d-nb.info/gnd/118615688|Camerarius, Joachim|https://kfngoe.github.io/thun-static/camerarius-joachim.html
+https://d-nb.info/gnd/102667683|Camus, Jules|https://kfngoe.github.io/thun-static/camus-jules.html
+https://d-nb.info/gnd/119296543|Cantù, Cesare|https://kfngoe.github.io/thun-static/cantu-cesare.html
+https://d-nb.info/gnd/1079366601|Capalti, Annibale|https://kfngoe.github.io/thun-static/capalti-annibale.html
+https://d-nb.info/gnd/116447419|Capellmann, Johann Aloys|https://kfngoe.github.io/thun-static/capellmann-johann-aloys.html
+https://d-nb.info/gnd/1035681455|Čaplovič, Ján|https://kfngoe.github.io/thun-static/caplovic-jan.html
+https://d-nb.info/gnd/118882856|Carrara, Franz|https://kfngoe.github.io/thun-static/carrara-franz.html
+https://d-nb.info/gnd/118525824|Cassius Dio|https://kfngoe.github.io/thun-static/cassius-dio.html
+http://viaf.org/viaf/88531062|Càssola, Filippo|https://kfngoe.github.io/thun-static/cassola-filippo.html
+https://d-nb.info/gnd/119834731|Marcus Porcius Cato der Ältere|https://kfngoe.github.io/thun-static/cato-der-aeltere.html
+https://d-nb.info/gnd/101780664|Caterini, Prospero|https://kfngoe.github.io/thun-static/caterini-prospero.html
+https://d-nb.info/gnd/118668900|Cavour, Camillo Benso|https://kfngoe.github.io/thun-static/cavour-camillo-benso.html
+https://d-nb.info/gnd/124113192|Cegielski, Hipolit|https://kfngoe.github.io/thun-static/cegielski-hipolit.html
+https://d-nb.info/gnd/119409275|Čelakovský, František Ladislav|https://kfngoe.github.io/thun-static/celakovsky-frantisek-ladislav.html
+https://d-nb.info/gnd/143681761|Čelakovský, Ladislav Josef|https://kfngoe.github.io/thun-static/celakovsky-josef-ladislav.html
+https://d-nb.info/gnd/100080596|Chalybäus, Heinrich Moritz|https://kfngoe.github.io/thun-static/chalybaeus-heinrich-moritz.html
+https://d-nb.info/gnd/116487194|Chambon, Eduard|https://kfngoe.github.io/thun-static/chambon-eduard.html
+https://d-nb.info/gnd/119259966|Champollion-Figeac, Jacques-Joseph|https://kfngoe.github.io/thun-static/champollion-figeac-jacques-joseph.html
+https://d-nb.info/gnd/108794563|Chlumecký, Peter|https://kfngoe.github.io/thun-static/chlumecky-peter.html
+https://d-nb.info/gnd/121244164|Chlupp, Johann|https://kfngoe.github.io/thun-static/chlupp-johann.html
+https://d-nb.info/gnd/118621335|Chyträus, Nathan|https://kfngoe.github.io/thun-static/chytraeus-nathan.html
+https://d-nb.info/gnd/118520822|Cieszkowski, August|https://kfngoe.github.io/thun-static/cieszkowski-august.html
+https://d-nb.info/gnd/136186343|Clam-Martinic, Heinrich Jaroslav|https://kfngoe.github.io/thun-static/clam-martinic-heinrich-jaroslav.html
+https://d-nb.info/gnd/136186386|Clam-Martinic, Richard|https://kfngoe.github.io/thun-static/clam-martinic-richard.html
+https://d-nb.info/gnd/118521195|Clemens, Franz Jacob|https://kfngoe.github.io/thun-static/clemens-franz-jacob.html
+https://d-nb.info/gnd/123610311|Clemens XIII.|https://kfngoe.github.io/thun-static/clemens-XIII.html
+https://d-nb.info/gnd/118521128|Clay, Henry|https://kfngoe.github.io/thun-static/clay-henry.html
+https://d-nb.info/gnd/116639598|Colloredo-Waldsee, Franz de Paula|https://kfngoe.github.io/thun-static/colloredo-waldsee-franz-de-paula.html
+https://d-nb.info/gnd/104930618X|Conticini, Pietro|https://kfngoe.github.io/thun-static/conticini-pietro.html
+https://d-nb.info/gnd/11877106X|Colonna-Walewski, Alexandre Florian Joseph|https://kfngoe.github.io/thun-static/colonna-walewski-alexandre.html
+https://d-nb.info/gnd/116680105|Cornelius, Carl Adolf|https://kfngoe.github.io/thun-static/cornelius-carl-adolf.html
+https://d-nb.info/gnd/118522213|Cornelius, Peter|https://kfngoe.github.io/thun-static/cornelius-peter.html
+https://d-nb.info/gnd/116681004|Coronini-Cronberg, Johann Baptist|https://kfngoe.github.io/thun-static/coronini-cronberg-johann.html
+https://d-nb.info/gnd/117700339|Costa, Oronzio Gabriele|https://kfngoe.github.io/thun-static/costa-oronzio-gabriele.html
+https://d-nb.info/gnd/118522477|Cousin, Victor|https://kfngoe.github.io/thun-static/cousin-victor.html
+https://d-nb.info/gnd/118677330|Creuzer, Friedrich|https://kfngoe.github.io/thun-static/creuzer-friedrich.html
+https://d-nb.info/gnd/143929194|Crophius, Ludwig OCist|https://kfngoe.github.io/thun-static/crophius-ludwig.html
+https://d-nb.info/gnd/130133361|Csorich de Monte Creto, Anton|https://kfngoe.github.io/thun-static/csorich-de-monte-creto-anton.html
+https://d-nb.info/gnd/118523058|Curtius, Ernst|https://kfngoe.github.io/thun-static/curtius-ernst.html
+https://d-nb.info/gnd/116766557|Curtius, Georg|https://kfngoe.github.io/thun-static/curtius-georg.html
+https://d-nb.info/gnd/11677469X|Curtmann, Wilhelm|https://kfngoe.github.io/thun-static/curtmann-wilhelm.html
+https://d-nb.info/gnd/118523171|Czartoryski, Adam Jerzy|https://kfngoe.github.io/thun-static/czartoryski-adam-jerzy.html
+https://d-nb.info/gnd/116776951|Czermak, Johann Nepomuk|https://kfngoe.github.io/thun-static/czermak-johann-nepomuk.html
+https://d-nb.info/gnd/1042066221|Czermak, Johann|https://kfngoe.github.io/thun-static/czermak-johann.html
+https://d-nb.info/gnd/102085779X|Czernin von und zu Chudenitz, Eugen|https://kfngoe.github.io/thun-static/czernin-von-und-zu-chudenitz-eugen.html
+https://d-nb.info/gnd/130022675|Czernin von und zu Chudenitz, Johann|https://kfngoe.github.io/thun-static/czernin-von-und-zu-chudenitz-johann.html
+https://d-nb.info/gnd/127388303|Czyhlarz, Karl|https://kfngoe.github.io/thun-static/czyhlarz-karl.html
+https://d-nb.info/gnd/118820141|Daub, Carl|https://kfngoe.github.io/thun-static/daub-carl.html
+https://d-nb.info/gnd/117628913|Deharbe, Joseph SJ|https://kfngoe.github.io/thun-static/deharbe-joseph.html
+https://d-nb.info/gnd/11605588X|Deinhardt, Johann Heinrich|https://kfngoe.github.io/thun-static/deinhardt-johann-friedrich.html
+https://d-nb.info/gnd/118523708|Dante, Alighieri|https://kfngoe.github.io/thun-static/dante-alighieri.html
+https://d-nb.info/gnd/118524844|Descartes, René|https://kfngoe.github.io/thun-static/descartes-rene.html
+https://d-nb.info/gnd/118593234|Demosthenes|https://kfngoe.github.io/thun-static/demosthenes.html
+https://d-nb.info/gnd/11867787X|Dernburg, Heinrich|https://kfngoe.github.io/thun-static/dernburg-heinrich.html
+https://d-nb.info/gnd/123279879|De Theux de Meylandt, Barthélémy|https://kfngoe.github.io/thun-static/de-theux-de-meylandt-barthelemy.html
+https://d-nb.info/gnd/118678000|Deutinger, Martin|https://kfngoe.github.io/thun-static/deutinger-martin.html
+https://d-nb.info/gnd/118700162|Haen, Anton|https://kfngoe.github.io/thun-static/de-haen-anton.html
+https://d-nb.info/gnd/118678302|Diepenbrock, Melchior|https://kfngoe.github.io/thun-static/diepenbrock-melchior.html
+https://d-nb.info/gnd/11610399X|Dieringer, Franz Xaver|https://kfngoe.github.io/thun-static/dieringer-franz-xaver.html
+https://d-nb.info/gnd/100842453|Dieterici, Karl Friedrich|https://kfngoe.github.io/thun-static/dieterici-karl.html
+https://d-nb.info/gnd/118981013|Dietl, Joseph|https://kfngoe.github.io/thun-static/dietl-joseph.html
+https://d-nb.info/gnd/116127570|Dillenburger, Wilhelm|https://kfngoe.github.io/thun-static/dillenburger-wilhelm.html
+https://d-nb.info/gnd/118525859|Diogenes Laertios|https://kfngoe.github.io/thun-static/diogenes.html
+https://d-nb.info/gnd/118679651|Diokletian|https://kfngoe.github.io/thun-static/diokletian.html
+https://d-nb.info/gnd/100815057|Dirksen, Enne Heeren|https://kfngoe.github.io/thun-static/dirksen-enne-heeren.html
+https://d-nb.info/gnd/133483673|Dirschedl, Johann Baptist|https://kfngoe.github.io/thun-static/dirschedl-johann-baptist.html
+https://d-nb.info/gnd/10076522X|Dittrich, Josef|https://kfngoe.github.io/thun-static/dittrich-josef.html
+https://d-nb.info/gnd/101168128|Doblhoff-Dier, Anton|https://kfngoe.github.io/thun-static/doblhoff-dier-anton.html
+https://d-nb.info/gnd/1037007565|Dobrjanský, Adolf|https://kfngoe.github.io/thun-static/dobrjansky-adolf.html
+https://d-nb.info/gnd/118526243|Döllinger, Ignaz|https://kfngoe.github.io/thun-static/doellinger-ignaz.html
+https://d-nb.info/gnd/117650560|Domeyko, Ignacy|https://kfngoe.github.io/thun-static/domeyko-ignacy.html
+https://d-nb.info/gnd/11615750X|Dönniges, Wilhelm|https://kfngoe.github.io/thun-static/doenniges-wilhelm.html
+https://d-nb.info/gnd/118672355|Douglas, Stephen Arnold|https://kfngoe.github.io/thun-static/douglas-stephen.html
+https://d-nb.info/gnd/116190949|Dove, Heinrich Wilhelm|https://kfngoe.github.io/thun-static/dove-heinrich-wilhelm.html
+https://d-nb.info/gnd/1024379132|Doveri, Alessandro|https://kfngoe.github.io/thun-static/doveri-alessandro.html
+https://d-nb.info/gnd/101973745X|Dowiat, Rudolf|https://kfngoe.github.io/thun-static/dowiat-rudolf.html
+https://d-nb.info/gnd/116223995|Drobisch, Moritz Wilhelm|https://kfngoe.github.io/thun-static/drobisch-moritz-wilhelm.html
+https://d-nb.info/gnd/119465507|Drosdow, Philaret|https://kfngoe.github.io/thun-static/drosdow-philaret.html
+https://d-nb.info/gnd/102289573|Dubský, Johann|https://kfngoe.github.io/thun-static/dubsky-johann.html
+https://d-nb.info/gnd/11765731X|Duchek, Albert|https://kfngoe.github.io/thun-static/duchek-albert.html
+https://d-nb.info/gnd/17204961X|Dudik, Beda OSB|https://kfngoe.github.io/thun-static/dudik-beda.html
+https://d-nb.info/gnd/116238909|Dümmler, Ernst|https://kfngoe.github.io/thun-static/duemmler-ernst.html
+https://d-nb.info/gnd/116239131|Düntzer, Johann Heinrich|https://kfngoe.github.io/thun-static/duentzer-johann-heinrich.html
+https://d-nb.info/gnd/118641786|Dürer, Albrecht|https://kfngoe.github.io/thun-static/duerer-albrecht.html
+https://d-nb.info/gnd/143957511|Dunajewski, Julian|https://kfngoe.github.io/thun-static/dunajewski-julian.html
+https://d-nb.info/gnd/10186440X|Durig, Josef|https://kfngoe.github.io/thun-static/durig-josef.html
+https://d-nb.info/gnd/119492326|Dursch, Johann Georg Martin|https://kfngoe.github.io/thun-static/dursch-georg-martin.html
+https://d-nb.info/gnd/116329602|Ebersberg, Josef Sigmund|https://kfngoe.github.io/thun-static/ebersberg-josef-sigmund.html
+https://d-nb.info/gnd/143982311|Edlauer, Franz|https://kfngoe.github.io/thun-static/edlauer-franz.html
+https://d-nb.info/gnd/11585309X|Effenberger, Franz Ferdinand|https://kfngoe.github.io/thun-static/effenberger-franz-ferdinand.html
+https://d-nb.info/gnd/118529250|Ehrenberg, Christian Gottfried|https://kfngoe.github.io/thun-static/ehrenberg-christian.html
+https://d-nb.info/gnd/11852934X|Ehrlich, Johann Nepomuk|https://kfngoe.github.io/thun-static/ehrlich-johann-nepomuk.html
+https://d-nb.info/gnd/116408243|Ehrhart, Vincenz|https://kfngoe.github.io/thun-static/ehrhart-vincenz.html
+https://d-nb.info/gnd/116437456|Eitelberger-Edelberg, Rudolf|https://kfngoe.github.io/thun-static/eitelberger-rudolf.html
+https://d-nb.info/gnd/1044019484|Elisabeth Amalie Eugenie, Herzogin in Bayern|https://kfngoe.github.io/thun-static/elisabeth.html
+https://d-nb.info/gnd/100122434|Endlicher, Stephan Ladislaus|https://kfngoe.github.io/thun-static/endlicher-stephan.html
+https://d-nb.info/gnd/116503564|Enger, Robert|https://kfngoe.github.io/thun-static/enger-robert.html
+https://d-nb.info/gnd/117510777|Eisenlohr, Wilhelm|https://kfngoe.github.io/thun-static/eisenlohr-wilhelm.html
+https://d-nb.info/gnd/118529676|Eisenstein, Gotthold|https://kfngoe.github.io/thun-static/eisenstein-gotthold.html
+https://d-nb.info/gnd/116471727|Encke, Johann Franz|https://kfngoe.github.io/thun-static/encke-johann-franz.html
+https://d-nb.info/gnd/100763081|Epaminondas|https://kfngoe.github.io/thun-static/epaminondas.html
+https://d-nb.info/gnd/143987429|Eitl, Franz Vincenz|https://kfngoe.github.io/thun-static/eitl-franz-vinzenz.html
+https://d-nb.info/gnd/130920681|Erben, Karl Jaromir|https://kfngoe.github.io/thun-static/erben-karl-jaromir.html
+https://d-nb.info/gnd/118552589|Ernst, Leopold|https://kfngoe.github.io/thun-static/ernst-leopold.html
+https://d-nb.info/gnd/135934516|Esterházy von Galantha, Moritz|https://kfngoe.github.io/thun-static/esterhazy-von-galantha-moritz.html
+https://d-nb.info/gnd/101916329|Esterházy, Valentin|https://kfngoe.github.io/thun-static/esterhazy-valentin.html
+https://d-nb.info/gnd/116585749|Ettingshausen, Andreas|https://kfngoe.github.io/thun-static/ettinghausen-andreas.html
+https://d-nb.info/gnd/118531328|Eugen IV.|https://kfngoe.github.io/thun-static/eugen-IV.html
+https://d-nb.info/gnd/1025191617|Eugen von Savoyen|https://kfngoe.github.io/thun-static/eugen-von-savoyen.html
+https://d-nb.info/gnd/116319410|Exner, Franz Serafin|https://kfngoe.github.io/thun-static/exner-franz.html
+https://d-nb.info/gnd/161100171|Farina, Modesto|https://kfngoe.github.io/thun-static/farina-modesto.html
+https://d-nb.info/gnd/11885402X|Farina, Giovanni Antonio|https://kfngoe.github.io/thun-static/farina-giovanni-antonio.html
+https://d-nb.info/gnd/116436433|Feigerle, Ignaz|https://kfngoe.github.io/thun-static/feigerle-ignaz.html
+https://d-nb.info/gnd/124456839|Feil, Joseph|https://kfngoe.github.io/thun-static/feil-joseph.html
+https://d-nb.info/gnd/118532464|Fénelon, Francois|https://kfngoe.github.io/thun-static/fenelon-francois.html
+https://d-nb.info/gnd/118532502|Ferdinand I.|https://kfngoe.github.io/thun-static/ferdinand-I.html
+https://d-nb.info/gnd/118686747|Ferdinand I. (Österreich)|https://kfngoe.github.io/thun-static/ferdinand-I-oesterreich.html
+https://d-nb.info/gnd/118532510|Ferdinand II.|https://kfngoe.github.io/thun-static/ferdinand-II.html
+https://d-nb.info/gnd/119502410|Ferdinand II. Karl (Sizilien)|https://kfngoe.github.io/thun-static/ferdinand-II-karl.html
+https://d-nb.info/gnd/118532529|Ferdinand III.|https://kfngoe.github.io/thun-static/ferdinand-III.html
+https://d-nb.info/gnd/13024936X|Ferdinand Karl von Österreich-Este|https://kfngoe.github.io/thun-static/ferdinand-karl-von-oesterreich-este.html
+https://d-nb.info/gnd/118579363|Ferdinand Maximilian|https://kfngoe.github.io/thun-static/ferdinand-maximilian-erzherzog.html
+https://d-nb.info/gnd/173152589|Fernando Álvarez de Toledo|https://kfngoe.github.io/thun-static/fernando-alvarez-de-toledo.html
+http://www.wikidata.org/wiki/Q3659286?uselang=de|Ferrari, Carlo Domenico|https://kfngoe.github.io/thun-static/ferrari-carlo-domenico.html
+https://d-nb.info/gnd/118532634|Ferstel, Heinrich|https://kfngoe.github.io/thun-static/ferstel-heinrich.html
+https://d-nb.info/gnd/116473487|Fertig, Michael|https://kfngoe.github.io/thun-static/fertig-michael.html
+https://d-nb.info/gnd/118686895|Fesl, Michael Josef|https://kfngoe.github.io/thun-static/fesl-michael-josef.html
+https://d-nb.info/gnd/187122733|Fessler, Joseph|https://kfngoe.github.io/thun-static/fessler-joseph.html
+https://d-nb.info/gnd/118532731|Feuerbach, Joseph Anselm|https://kfngoe.github.io/thun-static/feuerbach-joseph-anselm.html
+https://d-nb.info/gnd/118532758|Feuerbach, Ludwig Andreas|https://kfngoe.github.io/thun-static/feuerbach-ludwig.html
+https://d-nb.info/gnd/1065901941|Feuquieres, Isaac de Pas|https://kfngoe.github.io/thun-static/feuquieres-isaac.html
+https://d-nb.info/gnd/118532847|Fichte, Johann Gottlieb|https://kfngoe.github.io/thun-static/fichte-johann-gottlieb.html
+https://d-nb.info/gnd/118687018|Fichte, Immanuel Hermann|https://kfngoe.github.io/thun-static/fichte-immanuel-hermann.html
+https://d-nb.info/gnd/116489731|Fick, Joseph|https://kfngoe.github.io/thun-static/fick-joseph.html
+https://d-nb.info/gnd/118683535|Fick, Heinrich|https://kfngoe.github.io/thun-static/fick-heinrich.html
+https://d-nb.info/gnd/116490012|Ficker, Adolph|https://kfngoe.github.io/thun-static/ficker-adolph.html
+https://d-nb.info/gnd/118532863|Ficker, Julius|https://kfngoe.github.io/thun-static/ficker-julius.html
+https://d-nb.info/gnd/135983037|Fierlinger, Julius|https://kfngoe.github.io/thun-static/fierlinger-julius.html
+https://d-nb.info/gnd/11890440X|Fischbach, Johann|https://kfngoe.github.io/thun-static/fischbach-johann.html
+https://d-nb.info/gnd/118691325|Fischer, Laurenz Hannibal|https://kfngoe.github.io/thun-static/fischer-laurenz-hannibal.html
+https://d-nb.info/gnd/118533738|Flatz, Gebhard|https://kfngoe.github.io/thun-static/flatz-gebhard.html
+https://d-nb.info/gnd/116616121|Flir, Alois|https://kfngoe.github.io/thun-static/flir-alois.html
+https://d-nb.info/gnd/119276186|Floss, Joseph Heinrich|https://kfngoe.github.io/thun-static/floss-joseph.html
+https://d-nb.info/gnd/179491075|Foetterle, Franz|https://kfngoe.github.io/thun-static/foetterle-franz.html
+https://d-nb.info/gnd/11879826X|Förster, Heinrich|https://kfngoe.github.io/thun-static/foerster-heinrich.html
+https://d-nb.info/gnd/144033283|Forgách, Anton|https://kfngoe.github.io/thun-static/forgach-anton.html
+https://d-nb.info/gnd/118684256|Fortlage, Karl|https://kfngoe.github.io/thun-static/fortlage-carl.html
+https://d-nb.info/gnd/118692674|Frank, Johann Peter|https://kfngoe.github.io/thun-static/frank-johann-peter.html
+https://d-nb.info/gnd/119353504|Frankenberg, Johann Heinrich|https://kfngoe.github.io/thun-static/frankenberg-johann-heinrich.html
+https://d-nb.info/gnd/118535013|Franz Joseph I.|https://kfngoe.github.io/thun-static/franz-joseph.html
+https://d-nb.info/gnd/118534955|Franz I./II.|https://kfngoe.github.io/thun-static/franz-I-II.html
+https://d-nb.info/gnd/177894857|Franz Karl|https://kfngoe.github.io/thun-static/franz-karl-erzherzog.html
+https://d-nb.info/gnd/118643231|Franz, Gottfried|https://kfngoe.github.io/thun-static/franz-gottfried.html
+https://d-nb.info/gnd/118534963|Franz von Assisi|https://kfngoe.github.io/thun-static/franz-von-assisi.html
+https://d-nb.info/gnd/100603335|Frapporti, Joseph|https://kfngoe.github.io/thun-static/frapporti-joseph.html
+https://d-nb.info/gnd/118534912|Franklin, Benjamin|https://kfngoe.github.io/thun-static/franklin-benjamin.html
+https://d-nb.info/gnd/118535757|Friedrich I.|https://kfngoe.github.io/thun-static/friedrich-I.html
+https://d-nb.info/gnd/118535765|Friedrich II.|https://kfngoe.github.io/thun-static/friedrich-II.html
+https://d-nb.info/gnd/118535773|Friedrich III.|https://kfngoe.github.io/thun-static/friedrich-III.html
+https://d-nb.info/gnd/118535749|Friedrich II. (Preußen), Friedrich der Große|https://kfngoe.github.io/thun-static/friedrich-II-der-grosse.html
+https://d-nb.info/gnd/118535986|Friedrich Wilhelm III.|https://kfngoe.github.io/thun-static/friedrich-wilhelm-III.html
+https://d-nb.info/gnd/118535994|Friedrich Wilhelm IV.|https://kfngoe.github.io/thun-static/friedrich-wilhelm-IV.html
+https://d-nb.info/gnd/122701569|Fromherz, Carl|https://kfngoe.github.io/thun-static/fromherz-carl.html
+https://d-nb.info/gnd/135556201|Fuchs, Adalbert|https://kfngoe.github.io/thun-static/fuchs-adalbert.html
+https://d-nb.info/gnd/11869409X|Führich, Joseph|https://kfngoe.github.io/thun-static/fuehrich-joseph.html
+https://d-nb.info/gnd/129767638|Fürstenberg, Friedrich Egon|https://kfngoe.github.io/thun-static/fuerstenberg-friedrich-egon.html
+https://d-nb.info/gnd/133676110|Fumagalli, Angelo|https://kfngoe.github.io/thun-static/fumagalli-angelo.html
+https://d-nb.info/gnd/11931701X|Fusinato, Arnaldo|https://kfngoe.github.io/thun-static/fusinato-arnaldo.html
+https://d-nb.info/gnd/118535021|Franciso de Xavier|https://kfngoe.github.io/thun-static/francisco-de-xavier.html
+https://d-nb.info/gnd/104921250|Gabriel, Lorenz|https://kfngoe.github.io/thun-static/gabriel-lorenz.html
+https://d-nb.info/gnd/100479480|Gachard, Louis Prosper|https://kfngoe.github.io/thun-static/gachard-louis-prosper.html
+https://d-nb.info/gnd/172481945|Gärtner, Wilhelm|https://kfngoe.github.io/thun-static/gaertner-wilhelm.html
+https://d-nb.info/gnd/11871614X|Gaj, Ljudevit|https://kfngoe.github.io/thun-static/gaj-ljudevit.html
+https://d-nb.info/gnd/135669146|Galba, Julius|https://kfngoe.github.io/thun-static/galba-julius.html
+https://d-nb.info/gnd/1041898487|Gallois, Etienne|https://kfngoe.github.io/thun-static/gallois-etienne.html
+https://d-nb.info/gnd/119095866|Galura, Bernhard|https://kfngoe.github.io/thun-static/galura-bernhard.html
+https://d-nb.info/gnd/118689592|Garibaldi, Giuseppe|https://kfngoe.github.io/thun-static/garibaldi-giuseppe.html
+https://d-nb.info/gnd/116448407|Gasparrini, Guglielmo|https://kfngoe.github.io/thun-static/gasparrini-guglielmo.html
+https://d-nb.info/gnd/119237318|Gasser, Vinzenz|https://kfngoe.github.io/thun-static/gasser-vinzenz.html
+https://d-nb.info/gnd/1206601388|Gatscher, Franz|https://kfngoe.github.io/thun-static/gatscher-franz.html
+https://d-nb.info/gnd/11853811X|Geibel, Emanuel|https://kfngoe.github.io/thun-static/geibel-emanuel.html
+https://d-nb.info/gnd/116495480|Geiger, Carl Joseph|https://kfngoe.github.io/thun-static/geiger-carl-joseph.html
+https://d-nb.info/gnd/118690027|Geiger, Peter Johann Nepomuk|https://kfngoe.github.io/thun-static/geiger-peter-johann-nepomuk.html
+https://d-nb.info/gnd/116499737|Geinitz, Hans Bruno|https://kfngoe.github.io/thun-static/geinitz-hans-bruno.html
+https://d-nb.info/gnd/100484751|George, Leopold|https://kfngoe.github.io/thun-static/georg.html
+https://d-nb.info/gnd/123909597|Geringer, Karl|https://kfngoe.github.io/thun-static/geringer-karl.html
+https://d-nb.info/gnd/118149741|Gerhard, Eduard|https://kfngoe.github.io/thun-static/gerhard-eduard.html
+https://d-nb.info/gnd/12441009X|Gerold, Carl|https://kfngoe.github.io/thun-static/gerold-karl.html
+https://d-nb.info/gnd/133265455|Georld, Moriz|https://kfngoe.github.io/thun-static/gerold-moritz.html
+https://d-nb.info/gnd/1033717932|Géza|https://kfngoe.github.io/thun-static/geysa.html
+https://d-nb.info/gnd/104273496|Gfrörer, August Friedrich|https://kfngoe.github.io/thun-static/gfroerer-august-friedrich.html
+https://d-nb.info/gnd/100767281|Gherardini, Giovanni|https://kfngoe.github.io/thun-static/gherardini-giovanni.html
+https://d-nb.info/gnd/118539086|Ghiberti, Lorenzo|https://kfngoe.github.io/thun-static/ghiberti-lorenzo.html
+https://d-nb.info/gnd/116632607|Gindely, Anton|https://kfngoe.github.io/thun-static/gindely-anton.html
+https://d-nb.info/gnd/118539477|Giotto di Bondone|https://kfngoe.github.io/thun-static/giotto.html
+https://d-nb.info/gnd/116648996|Gitzler, Ludwig|https://kfngoe.github.io/thun-static/gitzler-ludwig.html
+https://d-nb.info/gnd/137584202|Giulini, Giorgio|https://kfngoe.github.io/thun-static/giulini-giorgio.html
+https://d-nb.info/gnd/1011156520|Glax, Heinrich|https://kfngoe.github.io/thun-static/glax-heinrich.html
+https://d-nb.info/gnd/1033316865|Glowacki, Jacob|https://kfngoe.github.io/thun-static/glowacki-jacob.html
+https://d-nb.info/gnd/118717790|Gneist, Rudolf|https://kfngoe.github.io/thun-static/gneist-rudolf.html
+https://d-nb.info/gnd/116697970|Goebel, Anton|https://kfngoe.github.io/thun-static/goebel-anton.html
+https://d-nb.info/gnd/1020890657|Goebel, Eduard|https://kfngoe.github.io/thun-static/goebel-eduard.html
+https://d-nb.info/gnd/11854019X|Görres, Johann Joseph|https://kfngoe.github.io/thun-static/goerres-johann.html
+https://d-nb.info/gnd/100834620|Göth, Georg|https://kfngoe.github.io/thun-static/goeth-georg.html
+https://d-nb.info/gnd/118540238|Goethe, Johann Wolfgang|https://kfngoe.github.io/thun-static/goethe-johann-wolfgang.html
+https://d-nb.info/gnd/104076585|Götz, Christian|https://kfngoe.github.io/thun-static/goetz-christian.html
+https://d-nb.info/gnd/11676516X|Goluchowski, Agenor|https://kfngoe.github.io/thun-static/goluchowski-agenor.html
+https://d-nb.info/gnd/118696521|Gorgias|https://kfngoe.github.io/thun-static/gorgias.html
+https://d-nb.info/gnd/1011383241|Gorzkowski von Gorzków, Karl|https://kfngoe.github.io/thun-static/gorzkowski-von-gorzkow-karl.html
+https://d-nb.info/gnd/117550787|Gousset, Thomas|https://kfngoe.github.io/thun-static/gousset-thomas.html
+https://d-nb.info/gnd/118541625|Gratian|https://kfngoe.github.io/thun-static/gratian.html
+https://d-nb.info/gnd/104652276|Grassl von Rechten, Ignaz|https://kfngoe.github.io/thun-static/grassl-ignaz.html
+https://d-nb.info/gnd/116824441|Grauert, Heinrich Wilhelm|https://kfngoe.github.io/thun-static/grauert-heinrich.html
+https://d-nb.info/gnd/118541870|Gregor IX.|https://kfngoe.github.io/thun-static/gregor-IX.html
+https://d-nb.info/gnd/118541897|Gregor XVI.|https://kfngoe.github.io/thun-static/gregor-XVI.html
+https://d-nb.info/gnd/118542192|Grillparzer, Franz|https://kfngoe.github.io/thun-static/grillparzer-franz.html
+https://d-nb.info/gnd/116887729|Grün, Dionys|https://kfngoe.github.io/thun-static/gruen-dionys.html
+https://d-nb.info/gnd/172500702|Grysar, Karl Josef|https://kfngoe.github.io/thun-static/grysar-karl.html
+https://d-nb.info/gnd/118719165|Günther, Anton|https://kfngoe.github.io/thun-static/guenther-anton.html
+https://d-nb.info/gnd/130137618|Guevara, Íñigo Vélez de, Conde de Oñate|https://kfngoe.github.io/thun-static/guevara-inigo-velez.html
+https://d-nb.info/gnd/118543520|Guizot, François|https://kfngoe.github.io/thun-static/guizot-francois.html
+https://d-nb.info/gnd/118543733|Gustav II. Adolf|https://kfngoe.github.io/thun-static/gustav-II-adolf.html
+https://d-nb.info/gnd/136742815|Gyulay, Ferencz József|https://kfngoe.github.io/thun-static/gyulay-ferencz-jozsef.html
+https://d-nb.info/gnd/137587724|Haas, Georg Emanuel|https://kfngoe.github.io/thun-static/haas-georg-emanuel.html
+https://d-nb.info/gnd/170757587|Haas, Michael|https://kfngoe.github.io/thun-static/haas-michael.html
+https://d-nb.info/gnd/118544365|Hadrian|https://kfngoe.github.io/thun-static/hadrian.html
+https://d-nb.info/gnd/118719777|Hadrian|https://kfngoe.github.io/thun-static/hadrian-I.html
+https://d-nb.info/gnd/118719785|Hadrian IV.|https://kfngoe.github.io/thun-static/hadrian-IV.html
+https://d-nb.info/gnd/100493580|Häufler, Josef Vinzenz|https://kfngoe.github.io/thun-static/haeufler-josef-vinzenz.html
+https://d-nb.info/gnd/10275019X|Häusle, Johann Michael|https://kfngoe.github.io/thun-static/haeusle-johann-michael.html
+https://d-nb.info/gnd/133711188|Hagn, Theodorich OSB|https://kfngoe.github.io/thun-static/hagn-theoderich.html
+https://d-nb.info/gnd/118544918|Hahn, Friedrich|https://kfngoe.github.io/thun-static/hahn-friedrich.html
+https://d-nb.info/gnd/11870060X|Hahn, Johann Georg|https://kfngoe.github.io/thun-static/hahn-johann-georg.html
+https://d-nb.info/gnd/119435810|Haidinger, Wilhelm|https://kfngoe.github.io/thun-static/haidinger-wilhelm.html
+https://d-nb.info/gnd/116392541|Haimberger, Anton|https://kfngoe.github.io/thun-static/haimberger-anton-von.html
+https://d-nb.info/gnd/116392584|Haimerl, Franz Xaver|https://kfngoe.github.io/thun-static/haimerl-franz-xaver.html
+https://d-nb.info/gnd/121309746|Hakman, Eugen|https://kfngoe.github.io/thun-static/hakman-eugen.html
+https://d-nb.info/gnd/117415111|Halla, Joseph|https://kfngoe.github.io/thun-static/halla-joseph.html
+https://d-nb.info/gnd/137272855|Haller von Hallerkeö, Franz|https://kfngoe.github.io/thun-static/haller-von-hallerkeoe-franz.html
+https://d-nb.info/gnd/100158463|Halm, Karl Felix|https://kfngoe.github.io/thun-static/halm-karl-felix.html
+https://d-nb.info/gnd/118720074|Halm, Friedrich|https://kfngoe.github.io/thun-static/halm-friedrich.html
+https://d-nb.info/gnd/122401441|Hamernik, Josef|https://kfngoe.github.io/thun-static/hamernik-josef.html
+https://d-nb.info/gnd/118545426|Hammer-Purgstall, Joseph|https://kfngoe.github.io/thun-static/hammer-purgstall-joseph.html
+http://www.wikidata.org/wiki/Q1724471?uselang=de|Hanl von Kirchtreu, Karl Borromäus|https://kfngoe.github.io/thun-static/hanl-karl-borromaeus.html
+https://d-nb.info/gnd/119180413|Hannibal|https://kfngoe.github.io/thun-static/hannibal.html
+https://d-nb.info/gnd/115690743|Hanuš, Ignaz|https://kfngoe.github.io/thun-static/hanusch-ignaz.html
+https://d-nb.info/gnd/118545906|Hardenberg, Karl August|https://kfngoe.github.io/thun-static/hardenberg-karl-august.html
+https://d-nb.info/gnd/116490314|Hartenstein, Gustav|https://kfngoe.github.io/thun-static/hartenstein-gustav.html
+https://d-nb.info/gnd/118546287|Hartmann, Franz|https://kfngoe.github.io/thun-static/hartmann-franz.html
+https://d-nb.info/gnd/1055295631|Hartner, Friedrich|https://kfngoe.github.io/thun-static/hartner-friedrich.html
+https://d-nb.info/gnd/118927507|Hase, Karl|https://kfngoe.github.io/thun-static/hase-karl.html
+https://d-nb.info/gnd/119059495|Hasner von Artha, Leopold|https://kfngoe.github.io/thun-static/hasner-von-artha-leopold.html
+https://d-nb.info/gnd/11651535X|Hasselt, André Henri Constant van|https://kfngoe.github.io/thun-static/hasselt-andre-henri-constant.html
+https://d-nb.info/gnd/119237644|Hassenpflug, Ludwig|https://kfngoe.github.io/thun-static/hassenpflug-ludwig.html
+https://d-nb.info/gnd/118925083|Hattala, Martin|https://kfngoe.github.io/thun-static/hattala-martin.html
+https://d-nb.info/gnd/119059509|Hauer, Franz|https://kfngoe.github.io/thun-static/hauer-franz.html
+https://d-nb.info/gnd/108752151|Hauer, Karl|https://kfngoe.github.io/thun-static/hauer-karl.html
+https://d-nb.info/gnd/117504246|Haulik von Várallya, Georg|https://kfngoe.github.io/thun-static/haulik-georg.html
+https://d-nb.info/gnd/118547259|Havlíček, Karel|https://kfngoe.github.io/thun-static/havlicek-karel.html
+https://d-nb.info/gnd/118547305|Haxthausen, August|https://kfngoe.github.io/thun-static/haxthausen-august.html
+https://d-nb.info/gnd/116553677|Haynald, Lajos|https://kfngoe.github.io/thun-static/haynald-lajos.html
+https://d-nb.info/gnd/116553693|Haynau, Julius|https://kfngoe.github.io/thun-static/haynau-julius.html
+https://d-nb.info/gnd/116555998|Hebra, Ferdinand|https://kfngoe.github.io/thun-static/hebra-ferdinand.html
+https://d-nb.info/gnd/116561254|Hecker, Friedrich|https://kfngoe.github.io/thun-static/hecker-friedrich.html
+https://d-nb.info/gnd/118547739|Hegel, Georg Wilhelm Friedrich|https://kfngoe.github.io/thun-static/hegel-georg-wilhelm-friedrich.html
+https://d-nb.info/gnd/10737742X|Heider, Gustav|https://kfngoe.github.io/thun-static/heider-gustav.html
+https://d-nb.info/gnd/138379769|Heinrich von Lothringen|https://kfngoe.github.io/thun-static/heinrich-von-lothringen.html
+https://d-nb.info/gnd/11854831X|Heinrich I.|https://kfngoe.github.io/thun-static/heinrich-I.html
+https://d-nb.info/gnd/118548263|Heinrich III.|https://kfngoe.github.io/thun-static/heinrich-III.html
+https://d-nb.info/gnd/118548271|Heinrich IV.|https://kfngoe.github.io/thun-static/heinrich-IV.html
+https://d-nb.info/gnd/11854828X|Heinrich V.|https://kfngoe.github.io/thun-static/heinrich-V.html
+https://d-nb.info/gnd/118548301|Heinrich VII. von Luxemburg|https://kfngoe.github.io/thun-static/heinrich-VII-luxemburg.html
+https://d-nb.info/gnd/1037056264|Heinz, Karl|https://kfngoe.github.io/thun-static/heinz-karl.html
+https://d-nb.info/gnd/118991930|Helcel, Antoni Zygmunt|https://kfngoe.github.io/thun-static/helcel-antoni-zgymunt.html
+https://d-nb.info/gnd/12956754X|Held, Joseph|https://kfngoe.github.io/thun-static/held-joseph.html
+https://d-nb.info/gnd/11877381X|Helfert, Joseph Alexander|https://kfngoe.github.io/thun-static/helfert-joseph-alexander.html
+https://d-nb.info/gnd/116711574|Hennes, Johann Heinrich|https://kfngoe.github.io/thun-static/hennes-johann-heinrich.html
+https://d-nb.info/gnd/118802968|Tour d’Auvergne, Henri de la, Vicomte de Turenne|https://kfngoe.github.io/thun-static/henri-de-la-tour-dauvergne.html
+https://d-nb.info/gnd/11854943X|Herbart, Johann Friedrich|https://kfngoe.github.io/thun-static/herbart-johann-friedrich.html
+https://d-nb.info/gnd/118549553|Herder, Johann Gottfried|https://kfngoe.github.io/thun-static/herder-johann-gottfried.html
+https://d-nb.info/gnd/138994323|Herget, Josef|https://kfngoe.github.io/thun-static/herget-josef.html
+https://d-nb.info/gnd/118703714|Hermann, Gottfried Johann Jakob|https://kfngoe.github.io/thun-static/hermann-gottfried.html
+https://d-nb.info/gnd/116739517|Hermann, Karl Friedrich|https://kfngoe.github.io/thun-static/hermann-karl-friedrich.html
+https://d-nb.info/gnd/1011846748|Herr, Josef Philipp|https://kfngoe.github.io/thun-static/herr-josef-philipp.html
+https://d-nb.info/gnd/1029967512|Philipp August Friedrich Hessen-Homburg|https://kfngoe.github.io/thun-static/hessen-homburg-philipp.html
+https://d-nb.info/gnd/116953462|Heufler von Hohenbühel, Ludwig|https://kfngoe.github.io/thun-static/heufler-von-hohenbuehel-ludwig.html
+https://d-nb.info/gnd/102698813|Heyssler, Moritz|https://kfngoe.github.io/thun-static/heyssler-moritz.html
+https://d-nb.info/gnd/1011857502|Hieber, Karlmann OSB|https://kfngoe.github.io/thun-static/hieber-karlmann.html
+https://d-nb.info/gnd/118704672|Hieron II. von Syrakus|https://kfngoe.github.io/thun-static/hieron-II.html
+https://d-nb.info/gnd/123886716|Hille, Augustin Bartholomäus|https://kfngoe.github.io/thun-static/hille-augustin.html
+https://d-nb.info/gnd/116896736|Hingenau, Otto Bernhard|https://kfngoe.github.io/thun-static/hingenau-otto.html
+https://d-nb.info/gnd/118551531|Hirscher, Johann Baptist|https://kfngoe.github.io/thun-static/hirscher-johann-baptist.html
+https://d-nb.info/gnd/130182710|Hochegger, Franz|https://kfngoe.github.io/thun-static/hochegger-franz.html
+https://d-nb.info/gnd/100356877|Hock, Carl|https://kfngoe.github.io/thun-static/hock-carl.html
+https://d-nb.info/gnd/118946412|Hodža, Michal Miloslav|https://kfngoe.github.io/thun-static/hodza-michal.html
+https://d-nb.info/gnd/120951436|Hofer, Andreas|https://kfngoe.github.io/thun-static/hofer-andreas.html
+https://d-nb.info/gnd/123573556|Höfle, Mark Aurel|https://kfngoe.github.io/thun-static/hoefle-mark-aurel.html
+https://d-nb.info/gnd/118774654|Höfler, Karl Adolf Constantin|https://kfngoe.github.io/thun-static/hoefler-karl-adolf-constantin.html
+https://d-nb.info/gnd/116923776|Hoeck, Karl Friedrich Christian|https://kfngoe.github.io/thun-static/hoeck-karl-friedrich.html
+https://d-nb.info/gnd/118552589|Hoffmann (von Fallersleben), August Heinrich|https://kfngoe.github.io/thun-static/.html
+https://d-nb.info/gnd/143113224|Hoffmann, Emanuel|https://kfngoe.github.io/thun-static/hoffmann-emanuel.html
+https://d-nb.info/gnd/118552465|Hoffmann, Wilhelm|https://kfngoe.github.io/thun-static/hoffmann-wilhelm.html
+https://d-nb.info/gnd/116951796|Hofmann, Konrad|https://kfngoe.github.io/thun-static/hofmann-konrad.html
+https://d-nb.info/gnd/119484749|Hofmann, Leopold|https://kfngoe.github.io/thun-static/hofmann-leopold.html
+https://d-nb.info/gnd/116955422|Hohenlohe-Schillingsfürst, Gustav|https://kfngoe.github.io/thun-static/hohenlohe-schillingfuerst-gustav.html
+https://d-nb.info/gnd/124650791|Hohenlohe-Schillingsfürst, Konstantin|https://kfngoe.github.io/thun-static/hohenlohe-schillingfuerst-konstantin.html
+https://d-nb.info/gnd/118861484|Hohenlohe-Waldenburg-Schillingsfürst, Alexander|https://kfngoe.github.io/thun-static/hohenlohe-waldenburg-schillingfuerst-alexander.html
+https://d-nb.info/gnd/1172901821|Hohenwarter, Thomas|https://kfngoe.github.io/thun-static/hohenwarter-thomas.html
+https://d-nb.info/gnd/1042456542|Hopf, Johann|https://kfngoe.github.io/thun-static/hopf-johann.html
+https://d-nb.info/gnd/118553569|Horaz|https://kfngoe.github.io/thun-static/horaz.html
+https://d-nb.info/gnd/117011568|Horváth, Michael|https://kfngoe.github.io/thun-static/horvath-michael.html
+https://d-nb.info/gnd/120922150|Hruschauer, Franz|https://kfngoe.github.io/thun-static/hruschauer-franz.html
+https://d-nb.info/gnd/117045225|Hübner, Alexander|https://kfngoe.github.io/thun-static/huebner-alexander.html
+https://d-nb.info/gnd/1157560628|Hülsemann, Johann Georg|https://kfngoe.github.io/thun-static/huelsemann-johann-georg.html
+https://d-nb.info/gnd/119266407|Huber, Alphons|https://kfngoe.github.io/thun-static/huber-alphons.html
+https://d-nb.info/gnd/118707884|Hug, Johann Leonhard|https://kfngoe.github.io/thun-static/hug-johann-leonhard.html
+https://d-nb.info/gnd/118554700|Humboldt, Wilhelm|https://kfngoe.github.io/thun-static/humboldt-wilhelm.html
+https://d-nb.info/gnd/118554735|Hume, David|https://kfngoe.github.io/thun-static/hume-david.html
+https://d-nb.info/gnd/12044965X|Hummel, Karl|https://kfngoe.github.io/thun-static/hummel-karl.html
+https://d-nb.info/gnd/1050372530|Hunyady von Kéthely, Julia|https://kfngoe.github.io/thun-static/hunyady-von-kethely-julia.html
+https://d-nb.info/gnd/119552639|Hurban, Jozef Miloslav|https://kfngoe.github.io/thun-static/hurban-josef.html
+https://d-nb.info/gnd/118708244|Hurter, Friedrich Emanuel|https://kfngoe.github.io/thun-static/hurter-friedrich-emanuel.html
+https://d-nb.info/gnd/159109620|Hus, Jan|https://kfngoe.github.io/thun-static/hus-jan.html
+https://d-nb.info/gnd/118708309|Huschke, Philipp Eduard|https://kfngoe.github.io/thun-static/huschke-philipp-eduard.html
+https://d-nb.info/gnd/118588095|Hutten, Ulrich|https://kfngoe.github.io/thun-static/hutten-ulrich.html
+https://d-nb.info/gnd/117546941|Hye von Glunek, Anton|https://kfngoe.github.io/thun-static/hye-von-gluneck-anton.html
+https://d-nb.info/gnd/118708481|Hyrtl, Josef|https://kfngoe.github.io/thun-static/hyrtl-josef.html
+https://d-nb.info/gnd/172907365|Igel, Lazar Elias|https://kfngoe.github.io/thun-static/igel-lazar-elias.html
+https://d-nb.info/gnd/118555359|Ignatius von Loyola|https://kfngoe.github.io/thun-static/ignatius-von-loyola.html
+https://d-nb.info/gnd/117129526|Ilwof, Franz|https://kfngoe.github.io/thun-static/ilwof-franz.html
+https://d-nb.info/gnd/117138959|Ingelheim, Friedrich Hugo|https://kfngoe.github.io/thun-static/ingelheim-friedrich-hugo.html
+https://d-nb.info/gnd/118555642|Innozenz III.|https://kfngoe.github.io/thun-static/innozenz-III.html
+https://d-nb.info/gnd/13018747X|Inzaghi, Karl|https://kfngoe.github.io/thun-static/inzaghi-karl.html
+https://d-nb.info/gnd/123257700|Isabella Jagiellonica|https://kfngoe.github.io/thun-static/isabella-jagiellonica.html
+https://d-nb.info/gnd/118711024|Ivo von Chartres|https://kfngoe.github.io/thun-static/ivo-chartres.html
+https://d-nb.info/gnd/119185202|Jachimowicz, Gregor|https://kfngoe.github.io/thun-static/jachimowicz-gregor.html
+https://d-nb.info/gnd/118775731|Jackson, Andrew|https://kfngoe.github.io/thun-static/jackson-andrew.html
+https://d-nb.info/gnd/118775766|Jacobi, Carl Gustav Jacob|https://kfngoe.github.io/thun-static/jacobi-carl-gustav.html
+https://d-nb.info/gnd/118556312|Jacobi, Friedrich Heinrich|https://kfngoe.github.io/thun-static/jacobi-friedrich-heinrich.html
+https://d-nb.info/gnd/118556452|Jacquin, Josef Franz|https://kfngoe.github.io/thun-static/jacquin-josef-franz.html
+https://d-nb.info/gnd/117051845|Jäger, Albert OSB|https://kfngoe.github.io/thun-static/jaeger-albert.html
+https://d-nb.info/gnd/118825615|Jäger, Gustav|https://kfngoe.github.io/thun-static/jaeger-gustav.html
+https://d-nb.info/gnd/118639889|Jakob I.|https://kfngoe.github.io/thun-static/jakob-i.html
+https://d-nb.info/gnd/117610909|Jaksch von Wartenhorst, Anton|https://kfngoe.github.io/thun-static/jaksch-anton.html
+https://d-nb.info/gnd/133591212|James Bruce, 8. Lord of Elgin|https://kfngoe.github.io/thun-static/james-bruce.html
+https://d-nb.info/gnd/119419513|Janota, Eugeniusz Arnold|https://kfngoe.github.io/thun-static/janota-eugeniusz.html
+https://d-nb.info/gnd/118775995|Jarcke, Karl Ernst|https://kfngoe.github.io/thun-static/jarcke-karl-ernst.html
+https://d-nb.info/gnd/118776088|Jelačič, Joseph|https://kfngoe.github.io/thun-static/jelacic-joseph.html
+https://d-nb.info/gnd/119224178|Jireček, Josef|https://kfngoe.github.io/thun-static/jirecek-josef.html
+https://d-nb.info/gnd/120935589|Jirsik, Jan Valerian|https://kfngoe.github.io/thun-static/jirsik-jan-valerian.html
+https://d-nb.info/gnd/172039401|Job, Franz Sebastian|https://kfngoe.github.io/thun-static/job.html
+https://d-nb.info/gnd/118558021|Johann|https://kfngoe.github.io/thun-static/johann-erzherzog.html
+https://d-nb.info/gnd/102111588|Johann Georg von Brandenburg|https://kfngoe.github.io/thun-static/johann-georg-von-brandenburg.html
+https://d-nb.info/gnd/11944755X|Johann von Luxemburg|https://kfngoe.github.io/thun-static/johann-von-luxemburg.html
+https://d-nb.info/gnd/13020434X|Jonák, Eberhard Antonín|https://kfngoe.github.io/thun-static/jonak-eberhard-antonin.html
+https://d-nb.info/gnd/128665270|Jordis, Johann|https://kfngoe.github.io/thun-static/jordis-johann.html
+https://d-nb.info/gnd/118558390|Joseph I.|https://kfngoe.github.io/thun-static/joseph-I.html
+https://d-nb.info/gnd/118558404|Joseph II.|https://kfngoe.github.io/thun-static/joseph-II.html
+https://d-nb.info/gnd/118628046|Joseph Anton Johann, Erzherzog|https://kfngoe.github.io/thun-static/joseph-anton-johann-erzherzog.html
+https://d-nb.info/gnd/123011027|Jósika, Miklós|https://kfngoe.github.io/thun-static/josika-miklos.html
+https://d-nb.info/gnd/117220973|Jülg, Bernhard|https://kfngoe.github.io/thun-static/juelg-bernhard.html
+https://d-nb.info/gnd/1089715552|Gaius Julius Caesar|https://kfngoe.github.io/thun-static/julius-caesar.html
+https://d-nb.info/gnd/118558854|Jungmann, Josef|https://kfngoe.github.io/thun-static/jungmann-josef.html
+https://d-nb.info/gnd/119485125|Junot, Jean Andoche|https://kfngoe.github.io/thun-static/junot-jean.html
+https://d-nb.info/gnd/119273624|Jussieu, Antoine-Laurent|https://kfngoe.github.io/thun-static/jussieu-antoine-laurent.html
+https://d-nb.info/gnd/116021438|Kahlert, Anton|https://kfngoe.github.io/thun-static/kahlert-anton.html
+https://d-nb.info/gnd/116024259|Kahnis, Karl Friedrich August|https://kfngoe.github.io/thun-static/kahnis-karl.html
+https://d-nb.info/gnd/1012943410|Kaiser, Johann Nepomuk|https://kfngoe.github.io/thun-static/kaiser-johann-nepomuk.html
+https://d-nb.info/gnd/118559796|Kant, Immanuel|https://kfngoe.github.io/thun-static/kant-immanuel.html
+https://d-nb.info/gnd/121409406|Karajan, Theodor Georg|https://kfngoe.github.io/thun-static/karajan-theodor.html
+https://d-nb.info/gnd/1027323049|Karl Albert|https://kfngoe.github.io/thun-static/karl-albert.html
+https://d-nb.info/gnd/187754217|Karl der Große|https://kfngoe.github.io/thun-static/karl-der-grosse.html
+https://d-nb.info/gnd/118560085|Karl IV.|https://kfngoe.github.io/thun-static/karl-IV.html
+https://d-nb.info/gnd/118560107|Karl VI.|https://kfngoe.github.io/thun-static/karl-VI.html
+https://d-nb.info/gnd/118560093|Karl V.|https://kfngoe.github.io/thun-static/karl-V.html
+https://d-nb.info/gnd/118560115|Karl VII.|https://kfngoe.github.io/thun-static/karl-VII.html
+https://d-nb.info/gnd/118560123|Karl XII.|https://kfngoe.github.io/thun-static/karl-XII-von-schweden.html
+https://d-nb.info/gnd/118818597|Karl Ferdinand|https://kfngoe.github.io/thun-static/karl-ferdinand-erzherzog.html
+https://d-nb.info/gnd/1044329998|Karl Ludwig|https://kfngoe.github.io/thun-static/karl-ludwig-erzherzog.html
+https://d-nb.info/gnd/118560565|Katharina II.|https://kfngoe.github.io/thun-static/katharina-II.html
+https://d-nb.info/gnd/116067888|Katzenberger, Martin|https://kfngoe.github.io/thun-static/katzenberger-martin.html
+https://d-nb.info/gnd/118560751|Kaulbach, Wilhelm|https://kfngoe.github.io/thun-static/kaulbach-wilhelm.html
+https://d-nb.info/gnd/116116900|Kelle, Johann|https://kfngoe.github.io/thun-static/kelle-johann.html
+https://d-nb.info/gnd/100177085|Keller, Friedrich Ludwig|https://kfngoe.github.io/thun-static/keller-friedrich-ludwig.html
+https://d-nb.info/gnd/126717397|Kempen von Fichtenstamm, Johann Franz|https://kfngoe.github.io/thun-static/kempen-johann-franz.html
+https://d-nb.info/gnd/130551929|Kerer, Johann|https://kfngoe.github.io/thun-static/kerer-johann.html
+https://d-nb.info/gnd/120647427|Kergel, Wilhelm|https://kfngoe.github.io/thun-static/kergel-wilhelm.html
+https://d-nb.info/gnd/117512273|Kessler, Josef|https://kfngoe.github.io/thun-static/kessler-josef.html
+https://d-nb.info/gnd/118561723|Ketteler, Wilhelm Emmanuel|https://kfngoe.github.io/thun-static/ketteler-wilhelm-emanuel.html
+https://d-nb.info/gnd/140126406|Kiechl, Johann|https://kfngoe.github.io/thun-static/kiechl-johann.html
+https://d-nb.info/gnd/122913051|Kindermann von Schulstein, Ferdinand|https://kfngoe.github.io/thun-static/kindermann-von-schulstein-ferdinand.html
+https://d-nb.info/gnd/124862748|Kink, Rudolf|https://kfngoe.github.io/thun-static/kink-rudolph.html
+https://d-nb.info/gnd/116187093|Kirchner, Karl|https://kfngoe.github.io/thun-static/kirchner-karl.html
+https://d-nb.info/gnd/181562235|Klauprecht, Johann Ludwig|https://kfngoe.github.io/thun-static/klauprecht-johann-ludwig.html
+https://d-nb.info/gnd/118777270|Klee, Heinrich|https://kfngoe.github.io/thun-static/klee-heinrich.html
+https://d-nb.info/gnd/136161618|Kleemann, Johann|https://kfngoe.github.io/thun-static/kleemann-johann.html
+https://d-nb.info/gnd/11896917X|Klicpera, Vaclav Kliment|https://kfngoe.github.io/thun-static/klicpera-vaclav-kliment.html
+https://d-nb.info/gnd/118930583|Klüber, Johann Ludwig|https://kfngoe.github.io/thun-static/klueber-johann-ludwig.html
+https://d-nb.info/gnd/101815166|Klun, Vinzenz Ferrer|https://kfngoe.github.io/thun-static/klun-vinzenz-ferrer.html
+https://d-nb.info/gnd/104309970|Knabl, Richard|https://kfngoe.github.io/thun-static/knabl-richard.html
+https://d-nb.info/gnd/154792098|Knar, Joseph|https://kfngoe.github.io/thun-static/knar-joseph.html
+https://d-nb.info/gnd/1013453654|Knezevic, Stefan|https://kfngoe.github.io/thun-static/knezevic-stefan.html
+https://d-nb.info/gnd/11625968X|Knoodt, Franz Peter|https://kfngoe.github.io/thun-static/knoodt-franz-peter.html
+https://d-nb.info/gnd/131740563|Kobler, Andreas SJ|https://kfngoe.github.io/thun-static/kobler-andreas.html
+https://d-nb.info/gnd/11626425X|Koch, Albert Carl|https://kfngoe.github.io/thun-static/koch-albert-carl.html
+https://d-nb.info/gnd/117527483|Koch, Karl Heinrich|https://kfngoe.github.io/thun-static/koch-karl-heinrich.html
+https://d-nb.info/gnd/130213470|Kolbenheyer, Moritz|https://kfngoe.github.io/thun-static/kolbenheyer-moritz.html
+https://d-nb.info/gnd/100798802|Köstlin, Christian Reinhold|https://kfngoe.github.io/thun-static/koestlin-christian-reinhold.html
+https://d-nb.info/gnd/116302054|Kött, Florentinus|https://kfngoe.github.io/thun-static/koett-christoph-florentinus.html
+https://d-nb.info/gnd/126505152|Kohn, Albert|https://kfngoe.github.io/thun-static/kohn-albert.html
+https://d-nb.info/gnd/116310790|Kolb, Gustav Eduard|https://kfngoe.github.io/thun-static/kolb-gustav.html
+https://d-nb.info/gnd/109916727|Kolbe, Josef|https://kfngoe.github.io/thun-static/kolbe-josef.html
+https://d-nb.info/gnd/116314273|Kolenati, Friedrich|https://kfngoe.github.io/thun-static/kolenati-friedrich.html
+https://d-nb.info/gnd/118777750|Kollár, Ján|https://kfngoe.github.io/thun-static/kollar-jan.html
+https://d-nb.info/gnd/120902370|Koller, Marian|https://kfngoe.github.io/thun-static/koller-marian.html
+https://d-nb.info/gnd/118565184|Konstantin I. der Große|https://kfngoe.github.io/thun-static/konstantin-der-grosse.html
+https://d-nb.info/gnd/181786737|Kopatsch, Johann|https://kfngoe.github.io/thun-static/kopatsch-johann.html
+https://d-nb.info/gnd/11871404X|Kopp, Josef Eutych|https://kfngoe.github.io/thun-static/kopp-josef.html
+https://d-nb.info/gnd/101732011X|Kořinek, Frantisek|https://kfngoe.github.io/thun-static/korinek-frantisek.html
+https://d-nb.info/gnd/118565702|Kossuth, Lajos|https://kfngoe.github.io/thun-static/kossuth-lajos.html
+https://d-nb.info/gnd/104330643|Kostelecky, Vinzenz Franz|https://kfngoe.github.io/thun-static/kosteletzky-vinzenz.html
+https://d-nb.info/gnd/1018217975|Kozáček, Josef|https://kfngoe.github.io/thun-static/kozacek-josef.html
+https://d-nb.info/gnd/1017305595|Krajcik, Johann|https://kfngoe.github.io/thun-static/krajcik-johann.html
+https://d-nb.info/gnd/118777955|Kraszewski, Józef Ignacy|https://kfngoe.github.io/thun-static/kraszewski-jozef-ignacy.html
+https://d-nb.info/gnd/118566342|Krause, Karl Christian Friedrich|https://kfngoe.github.io/thun-static/krause-karl-christian-friedrich.html
+https://d-nb.info/gnd/124302009|Krauss, Josef|https://kfngoe.github.io/thun-static/krauss-josef.html
+https://d-nb.info/gnd/106747851|Krauß, Karl|https://kfngoe.github.io/thun-static/krauss-karl.html
+https://d-nb.info/gnd/100614426|Kreuser, Johann Peter|https://kfngoe.github.io/thun-static/kreuser-johann-peter.html
+https://d-nb.info/gnd/119123304|Kreutz, Johann|https://kfngoe.github.io/thun-static/kreutz-johann.html
+https://d-nb.info/gnd/116536462|Krieg von Hochfelden, Georg Heinrich|https://kfngoe.github.io/thun-static/krieg-von-hochfelden-georg-heinrich.html
+https://d-nb.info/gnd/129531200|Krombholz, Anton|https://kfngoe.github.io/thun-static/krombholz-anton.html
+https://d-nb.info/gnd/119160145|Krüdener, Juliane|https://kfngoe.github.io/thun-static/kruedener-barbara.html
+https://d-nb.info/gnd/136565484|Kübeck von Kübau, Alois|https://kfngoe.github.io/thun-static/kuebeck-von-kuebau-alois.html
+https://d-nb.info/gnd/116577355|Kübeck von Kübau, Karl Friedrich|https://kfngoe.github.io/thun-static/kuebeck-karl-friedrich.html
+https://d-nb.info/gnd/102549249|Künzer, Franz|https://kfngoe.github.io/thun-static/kuenzer-franz.html
+https://d-nb.info/gnd/11872553X|Kupelwieser, Leopold|https://kfngoe.github.io/thun-static/kupelwieser-leopold.html
+https://d-nb.info/gnd/116628723|Kutzen, Joseph|https://kfngoe.github.io/thun-static/kutzen-joseph.html
+https://d-nb.info/gnd/121675211|Kuzmány, Karl|https://kfngoe.github.io/thun-static/kuzmany-karl.html
+https://d-nb.info/gnd/116632461|Kvíčala, Jan|https://kfngoe.github.io/thun-static/kvicala-jan.html
+https://d-nb.info/gnd/1042355037|Kynský, Dominik František|https://kfngoe.github.io/thun-static/kynsky-dominik.html
+https://d-nb.info/gnd/116638044|Laborde, Léon|https://kfngoe.github.io/thun-static/laborde-leon.html
+https://d-nb.info/gnd/118942735|La Farina, Giuseppe|https://kfngoe.github.io/thun-static/la-farina-giuseppe.html
+https://d-nb.info/gnd/118568558|Lachmann, Karl|https://kfngoe.github.io/thun-static/lachmann-karl.html
+https://d-nb.info/gnd/118974742|Lacordaire, Jean Baptiste Henri OP|https://kfngoe.github.io/thun-static/lacordaire-jean-baptiste.html
+https://d-nb.info/gnd/116643765|Ladenberg, Adalbert|https://kfngoe.github.io/thun-static/ladenberg-adalbert.html
+https://d-nb.info/gnd/122110439|Lamberg, Franz Philipp|https://kfngoe.github.io/thun-static/lamberg-franz-phillip.html
+https://d-nb.info/gnd/104123184|Lange, Ludwig|https://kfngoe.github.io/thun-static/lange-ludwig.html
+https://d-nb.info/gnd/136285953|Langenau, Ferdinand|https://kfngoe.github.io/thun-static/langenau-ferdinand.html
+https://d-nb.info/gnd/118726617|Lasaulx, Ernst|https://kfngoe.github.io/thun-static/lasaulx-ernst.html
+https://d-nb.info/gnd/116752769|Latour, Theodor Baillet|https://kfngoe.github.io/thun-static/latour-theodor.html
+https://d-nb.info/gnd/118570080|Laube, Heinrich|https://kfngoe.github.io/thun-static/laube-heinrich.html
+https://d-nb.info/gnd/137313284|Lažanský, Leopold|https://kfngoe.github.io/thun-static/lazansky-leopold.html
+https://d-nb.info/gnd/116850566|Lechler, Gotthard Viktor|https://kfngoe.github.io/thun-static/lechler-gotthard.html
+https://d-nb.info/gnd/101314612|Lechner, Rudolf|https://kfngoe.github.io/thun-static/lechner-rudolf.html
+https://d-nb.info/gnd/118571249|Leibniz, Gottfried Wilhelm|https://kfngoe.github.io/thun-static/leibniz-gottfried-wilhelm.html
+https://d-nb.info/gnd/117634816|Leitgeb, Hubert|https://kfngoe.github.io/thun-static/leitgeb-hubert.html
+https://d-nb.info/gnd/11852593X|Lejeune-Dirichlet, Peter Gustav|https://kfngoe.github.io/thun-static/lejeune-dirichlet-peter-gustav.html
+https://d-nb.info/gnd/104134976|Lemoch, Ignaz|https://kfngoe.github.io/thun-static/lemoch-ignaz.html
+https://d-nb.info/gnd/116919612|Leonhardi, Hermann Karl|https://kfngoe.github.io/thun-static/leonhardi-hermann.html
+https://d-nb.info/gnd/11588078X|Leonidas|https://kfngoe.github.io/thun-static/leonidas.html
+https://d-nb.info/gnd/118640437|Leo X.|https://kfngoe.github.io/thun-static/leo-X.html
+https://d-nb.info/gnd/118965123|Leopold von Baden|https://kfngoe.github.io/thun-static/leopold-baden.html
+https://d-nb.info/gnd/118571869|Leopold I.|https://kfngoe.github.io/thun-static/leopold-I.html
+https://d-nb.info/gnd/118571877|Leopold II.|https://kfngoe.github.io/thun-static/leopold-II.html
+https://d-nb.info/gnd/104089512|Leopold III.|https://kfngoe.github.io/thun-static/leopold-III.html
+https://d-nb.info/gnd/136724485|Leopold III.|https://kfngoe.github.io/thun-static/leopold-III-lippe.html
+https://d-nb.info/gnd/118572121|Lessing, Gotthold Ephraim|https://kfngoe.github.io/thun-static/lessing-gotthold-ephraim.html
+https://d-nb.info/gnd/117670634|Lewicki, Michael|https://kfngoe.github.io/thun-static/lewicki-michael.html
+https://d-nb.info/gnd/119057328|Lexer, Matthias|https://kfngoe.github.io/thun-static/lexer-matthias.html
+https://d-nb.info/gnd/118572741|Liebig, Justus|https://kfngoe.github.io/thun-static/liebig-justus.html
+https://d-nb.info/gnd/119056496|Liechtenstein, Alois II.|https://kfngoe.github.io/thun-static/liechtenstein-alois.html
+https://d-nb.info/gnd/123614686|Liechtenstein, Friedrich|https://kfngoe.github.io/thun-static/liechtenstein-friedrich.html
+https://d-nb.info/gnd/118720899|Liechtenstein, Karl I.|https://kfngoe.github.io/thun-static/liechtenstein-karl-I.html
+https://d-nb.info/gnd/11708803X|Lichtenfels, Johann|https://kfngoe.github.io/thun-static/lichtenfels-johann.html
+https://d-nb.info/gnd/100190014|Lichtenstein, Karl|https://kfngoe.github.io/thun-static/lichtenstein-karl.html
+https://d-nb.info/gnd/119002043|Lichnovsky, k_A|https://kfngoe.github.io/thun-static/lichnowsky-robert.html
+https://d-nb.info/gnd/1019360208|Lidmansky, Adalbert|https://kfngoe.github.io/thun-static/lidmansky-adalbert.html
+https://d-nb.info/gnd/136320945|Likawetz, Joseph Calasanz SJ|https://kfngoe.github.io/thun-static/likawetz-joseph-calasanz.html
+https://d-nb.info/gnd/119095645|Linde, Justin Timotheus Balthasar|https://kfngoe.github.io/thun-static/linde-justin.html
+https://d-nb.info/gnd/117015997|Lindemann, Heinrich Simon|https://kfngoe.github.io/thun-static/lindemann-heinrich-simon.html
+https://d-nb.info/gnd/118573349|Linné, Carl|https://kfngoe.github.io/thun-static/linne-carl.html
+https://d-nb.info/gnd/117065897|Littrow, Heinrich|https://kfngoe.github.io/thun-static/littrow-heinrich.html
+https://d-nb.info/gnd/117065986|Littrow, Karl|https://kfngoe.github.io/thun-static/littrow-karl.html
+https://d-nb.info/gnd/174044089|Titus Livius|https://kfngoe.github.io/thun-static/livius.html
+https://d-nb.info/gnd/100369790|Łobarzewski, Jan Kanty|https://kfngoe.github.io/thun-static/lobarzewski-hyacint.html
+https://d-nb.info/gnd/118780212|Lobeck, Christian August|https://kfngoe.github.io/thun-static/lobeck-christian.html
+https://d-nb.info/gnd/118573748|Locke, John|https://kfngoe.github.io/thun-static/locke-john.html
+https://d-nb.info/gnd/120685450|Lohmar, Wilhelm|https://kfngoe.github.io/thun-static/lohmar-wilhelm.html
+https://d-nb.info/gnd/159584345|Loewe, Johann Heinrich|https://kfngoe.github.io/thun-static/loewe-johann-heinrich.html
+https://d-nb.info/gnd/126556717|Löschner, Josef Wilhelm|https://kfngoe.github.io/thun-static/loeschner-josef.html
+https://d-nb.info/gnd/101381360|Lorenz, Ottokar|https://kfngoe.github.io/thun-static/lorenz-ottokar.html
+https://d-nb.info/gnd/117683000|Lorinser, Gustav|https://kfngoe.github.io/thun-static/lorinser-gustav.html
+https://d-nb.info/gnd/104268298|Lott, Franz Carl|https://kfngoe.github.io/thun-static/lott-franz.html
+https://d-nb.info/gnd/118574574|Lotze, Rudolf Hermann|https://kfngoe.github.io/thun-static/lotze-rudolf-hermann.html
+https://d-nb.info/gnd/130405337|Luca, Antonino de|https://kfngoe.github.io/thun-static/luca-antonio-de.html
+https://d-nb.info/gnd/118973061|Ludwig, Alfred|https://kfngoe.github.io/thun-static/ludwig-alfred.html
+https://d-nb.info/gnd/1031959491|Ludwig, Carl|https://kfngoe.github.io/thun-static/ludwig-carl.html
+https://d-nb.info/gnd/105425524|Ludwig Viktor|https://kfngoe.github.io/thun-static/ludwig-viktor-erzherzog.html
+https://d-nb.info/gnd/118574884|Ludwig I. von Bayern|https://kfngoe.github.io/thun-static/ludwig-I-von-bayern.html
+https://d-nb.info/gnd/119392895|Ludwig II.|https://kfngoe.github.io/thun-static/ludwig-II.html
+https://d-nb.info/gnd/113795297|Ludwig III.|https://kfngoe.github.io/thun-static/ludwig-III.html
+https://d-nb.info/gnd/11872942X|Ludwig XIII.|https://kfngoe.github.io/thun-static/ludwig-XIII.html
+https://d-nb.info/gnd/118816829|Ludwig XIV.|https://kfngoe.github.io/thun-static/ludwig-XIV.html
+https://d-nb.info/gnd/118574949|Ludwig XVI.|https://kfngoe.github.io/thun-static/ludwig-XVI.html
+https://d-nb.info/gnd/118780743|Ludwig XVIII.|https://kfngoe.github.io/thun-static/ludwig-XVIII.html
+https://d-nb.info/gnd/15913157X|Luitpold von Bayern|https://kfngoe.github.io/thun-static/luitpold-von-bayern.html
+https://d-nb.info/gnd/1020033223|Lumbe, Josef|https://kfngoe.github.io/thun-static/lumbe-josef.html
+https://d-nb.info/gnd/141627689|Luschin, Franz Xaver|https://kfngoe.github.io/thun-static/luschin-franz-xaver.html
+https://d-nb.info/gnd/116620056|Maassen, Friedrich|https://kfngoe.github.io/thun-static/maassen-friedrich.html
+https://d-nb.info/gnd/116659807|Maercker, Friedrich Adolph|https://kfngoe.github.io/thun-static/maercker-friedrich-adolph.html
+https://d-nb.info/gnd/118576127|Mager, Karl Wilhelm Eduard|https://kfngoe.github.io/thun-static/mager-karl.html
+https://d-nb.info/gnd/124530877|Mahmud II.|https://kfngoe.github.io/thun-static/mahmud-II.html
+https://d-nb.info/gnd/119443759|Maison, Nicolas Joseph|https://kfngoe.github.io/thun-static/maison-nicolas.html
+https://d-nb.info/gnd/131478567|Majer, Józef|https://kfngoe.github.io/thun-static/majer-jozef.html
+https://d-nb.info/gnd/120536048|Małecki, Antoni|https://kfngoe.github.io/thun-static/malecki-antoni.html
+https://d-nb.info/gnd/128919981|Maly, Josef Karl|https://kfngoe.github.io/thun-static/maly-josef-karl.html
+https://d-nb.info/gnd/119520303|Mamiani della Rovere, Terenzio|https://kfngoe.github.io/thun-static/mamiani-della-rovere-terenzio.html
+https://d-nb.info/gnd/137099932|Mamula, Lazarus|https://kfngoe.github.io/thun-static/mamula-lazarus.html
+https://d-nb.info/gnd/101916728|Manassès de Pas, Marquis de Feuquiéres|https://kfngoe.github.io/thun-static/manasses-de-pas.html
+https://d-nb.info/gnd/118576933|Mancini, Pasquale Stanislao|https://kfngoe.github.io/thun-static/mancini-pasquale-stanislao.html
+https://d-nb.info/gnd/1019375159|Manussi, Ferdinand Karl|https://kfngoe.github.io/thun-static/manussi-ferdinand.html
+https://d-nb.info/gnd/118577468|Mark Aurel|https://kfngoe.github.io/thun-static/mark-aurel.html
+https://d-nb.info/gnd/119446707|Maria Anna von Savoyen|https://kfngoe.github.io/thun-static/maria-anna.html
+https://d-nb.info/gnd/115595643|Maria Theresia|https://kfngoe.github.io/thun-static/maria-theresia.html
+https://d-nb.info/gnd/1037903005|Marothy, Daniel|https://kfngoe.github.io/thun-static/marothy-daniel.html
+https://d-nb.info/gnd/129249505|Martinovics, Ignaz Joseph OFM|https://kfngoe.github.io/thun-static/martinovic-ignaz-joseph.html
+https://d-nb.info/gnd/118993895|Marheineke, Philipp Konrad|https://kfngoe.github.io/thun-static/marheineke-philipp-konrad.html
+https://d-nb.info/gnd/116769041|Maresch, Johann|https://kfngoe.github.io/thun-static/maresch-johann.html
+https://d-nb.info/gnd/124528554|Margarita, Solaro|https://kfngoe.github.io/thun-static/margarita-solaro-della.html
+https://d-nb.info/gnd/118782096|Marschall von Bieberstein, Adolf|https://kfngoe.github.io/thun-static/marschall-von-bieberstein-adolf.html
+https://d-nb.info/gnd/101767846|Martin, Konrad|https://kfngoe.github.io/thun-static/martin-konrad.html
+https://d-nb.info/gnd/118578286|Martin V.|https://kfngoe.github.io/thun-static/martin-V.html
+https://d-nb.info/gnd/172515939|Martini, Francesco di Giorgio|https://kfngoe.github.io/thun-static/martini-francesco.html
+https://d-nb.info/gnd/116810998|Martinic, Jaroslav|https://kfngoe.github.io/thun-static/martinic-jaroslav-borsita.html
+https://d-nb.info/gnd/118731416|Martius, Carl Friedrich Philipp|https://kfngoe.github.io/thun-static/martius-carl.html
+https://d-nb.info/gnd/119059193|Maßmann, Hans Ferdinand|https://kfngoe.github.io/thun-static/massmann-hans-ferdinand.html
+https://d-nb.info/gnd/119400839|Mathias I.|https://kfngoe.github.io/thun-static/mathias-I.html
+https://d-nb.info/gnd/174060947|Matthias Corvinus|https://kfngoe.github.io/thun-static/matthias-corvinus.html
+https://d-nb.info/gnd/102614237|Matzka, Wilhelm|https://kfngoe.github.io/thun-static/matzka-wilhelm.html
+https://d-nb.info/gnd/118732021|Maurenbrecher, Romeo|https://kfngoe.github.io/thun-static/maurenbrecher-romeo.html
+https://d-nb.info/gnd/116858281|Mauthner von Mauthstein, Ludwig Wilhelm|https://kfngoe.github.io/thun-static/mauthner-ludwig-wilhelm.html
+https://d-nb.info/gnd/118579371|Maximilian I.|https://kfngoe.github.io/thun-static/maximilian-I.html
+https://d-nb.info/gnd/11857938X|Maximilian II.|https://kfngoe.github.io/thun-static/maximilian-II.html
+https://d-nb.info/gnd/118579347|Maximilian II. Joseph|https://kfngoe.github.io/thun-static/maximilian-II-von-bayern.html
+https://d-nb.info/gnd/1020257628|Mayr, Karl OSB|https://kfngoe.github.io/thun-static/mayr-karl.html
+https://d-nb.info/gnd/137125526|Mayr von Melnhof, Franz|https://kfngoe.github.io/thun-static/mayr-von-melnhof-franz.html
+https://d-nb.info/gnd/117542393|Mayer, Georg|https://kfngoe.github.io/thun-static/mayer-georg.html
+https://d-nb.info/gnd/116964146|Mayerhofer von Grünbühl, Ferdinand|https://kfngoe.github.io/thun-static/mayerhofer-von-gruenbuehl-ferdinand.html
+https://d-nb.info/gnd/118852655|Mayer, Karl|https://kfngoe.github.io/thun-static/mayer-karl.html
+https://d-nb.info/gnd/118579754|Mazzini, Giuseppe|https://kfngoe.github.io/thun-static/mazzini-giuseppe.html
+https://d-nb.info/gnd/116989033|Mecsery von Tsoor, Karl|https://kfngoe.github.io/thun-static/mecsery-von-tsoor-karl.html
+https://d-nb.info/gnd/118560557|Medici, Katharina|https://kfngoe.github.io/thun-static/medici-katharina.html
+https://d-nb.info/gnd/116875526|Melly, Eduard|https://kfngoe.github.io/thun-static/melly-eduard.html
+https://d-nb.info/gnd/116885556|Mensdorff-Pouilly, Emmanuel|https://kfngoe.github.io/thun-static/mensdorff-pouilly-emmanuel.html
+https://d-nb.info/gnd/119268884|Melloni, Macedonio|https://kfngoe.github.io/thun-static/melloni-macedoine.html
+https://d-nb.info/gnd/117567493|Mérode, Félix|https://kfngoe.github.io/thun-static/merode-felix.html
+https://d-nb.info/gnd/116905611|Mertens, Karl|https://kfngoe.github.io/thun-static/mertens-karl.html
+https://d-nb.info/gnd/116905611|Mertens, Karl|https://kfngoe.github.io/thun-static/mertens-karl-sohn.html
+https://d-nb.info/gnd/117480525|Merz, Ludwig|https://kfngoe.github.io/thun-static/merz-ludwig.html
+https://d-nb.info/gnd/116921390|Meßmer, Alois|https://kfngoe.github.io/thun-static/messmer-alois.html
+https://d-nb.info/gnd/118581465|Metternich, Clemens Wenzel|https://kfngoe.github.io/thun-static/metternich-klemens-wenzel-lothar.html
+https://d-nb.info/gnd/103948430|Meyer, Bernhard|https://kfngoe.github.io/thun-static/meyer-bernhard.html
+https://d-nb.info/gnd/100645682|Michael I. Apafi|https://kfngoe.github.io/thun-static/michael-I-apafi.html
+https://d-nb.info/gnd/119098229|Michael I.|https://kfngoe.github.io/thun-static/michael-I.html
+https://d-nb.info/gnd/133109321|Michel, Adalbert Theodor|https://kfngoe.github.io/thun-static/michel-adalbert-theodor.html
+https://d-nb.info/gnd/118582143|Michelangelo Buanorotti|https://kfngoe.github.io/thun-static/michelangelo.html
+https://d-nb.info/gnd/11858216X|Michelet, Karl Ludwig|https://kfngoe.github.io/thun-static/michelet-karl-ludwig.html
+https://d-nb.info/gnd/1023077167|Mihalović, Josip|https://kfngoe.github.io/thun-static/mihalovics-josef.html
+https://d-nb.info/gnd/119065932|Miklosich, Franz|https://kfngoe.github.io/thun-static/miklosich-franz.html
+https://d-nb.info/gnd/118733923|Milde, Vinzenz Eduard|https://kfngoe.github.io/thun-static/milde-vinzenz-eduard.html
+https://d-nb.info/gnd/121005119|Milewski, Witold|https://kfngoe.github.io/thun-static/milewski-witold.html
+https://d-nb.info/gnd/118582461|Mill, John Stuart|https://kfngoe.github.io/thun-static/mill-john-stuart.html
+https://d-nb.info/gnd/101607237|Mischler, Peter|https://kfngoe.github.io/thun-static/mischler-peter.html
+https://d-nb.info/gnd/118784358|Mochnacki, Maurycy|https://kfngoe.github.io/thun-static/mochnacki-maurycy.html
+https://d-nb.info/gnd/118582992|Möhler, Johann Adam|https://kfngoe.github.io/thun-static/moehler-johann-adam.html
+https://d-nb.info/gnd/100824544|Mohl, Hugo|https://kfngoe.github.io/thun-static/mohl-hugo.html
+https://d-nb.info/gnd/11854893X|Mohl, Robert|https://kfngoe.github.io/thun-static/mohl-robert.html
+https://d-nb.info/gnd/117119148|Molart, Hanns|https://kfngoe.github.io/thun-static/molart-hanns.html
+https://d-nb.info/gnd/1023341581|Moll, Johann Karl|https://kfngoe.github.io/thun-static/moll-johann.html
+https://d-nb.info/gnd/118861476|Mone, Franz Joseph|https://kfngoe.github.io/thun-static/mone-franz-joseph.html
+https://d-nb.info/gnd/102382423X|Monico, Giacomo|https://kfngoe.github.io/thun-static/monico-giacomo.html
+https://d-nb.info/gnd/118784617|Montalembert, Charles de|https://kfngoe.github.io/thun-static/montalembert-charles.html
+https://d-nb.info/gnd/137430337|Montecuccoli-Laderchi, Albert|https://kfngoe.github.io/thun-static/montecuccoli-laderchi-albert.html
+https://d-nb.info/gnd/119064324|Montecuccoli, Raimondo|https://kfngoe.github.io/thun-static/montecuccoli-raimondo.html
+https://d-nb.info/gnd/119177617|Montefiore, Moses|https://kfngoe.github.io/thun-static/montefiore-moses.html
+https://d-nb.info/gnd/170672336|Morny, Charles|https://kfngoe.github.io/thun-static/morny-charles.html
+https://d-nb.info/gnd/119556642|Mortara, Edgar OESA|https://kfngoe.github.io/thun-static/mortara-edgar.html
+https://d-nb.info/gnd/131771329|Mosch, Carl|https://kfngoe.github.io/thun-static/mosch-carl.html
+https://d-nb.info/gnd/118737104|Moser, Johann Jacob|https://kfngoe.github.io/thun-static/moser-johann-jacob.html
+https://d-nb.info/gnd/137613830|Moy de Sons, Charles Antoine|https://kfngoe.github.io/thun-static/moy-de-sons-charles-antoine.html
+https://d-nb.info/gnd/174390033|Moy de Sons, Kraft Karl Ernst|https://kfngoe.github.io/thun-static/moy-de-sons-ernst.html
+https://d-nb.info/gnd/1023724472|Mozart, Joseph|https://kfngoe.github.io/thun-static/mozart-joseph.html
+https://d-nb.info/gnd/115864466|Müller, Georg Friedrich Hermann|https://kfngoe.github.io/thun-static/mueller-georg-friedrich.html
+https://d-nb.info/gnd/118584790|Müller, Adam von Nittdorf|https://kfngoe.github.io/thun-static/mueller-adam.html
+https://d-nb.info/gnd/134058046|Müller, Emilie|https://kfngoe.github.io/thun-static/mueller-emilie.html
+https://d-nb.info/gnd/118585045|Müller, Johann Georg|https://kfngoe.github.io/thun-static/mueller-johann-georg.html
+https://d-nb.info/gnd/118737643|Müller, Joseph|https://kfngoe.github.io/thun-static/mueller-joseph.html
+https://d-nb.info/gnd/130011479|Müller, Johann Gottfried|https://kfngoe.github.io/thun-static/mueller-gottfried.html
+https://d-nb.info/gnd/100810004|Müller, Otto|https://kfngoe.github.io/thun-static/mueller-otto.html
+https://d-nb.info/gnd/118585509|Münster, Ernst Friedrich Herbert|https://kfngoe.github.io/thun-static/muenster-ernst-friedrich.html
+https://d-nb.info/gnd/118585533|Müntzer, Thomas|https://kfngoe.github.io/thun-static/muentzer-thomas.html
+https://d-nb.info/gnd/117179655|Mützel, Wilhelm Julius|https://kfngoe.github.io/thun-static/muetzel-wilhelm-julius.html
+https://d-nb.info/gnd/142234443|Mülinen, Rudolf|https://kfngoe.github.io/thun-static/mulinen-rudolf.html
+https://d-nb.info/gnd/118844520|Muratori, Lodovico Antonio|https://kfngoe.github.io/thun-static/muratori-ludovico-antonio.html
+https://d-nb.info/gnd/154928062|Mutzl, Eduard|https://kfngoe.github.io/thun-static/mutzl-eduard.html
+https://d-nb.info/gnd/10022508X|Mutzl, Sebastian|https://kfngoe.github.io/thun-static/mutzl-sebastian.html
+https://d-nb.info/gnd/123913977|Mutzl, Sebastian jun.|https://kfngoe.github.io/thun-static/mutzl-sebastian-jun.html
+https://d-nb.info/gnd/102072353|Muys, Gottfried|https://kfngoe.github.io/thun-static/muys-gottfried.html
+https://d-nb.info/gnd/121990745|Nadherny, Ignaz|https://kfngoe.github.io/thun-static/nadherny-ignaz.html
+https://d-nb.info/gnd/115774874|Nägeli, Carl Wilhelm|https://kfngoe.github.io/thun-static/naegeli-carl-wilhelm.html
+https://d-nb.info/gnd/1024112063|Nagy, Samuel|https://kfngoe.github.io/thun-static/nagy-samuel.html
+https://d-nb.info/gnd/118586408|Napoleon Bonaparte|https://kfngoe.github.io/thun-static/napoleon-bonaparte.html
+https://d-nb.info/gnd/118586416|Napoleon III.|https://kfngoe.github.io/thun-static/napoleon-III.html
+https://d-nb.info/gnd/1024219232|Nava, Gabrio Maria|https://kfngoe.github.io/thun-static/nava-gabrio-maria.html
+https://d-nb.info/gnd/101919867|Nava, Ambrogio|https://kfngoe.github.io/thun-static/nava-ambrogio.html
+https://d-nb.info/gnd/118738240|Neander, August|https://kfngoe.github.io/thun-static/neander-august.html
+https://d-nb.info/gnd/124829511|Negedly, Joseph Johann|https://kfngoe.github.io/thun-static/negedly.html
+https://d-nb.info/gnd/116945591|Neubauer, Ernst Rudolf|https://kfngoe.github.io/thun-static/neubauer-ernst-rudolf.html
+https://d-nb.info/gnd/119044706|Neuffer, Christian Ludwig|https://kfngoe.github.io/thun-static/neuffer-christian.html
+https://d-nb.info/gnd/118587293|Neumann, Leopold|https://kfngoe.github.io/thun-static/neumann-leopold.html
+https://d-nb.info/gnd/116995629|Nicolai, Friedrich Bernhard|https://kfngoe.github.io/thun-static/nicolai-bernhard.html
+https://d-nb.info/gnd/118587773|Niebuhr, Barthold Georg|https://kfngoe.github.io/thun-static/niebuhr-barthold-georg.html
+https://d-nb.info/gnd/117018406|Nieuwerkerke, Aflred Èmilien|https://kfngoe.github.io/thun-static/nieuwerkerke-alfred-emilien.html
+https://d-nb.info/gnd/118588079|Nikolaus I.|https://kfngoe.github.io/thun-static/nikolaus-I.html
+https://d-nb.info/gnd/138667535|Nikolaus I. von Troppau|https://kfngoe.github.io/thun-static/nikolaus-I-troppau.html
+https://d-nb.info/gnd/118734911|Nikolaus V.|https://kfngoe.github.io/thun-static/nikolaus-V.html
+https://d-nb.info/gnd/118910574|Nikon|https://kfngoe.github.io/thun-static/nikon.html
+https://d-nb.info/gnd/130125873|Nostitz-Rieneck, Albert|https://kfngoe.github.io/thun-static/nostitz-rieneck-albert.html
+https://d-nb.info/gnd/13012589X|Nostitz-Rieneck, Erwein|https://kfngoe.github.io/thun-static/nostitz-rieneck-erwein.html
+https://d-nb.info/gnd/118735691|Nüll, Eduard van der|https://kfngoe.github.io/thun-static/nuell-van-der-eduard.html
+https://d-nb.info/gnd/117078220|Oberweis, Josef|https://kfngoe.github.io/thun-static/oberweis-josef.html
+https://d-nb.info/gnd/119060744|Obrenović, Miloš|https://kfngoe.github.io/thun-static/obrenovic-milosch.html
+https://d-nb.info/gnd/119385236|Obrenović, Mihailo|https://kfngoe.github.io/thun-static/obrenovic-mihailo.html
+https://d-nb.info/gnd/117107263|Oesterley, Carl|https://kfngoe.github.io/thun-static/oesterley-carl.html
+https://d-nb.info/gnd/100315399|Oettl, Georg|https://kfngoe.github.io/thun-static/oettl-georg.html
+https://d-nb.info/gnd/118589717|Oken, Lorenz|https://kfngoe.github.io/thun-static/oken-lorenz.html
+https://d-nb.info/gnd/119003546|Olahus, Nicolaus|https://kfngoe.github.io/thun-static/olahus-nicolaus.html
+https://d-nb.info/gnd/117135828|Oppel, Nikolaus Michael|https://kfngoe.github.io/thun-static/oppel-nikolaus-michael.html
+https://d-nb.info/gnd/117139270|Oppolzer, Johann|https://kfngoe.github.io/thun-static/oppolzer-johann.html
+https://d-nb.info/gnd/1024826031|Ormis, Samuel|https://kfngoe.github.io/thun-static/ormis-samuel.html
+https://d-nb.info/gnd/118590758|Otto I.|https://kfngoe.github.io/thun-static/otto-I.html
+https://d-nb.info/gnd/11949129X|Ottokar I. Přemysl|https://kfngoe.github.io/thun-static/ottokar-I-premysl.html
+https://d-nb.info/gnd/118590898|Ottokar II. Přemysl|https://kfngoe.github.io/thun-static/ottokar-II.html
+https://d-nb.info/gnd/102483753X|Ožegović von Barlabaševec und Bela, Metel|https://kfngoe.github.io/thun-static/ozegovic-metel.html
+https://d-nb.info/gnd/104286717|Pabst, Johann Heinrich|https://kfngoe.github.io/thun-static/pabst-johann-heinrich.html
+https://d-nb.info/gnd/116014482|Pachmann, Theodor|https://kfngoe.github.io/thun-static/pachmann-theodor.html
+https://d-nb.info/gnd/116015586|Pagenstecher, Ernst Adolf|https://kfngoe.github.io/thun-static/pagenstecher-ernst-adolf.html
+https://d-nb.info/gnd/118789260|Palacký, František|https://kfngoe.github.io/thun-static/palacky-frantisek.html
+https://d-nb.info/gnd/1025028732|Papiu-Ilarian, Alexandru|https://kfngoe.github.io/thun-static/papiu-ilarian-alexandru.html
+https://d-nb.info/gnd/1025484932|Pascotini von Ehrenfels, Carlo|https://kfngoe.github.io/thun-static/pascotini-von-ehrenfels-carlo.html
+https://d-nb.info/gnd/128063300|Patiß, Georg SJ|https://kfngoe.github.io/thun-static/patiss-georg.html
+https://d-nb.info/gnd/106946218|Pauli, Friedrich Wilhelm|https://kfngoe.github.io/thun-static/pauli-friedrich-wilhelm.html
+https://d-nb.info/gnd/121571289|Pauline von Württemberg|https://kfngoe.github.io/thun-static/pauline-von-wuerttemberg.html
+https://d-nb.info/gnd/116066881|Pauly, Franz|https://kfngoe.github.io/thun-static/pauly-franz.html
+https://d-nb.info/gnd/1024758842|Paumann, Anton|https://kfngoe.github.io/thun-static/paumann-anton.html
+https://d-nb.info/gnd/116069996|Pavissich, Alois Cäsar|https://kfngoe.github.io/thun-static/pavissich-alois-caesar.html
+https://d-nb.info/gnd/118790048|Pázmány, Péter|https://kfngoe.github.io/thun-static/pazmany-peter.html
+https://d-nb.info/gnd/116071184|Pebal, Leopold|https://kfngoe.github.io/thun-static/pebal-leopold.html
+https://d-nb.info/gnd/116074833|Pelldram, Leopold|https://kfngoe.github.io/thun-static/pelldram-leopold.html
+https://d-nb.info/gnd/103170510|Perikles|https://kfngoe.github.io/thun-static/perikles.html
+https://d-nb.info/gnd/116079150|Perger, Anton|https://kfngoe.github.io/thun-static/perger-anton.html
+https://d-nb.info/gnd/102135649|Pertile, Antonio|https://kfngoe.github.io/thun-static/pertile-antonio.html
+https://d-nb.info/gnd/1025803965|Pertile, Giambattista|https://kfngoe.github.io/thun-static/pertile-giambattista.html
+https://d-nb.info/gnd/118592858|Pertz, Georg Heinrich|https://kfngoe.github.io/thun-static/pertz-georg-heinrich.html
+https://d-nb.info/gnd/118592955|Peter I., der Große|https://kfngoe.github.io/thun-static/peter-der-grosse.html
+https://d-nb.info/gnd/119331675|Peter von Alcantara OFM|https://kfngoe.github.io/thun-static/peter-von-alcantara.html
+https://d-nb.info/gnd/118962647|Petrović-Njegoš, Danilo|https://kfngoe.github.io/thun-static/petrovic-njegos-danilo.html
+https://d-nb.info/gnd/136215718|Petter, Franz|https://kfngoe.github.io/thun-static/petter-franz.html
+https://d-nb.info/gnd/139168443|Pfaundler, Ignaz Johann|https://kfngoe.github.io/thun-static/pfaundler-ignaz.html
+https://d-nb.info/gnd/118740776|Pfeiffer, Franz|https://kfngoe.github.io/thun-static/pfeiffer-franz.html
+https://d-nb.info/gnd/118791737|Pfordten, Ludwig Karl|https://kfngoe.github.io/thun-static/pfordten-ludwig-von-der.html
+https://d-nb.info/gnd/100233791|Phillips, George|https://kfngoe.github.io/thun-static/phillips-george.html
+https://d-nb.info/gnd/118687158|Romanow, Fjodor Nikititsch (auch Philaret von Moskau)|https://kfngoe.github.io/thun-static/philaret-von-moskau.html
+https://d-nb.info/gnd/172307619|Phoebus, Philipp|https://kfngoe.github.io/thun-static/phoebus-philipp.html
+https://d-nb.info/gnd/118594095|Photios I.|https://kfngoe.github.io/thun-static/photios-I.html
+https://d-nb.info/gnd/118594214|Piccolomini, Octavio|https://kfngoe.github.io/thun-static/piccolomini-octavio.html
+https://d-nb.info/gnd/118742353|Pichler, Adolf|https://kfngoe.github.io/thun-static/pichler-adolf.html
+https://d-nb.info/gnd/118897578|Pierre, Victor|https://kfngoe.github.io/thun-static/pierre-viktor.html
+https://d-nb.info/gnd/128823666|Pillersdorf, Franz|https://kfngoe.github.io/thun-static/pillersdorf-franz.html
+https://d-nb.info/gnd/1016936664|Pinkas, Adolf Maria|https://kfngoe.github.io/thun-static/pinkas-adolf-maria.html
+https://d-nb.info/gnd/118742736|Pisano, Andrea|https://kfngoe.github.io/thun-static/pisano-andrea.html
+https://d-nb.info/gnd/117689580|Pitha, Franz|https://kfngoe.github.io/thun-static/pitha-franz.html
+https://d-nb.info/gnd/118964577|Pitra, Jean-Baptiste-Francois OSB|https://kfngoe.github.io/thun-static/pitra-jean-baptiste.html
+https://d-nb.info/gnd/118594702|Piccolomini, Aeneas Sylvius|https://kfngoe.github.io/thun-static/pius-II.html
+https://d-nb.info/gnd/118792415|Pius IV.|https://kfngoe.github.io/thun-static/pius-IV.html
+https://d-nb.info/gnd/118594710|Pius VI.|https://kfngoe.github.io/thun-static/pius-VI.html
+https://d-nb.info/gnd/118792431|Pius VII.|https://kfngoe.github.io/thun-static/pius-VII.html
+https://d-nb.info/gnd/11879244X|Pius VIII.|https://kfngoe.github.io/thun-static/pius-VIII.html
+https://d-nb.info/gnd/118594729|Pius IX.|https://kfngoe.github.io/thun-static/pius-IX.html
+https://d-nb.info/gnd/1026197392|Plaček, František|https://kfngoe.github.io/thun-static/placek-franz.html
+https://d-nb.info/gnd/118641972|Plantagenet, Richard|https://kfngoe.github.io/thun-static/plantagenet-richard.html
+https://d-nb.info/gnd/103086609|Platner, Ernst Zacharias|https://kfngoe.github.io/thun-static/platner-ernst-zacharias.html
+https://d-nb.info/gnd/1024934322|Plattner, Franz|https://kfngoe.github.io/thun-static/plattner-franz.html
+https://d-nb.info/gnd/116209550|Plener, Ernst|https://kfngoe.github.io/thun-static/plener-ernst.html
+https://d-nb.info/gnd/118690442|Podĕbrad, Georg|https://kfngoe.github.io/thun-static/podebrad-georg-von.html
+https://d-nb.info/gnd/140446389|Podhradsky, Josef|https://kfngoe.github.io/thun-static/podhradsky-josef.html
+https://d-nb.info/gnd/116260297|Pohl, Josef|https://kfngoe.github.io/thun-static/pohl-josef.html
+https://d-nb.info/gnd/116250836|Poggendorff, Johann Christian|https://kfngoe.github.io/thun-static/poggendorff-johann-christian.html
+https://d-nb.info/gnd/116261781|Poland, Franz|https://kfngoe.github.io/thun-static/poland-franz.html
+https://d-nb.info/gnd/116266198|Ponsonby, John|https://kfngoe.github.io/thun-static/ponsonby-john.html
+https://d-nb.info/gnd/1033424145|Porta, Joseph|https://kfngoe.github.io/thun-static/porta-joseph.html
+https://d-nb.info/gnd/101304153|Prantl, Karl|https://kfngoe.github.io/thun-static/prantl-karl.html
+https://d-nb.info/gnd/116280816|Prato, Giovanni a|https://kfngoe.github.io/thun-static/prato-giovanni-a.html
+https://d-nb.info/gnd/116282622|Presl, Karl Boriwog|https://kfngoe.github.io/thun-static/presl-karl-boriwog.html
+https://d-nb.info/gnd/118741896|Priessnitz, Vincenz|https://kfngoe.github.io/thun-static/priessnitz-vincenz.html
+https://d-nb.info/gnd/127442618|Přihonský, František|https://kfngoe.github.io/thun-static/prihonsky-franz.html
+https://d-nb.info/gnd/12267944X|Prockner, Franz Kajetan|https://kfngoe.github.io/thun-static/prockner-franz-kajetan.html
+https://d-nb.info/gnd/118596713|Prokesch-Osten, Anton|https://kfngoe.github.io/thun-static/prokesch-osten-anton.html
+https://d-nb.info/gnd/136351190|Prónay, Gabriel|https://kfngoe.github.io/thun-static/pronay-gabriel.html
+https://d-nb.info/gnd/124430929|Puchmajer, Antonín Jaroslav|https://kfngoe.github.io/thun-static/puchmajer-antonin-jaroslav.html
+https://d-nb.info/gnd/118596969|Puchta, Georg Friedrich|https://kfngoe.github.io/thun-static/puchta-georg-friedrich.html
+https://d-nb.info/gnd/118742906|Pütter, Johann Stephan|https://kfngoe.github.io/thun-static/puetter-johann-stephan.html
+https://d-nb.info/gnd/116308265|Pütz, Wilhelm|https://kfngoe.github.io/thun-static/puetz-wilhelm.html
+https://d-nb.info/gnd/118742922|Pugatschow, Jemeljan Iwanowitsch|https://kfngoe.github.io/thun-static/pugatschow-jemeljan.html
+https://d-nb.info/gnd/118597159|Purkinje, Johann|https://kfngoe.github.io/thun-static/purkinje-johann.html
+https://d-nb.info/gnd/119143801|Quesnel, Pasquier|https://kfngoe.github.io/thun-static/quesnel-pasquier.html
+https://d-nb.info/gnd/104232390|Raby, Richard|https://kfngoe.github.io/thun-static/raby-richard.html
+https://d-nb.info/gnd/10054357X|Raciborski, Adam|https://kfngoe.github.io/thun-static/raciborski-adam.html
+https://d-nb.info/gnd/118597647|Radetzky, Johann Joseph Wenzel|https://kfngoe.github.io/thun-static/radetzky-josef-wenzel.html
+https://d-nb.info/gnd/116323086|Radnitzky, Carl|https://kfngoe.github.io/thun-static/radnitzky-carl.html
+https://d-nb.info/gnd/118597671|Radowitz, Joseph Maria|https://kfngoe.github.io/thun-static/radowitz-joseph-maria.html
+https://d-nb.info/gnd/116323477|Radziwill, Friedrich Wilhelm|https://kfngoe.github.io/thun-static/radziwill-friedrich-wilhelm.html
+https://d-nb.info/gnd/118597787|Raffael Santi|https://kfngoe.github.io/thun-static/raffael-santi.html
+https://d-nb.info/gnd/116324554|Rahl, Karl|https://kfngoe.github.io/thun-static/rahl-carl.html
+https://d-nb.info/gnd/1027335667|Raič, Božidar (Matija)|https://kfngoe.github.io/thun-static/raic-bozidar.html
+https://d-nb.info/gnd/117700886|Rainer Ferdinand, Erzherzog|https://kfngoe.github.io/thun-static/rainer-ferdinand-erzherzog.html
+https://d-nb.info/gnd/139772545|Rajačić von Brinski, Joseph (Ilija)|https://kfngoe.github.io/thun-static/rajacic-joseph.html
+https://d-nb.info/gnd/116328185|Randa, Antonin|https://kfngoe.github.io/thun-static/randa-antonin.html
+https://d-nb.info/gnd/115643591|Ranke, Karl Ferdinand|https://kfngoe.github.io/thun-static/ranke-ferdinand.html
+https://d-nb.info/gnd/11636503X|Raumer, Karl Otto|https://kfngoe.github.io/thun-static/raumer-karl-otto.html
+https://d-nb.info/gnd/118787977|Rauscher, Josef Othmar|https://kfngoe.github.io/thun-static/rauscher-joseph.html
+https://d-nb.info/gnd/117691054|Rayneval, Alphonse|https://kfngoe.github.io/thun-static/rayneval-alphonse.html
+https://d-nb.info/gnd/116391154|Rechberg, Johann Bernhard|https://kfngoe.github.io/thun-static/rechberg-rothenloewen-bernhard.html
+https://d-nb.info/gnd/11856370X|Reden, Friedrich Wilhelm|https://kfngoe.github.io/thun-static/reden-friedrich-wilhelm.html
+https://d-nb.info/gnd/116389605|Redtenbacher, Ferdinand|https://kfngoe.github.io/thun-static/redtenbacher-ferdinand.html
+https://d-nb.info/gnd/102656118|Redtenbacher, Josef|https://kfngoe.github.io/thun-static/redtenbacher-josef.html
+https://d-nb.info/gnd/116392983|Redwitz, Oskar|https://kfngoe.github.io/thun-static/redwitz-oskar.html
+https://d-nb.info/gnd/116390247|Reeve, Henry|https://kfngoe.github.io/thun-static/reeve-henry.html
+https://d-nb.info/gnd/157803368|Reichel, Karl|https://kfngoe.github.io/thun-static/reichel-carl.html
+https://d-nb.info/gnd/118788191|Reichensperger, August|https://kfngoe.github.io/thun-static/reichensperger-august.html
+https://d-nb.info/gnd/116404310|Reifferscheid, August|https://kfngoe.github.io/thun-static/reifferscheid-august.html
+https://d-nb.info/gnd/118955403|Reisach, Karl August|https://kfngoe.github.io/thun-static/reisach-karl-august.html
+https://d-nb.info/gnd/118744461|Remak, Robert|https://kfngoe.github.io/thun-static/remak-robert.html
+https://d-nb.info/gnd/116449985|Rettig, Friedrich|https://kfngoe.github.io/thun-static/rettig.html
+https://d-nb.info/gnd/10082594X|Reuss, August Emanuel|https://kfngoe.github.io/thun-static/reuss-august.html
+https://d-nb.info/gnd/138333823|Riccabona von Reichenfels, Benedikt|https://kfngoe.github.io/thun-static/riccabona-benedikt.html
+https://d-nb.info/gnd/118600354|Richelieu de, Armand-Jean de Plessis|https://kfngoe.github.io/thun-static/richelieu-armand-jean-du-plessis.html
+https://d-nb.info/gnd/160922380|Ringseis, Johann Nepomuk|https://kfngoe.github.io/thun-static/ringseis-johann-nepomuk.html
+https://d-nb.info/gnd/115536752|Richter, Emil Ludwig|https://kfngoe.github.io/thun-static/richter-emil.html
+https://d-nb.info/gnd/17716476X|Riedel, Valentin|https://kfngoe.github.io/thun-static/riedel-valentin.html
+https://d-nb.info/gnd/116546824|Riffel, Caspar|https://kfngoe.github.io/thun-static/riffel-caspar.html
+https://d-nb.info/gnd/118600850|Riehl, Wilhelm Heinrich|https://kfngoe.github.io/thun-static/riehl-wilhelm-heinrich.html
+https://d-nb.info/gnd/118745441|Ritschl, Friedrich|https://kfngoe.github.io/thun-static/ritschl-friedrich-wilhelm.html
+https://d-nb.info/gnd/116550597|Ringelmann, Friedrich|https://kfngoe.github.io/thun-static/ringelmann-friedrich.html
+https://d-nb.info/gnd/11860130X|Ritter, Carl|https://kfngoe.github.io/thun-static/ritter-carl.html
+https://d-nb.info/gnd/100648517|Ritter, Franz|https://kfngoe.github.io/thun-static/ritter-franz.html
+https://d-nb.info/gnd/120054981|Ritter, Heinrich|https://kfngoe.github.io/thun-static/ritter-heinrich.html
+https://d-nb.info/gnd/133186962|Rixner, Anselm OSB|https://kfngoe.github.io/thun-static/rixner-anselm.html
+https://d-nb.info/gnd/118569775|Rochefoucauld, Francois de la|https://kfngoe.github.io/thun-static/rochefoucauld-francois-de-la.html
+https://d-nb.info/gnd/116580623|Röder, Karl David August|https://kfngoe.github.io/thun-static/roeder-karl-david-august.html
+https://d-nb.info/gnd/133753840|Röll, Moritz Friedrich|https://kfngoe.github.io/thun-static/roell-moritz-friedrich.html
+https://d-nb.info/gnd/114721300|Römer, Robert|https://kfngoe.github.io/thun-static/roemer-robert.html
+https://d-nb.info/gnd/127859780|Röggl, Alois OPraem|https://kfngoe.github.io/thun-static/roeggl-alois.html
+https://d-nb.info/gnd/116594314|Roesner, Carl|https://kfngoe.github.io/thun-static/roesner-carl.html
+https://d-nb.info/gnd/118790927|Rössler, Emil Franz|https://kfngoe.github.io/thun-static/roessler-emil.html
+https://d-nb.info/gnd/116595957|Röth, Eduard Maximilian|https://kfngoe.github.io/thun-static/roeth-eduard-maximilian.html
+http://viaf.org/viaf/83881321|Rojek, Johann Karl|https://kfngoe.github.io/thun-static/rojek-johann.html
+https://d-nb.info/gnd/11874951X|Rokitansky, Karl|https://kfngoe.github.io/thun-static/rokitansky-karl.html
+https://d-nb.info/gnd/115549390|Rönne, Ludwig|https://kfngoe.github.io/thun-static/roenne-ludwig.html
+https://d-nb.info/gnd/1028338430|Romilli, Bartolomeo Carlo|https://kfngoe.github.io/thun-static/romilli-bartolomeo.html
+https://d-nb.info/gnd/119106868|Ronge, Johannes|https://kfngoe.github.io/thun-static/ronge-johannes.html
+https://d-nb.info/gnd/118602721|Rosenkranz, Karl Friedrich|https://kfngoe.github.io/thun-static/rosenkranz-karl-friedrich.html
+https://d-nb.info/gnd/116630280|Roßbach, Johann Joseph|https://kfngoe.github.io/thun-static/rossbach-johann.html
+https://d-nb.info/gnd/118602888|Rosmini-Serbati, Antonio|https://kfngoe.github.io/thun-static/rosmini-serbati-antonio.html
+https://d-nb.info/gnd/10422522X|Roth, Johann Josef|https://kfngoe.github.io/thun-static/roth-johann-joseph.html
+https://d-nb.info/gnd/116641452|Rothmund, August|https://kfngoe.github.io/thun-static/rothmund-august.html
+https://d-nb.info/gnd/118603329|Rotteck, Karl|https://kfngoe.github.io/thun-static/rotteck-karl.html
+https://d-nb.info/gnd/116669071|Ruben, Christian|https://kfngoe.github.io/thun-static/ruben-christian.html
+https://d-nb.info/gnd/11860371X|Rudolph I.|https://kfngoe.github.io/thun-static/rudolph-I.html
+https://d-nb.info/gnd/118603701|Rudolph II.|https://kfngoe.github.io/thun-static/rudolf-II.html
+https://d-nb.info/gnd/11860368X|Rudolph IV.|https://kfngoe.github.io/thun-static/rudolph-IV.html
+https://d-nb.info/gnd/118604023|Ruge, Arnold|https://kfngoe.github.io/thun-static/ruge-arnold.html
+https://d-nb.info/gnd/118750135|Rudigier, Franz Joseph|https://kfngoe.github.io/thun-static/rudigier-franz-joseph.html
+https://d-nb.info/gnd/1031289569|Rymarkiewicz, Jan|https://kfngoe.github.io/thun-static/rymarkiewicz-jan.html
+https://d-nb.info/gnd/1028971346|Rzesiński, Jan|https://kfngoe.github.io/thun-static/rzesinski-jan.html
+https://d-nb.info/gnd/118604570|Sacher-Masoch, Leopold|https://kfngoe.github.io/thun-static/sacher-masoch-leopold.html
+https://d-nb.info/gnd/139581308|Sacher-Masoch, Leopold Johann|https://kfngoe.github.io/thun-static/sacher-masoch-leopold-johann.html
+https://d-nb.info/gnd/118685279|Ernst II., Sachsen-Coburg und Gotha|https://kfngoe.github.io/thun-static/ernst-II-sachen-coburg-gotha.html
+https://d-nb.info/gnd/118604872|Sailer, Johann Michael|https://kfngoe.github.io/thun-static/sailer-johann.html
+https://d-nb.info/gnd/116125349|Saint-Aulaire, Louis|https://kfngoe.github.io/thun-static/saint-aulaire-louis.html
+https://d-nb.info/gnd/116766549|Salm-Reifferscheid, Hugo Karl Eduard|https://kfngoe.github.io/thun-static/salm-reifferscheid-hugo.html
+https://d-nb.info/gnd/118964593|Salomo III. von Konstanz|https://kfngoe.github.io/thun-static/salomo-III.html
+https://d-nb.info/gnd/126433127|Sámuel Aba|https://kfngoe.github.io/thun-static/samuel-aba.html
+https://d-nb.info/gnd/116800526|Sandhaas, Georg|https://kfngoe.github.io/thun-static/sandhaas-georg.html
+https://d-nb.info/gnd/118794027|Šafařik, Pavel Josef|https://kfngoe.github.io/thun-static/safarik-pavel-josef.html
+https://d-nb.info/gnd/118794450|Sanmicheli, Michele|https://kfngoe.github.io/thun-static/sanmicheli-michele.html
+https://d-nb.info/gnd/117619027|Santucci, Vincenzo|https://kfngoe.github.io/thun-static/santucci-vincenzo.html
+https://d-nb.info/gnd/117019135|Sauppe, Hermann|https://kfngoe.github.io/thun-static/sauppe-hermann.html
+https://d-nb.info/gnd/118605909|Savigny, Friedrich Carl|https://kfngoe.github.io/thun-static/savigny-friedrich-carl.html
+https://d-nb.info/gnd/12113881X|Schaguna, Andreas|https://kfngoe.github.io/thun-static/schaguna-andreas.html
+https://d-nb.info/gnd/117620505|Scheibert, Karl Gottfried|https://kfngoe.github.io/thun-static/scheibert-karl-gottfried.html
+https://d-nb.info/gnd/130143561|Scheiner, Joseph|https://kfngoe.github.io/thun-static/scheiner-joseph.html
+https://d-nb.info/gnd/118607057|Schelling, Friedrich Wilhelm|https://kfngoe.github.io/thun-static/schelling-friedrich-wilhelm.html
+https://d-nb.info/gnd/117210935|Schenach, Georg|https://kfngoe.github.io/thun-static/schenach-georg.html
+https://d-nb.info/gnd/117229202|Schenkel, Daniel|https://kfngoe.github.io/thun-static/schenkel-daniel.html
+https://d-nb.info/gnd/117229938|Schenkl, Karl|https://kfngoe.github.io/thun-static/schenkl-karl.html
+https://d-nb.info/gnd/1029901392|Schiel, Samuel|https://kfngoe.github.io/thun-static/schiel-samuel.html
+https://d-nb.info/gnd/118607626|Schiller, Friedrich|https://kfngoe.github.io/thun-static/schiller-friedrich.html
+https://d-nb.info/gnd/118607723|Schimper, Karl Friedrich|https://kfngoe.github.io/thun-static/schimper-karl-friedrich.html
+https://d-nb.info/gnd/141742585|Schimper, Wilhelm|https://kfngoe.github.io/thun-static/schimper-wilhelm.html
+https://d-nb.info/gnd/117271497|Schimper, Wilhelm Philipp|https://kfngoe.github.io/thun-static/schimper-wilhelm-philipp.html
+https://d-nb.info/gnd/118755153|Schirmer, Johann Theodor|https://kfngoe.github.io/thun-static/schirmer-johann-theodor.html
+https://d-nb.info/gnd/118607987|Schlegel, August Wilhelm|https://kfngoe.github.io/thun-static/schlegel-august-wilhelm.html
+https://d-nb.info/gnd/118759302|Schleicher, August|https://kfngoe.github.io/thun-static/schleicher-august.html
+https://d-nb.info/gnd/118852116|Schleiden, Matthias Jakob|https://kfngoe.github.io/thun-static/schleiden-matthias.html
+https://d-nb.info/gnd/118608045|Schleiermacher, Friedrich|https://kfngoe.github.io/thun-static/schleiermacher-friedrich.html
+https://d-nb.info/gnd/117328448|Schliephake, Theodor|https://kfngoe.github.io/thun-static/schliephake-theodor.html
+https://d-nb.info/gnd/1030190593|Schloißnigg, Johann|https://kfngoe.github.io/thun-static/schloissnigg-johann.html
+https://d-nb.info/gnd/118608428|Schlüter, Christoph Bernhard|https://kfngoe.github.io/thun-static/schlueter-christoph-bernhard.html
+https://d-nb.info/gnd/117330892|Schlüter, Joseph|https://kfngoe.github.io/thun-static/schlueter-josef.html
+https://d-nb.info/gnd/135872685|Schlund, Karl|https://kfngoe.github.io/thun-static/schlund-karl.html
+https://d-nb.info/gnd/117455563|Schmarda, Ludwig Karl|https://kfngoe.github.io/thun-static/schmarda-ludwig.html
+https://d-nb.info/gnd/119233460|Schmerling, Anton|https://kfngoe.github.io/thun-static/schmerling-anton.html
+https://d-nb.info/gnd/116794992|Schmieder, Heinrich Eduard|https://kfngoe.github.io/thun-static/schmieder-heinrich-eduard.html
+https://d-nb.info/gnd/104100982|Schmidt, Karl Adolf|https://kfngoe.github.io/thun-static/schmidt-karl-adolf.html
+https://d-nb.info/gnd/120145774|Schmidt, Heinrich|https://kfngoe.github.io/thun-static/schmidt-heinrich.html
+https://d-nb.info/gnd/117515191|Schmidt, Oscar|https://kfngoe.github.io/thun-static/schmidt-oscar.html
+https://d-nb.info/gnd/116816481|Schmölders, Franz August|https://kfngoe.github.io/thun-static/schmoelders-franz-august.html
+https://d-nb.info/gnd/107911973|Schnabel, Georg Norbert|https://kfngoe.github.io/thun-static/schnabel-georg-norbert.html
+https://d-nb.info/gnd/104242515|Schneider, Franz Xaver|https://kfngoe.github.io/thun-static/schneider-franz-xaver.html
+https://d-nb.info/gnd/103158563X|Schneider von Arno, Joseph|https://kfngoe.github.io/thun-static/schneider-joseph.html
+https://d-nb.info/gnd/116848812|Schnizlein, Adalbert|https://kfngoe.github.io/thun-static/schnizlein-adalbert.html
+https://d-nb.info/gnd/120912546|Schönaich, Georg|https://kfngoe.github.io/thun-static/schoenaich-georg.html
+https://d-nb.info/gnd/116868333|Schönhals, Karl|https://kfngoe.github.io/thun-static/schoenhals-karl.html
+https://d-nb.info/gnd/11915403X|Schöppner, Alexander|https://kfngoe.github.io/thun-static/schoeppner-alexander.html
+https://d-nb.info/gnd/104197099|Schott, Heinrich Wilhelm|https://kfngoe.github.io/thun-static/schott-heinrich.html
+https://d-nb.info/gnd/117024090|Schrader, Eduard|https://kfngoe.github.io/thun-static/schrader-eduard.html
+https://d-nb.info/gnd/118610694|Schreiber, Johann Heinrich|https://kfngoe.github.io/thun-static/schreiber-johann-heinrich.html
+https://d-nb.info/gnd/135765706|Schreiner, Adolf|https://kfngoe.github.io/thun-static/schreiner-adolf.html
+https://d-nb.info/gnd/117045926|Schreiner, Gustav Franz|https://kfngoe.github.io/thun-static/schreiner-gustav-franz.html
+https://d-nb.info/gnd/11709899X|Schrötter, Franz Ferdinand|https://kfngoe.github.io/thun-static/schroetter-franz-ferdinand.html
+https://d-nb.info/gnd/117098981|Schrötter, Anton von|https://kfngoe.github.io/thun-static/schroetter-anton.html
+https://d-nb.info/gnd/104299967|Schroff, Karl Damian|https://kfngoe.github.io/thun-static/schroff-karl-damian.html
+https://d-nb.info/gnd/118610937|Schubert, Gotthilf Heinrich|https://kfngoe.github.io/thun-static/schubert-gotthilf-heinrich.html
+https://d-nb.info/gnd/117130842|Schuler, Johannes|https://kfngoe.github.io/thun-static/schuler-johannes.html
+https://d-nb.info/gnd/124369820|Schuller, Johann Karl|https://kfngoe.github.io/thun-static/schuller-johann-karl.html
+https://d-nb.info/gnd/11861133X|Schulte, Johann Friedrich|https://kfngoe.github.io/thun-static/schulte-friedrich.html
+https://d-nb.info/gnd/153697806|Schulze, Johannes|https://kfngoe.github.io/thun-static/schulze-johannes.html
+https://d-nb.info/gnd/117653209|Schwanert, Hermann|https://kfngoe.github.io/thun-static/schwanert-hermann.html
+https://d-nb.info/gnd/118612050|Schwarzenberg, Felix|https://kfngoe.github.io/thun-static/schwarzenberg-felix.html
+https://d-nb.info/gnd/118763024|Schwarzenberg, Friedrich|https://kfngoe.github.io/thun-static/schwarzenberg-friedrich.html
+https://d-nb.info/gnd/117379727|Schwarzenberg, Johann Adolf|https://kfngoe.github.io/thun-static/schwarzenberg-johann-adolf.html
+https://d-nb.info/gnd/104245352|Schwarzenberg, Karl|https://kfngoe.github.io/thun-static/schwarzenberg-karl.html
+https://d-nb.info/gnd/186699611|Schwarz, Friedrich Heinrich|https://kfngoe.github.io/thun-static/schwarz-friedrich-heinrich.html
+https://d-nb.info/gnd/119088967|Schwegler, Albert|https://kfngoe.github.io/thun-static/schwegler-albert.html
+https://d-nb.info/gnd/138571902|Schweninger, Karl|https://kfngoe.github.io/thun-static/schweninger-karl.html
+https://d-nb.info/gnd/118612336|Publius Cornelius Scipio Africanus|https://kfngoe.github.io/thun-static/scipio.html
+https://d-nb.info/gnd/118612735|Segesser, Philipp Anton|https://kfngoe.github.io/thun-static/segesser-philipp-anton.html
+https://d-nb.info/gnd/1011212978|Sefeloge, Max|https://kfngoe.github.io/thun-static/sefeloge-max.html
+https://d-nb.info/gnd/119382008|Seidel, Emanuel|https://kfngoe.github.io/thun-static/seidel-emanuel.html
+https://d-nb.info/gnd/117479659|Selvatico, Estense Pietro|https://kfngoe.github.io/thun-static/selvatico-estense-pietro.html
+https://d-nb.info/gnd/130390607|Šembera, Alois Vojtěch|https://kfngoe.github.io/thun-static/sembera-alois-vojtech.html
+https://d-nb.info/gnd/186756135|Sendtner, Otto|https://kfngoe.github.io/thun-static/sendtner-otto.html
+https://d-nb.info/gnd/117473359|Senfft von Pilsach, Friedrich Christian Ludwig|https://kfngoe.github.io/thun-static/senfft-von-pilsach-friedrich.html
+https://d-nb.info/gnd/118613278|Sengler, Jakob|https://kfngoe.github.io/thun-static/sengler-jakob.html
+https://d-nb.info/gnd/102596271|Serafini, Filippo|https://kfngoe.github.io/thun-static/serafini-filippo.html
+https://d-nb.info/gnd/118613723|Shakespeare, William|https://kfngoe.github.io/thun-static/shakespeare-william.html
+https://d-nb.info/gnd/119459159|Sibour, Marie Dominique Auguste|https://kfngoe.github.io/thun-static/sibour-auguste.html
+https://d-nb.info/gnd/118765108|Sicard von Sicardsburg, August|https://kfngoe.github.io/thun-static/sicard-von-sicardsburg-august.html
+https://d-nb.info/gnd/118797026|Sickel, Theodor|https://kfngoe.github.io/thun-static/sickel-theodor.html
+https://d-nb.info/gnd/124582419|Sickingen, Franz von|https://kfngoe.github.io/thun-static/sickingen-franz.html
+https://d-nb.info/gnd/117360384|Siegel, Heinrich|https://kfngoe.github.io/thun-static/siegel-heinrich.html
+https://d-nb.info/gnd/118614193|Sigismund II. August|https://kfngoe.github.io/thun-static/sigismund-II-august.html
+https://d-nb.info/gnd/129351105|Sigmund, Wenzel|https://kfngoe.github.io/thun-static/sigmund-wenzel.html
+https://d-nb.info/gnd/119747863|Silvestri, Pietro|https://kfngoe.github.io/thun-static/silvestri-pietro.html
+https://d-nb.info/gnd/11879731X|Simon, Jules|https://kfngoe.github.io/thun-static/simon-jules.html
+https://d-nb.info/gnd/123271606|Simor, János|https://kfngoe.github.io/thun-static/simor-johann.html
+https://d-nb.info/gnd/118614576|Simrock, Karl Joseph|https://kfngoe.github.io/thun-static/simrock-karl-joseph.html
+https://d-nb.info/gnd/1034118706|Simunich, Balthasar|https://kfngoe.github.io/thun-static/simunich-balthasar.html
+https://d-nb.info/gnd/172404770|Skála ze Zhoře, Pavel|https://kfngoe.github.io/thun-static/skala-ze-zhore-pavel.html
+https://d-nb.info/gnd/124411266|Škoda, Josef|https://kfngoe.github.io/thun-static/skoda-josef.html
+https://d-nb.info/gnd/1019760176|Skrzynecki, Jan Zygmunt|https://kfngoe.github.io/thun-static/skrzynecki-jan.html
+https://d-nb.info/gnd/1018376615|Slavata, Wilhelm|https://kfngoe.github.io/thun-static/slavata-wilhelm.html
+https://d-nb.info/gnd/1034799150|Slavíček, Josef|https://kfngoe.github.io/thun-static/slavicek-josef.html
+https://d-nb.info/gnd/1034799703|Slawikowski, Anton|https://kfngoe.github.io/thun-static/slawikowski-anton.html
+https://d-nb.info/gnd/117509213|Sommaruga, Franz Seraph|https://kfngoe.github.io/thun-static/sommaruga-franz-seraph.html
+https://d-nb.info/gnd/119131382|Sophie Friederike von Bayern|https://kfngoe.github.io/thun-static/sophie-erzherzogin.html
+https://d-nb.info/gnd/117484423|Souchay, Eduard Franz|https://kfngoe.github.io/thun-static/souchay-eduard.html
+https://d-nb.info/gnd/11947364X|Spengel, Leonhard|https://kfngoe.github.io/thun-static/spengel-leonhard.html
+https://d-nb.info/gnd/118751875|Speratus, Paul|https://kfngoe.github.io/thun-static/speratus-paul.html
+https://d-nb.info/gnd/118616242|Spinoza, Baruch|https://kfngoe.github.io/thun-static/spinoza-baruch.html
+https://d-nb.info/gnd/100592112|Spirk, Anton|https://kfngoe.github.io/thun-static/spirk-anton.html
+https://d-nb.info/gnd/119553538|Spithöver, Josef|https://kfngoe.github.io/thun-static/spitthoever.html
+https://d-nb.info/gnd/117486272|Sporschil, Johann Chrysostomus|https://kfngoe.github.io/thun-static/sporschil-johann-chrystostomus.html
+https://d-nb.info/gnd/119520702|Stadion, Franz Seraph|https://kfngoe.github.io/thun-static/stadion-franz.html
+https://d-nb.info/gnd/118616641|Stahl, Friedrich Julius|https://kfngoe.github.io/thun-static/stahl-friedrich-julius.html
+https://d-nb.info/gnd/107516756|Stanek, Václav|https://kfngoe.github.io/thun-static/stanek-vaclav.html
+https://d-nb.info/gnd/101974913X|Starhemberg, Reichard|https://kfngoe.github.io/thun-static/starhemberg-reichard.html
+https://d-nb.info/gnd/118616900|Staudenmaier, Franz Anton|https://kfngoe.github.io/thun-static/staudenmaier-franz-anton.html
+https://d-nb.info/gnd/101846983|Stefan Franz Viktor, Erzherzog von Österreich|https://kfngoe.github.io/thun-static/stefan-franz-viktor-erzherzog.html
+https://d-nb.info/gnd/123275415|Steffenhagen, Adolph Gottfried|https://kfngoe.github.io/thun-static/steffenhagen-adolph.html
+https://d-nb.info/gnd/118617109|Steffens, Heinrich|https://kfngoe.github.io/thun-static/steffens-heinrich.html
+https://d-nb.info/gnd/102182116|Steger, Joseph|https://kfngoe.github.io/thun-static/steger-joseph.html
+https://d-nb.info/gnd/118617273|Stein, Karl vom und zum|https://kfngoe.github.io/thun-static/stein-heinrich.html
+https://d-nb.info/gnd/118617281|Stein, Lorenz|https://kfngoe.github.io/thun-static/stein-lorenz.html
+https://d-nb.info/gnd/117240265|Stein, Samuel Friedrich Nathaniel|https://kfngoe.github.io/thun-static/stein-samuel-friedrich.html
+https://d-nb.info/gnd/117245151|Steinacker, Gustav|https://kfngoe.github.io/thun-static/steinacker-gustav.html
+https://d-nb.info/gnd/101668066|Steinbüchel von Rheinwall, Anton|https://kfngoe.github.io/thun-static/steinbuechel-von-rheinwall-anton.html
+https://d-nb.info/gnd/125002203|Steiner, Jakob|https://kfngoe.github.io/thun-static/steiner-jakob.html
+https://d-nb.info/gnd/1036423425|Steinfeld, Franz|https://kfngoe.github.io/thun-static/steinfeld-franz.html
+https://d-nb.info/gnd/11861777X|Stephan I.|https://kfngoe.github.io/thun-static/stephan-I.html
+https://d-nb.info/gnd/118753509|Stephan von Tournai|https://kfngoe.github.io/thun-static/stephan-tournai.html
+https://d-nb.info/gnd/11727285X|Stephani, Eduard|https://kfngoe.github.io/thun-static/stephan-eduard.html
+https://d-nb.info/gnd/117258407|Stieve, Friedrich|https://kfngoe.github.io/thun-static/stieve-friedrich.html
+https://d-nb.info/gnd/118618156|Stifter, Adalbert|https://kfngoe.github.io/thun-static/stifter-adalbert.html
+https://d-nb.info/gnd/101275056|Stintzing, Roderich|https://kfngoe.github.io/thun-static/stintzing-roderich.html
+https://d-nb.info/gnd/177732687|Stítné, Thomas|https://kfngoe.github.io/thun-static/stitny-ze-stitneho-tomas.html
+https://d-nb.info/gnd/172946468|Stockler, k_A|https://kfngoe.github.io/thun-static/stockler.html
+https://d-nb.info/gnd/117263834|Stöber, Franz Xaver|https://kfngoe.github.io/thun-static/stoeber-franz-xaver.html
+https://d-nb.info/gnd/11944786X|Stoll, Maximilian|https://kfngoe.github.io/thun-static/stoll-maximilian.html
+https://d-nb.info/gnd/117267872|Stolberg-Stolberg, Joseph Theodor|https://kfngoe.github.io/thun-static/stolberg-joseph-theodor.html
+https://d-nb.info/gnd/118755552|Stolberg-Stolberg, Friedrich Leopold|https://kfngoe.github.io/thun-static/stolberg-friedrich-leopold.html
+https://d-nb.info/gnd/118618644|Stolz, Alban|https://kfngoe.github.io/thun-static/stolz-alban.html
+https://d-nb.info/gnd/101342454|Strodl, Michael Anton|https://kfngoe.github.io/thun-static/strodl-michael.html
+https://d-nb.info/gnd/118799207|Struve, Gustav|https://kfngoe.github.io/thun-static/struve-gustav.html
+https://d-nb.info/gnd/118799185|Strossmayer, Josip Juraj|https://kfngoe.github.io/thun-static/strossmayer-joseph.html
+https://d-nb.info/gnd/117348058|Strümpell, Ludwig Adolf Heinrich von|https://kfngoe.github.io/thun-static/struempell-ludwig.html
+https://d-nb.info/gnd/157611957|Stulc, Václav|https://kfngoe.github.io/thun-static/stulc-vaclav.html
+https://d-nb.info/gnd/117363545|Stumpf-Brentano, Karl Friedrich|https://kfngoe.github.io/thun-static/stumpf-brentano-karl-friedrich.html
+https://d-nb.info/gnd/117363677|Stúr, Dionýs|https://kfngoe.github.io/thun-static/stur-dionys.html
+https://d-nb.info/gnd/158238362|Stúr, L'udovít|https://kfngoe.github.io/thun-static/stur-ludovit.html
+https://d-nb.info/gnd/117365351|Suchecki, Heinrich|https://kfngoe.github.io/thun-static/suchecki-heinrich.html
+https://d-nb.info/gnd/118619918|Gaius Suetonius Tranquillus|https://kfngoe.github.io/thun-static/sueton.html
+https://d-nb.info/gnd/118951432|Sumner, Charles|https://kfngoe.github.io/thun-static/sumner-charles.html
+https://d-nb.info/gnd/117373303|Sulkowski, August|https://kfngoe.github.io/thun-static/sulkowski-august.html
+https://d-nb.info/gnd/11864260X|Lucius Cornelius Sulla Felix|https://kfngoe.github.io/thun-static/sulla-lucius-cornelius.html
+https://d-nb.info/gnd/118758055|Swieten, Gerard van|https://kfngoe.github.io/thun-static/swieten-van-gerard.html
+https://d-nb.info/gnd/117679518|Szasz, Karl|https://kfngoe.github.io/thun-static/szasz-karl.html
+https://d-nb.info/gnd/1033567744|Szeberinyi, Johann Michael|https://kfngoe.github.io/thun-static/szeberinyi-johann.html
+https://d-nb.info/gnd/118758152|Széchenyi, Stephan|https://kfngoe.github.io/thun-static/szechenyi-stephan.html
+https://d-nb.info/gnd/1019704195|Szögyény-Marich, Ladislaus|https://kfngoe.github.io/thun-static/szoegyeny-marich-ladislaus.html
+https://d-nb.info/gnd/11767964X|Szokalski, Victor Felix|https://kfngoe.github.io/thun-static/szokalski-victor-felix.html
+https://d-nb.info/gnd/130254150|Taaffe, Ludwig|https://kfngoe.github.io/thun-static/taaffe-ludwig.html
+https://d-nb.info/gnd/118620452|Tacitus|https://kfngoe.github.io/thun-static/tacitus.html
+https://d-nb.info/gnd/117199710|Tandler, Josef|https://kfngoe.github.io/thun-static/tandler-joseph.html
+https://d-nb.info/gnd/183516192|Tangl, Karlmann|https://kfngoe.github.io/thun-static/tangl-karlmann.html
+https://d-nb.info/gnd/127467440|Taraba, Josef|https://kfngoe.github.io/thun-static/taraba-josef.html
+https://d-nb.info/gnd/119392488|Tarnóczy, Maximilian|https://kfngoe.github.io/thun-static/tarnoczy-maximilian.html
+https://d-nb.info/gnd/1037845943|Tauber, Caspar|https://kfngoe.github.io/thun-static/tauber-caspar.html
+https://d-nb.info/gnd/101291043|Teleky, Joseph|https://kfngoe.github.io/thun-static/teleky-joseph.html
+https://d-nb.info/gnd/11761601X|Tempsky, Friedrich|https://kfngoe.github.io/thun-static/tempsky-friedrich.html
+https://d-nb.info/gnd/119092603|Tennemann, Wilhelm Gottlieb|https://kfngoe.github.io/thun-static/tennemann-wilhelm-gottlieb.html
+https://d-nb.info/gnd/102056161|Teutsch, Georg Daniel|https://kfngoe.github.io/thun-static/teutsch-georg-daniel.html
+https://d-nb.info/gnd/117296058|Tewes, Heinrich August|https://kfngoe.github.io/thun-static/tewes-heinrich-august.html
+https://d-nb.info/gnd/117298085|Thaler, Karl|https://kfngoe.github.io/thun-static/thaler-karl.html
+https://d-nb.info/gnd/130163554|Thaler, Anna Antonia|https://kfngoe.github.io/thun-static/thaler-anna.html
+https://d-nb.info/gnd/119442701|Theiner, Augustin|https://kfngoe.github.io/thun-static/theiner-augustin.html
+https://d-nb.info/gnd/119501821|Themistokles|https://kfngoe.github.io/thun-static/themistokles.html
+https://d-nb.info/gnd/102635811|Theser, Ernst|https://kfngoe.github.io/thun-static/theser-ernst.html
+https://d-nb.info/gnd/118837877|Thiersch, Friedrich Wilhelm|https://kfngoe.github.io/thun-static/thiersch-friedrich-wilhelm.html
+https://d-nb.info/gnd/119435616|Thrasybulos|https://kfngoe.github.io/thun-static/thrasybulos.html
+https://d-nb.info/gnd/13016402X|Thun-Hohenstein, Caroline|https://kfngoe.github.io/thun-static/thun-hohenstein-caroline.html
+https://d-nb.info/gnd/117626651|Thun-Hohenstein, Franz Anton|https://kfngoe.github.io/thun-static/thun-hohenstein-franz-anton-enkel.html
+https://d-nb.info/gnd/116968087|Thun-Hohenstein, Franz Anton|https://kfngoe.github.io/thun-static/thun-hohenstein-franz-anton-vater.html
+https://d-nb.info/gnd/12992816X|Thun-Hohenstein, Franz Anton|https://kfngoe.github.io/thun-static/thun-hohenstein-franz-anton.html
+https://d-nb.info/gnd/11737184X|Thun-Hohenstein, Leopoldine|https://kfngoe.github.io/thun-static/thun-hohenstein-leopoldine.html
+https://d-nb.info/gnd/118757393|Thun-Hohenstein, Leo (Leopold)|https://kfngoe.github.io/thun-static/thun-hohenstein-leo.html
+https://d-nb.info/gnd/120404516|Thurzo, Georg|https://kfngoe.github.io/thun-static/thurzo-georg.html
+https://d-nb.info/gnd/1035158965|Tilly, Johann t’Serclaes|https://kfngoe.github.io/thun-static/tilly-johann.html
+https://d-nb.info/gnd/104081937|Tits, Arnold|https://kfngoe.github.io/thun-static/tits-arnold.html
+https://d-nb.info/gnd/118622900|Tischendorf, Konstantin|https://kfngoe.github.io/thun-static/tischendorf-constantin.html
+https://d-nb.info/gnd/127355219|Tomaschek, Eduard|https://kfngoe.github.io/thun-static/tomaschek-eduard.html
+https://d-nb.info/gnd/117404322|Tomaschek, Karl|https://kfngoe.github.io/thun-static/tomaschek-karl.html
+https://d-nb.info/gnd/117628565|Tommasi, Salvatore|https://kfngoe.github.io/thun-static/tommasi-salvatore.html
+https://d-nb.info/gnd/117404845|Tomek, Václav Vladivoi|https://kfngoe.github.io/thun-static/tomek-vaclav-vladivoi.html
+https://d-nb.info/gnd/118802518|Tommaseo, Niccolò|https://kfngoe.github.io/thun-static/tommaseo-nicolo.html
+https://d-nb.info/gnd/121470725|Tomsa, František Bohumil|https://kfngoe.github.io/thun-static/tomsa-frantisek.html
+https://d-nb.info/gnd/118642871|Tocqueville, Alexis de|https://kfngoe.github.io/thun-static/toqueville-alexis.html
+https://d-nb.info/gnd/101110464|Trendelenburg, Friedrich Adolf|https://kfngoe.github.io/thun-static/trendelenburg-friedrich-adolf.html
+https://d-nb.info/gnd/119852853|Tschernembl, Georg Erasmus|https://kfngoe.github.io/thun-static/tschernembl-georg-erasmus.html
+https://d-nb.info/gnd/119247259|Tschiderer, Johannes Nepomuk|https://kfngoe.github.io/thun-static/tschiderer-johannes.html
+https://d-nb.info/gnd/18943371X|Tücking, Karl|https://kfngoe.github.io/thun-static/tuecking-karl.html
+https://d-nb.info/gnd/1037378202|Tupý, Eugen O.Praem.|https://kfngoe.github.io/thun-static/tupy-eugen.html
+https://d-nb.info/gnd/11729277X|Unger, Franz|https://kfngoe.github.io/thun-static/unger-franz.html
+https://d-nb.info/gnd/118763725|Unger, Joseph|https://kfngoe.github.io/thun-static/unger-joseph.html
+https://d-nb.info/gnd/118625586|Urban VIII.|https://kfngoe.github.io/thun-static/urban-VIII.html
+https://d-nb.info/gnd/120812096|Urban, Bonifaz Kaspar|https://kfngoe.github.io/thun-static/urban-bonifaz-kaspar.html
+https://d-nb.info/gnd/119519585|Urban, Karl|https://kfngoe.github.io/thun-static/urban-karl.html
+https://d-nb.info/gnd/119010224|Urlichs, Ludwig|https://kfngoe.github.io/thun-static/urlichs-karl-ludwig.html
+https://d-nb.info/gnd/117325279|Vahlen, Johannes|https://kfngoe.github.io/thun-static/vahlen-johannes.html
+https://d-nb.info/gnd/118803859|Vandamme, Dominique Joseph|https://kfngoe.github.io/thun-static/vandamme-dominique.html
+https://d-nb.info/gnd/117346039|Vangerow, Karl Adolph|https://kfngoe.github.io/thun-static/vangerow-karl-adolph.html
+https://d-nb.info/gnd/117357545|Vay, Nikolaus|https://kfngoe.github.io/thun-static/vay-nikolaus-junior.html
+https://d-nb.info/gnd/119034964|Veith, Johann Emanuel CSsR|https://kfngoe.github.io/thun-static/veith-johann-emanuel.html
+https://d-nb.info/gnd/117396869|Viale-Prelà, Michele|https://kfngoe.github.io/thun-static/viale-prela-michele.html
+https://d-nb.info/gnd/117389250|Vernaleken, Theodor|https://kfngoe.github.io/thun-static/vernaleken-theodor.html
+https://d-nb.info/gnd/118804278|Verri, Pietro|https://kfngoe.github.io/thun-static/verri-pietro.html
+https://d-nb.info/gnd/189010959|Verzeri, Girolamo|https://kfngoe.github.io/thun-static/verzeri-girolamo.html
+https://d-nb.info/gnd/118626574|Vergil|https://kfngoe.github.io/thun-static/vergil.html
+https://d-nb.info/gnd/118945467|Vicari, Hermann|https://kfngoe.github.io/thun-static/vicari-hermann.html
+https://d-nb.info/gnd/15455569X|Villermont, Antoine Charles Hennequin|https://kfngoe.github.io/thun-static/villermont-antoine.html
+https://d-nb.info/gnd/1041848242|Vinařický, Karl Alois|https://kfngoe.github.io/thun-static/vinaricky-karl-alois.html
+https://d-nb.info/gnd/123459540|Virozsil, Anton|https://kfngoe.github.io/thun-static/virozsil-anton.html
+https://d-nb.info/gnd/119509210|Visconti, Ermes|https://kfngoe.github.io/thun-static/visconti-ermes.html
+https://d-nb.info/gnd/11862721X|Vischer, Friedrich Theodor|https://kfngoe.github.io/thun-static/vischer-friedrich-theodor.html
+https://d-nb.info/gnd/118634453|Vladislav II.|https://kfngoe.github.io/thun-static/vladislav-II.html
+https://d-nb.info/gnd/102339554|Vogel, Ludwig|https://kfngoe.github.io/thun-static/vogel-ludwig.html
+https://d-nb.info/gnd/119292556|Volta, Alessandro|https://kfngoe.github.io/thun-static/volta-alessandro.html
+https://d-nb.info/gnd/131817310|Vonbank, Johann Georg|https://kfngoe.github.io/thun-static/vonbank-johannes-georg.html
+https://d-nb.info/gnd/118628038|Waagen, Gustav Friedrich|https://kfngoe.github.io/thun-static/waagen-gustav-friedrich.html
+https://d-nb.info/gnd/172455790|Wächter, Carl Georg|https://kfngoe.github.io/thun-static/waechter-karl-georg.html
+https://d-nb.info/gnd/10430409X|Wagner, Johann Jakob|https://kfngoe.github.io/thun-static/wagner-johann-jakob.html
+https://d-nb.info/gnd/117115460|Waitz, Theodor|https://kfngoe.github.io/thun-static/waitz-franz-theodor.html
+https://d-nb.info/gnd/118628674|Waldmüller, Ferdinand Georg|https://kfngoe.github.io/thun-static/waldmueller-ferdinand-georg.html
+https://d-nb.info/gnd/118628755|Wallenstein, Albrecht|https://kfngoe.github.io/thun-static/wallenstein-albrecht.html
+https://d-nb.info/gnd/11756155X|Waller, Johann|https://kfngoe.github.io/thun-static/waller-johann.html
+https://d-nb.info/gnd/101796366|Walewski, Antoni|https://kfngoe.github.io/thun-static/waleswski-antoni.html
+https://d-nb.info/gnd/117561754|Waltenhofen, Adalbert|https://kfngoe.github.io/thun-static/waltenhofen-adalbert.html
+https://d-nb.info/gnd/118812211|Walter, Ferdinand|https://kfngoe.github.io/thun-static/walter-ferdinand.html
+https://d-nb.info/gnd/117142379|Warnkönig, Leopold August|https://kfngoe.github.io/thun-static/warnkoenig-leopold-august.html
+https://d-nb.info/gnd/118748718|Washington, George|https://kfngoe.github.io/thun-static/washington-george.html
+https://d-nb.info/gnd/117151386|Wattenbach, Wilhelm|https://kfngoe.github.io/thun-static/wattenbach-wilhelm.html
+https://d-nb.info/gnd/136459617|Weber von Ebenhof, Ferdinand|https://kfngoe.github.io/thun-static/weber-von-ebenhof-ferdinand.html
+https://d-nb.info/gnd/136459633|Weber von Ebenhof, Philipp|https://kfngoe.github.io/thun-static/weber-von-ebenhof-philipp.html
+https://d-nb.info/gnd/117203955|Wedekin, Eduard|https://kfngoe.github.io/thun-static/wedekin-eduard.html
+https://d-nb.info/gnd/117207713|Wedewer, Hermann|https://kfngoe.github.io/thun-static/wedewer-hermann.html
+https://d-nb.info/gnd/106623494|Weiser, Josef|https://kfngoe.github.io/thun-static/weiser-josef.html
+https://d-nb.info/gnd/118806521|Weinhold, Karl|https://kfngoe.github.io/thun-static/weinhold-karl.html
+https://d-nb.info/gnd/117290629|Weiß, Johann Baptist|https://kfngoe.github.io/thun-static/weiss-johann-baptist.html
+https://d-nb.info/gnd/11863075X|Welcker, Karl Theodor|https://kfngoe.github.io/thun-static/welcker-karl-theodor.html
+https://d-nb.info/gnd/119370549|Welden, Ludwig|https://kfngoe.github.io/thun-static/welden-ludwig.html
+https://d-nb.info/gnd/117293938|Wentzel, Eduard|https://kfngoe.github.io/thun-static/wentzel-eduard.html
+https://d-nb.info/gnd/117295329|Wenzig, Josef|https://kfngoe.github.io/thun-static/wenzig-josef.html
+https://d-nb.info/gnd/115571736|Werner, Josef|https://kfngoe.github.io/thun-static/werner-josef.html
+https://d-nb.info/gnd/102023964|Wessely, Wolfgang|https://kfngoe.github.io/thun-static/wessely-wolfgang.html
+https://d-nb.info/gnd/115670475|Wessenberg-Ampringen, Johann Philipp|https://kfngoe.github.io/thun-static/wessenberg-johann-philipp.html
+https://d-nb.info/gnd/157919714|Widmer, Bartholomäus|https://kfngoe.github.io/thun-static/widmer-bartolomaeus.html
+https://d-nb.info/gnd/127324364|Wiener, Paul|https://kfngoe.github.io/thun-static/wiener-paul.html
+https://d-nb.info/gnd/117368210|Wiese, Ludwig Adolf|https://kfngoe.github.io/thun-static/wiese-ludwig-adolf.html
+https://d-nb.info/gnd/11880765X|Wiseman, Nikolaus Patrick Stephen|https://kfngoe.github.io/thun-static/wiseman-nikolaus.html
+https://d-nb.info/gnd/117379735|Wildauer, Tobias|https://kfngoe.github.io/thun-static/wildauer-tobias.html
+https://d-nb.info/gnd/119057832|Wilhelm, Andreas|https://kfngoe.github.io/thun-static/wilhelm-andreas.html
+https://d-nb.info/gnd/119112469|Wilkinson, John Gardner|https://kfngoe.github.io/thun-static/wilkinson-john-gardner.html
+https://d-nb.info/gnd/118769251|Windisch-Graetz, Alfred|https://kfngoe.github.io/thun-static/windisch-graetz-alfred.html
+https://d-nb.info/gnd/117401072|Windischmann, Friedrich Heinrich Hugo|https://kfngoe.github.io/thun-static/windischmann-friedrich.html
+https://d-nb.info/gnd/100703496|Winiewski, Franz|https://kfngoe.github.io/thun-static/winiewski-franz.html
+https://d-nb.info/gnd/118633600|Winkelmann, Johann Joachim|https://kfngoe.github.io/thun-static/winkelmann-johann-joachim.html
+https://d-nb.info/gnd/110341449|Winkler, Anton|https://kfngoe.github.io/thun-static/winkler-anton.html
+https://d-nb.info/gnd/134085388|Wittmann, Georg Michael|https://kfngoe.github.io/thun-static/wittmann-georg.html
+https://d-nb.info/gnd/12042598X|Wocel, Johann Erasmus|https://kfngoe.github.io/thun-static/wocel-johann-erasmus.html
+https://d-nb.info/gnd/139109668|Wohlgemuth, Ludwig|https://kfngoe.github.io/thun-static/wohlgemuth-ludwig.html
+https://d-nb.info/gnd/118726781|Wolf, Adam|https://kfngoe.github.io/thun-static/wolf.html
+https://d-nb.info/gnd/119334232|Wolf, Anton Alois|https://kfngoe.github.io/thun-static/wolf-anton-alois.html
+https://d-nb.info/gnd/11876988X|Wolf, Franz Joseph|https://kfngoe.github.io/thun-static/wolf-franz-joseph.html
+https://d-nb.info/gnd/117427888|Wrede, Carl Theodor|https://kfngoe.github.io/thun-static/wrede-karl-theodor.html
+https://d-nb.info/gnd/118703218|Württemberg, Friedrich von|https://kfngoe.github.io/thun-static/wuerttemberg-friedrich.html
+https://d-nb.info/gnd/101519990|Wurstemberger, Ludwig|https://kfngoe.github.io/thun-static/wurstemberger-ludwig.html
+https://d-nb.info/gnd/11734804X|Wydler, Heinrich|https://kfngoe.github.io/thun-static/wydler-heinrich.html
+https://d-nb.info/gnd/118635794|Xenophanes von Kolophon|https://kfngoe.github.io/thun-static/xenophanes.html
+https://d-nb.info/gnd/118808109|Xerxes I.|https://kfngoe.github.io/thun-static/xerxes-I.html
+https://d-nb.info/gnd/118772112|Zachariä, Heinrich Albert|https://kfngoe.github.io/thun-static/zachariae-heinrich-albert.html
+https://d-nb.info/gnd/1033629081|Zakrzewski, Ignacy|https://kfngoe.github.io/thun-static/zakrzewski.html
+https://d-nb.info/gnd/118712330|Zápolya, Johann|https://kfngoe.github.io/thun-static/zapolya-johann.html
+https://d-nb.info/gnd/119303493|Zarański, Stanislaw|https://kfngoe.github.io/thun-static/zaranski-stanislaw.html
+https://d-nb.info/gnd/11913702X|Zarncke, Friedrich|https://kfngoe.github.io/thun-static/zarncke-friedrich.html
+https://d-nb.info/gnd/104323221|Zastra, Julius|https://kfngoe.github.io/thun-static/zastra-julius.html
+https://d-nb.info/gnd/121577589|Zawadzki, Alexander|https://kfngoe.github.io/thun-static/zawadzki-alexander.html
+https://d-nb.info/gnd/1028030770|Zeidler, Hieronymus Joseph O.Praem.|https://kfngoe.github.io/thun-static/zeidler.html
+https://d-nb.info/gnd/103366622X|Zeithammer, Gregor|https://kfngoe.github.io/thun-static/zeithammer-gregor.html
+https://d-nb.info/gnd/116976012|Zell, Karl|https://kfngoe.github.io/thun-static/zell-karl.html
+https://d-nb.info/gnd/118636383|Zeller, Eduard|https://kfngoe.github.io/thun-static/zeller-eduard.html
+https://d-nb.info/gnd/102765146|Zeynek, Gustav|https://kfngoe.github.io/thun-static/zeynek-gustav.html
+https://d-nb.info/gnd/121472795|Zielonacki, Josephat|https://kfngoe.github.io/thun-static/zielonacki-josephat.html
+https://d-nb.info/gnd/116986050|Zichy, Edmund|https://kfngoe.github.io/thun-static/zichy-edmund.html
+https://d-nb.info/gnd/118637002|Zimmermann, Johann August|https://kfngoe.github.io/thun-static/zimmermann-johann-august.html
+https://d-nb.info/gnd/127331492|Zimmermann, Joseph Andreas|https://kfngoe.github.io/thun-static/zimmermann-joseph-andreas.html
+https://d-nb.info/gnd/102964890|Zimmermann, Karl|https://kfngoe.github.io/thun-static/zimmermann-karl.html
+https://d-nb.info/gnd/118528408|Zimmermann, Robert|https://kfngoe.github.io/thun-static/zimmermann-robert.html
+https://d-nb.info/gnd/11557039X|Zingerle, Ignaz Vinzenz|https://kfngoe.github.io/thun-static/zingerle-ignaz-vinzenz.html
+https://d-nb.info/gnd/117004588|Zingerle, Pius OSB|https://kfngoe.github.io/thun-static/zingerle-pius.html
+https://d-nb.info/gnd/117005800|Zippe, Franz Xaver|https://kfngoe.github.io/thun-static/zippe-franz.html
+https://d-nb.info/gnd/118808524|Zižka, Jan|https://kfngoe.github.io/thun-static/zizka-jan.html
+https://d-nb.info/gnd/119878658|Zobel, Johann|https://kfngoe.github.io/thun-static/zobel-johann.html
+https://d-nb.info/gnd/100883281|Zschinsky, Ferdinand|https://kfngoe.github.io/thun-static/zschinsky-ferdinand.html
+https://d-nb.info/gnd/117020486|Zuccarini, Joseph Gerhard|https://kfngoe.github.io/thun-static/zuccarini-joseph.html
+https://d-nb.info/gnd/143919792|Zumalacárregui, Tomás de|https://kfngoe.github.io/thun-static/zumalacarregui-tomas.html
+https://d-nb.info/gnd/135932327|Zwehl, Theodor|https://kfngoe.github.io/thun-static/zwehl-theodor.html
+https://d-nb.info/gnd/119157527|Zwerger, Johann|https://kfngoe.github.io/thun-static/zwerger-johann.html
