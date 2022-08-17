@@ -84,14 +84,7 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_3a8f916e8f8560773ac9b8eb6349b1c4">
-                        <placeName>Bergamo</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.69601 9.66721</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3182164</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pietro Luigi Speranza an Leo Thun, Bergamo, 1. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/speranza-an-thun-1858-09-01-a3-xxi-d447.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -130,5 +123,12 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Pietro Luigi Speranza an Leo Thun, Bergamo, 1. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/speranza-an-thun-1858-09-01-a3-xxi-d447.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPerson><listPlace><place xml:id="place_3a8f916e8f8560773ac9b8eb6349b1c4">
+                        <placeName>Bergamo</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.69601 9.66721</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3182164</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pietro Luigi Speranza an Leo Thun, Bergamo, 1. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/speranza-an-thun-1858-09-01-a3-xxi-d447.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

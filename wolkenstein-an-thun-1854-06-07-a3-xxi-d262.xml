@@ -107,7 +107,48 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPlace><place xml:id="place_6701d5ffea144483d801400a2e2a2714">
+                        <placeName>Ivano-Fracena</placeName>
+                        <placeName type="pref">schloss-ivano</placeName>
+                        <placeName type="alt">Schloss Ivano</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.05731 11.52939</geo>
+                        </location>
+                        <idno>https://www.geonames.org/6536028</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
+                        <placeName>Prunéřov</placeName>
+                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
+                        <placeName type="alt">Brunnersdorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.40067 13.27796</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3067382</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_11a4764afdf4fd27fe76a91244b49852">
+                        <placeName>Karlsbad</placeName>
+                        <placeName type="pref">karlsbad</placeName>
+                        <placeName type="alt">Carlsbad</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.23271 12.87117</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3073803</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 20. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-20-a3-xxi-d375.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [April 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1853-ca83.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [, Wien], o. D. [21. August 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-08-21-ca1417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Venedig, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="wolkenstein-karl">
+                        <persName>
+                            <surname>Wolkenstein-Trostburg</surname>
+                            <forename>Karl Friedrich Otto</forename>
+                        </persName>
+                        <note>
+                            <p>Passau 1802–1875 Teplitz</p>
+                            <p>bis 1848 Richter, zuletzt Präsident des Landrechts in Brünn, 1848
+                                Rückzug ins Privatleben, 1860 Mitglied des verstärkten
+                                Reichsrats</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bemerkungen Leo Thuns zu den Verhältnissen in Ungarn o. O., November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-a3-xxi-d140.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun o. O., o. D. [1851?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-o-d-a3-xxi-d141.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -136,46 +177,5 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116766549</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="wolkenstein-karl">
-                        <persName>
-                            <surname>Wolkenstein-Trostburg</surname>
-                            <forename>Karl Friedrich Otto</forename>
-                        </persName>
-                        <note>
-                            <p>Passau 1802–1875 Teplitz</p>
-                            <p>bis 1848 Richter, zuletzt Präsident des Landrechts in Brünn, 1848
-                                Rückzug ins Privatleben, 1860 Mitglied des verstärkten
-                                Reichsrats</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bemerkungen Leo Thuns zu den Verhältnissen in Ungarn o. O., November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-a3-xxi-d140.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun o. O., o. D. [1851?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-o-d-a3-xxi-d141.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_6701d5ffea144483d801400a2e2a2714">
-                        <placeName>Ivano-Fracena</placeName>
-                        <placeName type="pref">schloss-ivano</placeName>
-                        <placeName type="alt">Schloss Ivano</placeName>
-                        <location>
-                            <geo decls="#LatLng">46.05731 11.52939</geo>
-                        </location>
-                        <idno>https://www.geonames.org/6536028</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_11a4764afdf4fd27fe76a91244b49852">
-                        <placeName>Karlsbad</placeName>
-                        <placeName type="pref">karlsbad</placeName>
-                        <placeName type="alt">Carlsbad</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.23271 12.87117</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3073803</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 20. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-20-a3-xxi-d375.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [April 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1853-ca83.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [, Wien], o. D. [21. August 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-08-21-ca1417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Venedig, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-21-a3-xxi-d218.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
-                        <placeName>Prunéřov</placeName>
-                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
-                        <placeName type="alt">Brunnersdorf</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.40067 13.27796</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3067382</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace></back></text>
+                    </listPerson></back></text>
 </TEI>

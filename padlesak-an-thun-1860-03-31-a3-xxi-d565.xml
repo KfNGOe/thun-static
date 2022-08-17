@@ -134,7 +134,36 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="padlesak-johann">
+                        <persName>
+                            <surname>Padlesák</surname>
+                            <forename>Jan</forename>
+                        </persName>
+                        <note>
+                            <p>1806–1873 Altbunzlau</p>
+                            <p>Priester, Prof. für Religionswissenschaft und Erziehungskunde an der
+                                Univ. Prag, seit 1847 Propst des Kollegiatsstifts in
+                                Altbunzlau/Stará Boleslav, ab 1867 Mitglied des böhmischen
+                                Landtags</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Georg Curtius an Hermann Bonitz, Prag, 27. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/curtius-an-bonitz-1853-12-27-a3-xxi-d245.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Dittrich an Leo Thun, Budissin, 5. September 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-09-05-a3-xxi-d6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="reuss-august">
+                        <persName>
+                            <surname>Reuss</surname>
+                            <forename>August Emanuel</forename>
+                        </persName>
+                        <note>
+                            <p>Bilin 1811–1873 Wien</p>
+                            <p>Arzt, ab 1849 Prof. für Mineralogie an der Universität Prag,
+                                1863–1873 Prof. an der Universität Wien</p>
+                            <p>https://d-nb.info/gnd/10082594X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/10082594X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 5. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-06-05-a3-xxi-d418.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Zobel an einen Professor, Prag, 5. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zobel-an-einen-professor-1853-02-05-a3-xxi-d189.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -165,35 +194,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/11854943X</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, o. O. [Wien], 26. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1854-11-26-a3-xxi-d303.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl David Röder an Leo Thun, Heidelberg, 7. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/roeder-an-thun-1855-02-07-a3-xxi-d327.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Prag, 11. April 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1849-04-11-ca813.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="reuss-august">
-                        <persName>
-                            <surname>Reuss</surname>
-                            <forename>August Emanuel</forename>
-                        </persName>
-                        <note>
-                            <p>Bilin 1811–1873 Wien</p>
-                            <p>Arzt, ab 1849 Prof. für Mineralogie an der Universität Prag,
-                                1863–1873 Prof. an der Universität Wien</p>
-                            <p>https://d-nb.info/gnd/10082594X</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/10082594X</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 5. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-06-05-a3-xxi-d418.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Zobel an einen Professor, Prag, 5. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zobel-an-einen-professor-1853-02-05-a3-xxi-d189.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="padlesak-johann">
-                        <persName>
-                            <surname>Padlesák</surname>
-                            <forename>Jan</forename>
-                        </persName>
-                        <note>
-                            <p>1806–1873 Altbunzlau</p>
-                            <p>Priester, Prof. für Religionswissenschaft und Erziehungskunde an der
-                                Univ. Prag, seit 1847 Propst des Kollegiatsstifts in
-                                Altbunzlau/Stará Boleslav, ab 1867 Mitglied des böhmischen
-                                Landtags</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Georg Curtius an Hermann Bonitz, Prag, 27. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/curtius-an-bonitz-1853-12-27-a3-xxi-d245.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Dittrich an Leo Thun, Budissin, 5. September 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-09-05-a3-xxi-d6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Padlesák an Leo Thun, Prag, 31. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listOrg><org xml:id="org_0005">
                         <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>

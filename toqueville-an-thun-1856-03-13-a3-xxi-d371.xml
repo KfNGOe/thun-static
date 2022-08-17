@@ -81,7 +81,20 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="toqueville-alexis">
+                        <persName>
+                            <surname>Tocqueville</surname>
+                            <forename>Alexis de</forename>
+                        </persName>
+                        <note>
+                            <p>Verneuil-sur-Seine 1805–1859 Cannes</p>
+                            <p>Publizist, Politiker und Historiker</p>
+                            <p>https://d-nb.info/gnd/118642871</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118642871</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ferdinand Marckwort an Leo Thun, Washington, 27. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/marckwort-an-thun-1854-06-27-a3-xxi-d264.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alexis de Tocqueville an Leo Thun, Paris, 13. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/toqueville-an-thun-1856-03-13-a3-xxi-d371.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -109,19 +122,6 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexis de Tocqueville an Leo Thun, Paris, 13. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/toqueville-an-thun-1856-03-13-a3-xxi-d371.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="toqueville-alexis">
-                        <persName>
-                            <surname>Tocqueville</surname>
-                            <forename>Alexis de</forename>
-                        </persName>
-                        <note>
-                            <p>Verneuil-sur-Seine 1805–1859 Cannes</p>
-                            <p>Publizist, Politiker und Historiker</p>
-                            <p>https://d-nb.info/gnd/118642871</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118642871</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ferdinand Marckwort an Leo Thun, Washington, 27. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/marckwort-an-thun-1854-06-27-a3-xxi-d264.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alexis de Tocqueville an Leo Thun, Paris, 13. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/toqueville-an-thun-1856-03-13-a3-xxi-d371.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_ccbee73cd81c7f42405e1920409247ec">
                         <placeName>Paris</placeName>
                         <placeName type="pref">paris</placeName>

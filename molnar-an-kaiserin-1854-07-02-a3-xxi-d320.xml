@@ -100,16 +100,7 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_1e6b38f6262c94e732f8d061a68f0523">
-                        <placeName>Rudník</placeName>
-                        <placeName type="pref">Hermannseifen</placeName>
-                        <placeName type="alt">Hermannseifen</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.59517 15.73362</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3066595</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="elisabeth">
+    <back><listPerson><person xml:id="elisabeth">
                         <persName>
                             <surname>Elisabeth Amalie Eugenie</surname>
                             <forename>Herzogin in Bayern</forename>
@@ -135,5 +126,14 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPerson><listPlace><place xml:id="place_1e6b38f6262c94e732f8d061a68f0523">
+                        <placeName>Rudník</placeName>
+                        <placeName type="pref">Hermannseifen</placeName>
+                        <placeName type="alt">Hermannseifen</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.59517 15.73362</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3066595</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

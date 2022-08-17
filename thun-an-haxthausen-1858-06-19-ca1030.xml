@@ -79,7 +79,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="szaszkewycz-gregor">
+                        <persName>
+                            <surname>Szaszkewycz</surname>
+                            <forename>Gregor</forename>
+                        </persName>
+                        <note>
+                            <p>1809–1888 Przemyśl</p>
+                            <p>Ministerialrat im Unterrichtsministerium (Referent für die
+                                galizischen Volks- und Mittelschulen), später griech.-kath. Domherr
+                                in Przemyśl</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 15. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1859-07-15-a3-xxi-d512.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -107,20 +121,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118547305</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="szaszkewycz-gregor">
-                        <persName>
-                            <surname>Szaszkewycz</surname>
-                            <forename>Gregor</forename>
-                        </persName>
-                        <note>
-                            <p>1809–1888 Przemyśl</p>
-                            <p>Ministerialrat im Unterrichtsministerium (Referent für die
-                                galizischen Volks- und Mittelschulen), später griech.-kath. Domherr
-                                in Przemyśl</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 15. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1859-07-15-a3-xxi-d512.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listOrg><org xml:id="org_0075">
                         <orgName>Jesuitenorden</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/80092-2</idno>
