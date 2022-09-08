@@ -67,7 +67,20 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-caroline">
+    <back><listPerson><person xml:id="jelacic-joseph">
+                        <persName>
+                            <surname>Jelačič</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Peterwardein 1801–1859 Agram</p>
+                            <p>ab 1848 Banus von Kroatien</p>
+                            <p>https://d-nb.info/gnd/118776088</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118776088</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Schreibens von Leo Thun an Joseph Jelačič o. O., 24. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-jelacic-1852-04-24-a3-xxi-d164.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-caroline">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Caroline</forename>
@@ -92,18 +105,5 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Heinrich Clam-Martinic an Leo Thun o. O., 19. Mai [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/clam-martinic-an-thun_1853-05-19_a3-xxi-d206.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Christian Ludwig Senfft von Pilsach an Caroline Thun, Innsbruck, 26. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/senfft-von-pilsach-an-caroline-thun-1850-04-26-a3-xxi-d46.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="jelacic-joseph">
-                        <persName>
-                            <surname>Jelačič</surname>
-                            <forename>Joseph</forename>
-                        </persName>
-                        <note>
-                            <p>Peterwardein 1801–1859 Agram</p>
-                            <p>ab 1848 Banus von Kroatien</p>
-                            <p>https://d-nb.info/gnd/118776088</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118776088</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Caroline Thun o. O., 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-caroline-thun-1850-03-30-a3-xxi-d37.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Schreibens von Leo Thun an Joseph Jelačič o. O., 24. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-jelacic-1852-04-24-a3-xxi-d164.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>

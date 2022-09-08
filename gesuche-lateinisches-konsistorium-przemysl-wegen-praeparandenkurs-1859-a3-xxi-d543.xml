@@ -91,7 +91,16 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_06929365a95f6fe8db033da195ee7498">
+    <back><listPlace><place xml:id="place_51817fa233762c1d5820e819f95e9d3b">
+                        <placeName>Krzeczowice</placeName>
+                        <placeName type="pref">Kzeszów</placeName>
+                        <placeName type="alt">Kzeszów</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.9892 22.46378</geo>
+                        </location>
+                        <idno>https://www.geonames.org/767310</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_06929365a95f6fe8db033da195ee7498">
                         <placeName>Przemyśl</placeName>
                         <placeName type="alt">Przemysler</placeName>
                         <placeName type="alt">Przemyśler</placeName>
@@ -103,6 +112,12 @@
                         </location>
                         <idno>https://www.geonames.org/7530748</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Franciszek Ksawery Wierzchleyski, Przemysl, 8. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jan Szlachtowski an Leo Thun, Lemberg, 1. November 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szlachtowski-an-thun-1849-11-01-a3-xxi-d13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_36ad7c77f8390477ad63932edeee38d7">
+                        <placeName>Sambor</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_c27b948811259b250ea2e3cd7d986c20">
                         <placeName>Drohobych</placeName>
                         <placeName type="pref">Drohobycz</placeName>
@@ -112,21 +127,6 @@
                         </location>
                         <idno>https://www.geonames.org/709611</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_51817fa233762c1d5820e819f95e9d3b">
-                        <placeName>Krzeczowice</placeName>
-                        <placeName type="pref">Kzeszów</placeName>
-                        <placeName type="alt">Kzeszów</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.9892 22.46378</geo>
-                        </location>
-                        <idno>https://www.geonames.org/767310</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_36ad7c77f8390477ad63932edeee38d7">
-                        <placeName>Sambor</placeName>
-                        <location>
-                            <geo decls="#LatLng"/>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_4ff55ec41ee84a7b7a80b0b7734e5a6b">
                         <placeName>Krakau</placeName>
                         <placeName type="pref">krakau</placeName>

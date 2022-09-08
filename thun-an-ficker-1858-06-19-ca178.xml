@@ -85,21 +85,18 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="ludwig-alfred">
+    <back><listPerson><person xml:id="jahn-eduard">
                         <persName>
-                            <surname>Ludwig</surname>
-                            <forename>Alfred</forename>
+                            <surname>Jahn</surname>
+                            <forename>Eduard</forename>
                         </persName>
                         <note>
-                            <p>Wien 1832–1912 Prag</p>
-                            <p>Indologe und Sprachwissenschaftler, ab 1860 Prof. der klass.
-                                Philologie und vergleichenden Sprachkunde an der Universität Prag,
-                                Schüler von Hermann Bonitz</p>
-                            <p>https://d-nb.info/gnd/118973061</p>
+                            <p/>
+                            <p>Schulbuchautor und Lehrer am Gymnasium in der Kleinseite in Prag</p>
+                            <p/>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/118973061</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-06-15-a3-xxi-d453.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="ficker-julius">
                         <persName>
                             <surname>Ficker</surname>
@@ -130,18 +127,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/102072353</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-06-15-a3-xxi-d453.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 2. August 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-08-02-a3-xxi-d464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Pebal an einen Ministerialrat im Ministerium für Kultus und Unterricht, Lemberg, 16. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pebal-an-einen-ministerialrat-1860-01-16-a3-xxi-d549.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 2. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-06-02-a3-xxi-d380.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 9. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-09-ca186.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="jahn-eduard">
-                        <persName>
-                            <surname>Jahn</surname>
-                            <forename>Eduard</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Schulbuchautor und Lehrer am Gymnasium in der Kleinseite in Prag</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-06-15-a3-xxi-d453.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="wildauer-tobias">
                         <persName>
                             <surname>Wildauer</surname>
@@ -158,6 +143,21 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/117379735</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-06-15-a3-xxi-d453.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-01-19-a3-xxi-d551.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 28. Januar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1858-01-28-a3-xxi-d445.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 2. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1860-01-02-a3-xxi-d544.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="ludwig-alfred">
+                        <persName>
+                            <surname>Ludwig</surname>
+                            <forename>Alfred</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1832–1912 Prag</p>
+                            <p>Indologe und Sprachwissenschaftler, ab 1860 Prof. der klass.
+                                Philologie und vergleichenden Sprachkunde an der Universität Prag,
+                                Schüler von Hermann Bonitz</p>
+                            <p>https://d-nb.info/gnd/118973061</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118973061</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>

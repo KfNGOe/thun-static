@@ -79,22 +79,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="grauert-heinrich">
-                        <persName>
-                            <surname>Grauert</surname>
-                            <forename>Heinrich Wilhelm</forename>
-                        </persName>
-                        <note>
-                            <p>Amsterdam 1804–1852 Wien</p>
-                            <p>Historiker und klass. Philologe, ab 1827 Prof. für Geschichte und
-                                Altertumswissenschaft an der Akademie zu Münster, 1850–1852 Prof.
-                                für Geschichte an der Universität Wien</p>
-                            <p>https://d-nb.info/gnd/116824441</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/116824441</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="kopp-josef">
+    <back><listPerson><person xml:id="kopp-josef">
                         <persName>
                             <surname>Kopp</surname>
                             <forename>Josef Eutych</forename>
@@ -124,6 +109,21 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/1023724472</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 17. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun, Wien, o. D. [September 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [August/September 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Wenzig an Leo Thun, Prag, 5. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="grauert-heinrich">
+                        <persName>
+                            <surname>Grauert</surname>
+                            <forename>Heinrich Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Amsterdam 1804–1852 Wien</p>
+                            <p>Historiker und klass. Philologe, ab 1827 Prof. für Geschichte und
+                                Altertumswissenschaft an der Akademie zu Münster, 1850–1852 Prof.
+                                für Geschichte an der Universität Wien</p>
+                            <p>https://d-nb.info/gnd/116824441</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/116824441</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>

@@ -316,33 +316,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="goethe-johann-wolfgang">
-                        <persName>
-                            <surname>Goethe</surname>
-                            <forename>Johann Wolfgang</forename>
-                        </persName>
-                        <note>
-                            <p>Frankfurt a. Main 1749–1832 Weimar</p>
-                            <p>Dichter</p>
-                            <p>https://d-nb.info/gnd/118540238</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118540238</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="grillparzer-franz">
-                        <persName>
-                            <surname>Grillparzer</surname>
-                            <forename>Franz</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1791–1872 Wien</p>
-                            <p>Schriftsteller, Dichter und Dramatiker</p>
-                            <p>https://d-nb.info/gnd/118542192</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118542192</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="mozart-joseph">
+    <back><listPerson><person xml:id="mozart-joseph">
                         <persName>
                             <surname>Mozart</surname>
                             <forename>Joseph</forename>
@@ -359,6 +333,19 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/1023724472</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschriften von Auszügen aus verschiedenen Memoranden zum Studienwesen in Italien, zusammengestellt von Gustav Heider o. O., [1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/auszuege-ueber-studienwesen-italien-von-heider-1853-a3-xxi-d249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Venedig, 28. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1857-07-28-a3-xxi-d428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 17. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun, Wien, o. D. [September 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [August/September 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Wenzig an Leo Thun, Prag, 5. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="grillparzer-franz">
+                        <persName>
+                            <surname>Grillparzer</surname>
+                            <forename>Franz</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1791–1872 Wien</p>
+                            <p>Schriftsteller, Dichter und Dramatiker</p>
+                            <p>https://d-nb.info/gnd/118542192</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118542192</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="herder-johann-gottfried">
                         <persName>
                             <surname>Herder</surname>
@@ -384,6 +371,19 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118607626</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="goethe-johann-wolfgang">
+                        <persName>
+                            <surname>Goethe</surname>
+                            <forename>Johann Wolfgang</forename>
+                        </persName>
+                        <note>
+                            <p>Frankfurt a. Main 1749–1832 Weimar</p>
+                            <p>Dichter</p>
+                            <p>https://d-nb.info/gnd/118540238</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118540238</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>

@@ -82,14 +82,7 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
-                        <placeName>Treviso</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.66673 12.2416</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3165201</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giovanni Antonio Farina an Leo Thun, Treviso, 20. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 1. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -118,5 +111,12 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/11885402X</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Giovanni Antonio Farina an Leo Thun, Treviso, 20. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPerson><listPlace><place xml:id="place_9fa41ec12d99720833b10d3a9ab6a5cb">
+                        <placeName>Treviso</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.66673 12.2416</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3165201</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giovanni Antonio Farina an Leo Thun, Treviso, 20. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/farina-an-thun-1853-12-20-a3-xxi-d310.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 1. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Giovanni Antonio Farina, Treviso, 11. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-farina-1860-02-11-a3-xxi-d561.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Übersicht der Erlässe zur Organisation der Gymnasien in Lombardo-Venetien von Joseph Mozart o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/uebersicht-der-erlaesse-zur-organisation-der-gymnasien-o-d-a3-xxi-d181.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

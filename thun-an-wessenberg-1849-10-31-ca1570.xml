@@ -85,24 +85,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="warnkoenig-leopold-august">
-                        <persName>
-                            <surname>Warnkönig</surname>
-                            <forename>Leopold August</forename>
-                        </persName>
-                        <note>
-                            <p>Bruchsal 1794–1866 Stuttgart</p>
-                            <p>ab 1817 Prof. für römisches Recht und Naturrecht an der Universität
-                                Lüttich, 1827–1830 Prof. an der Universität Löwen, 1830–1836 Prof.
-                                an der Universität Gent, 1836–1844 Prof. für Natur-, Staats- und
-                                Völkerrecht an der Universität Freiburg, 1844–1856 Prof. des
-                                Kirchenrechts an der Universität Tübingen</p>
-                            <p>https://d-nb.info/gnd/117142379</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/117142379</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Anton Hye von Gluneck, o. O., 25. Oktober [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1849-10-25-ca928.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Johann Philipp Wessenberg, Wien, 31. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-wessenberg-1849-10-31-ca1570.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -131,6 +114,23 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/115670475</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Johann Philipp Wessenberg, Wien, 31. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-wessenberg-1849-10-31-ca1570.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 6. [August] 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Freiburg im Breisgau, 2. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1855-04-02-a3-xxi-d337.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="warnkoenig-leopold-august">
+                        <persName>
+                            <surname>Warnkönig</surname>
+                            <forename>Leopold August</forename>
+                        </persName>
+                        <note>
+                            <p>Bruchsal 1794–1866 Stuttgart</p>
+                            <p>ab 1817 Prof. für römisches Recht und Naturrecht an der Universität
+                                Lüttich, 1827–1830 Prof. an der Universität Löwen, 1830–1836 Prof.
+                                an der Universität Gent, 1836–1844 Prof. für Natur-, Staats- und
+                                Völkerrecht an der Universität Freiburg, 1844–1856 Prof. des
+                                Kirchenrechts an der Universität Tübingen</p>
+                            <p>https://d-nb.info/gnd/117142379</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/117142379</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Anton Hye von Gluneck, o. O., 25. Oktober [1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1849-10-25-ca928.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Johann Philipp Wessenberg, Wien, 31. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-wessenberg-1849-10-31-ca1570.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
                         <placeName>Wien</placeName>
                         <placeName type="alt">Wiener</placeName>

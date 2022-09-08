@@ -99,23 +99,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="wattenbach-wilhelm">
-                        <persName>
-                            <surname>Wattenbach</surname>
-                            <forename>Wilhelm</forename>
-                        </persName>
-                        <note>
-                            <p>Rantzau 1819–1897 Frankfurt</p>
-                            <p>ab 1843 Mitarbeiter bei der Monumenta Germaniae Historica, 1851
-                                Privatdozent an der Universität Berlin, 1855 Provinzialarchivar in
-                                Breslau, ab 1862 Prof. an der Universität Heidelberg, ab 1873 Prof.
-                                für Historische Hilfswissenschaften an der Universität Berlin</p>
-                            <p>https://d-nb.info/gnd/117151386</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/117151386</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Wilhelm Wattenbach an Leo Thun, Berlin, 22. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wattenbach-an-thun-1850-06-22-a3-xxi-d58.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="exner-franz">
+    <back><listPerson><person xml:id="exner-franz">
                         <persName>
                             <surname>Exner</surname>
                             <forename>Franz Serafin</forename>
@@ -131,6 +115,22 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116319410</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 4. Februar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-02-04-a3-xxi-d446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Michael Josef Fesl an Leo Thun, Wien, 3. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fesl-an-thun-1850-05-03-a3-xxi-d48.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Kronstadt, 14. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-05-14-a3-xxi-d51.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-07-12-a3-xxi-d61.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 11. März 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1852-03-11-a3-xxi-d159.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 19. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-19-ca78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Prag, 11. April 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1849-04-11-ca813.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 24. August [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-08-24-ca79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O. [Wien], 31. August [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-08-31-ca80.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Hietzing, 22. September [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-09-22-ca81.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [April 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1853-ca83.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner o. O., o. D. [August/September 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Gregor Zeithammer, Wien, 8. August o. J. [post Mai 1850–ante Oktober 1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-08-08-ca992.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Gregor Zeithammer, Wien, 1. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-1850-08-01-ca989.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns über einige Fragen der Universitätsreform o. O., o. D. [1852/53]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-universitaeten-1852-a3-xxi-d184.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wilhelm Wattenbach an Leo Thun, Berlin, 22. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wattenbach-an-thun-1850-06-22-a3-xxi-d58.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Wenzig an Leo Thun, Prag, 5. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="wattenbach-wilhelm">
+                        <persName>
+                            <surname>Wattenbach</surname>
+                            <forename>Wilhelm</forename>
+                        </persName>
+                        <note>
+                            <p>Rantzau 1819–1897 Frankfurt</p>
+                            <p>ab 1843 Mitarbeiter bei der Monumenta Germaniae Historica, 1851
+                                Privatdozent an der Universität Berlin, 1855 Provinzialarchivar in
+                                Breslau, ab 1862 Prof. an der Universität Heidelberg, ab 1873 Prof.
+                                für Historische Hilfswissenschaften an der Universität Berlin</p>
+                            <p>https://d-nb.info/gnd/117151386</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/117151386</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Wilhelm Wattenbach an Leo Thun, Berlin, 22. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wattenbach-an-thun-1850-06-22-a3-xxi-d58.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
