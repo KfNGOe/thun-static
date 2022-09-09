@@ -95,7 +95,34 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
+    <back><listPerson><person xml:id="philippsberg-eugen">
+                        <persName>
+                            <surname>Philippsberg</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1893</p>
+                            <p>österr. Legationsrat, 1851–1855 Gesandter in Karlsruhe</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="winkler-anton">
+                        <persName>
+                            <surname>Winkler</surname>
+                            <forename>Anton</forename>
+                        </persName>
+                        <note>
+                            <p>Riegel am Kaiserstuhl 1821–1892 Semmeringpass</p>
+                            <p>ab 1847 Assistent der Mathematik am Polytechnikum in Karlsruhe,
+                                1853–1859 Prof. der praktischen Geometrie am Polytechnikum in Brünn,
+                                1858–1866 Prof. für höhere Mathematik am Joanneum in Graz</p>
+                            <p>https://d-nb.info/gnd/110341449</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/110341449</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kolenati-an-thun_1856-10-15_a3-xxi-d390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_e9cd6cbbbc3248f7a69252439ba3d6e6">
                         <placeName>Frankfurt am Main</placeName>
                         <placeName type="pref">Frankfurt a. M.</placeName>
                         <placeName type="alt">Frankfurt a. M.</placeName>
@@ -119,32 +146,5 @@
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift des Artikels „Die evangelische Kirche Deutschlands und ihre
                 Lebensfragen im Jahr 1849“ eines nicht genannten Autors aus der Allgemeinen
                 Kirchenzeitung, 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-allgemeine-kirchenzeitung_1850_a3-xxi-d91.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 8. August 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Zell an Leo Thun, Heidelberg, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zell-an-thun-1849-12-31-a3-xxi-d21.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="winkler-anton">
-                        <persName>
-                            <surname>Winkler</surname>
-                            <forename>Anton</forename>
-                        </persName>
-                        <note>
-                            <p>Riegel am Kaiserstuhl 1821–1892 Semmeringpass</p>
-                            <p>ab 1847 Assistent der Mathematik am Polytechnikum in Karlsruhe,
-                                1853–1859 Prof. der praktischen Geometrie am Polytechnikum in Brünn,
-                                1858–1866 Prof. für höhere Mathematik am Joanneum in Graz</p>
-                            <p>https://d-nb.info/gnd/110341449</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/110341449</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kolenati-an-thun_1856-10-15_a3-xxi-d390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="philippsberg-eugen">
-                        <persName>
-                            <surname>Philippsberg</surname>
-                            <forename>Eugen</forename>
-                        </persName>
-                        <note>
-                            <p>1801–1893</p>
-                            <p>österr. Legationsrat, 1851–1855 Gesandter in Karlsruhe</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Philippsberg an Friedrich Thun, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/philippsberg-an-thun-friedrich-1851-11-14-a3-xxi-d129a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Eugen Philippsberg, Karlsruhe, 14. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPlace></back></text>
 </TEI>

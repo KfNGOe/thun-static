@@ -54,19 +54,7 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_06929365a95f6fe8db033da195ee7498">
-                        <placeName>Przemyśl</placeName>
-                        <placeName type="alt">Przemysler</placeName>
-                        <placeName type="alt">Przemyśler</placeName>
-                        <placeName type="alt">Peremyschl</placeName>
-                        <placeName type="alt">Peremyszler</placeName>
-                        <placeName type="alt">Przemysl</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.78345 22.78424</geo>
-                        </location>
-                        <idno>https://www.geonames.org/7530748</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Franciszek Ksawery Wierzchleyski, Przemysl, 8. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jan Szlachtowski an Leo Thun, Lemberg, 1. November 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szlachtowski-an-thun-1849-11-01-a3-xxi-d13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="wierzchlejski-franciszek">
+    <back><listPerson><person xml:id="wierzchlejski-franciszek">
                         <persName>
                             <surname>Wierzchlejski</surname>
                             <forename>Franciszek Ksawery</forename>
@@ -78,5 +66,17 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Franciszek Ksawery Wierzchleyski, Przemysl, 8. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPerson><listPlace><place xml:id="place_06929365a95f6fe8db033da195ee7498">
+                        <placeName>Przemyśl</placeName>
+                        <placeName type="alt">Przemysler</placeName>
+                        <placeName type="alt">Przemyśler</placeName>
+                        <placeName type="alt">Peremyschl</placeName>
+                        <placeName type="alt">Peremyszler</placeName>
+                        <placeName type="alt">Przemysl</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.78345 22.78424</geo>
+                        </location>
+                        <idno>https://www.geonames.org/7530748</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hirtenbrief von Bischof Franciszek Ksawery Wierzchleyski, Przemysl, 8. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hirtenbrief-von-wierzchleyski-1854-11-08-a3-xxi-d297.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jan Szlachtowski an Leo Thun, Lemberg, 1. November 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szlachtowski-an-thun-1849-11-01-a3-xxi-d13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

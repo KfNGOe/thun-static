@@ -89,7 +89,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="pauline-von-wuerttemberg">
+                        <persName>
+                            <surname>Pauline von Württemberg</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>Stuttgart 1810–1856 Wiesbaden</p>
+                            <p>Herzogin von Nassau, seit April 1829 Gattin von Herzog Wilhelm I. von
+                                Nassau</p>
+                            <p>https://d-nb.info/gnd/121571289</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/121571289</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis-1854-a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 12. August 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1851-08-12-a3-xxi-d120.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1854-12-01-a3-xxi-d305.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -119,20 +133,6 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/117328448</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis-1854-a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 12. August 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1851-08-12-a3-xxi-d120.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1854-12-01-a3-xxi-d305.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="pauline-von-wuerttemberg">
-                        <persName>
-                            <surname>Pauline von Württemberg</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Stuttgart 1810–1856 Wiesbaden</p>
-                            <p>Herzogin von Nassau, seit April 1829 Gattin von Herzog Wilhelm I. von
-                                Nassau</p>
-                            <p>https://d-nb.info/gnd/121571289</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/121571289</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis-1854-a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 12. August 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1851-08-12-a3-xxi-d120.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Schliephake an Leo Thun, Wiesbaden, 1. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schliephake-an-thun-1854-12-01-a3-xxi-d305.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_361e734b7e9d674efb5e3ac441e2c149" type="placeName">
                         <placeName type="pref">Belgien</placeName>

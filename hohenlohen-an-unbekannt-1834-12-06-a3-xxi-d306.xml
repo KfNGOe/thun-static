@@ -154,22 +154,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="job">
-                        <persName>
-                            <surname>Job</surname>
-                            <forename>Franz Sebastian</forename>
-                        </persName>
-                        <note>
-                            <p>Neuenburg vor dem Walde 1767–1834 Wien</p>
-                            <p>1791 Priesterweihe, ab 1797 Lehrer am Lyzeum in Regensburg,
-                                Beichtvater von Karolina Augusta von Bayern, ab 1816 nach deren
-                                Verheiratung mit Franz II./I. Hofkaplan</p>
-                            <p>https://d-nb.info/gnd/172039401</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/172039401</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="wittmann-georg">
+    <back><listPerson><person xml:id="wittmann-georg">
                         <persName>
                             <surname>Wittmann</surname>
                             <forename>Georg Michael</forename>
@@ -181,44 +166,6 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/134085388</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="berghold">
-                        <persName>
-                            <surname>Berghold</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p/>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="schlund-karl">
-                        <persName>
-                            <surname>Schlund</surname>
-                            <forename>Karl</forename>
-                        </persName>
-                        <note>
-                            <p>Wallerstein 1773–1817</p>
-                            <p>katholischer Pfarrer</p>
-                            <p>https://d-nb.info/gnd/135872685</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/135872685</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="sailer-johann">
-                        <persName>
-                            <surname>Sailer</surname>
-                            <forename>Johann Michael</forename>
-                        </persName>
-                        <note>
-                            <p>Aresing 1751–1832 Regensburg</p>
-                            <p>ab 1829 Bischof von Regensburg</p>
-                            <p>https://d-nb.info/gnd/118604872</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118604872</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="hohenlohe-waldenburg-schillingfuerst-alexander">
                         <persName>
@@ -233,6 +180,59 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118861484</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="sailer-johann">
+                        <persName>
+                            <surname>Sailer</surname>
+                            <forename>Johann Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Aresing 1751–1832 Regensburg</p>
+                            <p>ab 1829 Bischof von Regensburg</p>
+                            <p>https://d-nb.info/gnd/118604872</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118604872</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="job">
+                        <persName>
+                            <surname>Job</surname>
+                            <forename>Franz Sebastian</forename>
+                        </persName>
+                        <note>
+                            <p>Neuenburg vor dem Walde 1767–1834 Wien</p>
+                            <p>1791 Priesterweihe, ab 1797 Lehrer am Lyzeum in Regensburg,
+                                Beichtvater von Karolina Augusta von Bayern, ab 1816 nach deren
+                                Verheiratung mit Franz II./I. Hofkaplan</p>
+                            <p>https://d-nb.info/gnd/172039401</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/172039401</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="schlund-karl">
+                        <persName>
+                            <surname>Schlund</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Wallerstein 1773–1817</p>
+                            <p>katholischer Pfarrer</p>
+                            <p>https://d-nb.info/gnd/135872685</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/135872685</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="berghold">
+                        <persName>
+                            <surname>Berghold</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
+                            <p/>
+                            <p/>
+                        </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_11040f2c1312651fcf9e8c9ca1af8cd7">
                         <placeName>Oradea</placeName>

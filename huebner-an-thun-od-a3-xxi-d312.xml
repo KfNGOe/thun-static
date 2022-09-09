@@ -75,7 +75,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="tischendorf-constantin">
+                        <persName>
+                            <surname>Tischendorf</surname>
+                            <forename>Konstantin</forename>
+                        </persName>
+                        <note>
+                            <p>Lengenfeld 1815–1874 Leipzig</p>
+                            <p>evang. Theologe, ab 1851 Honorarprof. an der Universität Leipzig,
+                                1859 Prof. für Theologie und biblische Paläographie</p>
+                            <p>https://d-nb.info/gnd/118622900</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118622900</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hübner an Leo Thun, Wien, o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-od-a3-xxi-d312.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Tischendorf an Leo Thun, Leipzig, 17. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -107,20 +121,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/117045225</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hübner an Leo Thun, Paris, 16. Oktober 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1855-10-16-a3-xxi-d351.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alexander Hübner an Leo Thun, Wien, o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-od-a3-xxi-d312.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Wien, 31. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1860-01-31-a3-xxi-d553.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen Leo Thuns zu den Verhältnissen in Ungarn o. O., November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-ungarischen-verhaeltnisse_1859-11_a3-xxi-d527.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="tischendorf-constantin">
-                        <persName>
-                            <surname>Tischendorf</surname>
-                            <forename>Konstantin</forename>
-                        </persName>
-                        <note>
-                            <p>Lengenfeld 1815–1874 Leipzig</p>
-                            <p>evang. Theologe, ab 1851 Honorarprof. an der Universität Leipzig,
-                                1859 Prof. für Theologie und biblische Paläographie</p>
-                            <p>https://d-nb.info/gnd/118622900</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118622900</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hübner an Leo Thun, Wien, o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-od-a3-xxi-d312.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Tischendorf an Leo Thun, Leipzig, 17. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
                         <placeName>Wien</placeName>
                         <placeName type="alt">Wiener</placeName>

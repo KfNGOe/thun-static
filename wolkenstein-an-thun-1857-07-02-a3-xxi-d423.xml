@@ -175,7 +175,23 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPlace><place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
+                        <placeName>Prunéřov</placeName>
+                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
+                        <placeName type="alt">Brunnersdorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.40067 13.27796</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3067382</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_37a6d7a71c4f7c2469e4f01b70dd90c2">
+                        <placeName>Kadaň</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.38333 13.26667</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3074020</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -218,21 +234,5 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118974742</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_856c6e6d864e89a9e54edf46d1f5a8b2">
-                        <placeName>Prunéřov</placeName>
-                        <placeName type="pref">Brunnersdorf [Prunéřov]</placeName>
-                        <placeName type="alt">Brunnersdorf</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.40067 13.27796</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3067382</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1850-12-02-a3-xxi-d78.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 19. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-05-19-a3-xxi-d116.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 24. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1851-11-24-a3-xxi-d132.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Schloss Ivano, 7. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1854-06-07-a3-xxi-d262.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_37a6d7a71c4f7c2469e4f01b70dd90c2">
-                        <placeName>Kadaň</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.38333 13.26667</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3074020</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karl Wolkenstein an Leo Thun, Brunnersdorf, 2. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-1857-07-02-a3-xxi-d423.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace></back></text>
+                    </listPerson></back></text>
 </TEI>

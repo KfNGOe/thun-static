@@ -146,18 +146,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/119392488</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 17. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-07-17-a3-xxi-d597.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 8. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-11-08-a3-xxi-d623a3.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Maximilian Joseph Tarnóczy, Wien, 21. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tarnoczy-1860-11-21-ca844.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="gehlen-otto">
-                        <persName>
-                            <surname>Gehlen</surname>
-                            <forename>Otto</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>ab 1857 Lehrer am Gymnasium in Salzburg</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 17. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-07-17-a3-xxi-d597.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="ampferer-josef">
                         <persName>
                             <surname>Ampferer</surname>
@@ -167,6 +155,18 @@
                             <p/>
                             <p>Priester, bis 1860 Lehrer am Gymnasium in Pest, ab 1860 Lehrer am
                                 Gymnasium in Salzburg</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maximilian Tarnóczy an Leo Thun, Salzburg, 17. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-07-17-a3-xxi-d597.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="gehlen-otto">
+                        <persName>
+                            <surname>Gehlen</surname>
+                            <forename>Otto</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>ab 1857 Lehrer am Gymnasium in Salzburg</p>
                             <p/>
                             <p/>
                         </note>
