@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/indices" xml:id="cmfi.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="label">Correspondence Metadata Interchange Format für: Die Korrespondenz von Leo von Thun-Hohenstein</title>
+                <editor>Peter Andorfer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">Die Korrespondenz von Leo von Thun-Hohenstein</ref>
+                </publisher>
+                <date when="2022-09-08+02:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="handle">http://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
+                <idno type="url">https://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online">Die Korrespondenz von Leo von Thun-Hohenstein<ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">https://thun-korrespondenz.acdh.oeaw.ac.at</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+{% for x in data %}{% if x.doc_id %}
+        <correspDesc ref="{{ x.doc_id}}">
+                <correspAction type="sent">
+                    <persName ref="{{ x.ref_x }}">{{ x.name_x }}</persName>
+                    <placeName ref="{{ x.ref}}">{{ x.name }}</placeName>
+                    {% if x.date %}<date when="{{ x.date }}">{{ x.date }}</date>{% endif %}
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="{{ x.ref_y }}">{{ x.name_y }}</persName>
+                </correspAction>
+            </correspDesc>{% endif %}
+{% endfor %}
+
+        </profileDesc>
+        </teiHeader>
+    <text>
+        <body>
+            <p>some text</p>
+        </body>
+    </text>
+</TEI>
