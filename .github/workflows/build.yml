@@ -26,12 +26,12 @@ jobs:
     - name: Fetch the Data
       run: |
         ./fetch_data.sh
-    - name: denormalize indices
-      run: |
-        ./denormalize_indices.sh
     - name: update cmif
       run: |
         python make_cmif.py
+    - name: denormalize indices
+      run: |
+        ./denormalize_indices.sh
     - name: Build Edition HTMLS
       run: |
         ant
