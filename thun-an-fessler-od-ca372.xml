@@ -75,7 +75,24 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="fessler-joseph">
+                        <persName>
+                            <surname>Fessler</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p>Lochau 1813–1872 St. Pölten</p>
+                            <p>ab 1841 Dozent des Kirchenrechts und der Kirchengeschichte am
+                                Priesterseminar in Brixen, ab 1852 Prof. der Kirchengeschichte an
+                                der Universität Wien, ab 1856 Prof. des Kirchenrechts an der
+                                Universität Wien, ab 1862 Generalvikar und Weihbischof von
+                                Vorarlberg, ab 1864 Bischof von St. Pölten</p>
+                            <p>https://d-nb.info/gnd/187122733</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/187122733</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Joseph Alexander Helfert, Brixen, 9. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-helfert-1857-08-09-a3-xxi-d429.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Leo Thun, Rom, 5. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-thun-1856-05-05-a3-xxi-d379.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 18. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-04-18-a3-xxi-d576.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Schenach an Leo Thun, Innsbruck, 20. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schenach-an-thun-1857-04-20-a3-xxi-d414.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Fessler o. O., o. D. [1860?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-fessler-od-ca372.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 2. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-04-02-ca826.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -103,22 +120,5 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118625586</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Übersicht über Maßnahmen zur Förderung der unierten Kirche, Wien, 16. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/besprechung-unierte-kirchen-1858-06-16-a3-xxi-d454.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Fessler o. O., o. D. [1860?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-fessler-od-ca372.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="fessler-joseph">
-                        <persName>
-                            <surname>Fessler</surname>
-                            <forename>Joseph</forename>
-                        </persName>
-                        <note>
-                            <p>Lochau 1813–1872 St. Pölten</p>
-                            <p>ab 1841 Dozent des Kirchenrechts und der Kirchengeschichte am
-                                Priesterseminar in Brixen, ab 1852 Prof. der Kirchengeschichte an
-                                der Universität Wien, ab 1856 Prof. des Kirchenrechts an der
-                                Universität Wien, ab 1862 Generalvikar und Weihbischof von
-                                Vorarlberg, ab 1864 Bischof von St. Pölten</p>
-                            <p>https://d-nb.info/gnd/187122733</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/187122733</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Joseph Alexander Helfert, Brixen, 9. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-helfert-1857-08-09-a3-xxi-d429.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Fessler an Leo Thun, Rom, 5. Mai 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fessler-an-thun-1856-05-05-a3-xxi-d379.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 18. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-04-18-a3-xxi-d576.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Schenach an Leo Thun, Innsbruck, 20. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schenach-an-thun-1857-04-20-a3-xxi-d414.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Fessler o. O., o. D. [1860?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-fessler-od-ca372.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 2. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-04-02-ca826.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>

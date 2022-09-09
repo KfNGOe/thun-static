@@ -106,7 +106,19 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="franz-I-II">
+    <back><listPerson><person xml:id="angern-eveline">
+                        <persName>
+                            <surname>Angern</surname>
+                            <forename>Eveline</forename>
+                        </persName>
+                        <note>
+                            <p>1793–1865</p>
+                            <p>Tochter des preuß. Ministers Ludolph Angern</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="franz-I-II">
                         <persName>
                             <surname>Franz I./II.</surname>
                             <forename/>
@@ -121,30 +133,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118534955</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Georg Paul Binder an Kaiser Franz Joseph, Wien, 9. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/binder-an-kaiser-1854-05-09-a3-xxi-d259.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sammelakt zur Neuregelung der Ehegesetze (Konkordat) 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-neuregelung-ehegesetz-1855-a3-xxi-d360.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slaviček an Leo Thun, Königgrätz, 12. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1853-03-12-a3-xxi-d194.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Votum von Ministerialsekretär Joseph Andreas Zimmermann zur Frage der Organisation der evangelischen Kirche in Ungarn, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zimmermann-ueber-organisation-evangelische-kirche-ungarn-1852-08-26-a3-xxi-d172.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="angern-agnes">
-                        <persName>
-                            <surname>Angern</surname>
-                            <forename>Agnes</forename>
-                        </persName>
-                        <note>
-                            <p>1799–1885</p>
-                            <p>Tochter des preuß. Ministers Ludolph Angern</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="angern-eveline">
-                        <persName>
-                            <surname>Angern</surname>
-                            <forename>Eveline</forename>
-                        </persName>
-                        <note>
-                            <p>1793–1865</p>
-                            <p>Tochter des preuß. Ministers Ludolph Angern</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="ferdinand-I-oesterreich">
                         <persName>
                             <surname>Ferdinand I. (Österreich)</surname>
@@ -159,6 +147,18 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118686747</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>diktiertes Konzept von Leo Thun o. O., o. D. [1849] Leo Thun</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/konzept-thuns-uber-zustande-in-prag-1849-a3-xxi-d22.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Castelfondo, 12. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-08-12-a3-xxi-d224.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="angern-agnes">
+                        <persName>
+                            <surname>Angern</surname>
+                            <forename>Agnes</forename>
+                        </persName>
+                        <note>
+                            <p>1799–1885</p>
+                            <p>Tochter des preuß. Ministers Ludolph Angern</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_7eef7c3b9d998a84340b9946b8a093c8">
                         <placeName>Kropfsberg</placeName>
                         <location>

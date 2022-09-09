@@ -148,81 +148,57 @@
             </div>
         </body>
         
-    <back><listPerson><person xml:id="grujic-nicanor">
+    <back><listPerson><person xml:id="epaminondas">
                         <persName>
-                            <surname>Grujic</surname>
-                            <forename>Nicanor</forename>
-                        </persName>
-                        <note>
-                            <p>Lippó 1810–1887 Pakrac</p>
-                            <p>ab 1864 serbisch-orthodoxer Bischof von Pakrac</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="demosthenes">
-                        <persName>
-                            <surname>Demosthenes</surname>
+                            <surname>Epaminondas</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>384–322 v. Chr. Kalaureia</p>
-                            <p>griech. Staatsmann und Redner</p>
-                            <p>https://d-nb.info/gnd/118593234</p>
+                            <p>Theben um 418–362 v. Chr. bei Mantineia</p>
+                            <p>griechischer Staatsmann und Feldherr</p>
+                            <p>https://d-nb.info/gnd/100763081</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/118593234</idno>
+                        <idno type="URL">https://d-nb.info/gnd/100763081</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="jankovic-stojan">
+                    <person xml:id="leonidas">
                         <persName>
-                            <surname>Janković</surname>
-                            <forename>Stojan</forename>
-                        </persName>
-                        <note>
-                            <p>1636–1687</p>
-                            <p>1669–1687 Kommandeur der dalmatinisch-serbischen Armee</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="perikles">
-                        <persName>
-                            <surname>Perikles</surname>
+                            <surname>Leonidas</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>um 490–429 v. Chr.</p>
-                            <p>Athenischer Staatsmann</p>
-                            <p>https://d-nb.info/gnd/103170510</p>
+                            <p>† 480 v. Chr. Thermopylen</p>
+                            <p>König von Sparta, Feldherr in der Schlacht bei den Thermopylen</p>
+                            <p>https://d-nb.info/gnd/11588078X</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/103170510</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="bigga-peter">
-                        <persName>
-                            <surname>Bigga</surname>
-                            <forename>Peter</forename>
-                        </persName>
-                        <note>
-                            <p>† Novi Sad</p>
-                            <p>Militär, Serbischer Nationalheld als Verdeidiger von Srboban gegen
-                                die Ungarn im Jahr 1849</p>
-                            <p/>
-                            <p/>
-                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/11588078X</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="cato-der-aeltere">
+                    <person xml:id="scipio">
                         <persName>
-                            <surname>Marcus Porcius Cato der Ältere</surname>
+                            <surname>Publius Cornelius Scipio Africanus</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>Tusculum 234–149 v. Chr. Rom</p>
+                            <p>Rom 235–183 v. Chr.</p>
                             <p>röm. Feldherr und Staatsmann</p>
-                            <p>https://d-nb.info/gnd/119834731</p>
+                            <p>https://d-nb.info/gnd/118612336</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/119834731</idno>
+                        <idno type="URL">https://d-nb.info/gnd/118612336</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="arminius">
+                        <persName>
+                            <surname>Arminius</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>um 17 v. Chr.–um 17 n. Chr.</p>
+                            <p>Fürst der Cherusker, Anführer der Germanen in der Varusschlacht</p>
+                            <p>https://d-nb.info/gnd/104572949</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/104572949</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="rotteck-karl">
                         <persName>
@@ -239,44 +215,44 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118603329</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Ernst Jarcke an Leo Thun, Wien, 7. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jarcke-an-thun-1852-08-07-a3-xxi-d171.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Neumann an Leo Thun, Wien, 21. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/neumann-an-thun-1850-09-21-a3-xxi-d71.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 6. [August] 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-06-a3-xxi-d347a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 8. August 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-08-a3-xxi-d347c.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="arminius">
+                    <person xml:id="horaz">
                         <persName>
-                            <surname>Arminius</surname>
+                            <surname>Horaz</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>um 17 v. Chr.–um 17 n. Chr.</p>
-                            <p>Fürst der Cherusker, Anführer der Germanen in der Varusschlacht</p>
-                            <p>https://d-nb.info/gnd/104572949</p>
+                            <p>Venusia 65–8 v. Chr.</p>
+                            <p>röm. Dichter</p>
+                            <p>https://d-nb.info/gnd/118553569</p>
+                            <p>(eigentl. Quintus Horatius Flaccus)</p>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118553569</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="demosthenes">
+                        <persName>
+                            <surname>Demosthenes</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>384–322 v. Chr. Kalaureia</p>
+                            <p>griech. Staatsmann und Redner</p>
+                            <p>https://d-nb.info/gnd/118593234</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/104572949</idno>
+                        <idno type="URL">https://d-nb.info/gnd/118593234</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="scipio">
+                    <person xml:id="cato-der-aeltere">
                         <persName>
-                            <surname>Publius Cornelius Scipio Africanus</surname>
+                            <surname>Marcus Porcius Cato der Ältere</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>Rom 235–183 v. Chr.</p>
+                            <p>Tusculum 234–149 v. Chr. Rom</p>
                             <p>röm. Feldherr und Staatsmann</p>
-                            <p>https://d-nb.info/gnd/118612336</p>
+                            <p>https://d-nb.info/gnd/119834731</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/118612336</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="epaminondas">
-                        <persName>
-                            <surname>Epaminondas</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Theben um 418–362 v. Chr. bei Mantineia</p>
-                            <p>griechischer Staatsmann und Feldherr</p>
-                            <p>https://d-nb.info/gnd/100763081</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/100763081</idno>
+                        <idno type="URL">https://d-nb.info/gnd/119834731</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="mark-aurel">
                         <persName>
@@ -290,6 +266,43 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118577468</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="jankovic-stojan">
+                        <persName>
+                            <surname>Janković</surname>
+                            <forename>Stojan</forename>
+                        </persName>
+                        <note>
+                            <p>1636–1687</p>
+                            <p>1669–1687 Kommandeur der dalmatinisch-serbischen Armee</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="grujic-nicanor">
+                        <persName>
+                            <surname>Grujic</surname>
+                            <forename>Nicanor</forename>
+                        </persName>
+                        <note>
+                            <p>Lippó 1810–1887 Pakrac</p>
+                            <p>ab 1864 serbisch-orthodoxer Bischof von Pakrac</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bigga-peter">
+                        <persName>
+                            <surname>Bigga</surname>
+                            <forename>Peter</forename>
+                        </persName>
+                        <note>
+                            <p>† Novi Sad</p>
+                            <p>Militär, Serbischer Nationalheld als Verdeidiger von Srboban gegen
+                                die Ungarn im Jahr 1849</p>
+                            <p/>
+                            <p/>
+                        </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="rajacic-joseph">
                         <persName>
@@ -306,32 +319,19 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/139772545</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Joseph Rajačić an Johann Dobran o. O., 23. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Schaguna an Joseph Rajačić, Hermannstadt, 27. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-rajacic-1850-07-27-a3-xxi-d63.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="leonidas">
+                    <person xml:id="perikles">
                         <persName>
-                            <surname>Leonidas</surname>
+                            <surname>Perikles</surname>
                             <forename/>
                         </persName>
                         <note>
-                            <p>† 480 v. Chr. Thermopylen</p>
-                            <p>König von Sparta, Feldherr in der Schlacht bei den Thermopylen</p>
-                            <p>https://d-nb.info/gnd/11588078X</p>
+                            <p>um 490–429 v. Chr.</p>
+                            <p>Athenischer Staatsmann</p>
+                            <p>https://d-nb.info/gnd/103170510</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/11588078X</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="horaz">
-                        <persName>
-                            <surname>Horaz</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Venusia 65–8 v. Chr.</p>
-                            <p>röm. Dichter</p>
-                            <p>https://d-nb.info/gnd/118553569</p>
-                            <p>(eigentl. Quintus Horatius Flaccus)</p>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118553569</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></person>
+                        <idno type="URL">https://d-nb.info/gnd/103170510</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_67c8655646f02446cc1e4ecffd769f79">
                         <placeName type="pref">Serbisch-Banater Wojwodschaft</placeName>
                         <placeName type="alt">Municipiul Timişoara</placeName>
@@ -352,22 +352,6 @@
                         </location>
                         <idno>https://www.geonames.org/3190169</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_ef6d1c7654009cfc1b61dfc613ce92bb" type="placeName">
-                        <placeName type="pref">Bacs</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.388611 19.235278</geo>
-                        </location>
-                        <idno>http://d-nb.info/gnd/4080288-7</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_958705244c5c71f1250c0c0d76838770">
-                        <placeName>Zemun</placeName>
-                        <placeName type="pref">Semlin</placeName>
-                        <placeName type="alt">Semlin</placeName>
-                        <location>
-                            <geo decls="#LatLng">44.84306 20.40111</geo>
-                        </location>
-                        <idno>https://www.geonames.org/783920</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_001191dc08dccefed6b8e2a8dc6867cd">
                         <placeName>Opština Sremski Karlovci</placeName>
                         <placeName type="pref">Karlowitz [Sremski Karlovci]</placeName>
@@ -383,6 +367,22 @@
                         </location>
                         <idno>https://www.geonames.org/3343730</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Plato Athanaczkovics an Leo Thun, Wien, 2. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/athanaczkovics-an-thun-1854-08-02-a3-xxi-d273.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand mit dem Titel "Die Slavische Propaganda mit besonderer Beziehung auf den Clerus der nicht unirten griechischen Kirche in Österreich" o. D. [post 1854]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-agitation-clerus-1860-a3-xxi-d654.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_958705244c5c71f1250c0c0d76838770">
+                        <placeName>Zemun</placeName>
+                        <placeName type="pref">Semlin</placeName>
+                        <placeName type="alt">Semlin</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.84306 20.40111</geo>
+                        </location>
+                        <idno>https://www.geonames.org/783920</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_ef6d1c7654009cfc1b61dfc613ce92bb" type="placeName">
+                        <placeName type="pref">Bacs</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.388611 19.235278</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4080288-7</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Abschrift eines Artikels aus der serbischen Zeitung Wojwodjanka, Semlin, 22. Mai 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/abschrift-artikel-serbische-zeitung-1851-05-22-a3-xxi-d117.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Jelačič an Leo Thun Wien, 25. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jelacic-an-thun-1849-10-25-a3-xxi-d11.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_04e247af5f0756ccf6fe2cd00be3e2aa">
                         <placeName>Kuveždin</placeName>
                         <location>

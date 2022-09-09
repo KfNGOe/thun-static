@@ -118,7 +118,14 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
+    <back><listPlace><place xml:id="place_be9bc4f1d4132613ae5591c9a750f467">
+                        <placeName>Rab</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.75694 14.76083</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3192178</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_001331e8b2651f9f78991538c3a7e594" type="placeName">
                         <placeName type="pref">Dalmazien</placeName>
                         <placeName type="alt">Dalmatien</placeName>
                         <location>
@@ -126,14 +133,21 @@
                         </location>
                         <idno>http://d-nb.info/gnd/4070200-5</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung der Vorschriften zur Bestreitung der Schulbaukosten in Österreich von Ludwig Heufler, Wien, 6. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufstellung-vorschriften-bestreitung-schulbaukosten-von-heufler-1853-05-06-a3-xxi-d203.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf einer Verordnung über die politische Geschäfts- und Richteramtspraxis und die entsprechenden Prüfungen o. O., 1853/54</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-verordnung-politische-geschaefts-und-richteramtspraxis_1854_a3-xxi-d317.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Notizen von Leo Thun zur Sprachenfrage bei den Gerichtsbehörden 1589</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/notizen-thun-sprachenfrage-gerichte_1859_a3-xxi-d525g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Joseph Rajačić an Johann Dobran o. O., 23. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran_1852-11-23_a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slaviček an Leo Thun, Königgrätz, 12. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1853-03-12-a3-xxi-d194.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_be9bc4f1d4132613ae5591c9a750f467">
-                        <placeName>Rab</placeName>
-                        <location>
-                            <geo decls="#LatLng">44.75694 14.76083</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3192178</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="franz-joseph">
+                    </listPlace><listPerson><person xml:id="maria-anna">
+                        <persName>
+                            <surname>Maria Anna von Savoyen</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>Rom 1803–1884 Prag</p>
+                            <p>seit 1831 Gattin von Erzherzog Ferdinand, ab 1835 Kaiserin von
+                                Österreich</p>
+                            <p>https://d-nb.info/gnd/119446707</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/119446707</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="franz-joseph">
                         <persName>
                             <surname>Franz Joseph I.</surname>
                             <forename/>
@@ -173,19 +187,5 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="maria-anna">
-                        <persName>
-                            <surname>Maria Anna von Savoyen</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Rom 1803–1884 Prag</p>
-                            <p>seit 1831 Gattin von Erzherzog Ferdinand, ab 1835 Kaiserin von
-                                Österreich</p>
-                            <p>https://d-nb.info/gnd/119446707</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/119446707</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>
