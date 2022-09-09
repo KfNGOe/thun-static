@@ -6,14 +6,14 @@ import jinja2
 
 from acdh_tei_pyutils.tei import TeiReader
 
-files = glob.glob('./editions/*-an-*.xml')
+files = glob.glob('./data/editions/*-an-*.xml')
 unbekannt = "unbekannt"
 nsmap = {
     'tei': "http://www.tei-c.org/ns/1.0",
     'xml': "http://www.w3.org/XML/1998/namespace",
     'tcf': "http://www.dspin.de/data/textcorpus"
 }
-doc = TeiReader('./indices/listperson.xml')
+doc = TeiReader('./data/indices/listperson.xml')
 
 persons = {}
 for x in doc.any_xpath('.//tei:person[@xml:id]'):
@@ -29,9 +29,9 @@ for x in doc.any_xpath('.//tei:person[@xml:id]'):
         "name": name
     }
 person_df = pd.DataFrame.from_dict(persons, orient='index')
-person_df.to_csv('./tmp/persons.csv', index=False)
+# person_df.to_csv('./tmp/persons.csv', index=False)
 
-doc = TeiReader('./indices/listplace.xml')
+doc = TeiReader('./data/indices/listplace.xml')
 places = {}
 for x in doc.any_xpath('.//tei:place[@xml:id]'):
     xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
