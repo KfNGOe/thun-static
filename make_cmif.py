@@ -98,5 +98,5 @@ data = []
 for i, row in df.iterrows():
     data.append(dict(row))
 
-with open(f'./indices/cmfi.xml', 'w') as f:
+with open(f'./data/indices/cmfi.xml', 'w') as f:
     f.write(template.render({"data": data}))
