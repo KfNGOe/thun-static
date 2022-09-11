@@ -177,62 +177,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="taraba-josef">
-                        <persName>
-                            <surname>Taraba</surname>
-                            <forename>Josef</forename>
-                        </persName>
-                        <note>
-                            <p>†1869</p>
-                            <p>Assistent für Botanik an der Universität Prag</p>
-                            <p>https://d-nb.info/gnd/127467440</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/127467440</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="komers-karl">
-                        <persName>
-                            <surname>Komers</surname>
-                            <forename>Karl</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Bezirkshauptmann von Nimburg</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="patruban-carl">
-                        <persName>
-                            <surname>Patruban</surname>
-                            <forename>Carl von</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1816–1880 Wien</p>
-                            <p>ab 1843 Prof. der Physiologie und Anatomie an der Universität
-                                Innsbruck, 1846–1848 Prof. der Physiologie an der Universität Prag,
-                                1848 Entzug der venia legendi</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="nadherny-ignaz">
-                        <persName>
-                            <surname>Nadherny</surname>
-                            <forename>Ignaz</forename>
-                        </persName>
-                        <note>
-                            <p>Prag 1789–1867 Prag</p>
-                            <p>Mediziner, Landesmedizinalrat und Sanitätsreferent für Böhmen, bis
-                                1850 Präses der med. Fakultät der Universität Prag, ab 1857
-                                Ministerialrat und Referent für die med. Studien im Ministerium für
-                                Kultus und Unterricht</p>
-                            <p>https://d-nb.info/gnd/121990745</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/121990745</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 18. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-04-18-a3-xxi-d373b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Prag, 17. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1853-04-17-a3-xxi-d202.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Interlaken, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1857-08-22-ca1425.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stellungnahme von Ignaz Nádherny zu den Folgen des Gesetzes zur Heeresergänzung für Medizinstudenten, Wien, 11. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-ueber-colloquien-militaerpflichtiger-medizinier-1859-12-11-a3-xxi-d530.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
+    <back><listPlace><place xml:id="place_e575530bd7a9cc03829dde0b8657f108">
                         <placeName>Prag</placeName>
                         <placeName type="alt">Prager</placeName>
                         <placeName type="alt">Prahy</placeName>
@@ -258,5 +203,60 @@
                         <orgName>Universität Prag</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/16149137-6</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Edgar Corberon an Leo Thun, Januševec, 20. Januar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 19. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1857-11-22-a3-xxi-d434.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wendelin Grünwald an Leo Thun, Prag, 7. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gruenwald-an-thun-1853-07-07-a3-xxi-d211.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Hahn an Leo Thun, Wien, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hahn-an-thun-1854-10-01-a3-xxi-d288.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Bamberg, 2. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1853-12-02-a3-xxi-d242.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 18. Februar 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1854-02-18-a3-xxi-d255.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 5. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1856-10-05-a3-xxi-d388.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 11. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1856-10-11-a3-xxi-d389.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Frantisek Kořínek an Leo Thun o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/korinek-an-thun-1853-a3-xxi-d247.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Lange und Georg Bippart an Leo Thun, Prag, 22. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1856-04-22-a3-xxi-d376.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 11. März 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1852-03-11-a3-xxi-d159.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 08. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-03-08-a3-xxi-d333.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 05. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-04-05-a3-xxi-d338.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 4. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-07-04-a3-xxi-d425.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ministerialerlass über die staatsrechtlichen Prüfungen an den österreichischen Universitäten 13. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ministerialerlass-staatspruefungen-1854-09-13-a3-xxi-d282.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 9. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1851-11-09-a3-xxi-d128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Aigen bei Salzburg, 8. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1854-09-08-a3-xxi-d280.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Wien, 4. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1857-06-04-a3-xxi-d417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Viktor Pierre an Leo Thun, Prag, 20. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pierre-an-thun-1858-05-20-a3-xxi-d452.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Purkinje an Leo Thun, Breslau, 22. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/purkinje-an-thun-1849-10-22-a3-xxi-d9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pavel Josef Šafařik an Leo Thun, Prag, 27. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/safarik-an-thun-1853-02-27-a3-xxi-d192.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an Leo Thun, Prag, 10. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-thun-1860-01-10-a3-xxi-d547.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 11. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-09-11-ca1128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg, Wien, 8. Februar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1858-02-08-ca1572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Pavel Josef Šafařik, Wien, 26. August 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1852-08-26-ca986.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Václav Vladivoi Tomek, Wien, 9. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, München, 5. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1849-10-05-a3-xxi-d7.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eigenhändige Notizen Leo Thuns über einige Fragen der Universitätsreform o. O., o. D. [1852/53]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-universitaeten-1852-a3-xxi-d184.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überlegungen zu einer Reform des Gehaltsschemas für Universitätsprofessoren o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberlegungen-zur-neuregulierung-der-professorengehaelter-od-a3-xxi-d649.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg></back></text>
+                    </listOrg><listPerson><person xml:id="nadherny-ignaz">
+                        <persName>
+                            <surname>Nadherny</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1789–1867 Prag</p>
+                            <p>Mediziner, Landesmedizinalrat und Sanitätsreferent für Böhmen, bis
+                                1850 Präses der med. Fakultät der Universität Prag, ab 1857
+                                Ministerialrat und Referent für die med. Studien im Ministerium für
+                                Kultus und Unterricht</p>
+                            <p>https://d-nb.info/gnd/121990745</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/121990745</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 18. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-04-18-a3-xxi-d373b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Prag, 17. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1853-04-17-a3-xxi-d202.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Interlaken, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1857-08-22-ca1425.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stellungnahme von Ignaz Nádherny zu den Folgen des Gesetzes zur Heeresergänzung für Medizinstudenten, Wien, 11. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlag-ueber-colloquien-militaerpflichtiger-medizinier-1859-12-11-a3-xxi-d530.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="komers-karl">
+                        <persName>
+                            <surname>Komers</surname>
+                            <forename>Karl</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Bezirkshauptmann von Nimburg</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="taraba-josef">
+                        <persName>
+                            <surname>Taraba</surname>
+                            <forename>Josef</forename>
+                        </persName>
+                        <note>
+                            <p>†1869</p>
+                            <p>Assistent für Botanik an der Universität Prag</p>
+                            <p>https://d-nb.info/gnd/127467440</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/127467440</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="patruban-carl">
+                        <persName>
+                            <surname>Patruban</surname>
+                            <forename>Carl von</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1816–1880 Wien</p>
+                            <p>ab 1843 Prof. der Physiologie und Anatomie an der Universität
+                                Innsbruck, 1846–1848 Prof. der Physiologie an der Universität Prag,
+                                1848 Entzug der venia legendi</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
 </TEI>

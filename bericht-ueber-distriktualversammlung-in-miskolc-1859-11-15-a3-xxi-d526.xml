@@ -206,53 +206,26 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="vay-nikolaus">
+    <back><listPerson><person xml:id="bernath-sigmund">
+                        <persName>
+                            <surname>Bernáth</surname>
+                            <forename>Sigmund</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="vay-daniel">
                         <persName>
                             <surname>Vay</surname>
-                            <forename>Nikolaus sen.</forename>
+                            <forename>Daniel</forename>
                         </persName>
                         <note>
-                            <p>Alsózsolca 1802–1894</p>
-                            <p>ungarischer Großgrundbesitzer und Politiker, 1860–1861 Hofkanzler,
-                                General-Inspektor der evangelisch-reformierten Kirche des
-                                Theiß-Gebietes und Präsident des evangelisch-reformierten
-                                Generalkonvents von Ungarn</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Depesche von Erzherzog Albrecht an Kaiser Franz Joseph, Ofen, 2. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-franz-joseph-1860-02-02-a3-xxi-d555.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über eine Konferenz mit den protestantischen Deputierten und Regierungsmitgliedern in der Angelegenheit der Protestanten in Ungarn [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-konferenz-in-protestantenangelegenheit-1860-a3-xxi-d559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kaiser Franz Joseph an Leo Thun o. O., 31. Januar</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kaiser-an-thun-01-31-a3-xxi-d634.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Meinhardt Lónyay an Ladislaus Szögyeny, Pest, 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Szögyény an Leo Thun o. O., 26. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Vay an Bernhard Rechberg-Rothenlöwen, Miskolc, 2. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="edes-albert">
-                        <persName>
-                            <surname>Èdes</surname>
-                            <forename>Albert</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Pastor</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="hegedues-ladislaus">
-                        <persName>
-                            <surname>Hegedüs</surname>
-                            <forename>Ladislaus</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Senior und Pfarrer in Sarospatak</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="dapsy">
-                        <persName>
-                            <surname>Dapsy</surname>
-                            <forename>k_A</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p/>
+                            <p>*Feslo Badasz 1820</p>
+                            <p>ungarischer Politiker, ab 1864 Obergespan des Komitats Szabolcs</p>
                             <p/>
                             <p/>
                         </note>
@@ -265,6 +238,18 @@
                         <note>
                             <p>Zsarnó 1802–1866 Pest</p>
                             <p>ab 1827 Lehrer am Gymnasium in Sárospatak, Prediger in Miskolcz</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="dapsy">
+                        <persName>
+                            <surname>Dapsy</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
                             <p/>
                             <p/>
                         </note>
@@ -283,14 +268,78 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="hegedues-ludwig">
+                    <person xml:id="apostol-paul">
                         <persName>
-                            <surname>Hegedüs</surname>
-                            <forename>Ludwig</forename>
+                            <surname>Apostol</surname>
+                            <forename>Paul</forename>
                         </persName>
                         <note>
                             <p/>
-                            <p>reformierter Senior</p>
+                            <p>Superintendent des Theißer Distrikts</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="hegedues-ladislaus">
+                        <persName>
+                            <surname>Hegedüs</surname>
+                            <forename>Ladislaus</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Senior und Pfarrer in Sarospatak</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="edes-albert">
+                        <persName>
+                            <surname>Èdes</surname>
+                            <forename>Albert</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Pastor</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="vay-nikolaus-junior">
+                        <persName>
+                            <surname>Vay</surname>
+                            <forename>Nikolaus</forename>
+                        </persName>
+                        <note>
+                            <p>*1830</p>
+                            <p>Bildhauer, Sohn von Nikolaus Vay sen.</p>
+                            <p>https://d-nb.info/gnd/117357545</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/117357545</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="vay-nikolaus">
+                        <persName>
+                            <surname>Vay</surname>
+                            <forename>Nikolaus sen.</forename>
+                        </persName>
+                        <note>
+                            <p>Alsózsolca 1802–1894</p>
+                            <p>ungarischer Großgrundbesitzer und Politiker, 1860–1861 Hofkanzler,
+                                General-Inspektor der evangelisch-reformierten Kirche des
+                                Theiß-Gebietes und Präsident des evangelisch-reformierten
+                                Generalkonvents von Ungarn</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Depesche von Erzherzog Albrecht an Kaiser Franz Joseph, Ofen, 2. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-franz-joseph-1860-02-02-a3-xxi-d555.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über eine Konferenz mit den protestantischen Deputierten und Regierungsmitgliedern in der Angelegenheit der Protestanten in Ungarn [Frühjahr 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-konferenz-in-protestantenangelegenheit-1860-a3-xxi-d559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kaiser Franz Joseph an Leo Thun o. O., 31. Januar</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kaiser-an-thun-01-31-a3-xxi-d634.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Meinhardt Lónyay an Ladislaus Szögyeny, Pest, 17. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ladislaus Szögyény an Leo Thun o. O., 26. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Vay an Bernhard Rechberg-Rothenlöwen, Miskolc, 2. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="nagy-gedeon">
+                        <persName>
+                            <surname>Nagy</surname>
+                            <forename>Gedeon</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Oberkurator</p>
                             <p/>
                             <p/>
                         </note>
@@ -321,50 +370,14 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="vay-daniel">
+                    <person xml:id="hegedues-ludwig">
                         <persName>
-                            <surname>Vay</surname>
-                            <forename>Daniel</forename>
-                        </persName>
-                        <note>
-                            <p>*Feslo Badasz 1820</p>
-                            <p>ungarischer Politiker, ab 1864 Obergespan des Komitats Szabolcs</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="nagy-gedeon">
-                        <persName>
-                            <surname>Nagy</surname>
-                            <forename>Gedeon</forename>
+                            <surname>Hegedüs</surname>
+                            <forename>Ludwig</forename>
                         </persName>
                         <note>
                             <p/>
-                            <p>Oberkurator</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="apostol-paul">
-                        <persName>
-                            <surname>Apostol</surname>
-                            <forename>Paul</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Superintendent des Theißer Distrikts</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="bernath-sigmund">
-                        <persName>
-                            <surname>Bernáth</surname>
-                            <forename>Sigmund</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p/>
+                            <p>reformierter Senior</p>
                             <p/>
                             <p/>
                         </note>
@@ -381,20 +394,28 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="vay-nikolaus-junior">
-                        <persName>
-                            <surname>Vay</surname>
-                            <forename>Nikolaus</forename>
-                        </persName>
-                        <note>
-                            <p>*1830</p>
-                            <p>Bildhauer, Sohn von Nikolaus Vay sen.</p>
-                            <p>https://d-nb.info/gnd/117357545</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/117357545</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+                    </listPerson><listPlace><place xml:id="place_bc5ba2d56dd2d620212f1bc23cebdf57">
+                        <placeName>Zemplín</placeName>
+                        <placeName type="pref">Zemplin</placeName>
+                        <placeName type="alt">Zemplin</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.43996 21.81012</geo>
+                        </location>
+                        <idno>https://www.geonames.org/723070</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_af35ec026fddf9c8c4ecda002507bd0e">
+                        <placeName>Miskolc</placeName>
+                        <placeName type="pref">miskolc</placeName>
+                        <placeName type="alt">Miskolcz’er</placeName>
+                        <placeName type="alt">Miskolcz</placeName>
+                        <placeName type="alt">Miskolczer</placeName>
+                        <placeName type="alt">Miskolz</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.1 20.78333</geo>
+                        </location>
+                        <idno>https://www.geonames.org/717582</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Vay an Bernhard Rechberg-Rothenlöwen, Miskolc, 2. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
                         <placeName>Wien</placeName>
                         <placeName type="alt">Wiener</placeName>
                         <placeName type="alt">Wiens</placeName>
@@ -437,26 +458,5 @@
                         </location>
                         <idno>https://www.geonames.org/2772400</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 2 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-knabenseminare-von-kleemann-1856-a3-xxi-d383a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 1. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 27. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-27-a3-xxi-d156b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Thomas Mitterndorfer an Leo Thun, Kremsmünster, 15. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mitterndorfer-an-thun-1852-04-15-a3-xxi-d163.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 16. Mai 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-05-16-a3-xxi-d345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Kaiser Franz Joseph, Linz, 18. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Strobach, Adalbert Stifter und Johann Kurz an Leo Thun, Linz, 24. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Gregor Zeithammer, o. O., 22. Juni o. J.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-06-22-ca991.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_af35ec026fddf9c8c4ecda002507bd0e">
-                        <placeName>Miskolc</placeName>
-                        <placeName type="pref">miskolc</placeName>
-                        <placeName type="alt">Miskolcz’er</placeName>
-                        <placeName type="alt">Miskolcz</placeName>
-                        <placeName type="alt">Miskolczer</placeName>
-                        <placeName type="alt">Miskolz</placeName>
-                        <location>
-                            <geo decls="#LatLng">48.1 20.78333</geo>
-                        </location>
-                        <idno>https://www.geonames.org/717582</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Leo Thun über die vertraulichen Besprechungen mit zwei protestantischen Vertrauensmännern o. O., 7. und 8. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-beratung-mit-protestanten-von-thun-und-nadasdy-1860-02-07-a3-xxi-d558.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufstellung betreffend die Einteilung der Superintendenzen der evangelischen Kirchen in Ungarn o. O., o. D. [1858]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/einteilung-superintendenzen-od-a3-xxi-d486.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Mikulas an Leo Thun, Pest, 16. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Staatsanwaltschaft von Kaschau an das Landesgericht von Kaschau, Kaschau [Košice], 16. Dezember 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/staatsanwaltschaft-kaschau-an-landesgericht-kaschau-1859-12-16-a3-xxi-d531.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Vay an Bernhard Rechberg-Rothenlöwen, Miskolc, 2. März 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vay-an-rechberg-rothenloewen-1860-03-02-a3-xxi-d564.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vorschläge der Einzuberufenden für die Beratung der evangelischen Kirchenordnung o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-beratung-evangelische-kirchenordnung-1850-a3-xxi-d98.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_bc5ba2d56dd2d620212f1bc23cebdf57">
-                        <placeName>Zemplín</placeName>
-                        <placeName type="pref">Zemplin</placeName>
-                        <placeName type="alt">Zemplin</placeName>
-                        <location>
-                            <geo decls="#LatLng">48.43996 21.81012</geo>
-                        </location>
-                        <idno>https://www.geonames.org/723070</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht über den Verlauf der Distriktualversammlung in Miskolc 15. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-distriktualversammlung-in-miskolc-1859-11-15-a3-xxi-d526.xml"/></linkGrp></event></listEvent></place>
                     </listPlace></back></text>
 </TEI>

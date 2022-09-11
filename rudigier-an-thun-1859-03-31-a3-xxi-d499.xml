@@ -82,7 +82,16 @@
             </div>
         </body>
         
-    <back><listPlace><place xml:id="place_907e6aad95b11593946e28f6e29860aa">
+    <back><listPlace><place xml:id="place_5dbeb093dbe8e51cab45bae7d9ca4b96">
+                        <placeName>Lambach</placeName>
+                        <placeName type="pref">lambach</placeName>
+                        <placeName type="alt">Lambacher</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.09253 13.86954</geo>
+                        </location>
+                        <idno>https://www.geonames.org/7872188</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_907e6aad95b11593946e28f6e29860aa">
                         <placeName>Linz</placeName>
                         <placeName type="pref">linz</placeName>
                         <placeName type="alt">Linzer</placeName>
@@ -98,30 +107,7 @@
                         </location>
                         <idno>https://www.geonames.org/2871573</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_5dbeb093dbe8e51cab45bae7d9ca4b96">
-                        <placeName>Lambach</placeName>
-                        <placeName type="pref">lambach</placeName>
-                        <placeName type="alt">Lambacher</placeName>
-                        <location>
-                            <geo decls="#LatLng">48.09253 13.86954</geo>
-                        </location>
-                        <idno>https://www.geonames.org/7872188</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="hagn-theoderich">
-                        <persName>
-                            <surname>Hagn</surname>
-                            <forename>Theodorich OSB</forename>
-                        </persName>
-                        <note>
-                            <p>Untergriesbach 1816–1872 Lambach</p>
-                            <p>Klosterarchivar im Stift Kremsmünster, ab 1850 Novizenmeister, ab
-                                1859 Abt des Benediktinerstiftes Lambach</p>
-                            <p>https://d-nb.info/gnd/133711188</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/133711188</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Thomas Mitterndorfer an Leo Thun, Kremsmünster, 15. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mitterndorfer-an-thun-1852-04-15-a3-xxi-d163.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thun-hohenstein-leo">
+                    </listPlace><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -152,5 +138,19 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118750135</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Othmar Rauscher an Leo Thun, Rom, 16. Mai 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-05-16-a3-xxi-d345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Kaiser Franz Joseph, Linz, 18. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="hagn-theoderich">
+                        <persName>
+                            <surname>Hagn</surname>
+                            <forename>Theodorich OSB</forename>
+                        </persName>
+                        <note>
+                            <p>Untergriesbach 1816–1872 Lambach</p>
+                            <p>Klosterarchivar im Stift Kremsmünster, ab 1850 Novizenmeister, ab
+                                1859 Abt des Benediktinerstiftes Lambach</p>
+                            <p>https://d-nb.info/gnd/133711188</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/133711188</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Thomas Mitterndorfer an Leo Thun, Kremsmünster, 15. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mitterndorfer-an-thun-1852-04-15-a3-xxi-d163.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>

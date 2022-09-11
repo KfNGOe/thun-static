@@ -156,7 +156,23 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="hingenau-otto">
+    <back><listPerson><person xml:id="haimerl-franz-xaver">
+                        <persName>
+                            <surname>Haimerl</surname>
+                            <forename>Franz Xaver</forename>
+                        </persName>
+                        <note>
+                            <p>Mariánské Lázně 1806–1867 Wien</p>
+                            <p>Jurist, ab 1836 Prof. des Lehen-, Handels- und Wechselrechts, des
+                                gerichtlichen Verfahrens und des Geschäftsstils an der Universität
+                                Prag, ab 1852 Prof. des zivilgerichtlichen Verfahrens und des
+                                Lehenrechtes an der Universität Wien</p>
+                            <p>https://d-nb.info/gnd/116392584</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/116392584</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Das Professorenkollegium der Universität Wien an Leo Thun, Wien, 21. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/professorenkollegium-wien-an-thun-1860-10-21-a3-xxi-d623a9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen über mögliche Änderungen der akademischen Gesetze Otto Hingenau, o. D. [post 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-von-hingenau-zur-aenderung-der-akademischen-gesetze-od-a3-xxi-d646.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="hingenau-otto">
                         <persName>
                             <surname>Hingenau</surname>
                             <forename>Otto Bernhard</forename>
@@ -174,21 +190,5 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116896736</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Otto Hingenau an Leo Thun o. O., 11. Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-05-11-a3-xxi-d583.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Otto Hingenau an Leo Thun o. O., 20. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-06-20-a3-xxi-d593.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen über mögliche Änderungen der akademischen Gesetze Otto Hingenau, o. D. [post 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-von-hingenau-zur-aenderung-der-akademischen-gesetze-od-a3-xxi-d646.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="haimerl-franz-xaver">
-                        <persName>
-                            <surname>Haimerl</surname>
-                            <forename>Franz Xaver</forename>
-                        </persName>
-                        <note>
-                            <p>Mariánské Lázně 1806–1867 Wien</p>
-                            <p>Jurist, ab 1836 Prof. des Lehen-, Handels- und Wechselrechts, des
-                                gerichtlichen Verfahrens und des Geschäftsstils an der Universität
-                                Prag, ab 1852 Prof. des zivilgerichtlichen Verfahrens und des
-                                Lehenrechtes an der Universität Wien</p>
-                            <p>https://d-nb.info/gnd/116392584</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/116392584</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Das Professorenkollegium der Universität Wien an Leo Thun, Wien, 21. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/professorenkollegium-wien-an-thun-1860-10-21-a3-xxi-d623a9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bemerkungen über mögliche Änderungen der akademischen Gesetze Otto Hingenau, o. D. [post 1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vorschlaege-von-hingenau-zur-aenderung-der-akademischen-gesetze-od-a3-xxi-d646.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>

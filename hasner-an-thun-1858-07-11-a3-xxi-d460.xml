@@ -133,21 +133,7 @@
                         </location>
                         <idno>https://www.geonames.org/3064983</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="chlupp-johann">
-                        <persName>
-                            <surname>Chlupp</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>1801–1876</p>
-                            <p>Prof. an der Universität Lemberg, ab 1855 Prof. für Finanzgesetzkunde
-                                an der Universität Prag</p>
-                            <p>https://d-nb.info/gnd/121244164</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/121244164</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="schneider-franz-xaver">
+                    </listPlace><listPerson><person xml:id="schneider-franz-xaver">
                         <persName>
                             <surname>Schneider</surname>
                             <forename>Franz Xaver</forename>
@@ -195,6 +181,20 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/119059495</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1850-07-12-a3-xxi-d60.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner von Artha an Leo Thun, Prag, 3. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1860-11-03-a3-xxi-d623a20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="chlupp-johann">
+                        <persName>
+                            <surname>Chlupp</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>1801–1876</p>
+                            <p>Prof. an der Universität Lemberg, ab 1855 Prof. für Finanzgesetzkunde
+                                an der Universität Prag</p>
+                            <p>https://d-nb.info/gnd/121244164</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/121244164</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listOrg><org xml:id="org_0005">
                         <orgName>k.k. Ministerium für Kultus und Unterricht</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/1086824806</idno>

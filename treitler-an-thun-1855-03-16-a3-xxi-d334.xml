@@ -414,25 +414,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="baumgartner-andreas">
-                        <persName>
-                            <surname>Baumgartner</surname>
-                            <forename>Andreas</forename>
-                        </persName>
-                        <note>
-                            <p>Friedberg 1793–1865 Hietzing</p>
-                            <p>1823–1833 Prof. für Physik und Angewandte Mathematik an der
-                                Universität Wien, ab 1833 Direktor der k. k. Porzellanfabriken,
-                                1842–1848 Direktor der k. k. Tabakregie, 1848 Minister für
-                                öffentliche Arbeiten und das Bergwesen, 1851–1855 Minister für
-                                Handel, Gewerbe und öffentliche Bauten und Finanzminister, 1851–1865
-                                Präsident der Akademie der Wissenschaften in Wien</p>
-                            <p>https://d-nb.info/gnd/118653946</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118653946</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Augustin Hille an Leo Thun, Leitmeritz, 3. November 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1853-11-03-a3-xxi-d239.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wenzel Sigmund an Leo Thun o. O. [, Prag], o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sigmund-an-thun_1852-_a3-xxi-d178.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an einen polnischen Professor in, Wien, Lemberg, 30. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-polnischen-professor-1850-07-30-a3-xxi-d64.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Treitler an Leo Thun, Lemberg, 16. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -459,6 +441,24 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Anton Treitler an Leo Thun, Lemberg, 16. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="baumgartner-andreas">
+                        <persName>
+                            <surname>Baumgartner</surname>
+                            <forename>Andreas</forename>
+                        </persName>
+                        <note>
+                            <p>Friedberg 1793–1865 Hietzing</p>
+                            <p>1823–1833 Prof. für Physik und Angewandte Mathematik an der
+                                Universität Wien, ab 1833 Direktor der k. k. Porzellanfabriken,
+                                1842–1848 Direktor der k. k. Tabakregie, 1848 Minister für
+                                öffentliche Arbeiten und das Bergwesen, 1851–1855 Minister für
+                                Handel, Gewerbe und öffentliche Bauten und Finanzminister, 1851–1865
+                                Präsident der Akademie der Wissenschaften in Wien</p>
+                            <p>https://d-nb.info/gnd/118653946</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118653946</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Augustin Hille an Leo Thun, Leitmeritz, 3. November 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1853-11-03-a3-xxi-d239.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wenzel Sigmund an Leo Thun o. O. [, Prag], o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sigmund-an-thun_1852-_a3-xxi-d178.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Suchecki an einen polnischen Professor in, Wien, Lemberg, 30. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/suchecki-an-polnischen-professor-1850-07-30-a3-xxi-d64.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Treitler an Leo Thun, Lemberg, 16. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_4ec4d4015169a4209797da17b240c7c3">
                         <placeName>Galicia</placeName>
                         <placeName type="pref">Galizien</placeName>

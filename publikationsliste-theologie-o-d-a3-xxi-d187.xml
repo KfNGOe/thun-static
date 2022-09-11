@@ -78,7 +78,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="riffel-caspar">
+    <back><listPerson><person xml:id="wick-joseph">
+                        <persName>
+                            <surname>Wick</surname>
+                            <forename>Joseph Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Mellenthin 1820–1903 Breslau</p>
+                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik,
+                                Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert
+                                in Breslau, Gründer zahlreicher katholischer Vereine</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    </person>
+                    <person xml:id="riffel-caspar">
                         <persName>
                             <surname>Riffel</surname>
                             <forename>Caspar</forename>
@@ -93,21 +107,14 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116546824</idno>
                     </person>
-                    <person xml:id="wick-joseph">
-                        <persName>
-                            <surname>Wick</surname>
-                            <forename>Joseph Lorenz</forename>
-                        </persName>
-                        <note>
-                            <p>Mellenthin 1820–1903 Breslau</p>
-                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik,
-                                Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert
-                                in Breslau, Gründer zahlreicher katholischer Vereine</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    </person>
-                    </listPerson><listPlace><place xml:id="place_60960432acfa4972c8f13dd89a872920">
+                    </listPerson><listPlace><place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
+                        <placeName>Mainz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98419 8.2791</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2874225</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karoline Langenau an Caroline Thun o. O., o. D. [Februar 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/caroline-an-caroline-thun-o-d-a3-xxi-d190.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wilhelm Emmanuel Ketteler an Leo Thun, Mainz, 17. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_60960432acfa4972c8f13dd89a872920">
                         <placeName>Wrocław</placeName>
                         <placeName type="alt">Breslau</placeName>
                         <location>
@@ -115,12 +122,5 @@
                         </location>
                         <idno>https://www.geonames.org/3081368</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>František Ladislaus Čelakovšký an Leo Thun, o. O., o. D. [1850/51]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/celakovsky-an-thun-od-ca1065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Ratibor, 30. August 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1849-08-30-a3-xxi-d5.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 4. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-04-04-a3-xxi-d42.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 4. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-06-04-a3-xxi-d70a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Johannesberg bei Jauernig, 27. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-08-27-a3-xxi-d70b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 9. November 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-11-09-a3-xxi-d76.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 6. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-06_a3-xxi-d50.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 8. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-08_a3-xxi-d50a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Dunajewski an Leo Thun, Wien, 21. November 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/dunajewski-an-thun-1852-11-21-a3-xxi-d175.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 4. November 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-11-04-a3-xxi-d348d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. April 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1858-04-05-a3-xxi-d450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 16. Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1859-06-16-a3-xxi-d508.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 1. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-11-01-a3-xxi-d623a6.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Schloß Johannesberg, 17. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun_1854-08-17_a3-xxi-d276.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Purkinje an Leo Thun, Breslau, 22. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/purkinje-an-thun-1849-10-22-a3-xxi-d9.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Separavotum zu Beda Dudiks Gutachten über die staatsrechtlichen Beziehungen des Herzogtums Troppau zur Markgrafschaft Mähren Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/votum-zu-dudiks-abhandlung-1850-12-a3-xxi-d246.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Auszug aus einem Brief von Ludwig Wiese an einen unbekannten Empfänger, Berlin, 5. Dezember 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wiese-an-unbekannt-1858-12-05-a3-xxi-d476.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
-                        <placeName>Mainz</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.98419 8.2791</geo>
-                        </location>
-                        <idno>https://www.geonames.org/2874225</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Karoline Langenau an Caroline Thun o. O., o. D. [Februar 1853]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/caroline-an-caroline-thun-o-d-a3-xxi-d190.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Wilhelm Emmanuel Ketteler an Leo Thun, Mainz, 17. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die seit dem 15. Jahrhundert geschlossenen Konkordate von Joseph Alexander Helfert, Wien, 31. Juli 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-konkordate-von-helfert-1851-07-31-a3-xxi-d119.xml"/></linkGrp></event></listEvent></place>
                     </listPlace></back></text>
 </TEI>

@@ -160,26 +160,7 @@
                         </location>
                         <idno>https://www.geonames.org/2846523</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="linde-justin">
-                        <persName>
-                            <surname>Linde</surname>
-                            <forename>Justin Timotheus Balthasar</forename>
-                        </persName>
-                        <note>
-                            <p>Brilon 1797–1870 Bonn</p>
-                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm.
-                                Rechtsgeschichte an der Universität Gießen, ab 1829 Geh.
-                                Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt,
-                                ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im
-                                Ministerium des Innern und der Justiz, 1848/49 Mitglied der
-                                Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim
-                                deutschen Bundestag</p>
-                            <p>https://d-nb.info/gnd/119095645</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/119095645</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Dreis, 10. Oktober 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1855-10-10-a3-xxi-d350.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 18. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-01-04_a3-xxi-d394.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 24. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1854-05-24-ca1127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 11. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-09-11-ca1128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg-Rothenlöwen, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thun-hohenstein-leo">
+                    </listPlace><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -206,6 +187,25 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 18. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-01-04_a3-xxi-d394.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="linde-justin">
+                        <persName>
+                            <surname>Linde</surname>
+                            <forename>Justin Timotheus Balthasar</forename>
+                        </persName>
+                        <note>
+                            <p>Brilon 1797–1870 Bonn</p>
+                            <p>1824–1829 Prof. des deutschen Privatrechts und der röm.
+                                Rechtsgeschichte an der Universität Gießen, ab 1829 Geh.
+                                Regierungsrat im Ministerium des Innern und der Justiz in Darmstadt,
+                                ab 1832 Direktor des Oberstudienrats, 1836–1847 Geh. Staatsrat im
+                                Ministerium des Innern und der Justiz, 1848/49 Mitglied der
+                                Frankfurter Nationalversammlung, 1850–1866 österr. Gesandter beim
+                                deutschen Bundestag</p>
+                            <p>https://d-nb.info/gnd/119095645</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/119095645</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 31. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1854-05-31-ca1055.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Dreis, 10. Oktober 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1855-10-10-a3-xxi-d350.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 18. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-01-04_a3-xxi-d394.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 24. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1854-05-24-ca1127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 11. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-09-11-ca1128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-12-26-ca1130.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Justin Linde, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg-Rothenlöwen, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Thun an Leo Thun, Frankfurt, 9. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-friedrich-an-thun-1852-04-09-a3-xxi-d162.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listOrg><org xml:id="org_0041">
                         <orgName>Universität Marburg</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/2001630-X</idno>

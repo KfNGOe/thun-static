@@ -178,18 +178,6 @@
                         </note>
                         <idno type="URL">http://www.wikidata.org/wiki/Q1724471?uselang=de</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="hais-josef">
-                        <persName>
-                            <surname>Hais</surname>
-                            <forename>Joseph</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Konsistorialrat in Königgrätz</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="mecsery-von-tsoor-karl">
                         <persName>
                             <surname>Mecsery von Tsoor</surname>
@@ -204,32 +192,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116989033</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 23. März 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-03-23-a3-xxi-d373.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Anton Jaksch an Leo Thun, Prag, 18. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaksch-an-thun-1856-04-18-a3-xxi-d373b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Mischler an Leo Thun, Prag, 25. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mischler-an-thun-1855-02-25-a3-xxi-d330.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Tetschen, 19. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-19-ca1432.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 10. August [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1854-04-10-ca1430.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 8. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-07-08-a3-xxi-d212.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 22. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="rojek-johann">
-                        <persName>
-                            <surname>Rojek</surname>
-                            <forename>Johann Karl</forename>
-                        </persName>
-                        <note>
-                            <p>Leitomischl 1804–1877 Budyně nad Ohří</p>
-                            <p>ab 1850 Dekan in Neustadt an der Mettau, ab 1857 Bischofsvikar und
-                                Bezirksschulleiter</p>
-                            <p>http://viaf.org/viaf/83881321</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">http://viaf.org/viaf/83881321</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Karl Rojek an Leo Thun o. O., 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rojek-an-thun-1854-11-14-a3-xxi-d302.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="prasky-vinzenz">
-                        <persName>
-                            <surname>Prasky</surname>
-                            <forename>Vinzenz</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Domkapitular in Königgrätz</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="franz-joseph">
                         <persName>
                             <surname>Franz Joseph I.</surname>
@@ -256,6 +218,18 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="hais-josef">
+                        <persName>
+                            <surname>Hais</surname>
+                            <forename>Joseph</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Konsistorialrat in Königgrätz</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="lhota-johann-nepomuk">
                         <persName>
                             <surname>Lhota</surname>
@@ -269,18 +243,33 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_a1b04553dc86d0fc4d6c9f925b3181f5">
-                        <placeName>Nové Město nad Metují</placeName>
-                        <placeName type="pref">Nové Město nad Metují [Neustadt an der
-                            Mettau]</placeName>
-                        <placeName type="alt">Novém Městě nad Metují</placeName>
-                        <placeName type="alt">Neustadt [Nové Město nad Metují]</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.34456 16.15147</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3069466</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Karl Rojek an Leo Thun o. O., 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rojek-an-thun-1854-11-14-a3-xxi-d302.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
+                    <person xml:id="rojek-johann">
+                        <persName>
+                            <surname>Rojek</surname>
+                            <forename>Johann Karl</forename>
+                        </persName>
+                        <note>
+                            <p>Leitomischl 1804–1877 Budyně nad Ohří</p>
+                            <p>ab 1850 Dekan in Neustadt an der Mettau, ab 1857 Bischofsvikar und
+                                Bezirksschulleiter</p>
+                            <p>http://viaf.org/viaf/83881321</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">http://viaf.org/viaf/83881321</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Karl Rojek an Leo Thun o. O., 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rojek-an-thun-1854-11-14-a3-xxi-d302.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="prasky-vinzenz">
+                        <persName>
+                            <surname>Prasky</surname>
+                            <forename>Vinzenz</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Domkapitular in Königgrätz</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_b19bff5a3b79c0971a99eefa36cc1670">
                         <placeName>Hradec Králové</placeName>
                         <placeName type="pref">koeniggraetz</placeName>
                         <placeName type="alt">Königgrätz</placeName>
@@ -292,5 +281,16 @@
                         </location>
                         <idno>https://www.geonames.org/3074967</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Ernst Harrach an Leo Thun, Hrádek, 7. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/harrach-an-thun-1853-09-07-a3-xxi-d229.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 17. Juli 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1860-07-17-a3-xxi-d598.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Maresch an einen Sektionsrat im MCU, Budweis, 11. August 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maresch-an-sektionsrat-1854-08-11-a3-xxi-d275.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Materialien zur Regelung der Angelegenheiten der Katholischen Kirche in Österreich mit besonderer Beachtung des Abschlusses des Konkordats 1850–1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/materialien-zur-regelung-kirchlicher-angelegenheiten-1850-1855-a3-xxi-d90.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Slaviček an Leo Thun, Königgrätz, 12. März 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/slavicek-an-thun-1853-03-12-a3-xxi-d194.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Königgrätz, 17. April 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-04-17-a3-xxi-d201.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 8. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-07-08-a3-xxi-d212.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gregor Zeithammer an Leo Thun, Prag, 22. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/zeithammer-an-thun-1853-1853-08-22-a3-xxi-d225.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_a1b04553dc86d0fc4d6c9f925b3181f5">
+                        <placeName>Nové Město nad Metují</placeName>
+                        <placeName type="pref">Nové Město nad Metují [Neustadt an der
+                            Mettau]</placeName>
+                        <placeName type="alt">Novém Městě nad Metují</placeName>
+                        <placeName type="alt">Neustadt [Nové Město nad Metují]</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.34456 16.15147</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3069466</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Vinzenz Prasky und Josef Hais an Johann Rojek, Königgrätz, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/prasky-an-rojek-1854-10-01-a3-xxi-d286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Karl Rojek an Leo Thun o. O., 14. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rojek-an-thun-1854-11-14-a3-xxi-d302.xml"/></linkGrp></event></listEvent></place>
                     </listPlace></back></text>
 </TEI>

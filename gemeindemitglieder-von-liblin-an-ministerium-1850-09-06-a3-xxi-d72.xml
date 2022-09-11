@@ -332,7 +332,23 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_68f2096e334510b63d4433ced4f4e480">
+    <back><listPlace><place xml:id="place_927ab7134c95b933c10dd253b1cd410b" type="placeName">
+                        <placeName type="pref">Lhotka</placeName>
+                        <placeName type="alt">Lhotka</placeName>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_2e374d88fed27256031648ac7e3fcfeb">
+                        <placeName>Kraschau</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.948889 13.588333</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_bcfe66ba37b1a58e8421928d11600436">
+                        <placeName>Lednitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.9426 13.51542</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_68f2096e334510b63d4433ced4f4e480">
                         <placeName>Všehrdy</placeName>
                         <placeName type="pref">vsehrdy</placeName>
                         <location>
@@ -346,6 +362,64 @@
                             <geo decls="#LatLng">49.9612248 13.5275031</geo>
                         </location>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_4301875630bc997edf491c694ae1f8a9">
+                        <placeName>Plasy</placeName>
+                        <placeName type="pref">plass</placeName>
+                        <placeName type="alt">Plaß</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93449 13.39035</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3068222</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_46a01162109763b003c34c5db44f3dff">
+                        <placeName>Rohy</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.942866 13.564607</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_6ca0ddda635b8945070e68b07f4a1814">
+                        <placeName>Kralovice</placeName>
+                        <placeName type="pref">Kralowitz [Kralovice]</placeName>
+                        <placeName type="alt">Kralowitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.98192 13.48747</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3072941</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_6e7f1b720c7f2283a88eeba35a940f95">
+                        <placeName>Kozojedy</placeName>
+                        <placeName type="pref">Kozojed</placeName>
+                        <placeName type="alt">Kozojed</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.93124 13.54241</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3072992</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_b0dfe294f5f1448875d017a903b777ae">
+                        <placeName>Unterhradischt</placeName>
+                        <location>
+                            <geo decls="#LatLng">46.91373 13.49621</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_200d3a0659f46cd698498ba67207932a" type="placeName">
+                        <placeName type="pref">Liblin</placeName>
+                        <placeName type="alt">Liblin</placeName>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes ohne Absender und ohne Adressat, Liblin, 18. Januar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1850-01-18-a3-xxi-d30.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_5db3c7329778b64f4e4c5954834568c3">
+                        <placeName>Bujesil</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.91457 13.57438</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_21f89e0ac5af34ae0230ae853e30e9b8">
+                        <placeName>Liblín</placeName>
+                        <placeName type="pref">ober-und-unterliblin</placeName>
+                        <placeName type="alt">Ober- und Unterliblin</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.91681 13.54424</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3071925</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_4a325ef7f6cae9b7faac7b5cf6cc2708">
                         <placeName>Borek</placeName>
                         <location>
@@ -358,61 +432,14 @@
                             <geo decls="#LatLng">49.95367 13.55699</geo>
                         </location>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_21f89e0ac5af34ae0230ae853e30e9b8">
-                        <placeName>Liblín</placeName>
-                        <placeName type="pref">ober-und-unterliblin</placeName>
-                        <placeName type="alt">Ober- und Unterliblin</placeName>
+                    <place xml:id="place_9bb58cc73b1890af5bd4a0edf920fb25">
+                        <placeName>Chockov</placeName>
+                        <placeName type="pref">Kockow</placeName>
+                        <placeName type="alt">Kockow</placeName>
                         <location>
-                            <geo decls="#LatLng">49.91681 13.54424</geo>
+                            <geo decls="#LatLng">49.89534 13.57997</geo>
                         </location>
-                        <idno>https://www.geonames.org/3071925</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_0b2950da137a57c3c4e35298274ef639">
-                        <placeName>Liebstein</placeName>
-                        <location>
-                            <geo decls="#LatLng">51.19684 14.90439</geo>
-                        </location>
-                        <idno>https://www.geonames.org/2877888</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_6e7f1b720c7f2283a88eeba35a940f95">
-                        <placeName>Kozojedy</placeName>
-                        <placeName type="pref">Kozojed</placeName>
-                        <placeName type="alt">Kozojed</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.93124 13.54241</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3072992</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_bcfe66ba37b1a58e8421928d11600436">
-                        <placeName>Lednitz</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.9426 13.51542</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_547ed8b517d6aa2705f2fd3b8eeae874">
-                        <placeName>Pilsen</placeName>
-                        <placeName type="alt">Pilsner</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.74747 13.37759</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3068160</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bemerkungen über die Einrichtung der Landtage [Januar 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-ueber-landtag-fuer-boehmen-von-clam-martinitz-od-a3-xxi-d554.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Effenberger an Leo Thun, Pilsen, 12. November 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/effenberger-an-thun-1853-11-12-a3-xxi-d240.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Pilsen an Leo Thun, Pilsen, 10. Dezember 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-pilsen-an-thun-1860-12-10-a3-xxi-d623a35.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_200d3a0659f46cd698498ba67207932a" type="placeName">
-                        <placeName type="pref">Liblin</placeName>
-                        <placeName type="alt">Liblin</placeName>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes ohne Absender und ohne Adressat, Liblin, 18. Januar 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1850-01-18-a3-xxi-d30.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_4301875630bc997edf491c694ae1f8a9">
-                        <placeName>Plasy</placeName>
-                        <placeName type="pref">plass</placeName>
-                        <placeName type="alt">Plaß</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.93449 13.39035</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3068222</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_17899a91b93211aedea375d74dd16717" type="placeName">
-                        <placeName type="pref">Kotzkow</placeName>
-                        <placeName type="alt">Kotzkow</placeName>
+                        <idno>https://www.geonames.org/3077717</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_6faa88e37e50360390808da2d8e2eebb">
                         <placeName>Lhotka</placeName>
@@ -423,60 +450,33 @@
                         </location>
                         <idno>https://www.geonames.org/3072018</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_46a01162109763b003c34c5db44f3dff">
-                        <placeName>Rohy</placeName>
+                    <place xml:id="place_547ed8b517d6aa2705f2fd3b8eeae874">
+                        <placeName>Pilsen</placeName>
+                        <placeName type="alt">Pilsner</placeName>
                         <location>
-                            <geo decls="#LatLng">49.942866 13.564607</geo>
+                            <geo decls="#LatLng">49.74747 13.37759</geo>
                         </location>
+                        <idno>https://www.geonames.org/3068160</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bemerkungen über die Einrichtung der Landtage [Januar 1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-ueber-landtag-fuer-boehmen-von-clam-martinitz-od-a3-xxi-d554.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Effenberger an Leo Thun, Pilsen, 12. November 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/effenberger-an-thun-1853-11-12-a3-xxi-d240.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Pilsen an Leo Thun, Pilsen, 10. Dezember 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-pilsen-an-thun-1860-12-10-a3-xxi-d623a35.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_17899a91b93211aedea375d74dd16717" type="placeName">
+                        <placeName type="pref">Kotzkow</placeName>
+                        <placeName type="alt">Kotzkow</placeName>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_9bb58cc73b1890af5bd4a0edf920fb25">
-                        <placeName>Chockov</placeName>
-                        <placeName type="pref">Kockow</placeName>
-                        <placeName type="alt">Kockow</placeName>
+                    <place xml:id="place_0b2950da137a57c3c4e35298274ef639">
+                        <placeName>Liebstein</placeName>
                         <location>
-                            <geo decls="#LatLng">49.89534 13.57997</geo>
+                            <geo decls="#LatLng">51.19684 14.90439</geo>
                         </location>
-                        <idno>https://www.geonames.org/3077717</idno>
+                        <idno>https://www.geonames.org/2877888</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_2e374d88fed27256031648ac7e3fcfeb">
-                        <placeName>Kraschau</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.948889 13.588333</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_b0dfe294f5f1448875d017a903b777ae">
-                        <placeName>Unterhradischt</placeName>
-                        <location>
-                            <geo decls="#LatLng">46.91373 13.49621</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_6ca0ddda635b8945070e68b07f4a1814">
-                        <placeName>Kralovice</placeName>
-                        <placeName type="pref">Kralowitz [Kralovice]</placeName>
-                        <placeName type="alt">Kralowitz</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.98192 13.48747</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3072941</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_927ab7134c95b933c10dd253b1cd410b" type="placeName">
-                        <placeName type="pref">Lhotka</placeName>
-                        <placeName type="alt">Lhotka</placeName>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_5db3c7329778b64f4e4c5954834568c3">
-                        <placeName>Bujesil</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.91457 13.57438</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="fortwaengler-casimir">
+                    </listPlace><listPerson><person xml:id="merkel-bernard">
                         <persName>
-                            <surname>Fortwängler</surname>
-                            <forename>Casimir</forename>
+                            <surname>Merkel</surname>
+                            <forename>Bernard</forename>
                         </persName>
                         <note>
                             <p/>
-                            <p>Kreishauptmann in Pilsen</p>
+                            <p>Kreiskommissär in Pilsen</p>
                             <p/>
                             <p/>
                         </note>
@@ -493,14 +493,14 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Gemeindemitglieder von Liblin an den Ministerrat, Liblin, 6. September 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gemeindemitglieder-von-liblin-an-ministerium-1850-09-06-a3-xxi-d72.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="merkel-bernard">
+                    <person xml:id="fortwaengler-casimir">
                         <persName>
-                            <surname>Merkel</surname>
-                            <forename>Bernard</forename>
+                            <surname>Fortwängler</surname>
+                            <forename>Casimir</forename>
                         </persName>
                         <note>
                             <p/>
-                            <p>Kreiskommissär in Pilsen</p>
+                            <p>Kreishauptmann in Pilsen</p>
                             <p/>
                             <p/>
                         </note>

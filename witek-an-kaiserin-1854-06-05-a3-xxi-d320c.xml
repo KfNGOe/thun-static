@@ -127,39 +127,7 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_d9a764720128c76e6f6a030d14453db5">
-                        <placeName>Telezi</placeName>
-                        <placeName type="pref">Telezí</placeName>
-                        <placeName type="alt">Telezí</placeName>
-                        <location>
-                            <geo decls="#LatLng">59.70036 29.97922</geo>
-                        </location>
-                        <idno>https://www.geonames.org/483761</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_a3599f1e5e377a1960035ae4e055a97a">
-                        <placeName>Horní Sloupnice</placeName>
-                        <placeName type="pref">Slaupnitz</placeName>
-                        <placeName type="alt">Slaupnitz</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.92138 16.33948</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3075206</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="elisabeth">
-                        <persName>
-                            <surname>Elisabeth Amalie Eugenie</surname>
-                            <forename>Herzogin in Bayern</forename>
-                        </persName>
-                        <note>
-                            <p>München 1837–1898 Genf</p>
-                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von
-                                Österreich</p>
-                            <p>https://d-nb.info/gnd/1044019484</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/1044019484</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josefine Dóczy an Kaiserin Elisabeth, Wien, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/doczy-an-kaiserin-1854-07-19-a3-xxi-d320j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giovanni Maria Gregoretti an Kaiserin Elisabeth, Vendig, 20. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gregoretti-an-kaiserin-1854-06-20-a3-xxi-d320f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Klemens Wenzel Metternich an Leo Thun, o. O., 31. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/metternich-an-thun-1855-01-31-a3-xxi-d326.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Die Nonnen des Benediktinerinnenklosters auf der Insel Krk an Kaiserin Elisabeth, Krk, 16. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/nonnen-an-kaiserin-1854-06-16-a3-xxi-d320h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Pawelek an Kaiserin Elisabeth, Königsberg [Klimkovice], 27. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pawelek-an-kaiserin-1854-06-27-a3-xxi-d320b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Der Trivialschullehrer von Louchov an Kaiserin Elisabeth, Laucha [Louchov], 28. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-kaiserin-1854-06-28-a3-xxi-d320d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Antonia Vuketich an Kaiserin Elisabeth Lesina [, Hvar], 12. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vuketich-an-kaiserin-1854-05-12-a3-xxi-d320e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="paul-franz">
+    <back><listPerson><person xml:id="paul-franz">
                         <persName>
                             <surname>Paul</surname>
                             <forename>Franz</forename>
@@ -195,5 +163,37 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    <person xml:id="elisabeth">
+                        <persName>
+                            <surname>Elisabeth Amalie Eugenie</surname>
+                            <forename>Herzogin in Bayern</forename>
+                        </persName>
+                        <note>
+                            <p>München 1837–1898 Genf</p>
+                            <p>ab 1854 Gattin von Franz Joseph I. und damit Kaiserin von
+                                Österreich</p>
+                            <p>https://d-nb.info/gnd/1044019484</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1044019484</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josefine Dóczy an Kaiserin Elisabeth, Wien, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/doczy-an-kaiserin-1854-07-19-a3-xxi-d320j.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giovanni Maria Gregoretti an Kaiserin Elisabeth, Vendig, 20. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gregoretti-an-kaiserin-1854-06-20-a3-xxi-d320f.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Klemens Wenzel Metternich an Leo Thun, o. O., 31. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/metternich-an-thun-1855-01-31-a3-xxi-d326.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Christian Molnár an Kaiserin Elisabeth, Hermannseifen [Rudník], 2. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/molnar-an-kaiserin-1854-07-02-a3-xxi-d320.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Die Nonnen des Benediktinerinnenklosters auf der Insel Krk an Kaiserin Elisabeth, Krk, 16. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/nonnen-an-kaiserin-1854-06-16-a3-xxi-d320h.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Pawelek an Kaiserin Elisabeth, Königsberg [Klimkovice], 27. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pawelek-an-kaiserin-1854-06-27-a3-xxi-d320b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Briefe, Akten und Stellungnahmen zum Ehrenbeleidigungsprozess zwischen Josef Matthäus Aigner und Christian Ruben 1856–1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/sammelakt-prozess-aigner-vs-ruben_1856_a3-xxi-d402.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 17. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-17-a3-xxi-d296c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Der Trivialschullehrer von Louchov an Kaiserin Elisabeth, Laucha [Louchov], 28. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/unbekannt-an-kaiserin-1854-06-28-a3-xxi-d320d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Antonia Vuketich an Kaiserin Elisabeth Lesina [, Hvar], 12. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vuketich-an-kaiserin-1854-05-12-a3-xxi-d320e.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_d9a764720128c76e6f6a030d14453db5">
+                        <placeName>Telezi</placeName>
+                        <placeName type="pref">Telezí</placeName>
+                        <placeName type="alt">Telezí</placeName>
+                        <location>
+                            <geo decls="#LatLng">59.70036 29.97922</geo>
+                        </location>
+                        <idno>https://www.geonames.org/483761</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_a3599f1e5e377a1960035ae4e055a97a">
+                        <placeName>Horní Sloupnice</placeName>
+                        <placeName type="pref">Slaupnitz</placeName>
+                        <placeName type="alt">Slaupnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.92138 16.33948</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3075206</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>
