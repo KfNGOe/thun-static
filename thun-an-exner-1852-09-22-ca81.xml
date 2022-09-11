@@ -121,7 +121,7 @@
                         <location>
                             <geo decls="#LatLng">48.17547 16.29101</geo>
                         </location>
-                        <idno>https://www.geonames.org/2776420</idno>
+                        <idno>https://www.geonames.org/2776421</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Wien, 24. August [1852?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-08-24-ca79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Franz Exner, Hietzing, 22. September [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-09-22-ca81.xml"/></linkGrp></event></listEvent></place>
                     </listPlace></back></text>
 </TEI>

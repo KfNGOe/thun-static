@@ -599,81 +599,32 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_4fd4ef3f46418624bcfdb765d2881356">
-                        <placeName>Trieste</placeName>
-                        <placeName type="pref">Triest</placeName>
-                        <placeName type="alt">Triest</placeName>
-                        <placeName type="alt">Triests</placeName>
-                        <placeName type="alt">o. O. [Triest]</placeName>
-                        <placeName type="alt">Triest</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.64953 13.77678</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3165185</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesetzesentwurf über das Verfahren der Gerichtsbehörden zur Durchführung des allerhöchsten Patents vom 25. September 1850 o. D. [März 1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-verfahren-gerichtsbehoerden-1851-03-a3-xxi-d110.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Burger an Leo Thun, Mailand, 22. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fontana-an-thun-1855-04-22-a3-xxi-d341.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 25. März 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 23. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1860-10-23-a3-xxi-d623a12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Triest an Leo Thun, o. O. [Triest], o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-triest-an-thun-1860-a3-xxi-d623a29.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 9. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-09-a3-xxi-d369.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
-                        <placeName>Zadar</placeName>
-                        <placeName type="pref">Zadar [Zara]</placeName>
-                        <placeName type="alt">Zara</placeName>
-                        <location>
-                            <geo decls="#LatLng">44.11972 15.24222</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3186952</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vinzenz Gasser an Leo Thun, Brixen, 19. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gasser-an-thun-1860-11-19-a3-xxi-d623a4.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lazarus Mamula an Leo Thun, Zara, 31. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mamula-an-thun-1856-07-31-a3-xxi-d385.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_d2f72f55f1b50dc6ca298b5138833028">
-                        <placeName>Novaglia</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.69744 9.35058</geo>
-                        </location>
-                        <idno>https://www.geonames.org/8969423</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_27290542dd7cbd22f4103a784fa73ef6">
-                        <placeName>Vodizze</placeName>
-                        <location>
-                            <geo decls="#LatLng">43.76067 15.77907</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_0070218b55d42fd82c1d55da8440c857">
-                        <placeName>Rovinj</placeName>
-                        <location>
-                            <geo decls="#LatLng">45.08 13.64</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3191518</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_be9bc4f1d4132613ae5591c9a750f467">
-                        <placeName>Rab</placeName>
-                        <location>
-                            <geo decls="#LatLng">44.75694 14.76083</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3192178</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_77c345c88d5abc96dff43b05f067805d">
-                        <placeName>Pag</placeName>
-                        <placeName type="pref">pag</placeName>
-                        <placeName type="alt">Pago</placeName>
-                        <location>
-                            <geo decls="#LatLng">44.445 15.0575</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3193726</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_2ce3aa8333eff3c8f37bbe5ae1bbae56">
-                        <placeName>Lattugna</placeName>
-                        <location>
-                            <geo decls="#LatLng"/>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="godeassi-giuseppe">
+    <back><listPerson><person xml:id="volarich-matteo">
                         <persName>
-                            <surname>Godeassi</surname>
-                            <forename>Giuseppe</forename>
+                            <surname>Volarich</surname>
+                            <forename>Matteo</forename>
                         </persName>
                         <note>
-                            <p>1788–1861</p>
-                            <p>ab 1843 Erzbischof von Zara</p>
+                            <p/>
+                            <p>Pfarrer in Krk</p>
                             <p/>
                             <p/>
                         </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="viale-prela-michele">
+                        <persName>
+                            <surname>Viale-Prelà</surname>
+                            <forename>Michele</forename>
+                        </persName>
+                        <note>
+                            <p>Bastia 1798–1860 Bologna</p>
+                            <p>ab 1838 Nuntius in München, ab 1845 Nuntius in Wien, ab 1855
+                                Erzbischof von Bologna</p>
+                            <p>https://d-nb.info/gnd/117396869</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/117396869</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, o. O. [Wien], 11. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1853-01-11-ca939.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, Ostersonntag [23. März 1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="treu-bartolomeo">
                         <persName>
                             <surname>Treu</surname>
@@ -686,6 +637,30 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="suglich-mattea">
+                        <persName>
+                            <surname>Suglich</surname>
+                            <forename>Mattea</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="descovic-giuseppe">
+                        <persName>
+                            <surname>Descovich</surname>
+                            <forename>Giuseppe</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Prätor in Sinj</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="mircovich-giuseppe">
                         <persName>
                             <surname>Mircovich</surname>
@@ -710,68 +685,6 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="volarich-matteo">
-                        <persName>
-                            <surname>Volarich</surname>
-                            <forename>Matteo</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Pfarrer in Krk</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="descovic-giuseppe">
-                        <persName>
-                            <surname>Descovich</surname>
-                            <forename>Giuseppe</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Prätor in Sinj</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="suglich-mattea">
-                        <persName>
-                            <surname>Suglich</surname>
-                            <forename>Mattea</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p/>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="zubranich-giorgio">
-                        <persName>
-                            <surname>Zubranich</surname>
-                            <forename>Giorgio</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Kooperator in Novaglia</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="viale-prela-michele">
-                        <persName>
-                            <surname>Viale-Prelà</surname>
-                            <forename>Michele</forename>
-                        </persName>
-                        <note>
-                            <p>Bastia 1798–1860 Bologna</p>
-                            <p>ab 1838 Nuntius in München, ab 1845 Nuntius in Wien, ab 1855
-                                Erzbischof von Bologna</p>
-                            <p>https://d-nb.info/gnd/117396869</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/117396869</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, o. O. [Wien], 11. Januar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1853-01-11-ca939.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, Ostersonntag [23. März 1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="gemeglich-lucia">
                         <persName>
                             <surname>Gemeglich</surname>
@@ -796,5 +709,92 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    <person xml:id="godeassi-giuseppe">
+                        <persName>
+                            <surname>Godeassi</surname>
+                            <forename>Giuseppe</forename>
+                        </persName>
+                        <note>
+                            <p>1788–1861</p>
+                            <p>ab 1843 Erzbischof von Zara</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="zubranich-giorgio">
+                        <persName>
+                            <surname>Zubranich</surname>
+                            <forename>Giorgio</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Kooperator in Novaglia</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_0070218b55d42fd82c1d55da8440c857">
+                        <placeName>Rovinj</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.08 13.64</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3191518</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_4fd4ef3f46418624bcfdb765d2881356">
+                        <placeName>Trieste</placeName>
+                        <placeName type="pref">Triest</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <placeName type="alt">Triests</placeName>
+                        <placeName type="alt">o. O. [Triest]</placeName>
+                        <placeName type="alt">Triest</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.64953 13.77678</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3165185</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Gesuch des griechisch-orthodoxen Episkopats der Serben und Ruthenen an Kaiser Franz Joseph für den Bau einer Kirche in Wien, Wien, 4. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Beck an Leo Thun, Triest, 18. Mai 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gesetzesentwurf über das Verfahren der Gerichtsbehörden zur Durchführung des allerhöchsten Patents vom 25. September 1850 o. D. [März 1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-gesetz-verfahren-gerichtsbehoerden-1851-03-a3-xxi-d110.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Heinrich Förster an Leo Thun, Breslau, 5. Juni 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1860-06-05-a3-xxi-d588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Burger an Leo Thun, Mailand, 22. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/fontana-an-thun-1855-04-22-a3-xxi-d341.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Heufler an Leo Thun, Hermannstadt, 13. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 25. März 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 23. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1860-10-23-a3-xxi-d623a12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Das Lehrerkollegium des Gymnasiums in Triest an Leo Thun, o. O. [Triest], o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-triest-an-thun-1860-a3-xxi-d623a29.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 9. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-09-a3-xxi-d369.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 11. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_271d9608b4f6e55e8f4ec78b040ead1a">
+                        <placeName>Zadar</placeName>
+                        <placeName type="pref">Zadar [Zara]</placeName>
+                        <placeName type="alt">Zara</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.11972 15.24222</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3186952</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun o. O., Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1858-07-a3-xxi-d463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 30. März 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1850-03-30-a3-xxi-d39.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 28. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1859-10-28-a3-xxi-d522.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Vinzenz Gasser an Leo Thun, Brixen, 19. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gasser-an-thun-1860-11-19-a3-xxi-d623a4.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lazarus Mamula an Leo Thun, Zara, 31. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mamula-an-thun-1856-07-31-a3-xxi-d385.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von unbekannter Hand über die Errichtung eines ost-adriatischen Küstenkronlandes o. D. [1859/60]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-errichtung-ostadriatisches-kuestenkronland-od-a3-xxi-d655.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alois Cäsar Pavissich an einen Sektionsrat im Unterrichtsministerium, Wien, 22. Dezember 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pavissich-an-sektionsrat-1850-12-22-a3-xxi-d79.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Promemoria über die Mängel der Gesetzkundmachung in Österreich von Alois Šembera, Wien, Mai 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-ueber-gesetzkundmachung-oesterreich-von-sembera-1860-05-a3-xxi-d587.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_be9bc4f1d4132613ae5591c9a750f467">
+                        <placeName>Rab</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.75694 14.76083</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3192178</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Maria Luigia Galzigna an Kaiserin Elisabeth, Rab, 23. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/galzigna-an-kaiserin-1854-05-23-a3-xxi-d320a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_d2f72f55f1b50dc6ca298b5138833028">
+                        <placeName>Novaglia</placeName>
+                        <location>
+                            <geo decls="#LatLng">45.69744 9.35058</geo>
+                        </location>
+                        <idno>https://www.geonames.org/8969423</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_27290542dd7cbd22f4103a784fa73ef6">
+                        <placeName>Vodizze</placeName>
+                        <location>
+                            <geo decls="#LatLng">43.76067 15.77907</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_2ce3aa8333eff3c8f37bbe5ae1bbae56">
+                        <placeName>Lattugna</placeName>
+                        <location>
+                            <geo decls="#LatLng"/>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_77c345c88d5abc96dff43b05f067805d">
+                        <placeName>Pag</placeName>
+                        <placeName type="pref">pag</placeName>
+                        <placeName type="alt">Pago</placeName>
+                        <location>
+                            <geo decls="#LatLng">44.445 15.0575</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3193726</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Antonio Borovich an Michele Viale-Prelà, Pag, 3. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Giuseppe Godeassi an Michele Viale-Prelà, Zara, 22. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/godeassi-an-viale-prela-1856-02-22-a3-xxi-d401.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

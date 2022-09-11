@@ -127,19 +127,25 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="burwal-johann">
-                        <persName>
-                            <surname>Burwal</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Pfarrer in Slaupnitz</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="elisabeth">
+    <back><listPlace><place xml:id="place_d9a764720128c76e6f6a030d14453db5">
+                        <placeName>Telezi</placeName>
+                        <placeName type="pref">Telezí</placeName>
+                        <placeName type="alt">Telezí</placeName>
+                        <location>
+                            <geo decls="#LatLng">59.70036 29.97922</geo>
+                        </location>
+                        <idno>https://www.geonames.org/483761</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_a3599f1e5e377a1960035ae4e055a97a">
+                        <placeName>Horní Sloupnice</placeName>
+                        <placeName type="pref">Slaupnitz</placeName>
+                        <placeName type="alt">Slaupnitz</placeName>
+                        <location>
+                            <geo decls="#LatLng">49.92138 16.33948</geo>
+                        </location>
+                        <idno>https://www.geonames.org/3075206</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="elisabeth">
                         <persName>
                             <surname>Elisabeth Amalie Eugenie</surname>
                             <forename>Herzogin in Bayern</forename>
@@ -165,6 +171,18 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="burwal-johann">
+                        <persName>
+                            <surname>Burwal</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Pfarrer in Slaupnitz</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="witek-johann">
                         <persName>
                             <surname>Witek</surname>
@@ -177,23 +195,5 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_a3599f1e5e377a1960035ae4e055a97a">
-                        <placeName>Horní Sloupnice</placeName>
-                        <placeName type="pref">Slaupnitz</placeName>
-                        <placeName type="alt">Slaupnitz</placeName>
-                        <location>
-                            <geo decls="#LatLng">49.92138 16.33948</geo>
-                        </location>
-                        <idno>https://www.geonames.org/3075206</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_d9a764720128c76e6f6a030d14453db5">
-                        <placeName>Telezi</placeName>
-                        <placeName type="pref">Telezí</placeName>
-                        <placeName type="alt">Telezí</placeName>
-                        <location>
-                            <geo decls="#LatLng">59.70036 29.97922</geo>
-                        </location>
-                        <idno>https://www.geonames.org/483761</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Johann Witek an Kaiserin Elisabeth, Telezí, 5. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace></back></text>
+                    </listPerson></back></text>
 </TEI>

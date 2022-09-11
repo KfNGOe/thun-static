@@ -100,7 +100,11 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Athanasius Bernhard an Leo Thun, Neustadt, 15. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bernhard-an-thun-1854-09-15-a3-xxi-d283.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_32b01a4087e5053899efae50c67b02fb">
+                    </listPerson><listOrg><org xml:id="org_0107">
+                        <orgName>Stift Heiligenkreuz</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80820-9</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Athanasius Bernhard an Leo Thun, Neustadt, 15. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bernhard-an-thun-1854-09-15-a3-xxi-d283.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg><listPlace><place xml:id="place_32b01a4087e5053899efae50c67b02fb">
                         <placeName>Wiener Neustadt</placeName>
                         <placeName type="pref">Neustadt</placeName>
                         <placeName type="alt">Neustadt</placeName>
@@ -109,9 +113,5 @@
                         </location>
                         <idno>https://www.geonames.org/2761353</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Aufsatz von Ferdinand Langenau über den Einfluss von Windisch-Graetz am Kaiserhof während der Revolution 1848, Wien, Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-von-langenau-uber-einfluss-von-windischgraetz-1848-1849-12-a3-xxi-d23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Athanasius Bernhard an Leo Thun, Neustadt, 15. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bernhard-an-thun-1854-09-15-a3-xxi-d283.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listOrg><org xml:id="org_0107">
-                        <orgName>Stift Heiligenkreuz</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80820-9</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Athanasius Bernhard an Leo Thun, Neustadt, 15. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bernhard-an-thun-1854-09-15-a3-xxi-d283.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg></back></text>
+                    </listPlace></back></text>
 </TEI>

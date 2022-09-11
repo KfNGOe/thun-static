@@ -79,7 +79,11 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="haxthausen-august">
+    <back><listOrg><org xml:id="org_0075">
+                        <orgName>Jesuitenorden</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80092-2</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 22. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg><listPerson><person xml:id="haxthausen-august">
                         <persName>
                             <surname>Haxthausen</surname>
                             <forename>August</forename>
@@ -121,11 +125,7 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 15. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1859-07-15-a3-xxi-d512.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listOrg><org xml:id="org_0075">
-                        <orgName>Jesuitenorden</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/80092-2</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 22. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg><listPlace><place xml:id="place_e3a1571b9091d6d78548ad3b4b159d11">
+                    </listPerson><listPlace><place xml:id="place_e3a1571b9091d6d78548ad3b4b159d11">
                         <placeName>Hetzendorf</placeName>
                         <location>
                             <geo decls="#LatLng">48.165278 16.304167</geo>

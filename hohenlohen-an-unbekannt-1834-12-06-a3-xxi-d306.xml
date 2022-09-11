@@ -154,34 +154,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="wittmann-georg">
-                        <persName>
-                            <surname>Wittmann</surname>
-                            <forename>Georg Michael</forename>
-                        </persName>
-                        <note>
-                            <p>Pleystein 1760–1833 Regensburg</p>
-                            <p>1829–1833 Bischof von Regensburg</p>
-                            <p>https://d-nb.info/gnd/134085388</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/134085388</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="hohenlohe-waldenburg-schillingfuerst-alexander">
-                        <persName>
-                            <surname>Hohenlohe-Waldenburg-Schillingsfürst</surname>
-                            <forename>Alexander</forename>
-                        </persName>
-                        <note>
-                            <p>Kupferzell 1794–1849 Vöslau</p>
-                            <p>kath. Geistlicher und Wunderheiler, ab 1844 Titularbischof von
-                                Sardika, Domherr von Großwardein</p>
-                            <p>https://d-nb.info/gnd/118861484</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118861484</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="sailer-johann">
+    <back><listPerson><person xml:id="sailer-johann">
                         <persName>
                             <surname>Sailer</surname>
                             <forename>Johann Michael</forename>
@@ -193,6 +166,19 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118604872</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="wittmann-georg">
+                        <persName>
+                            <surname>Wittmann</surname>
+                            <forename>Georg Michael</forename>
+                        </persName>
+                        <note>
+                            <p>Pleystein 1760–1833 Regensburg</p>
+                            <p>1829–1833 Bischof von Regensburg</p>
+                            <p>https://d-nb.info/gnd/134085388</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/134085388</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="job">
                         <persName>
@@ -209,6 +195,18 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/172039401</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="berghold">
+                        <persName>
+                            <surname>Berghold</surname>
+                            <forename>k_A</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p/>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="schlund-karl">
                         <persName>
                             <surname>Schlund</surname>
@@ -222,17 +220,19 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/135872685</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="berghold">
+                    <person xml:id="hohenlohe-waldenburg-schillingfuerst-alexander">
                         <persName>
-                            <surname>Berghold</surname>
-                            <forename>k_A</forename>
+                            <surname>Hohenlohe-Waldenburg-Schillingsfürst</surname>
+                            <forename>Alexander</forename>
                         </persName>
                         <note>
-                            <p/>
-                            <p/>
-                            <p/>
+                            <p>Kupferzell 1794–1849 Vöslau</p>
+                            <p>kath. Geistlicher und Wunderheiler, ab 1844 Titularbischof von
+                                Sardika, Domherr von Großwardein</p>
+                            <p>https://d-nb.info/gnd/118861484</p>
                             <p/>
                         </note>
+                        <idno type="URL">https://d-nb.info/gnd/118861484</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Alexander Hohenlohe an Unbekannt, Großwardein [Oradea], 6. Dezember 1834</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hohenlohen-an-unbekannt-1834-12-06-a3-xxi-d306.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_11040f2c1312651fcf9e8c9ca1af8cd7">
                         <placeName>Oradea</placeName>
