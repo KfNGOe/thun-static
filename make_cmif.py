@@ -24,6 +24,12 @@ for x in doc.any_xpath('.//tei:person[@xml:id]'):
     except IndexError:
         continue
     name = " ".join("".join(x.xpath('.//tei:persName//text()', namespaces=nsmap)).split())
+    try:
+        first_name = x.xpath('.//tei:forename/text()', namespaces=nsmap)[0]
+    except:
+        first_name = ""
+    last_name = x.xpath('.//tei:surname/text()', namespaces=nsmap)[0]
+    name = " ".join([first_name, last_name])
     persons[xml_id] = {
         "id": xml_id,
         "ref": ref,
