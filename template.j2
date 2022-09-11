@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/indices" xml:id="cmfi.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/indices" xml:id="cmif.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,25 +10,25 @@
                 <publisher>
                     <ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">Die Korrespondenz von Leo von Thun-Hohenstein</ref>
                 </publisher>
-                <date when="2022-09-08+02:00"/>
+                <date when="{{ date }}"/>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <idno type="handle">http://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
-                <idno type="url">https://hdl.handle.net/21.11115/0000-000B-D983-C</idno>
+                <idno type="url">https://thun-korrespondenz.acdh.oeaw.ac.at/cmif.xml</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="online">Die Korrespondenz von Leo von Thun-Hohenstein<ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">https://thun-korrespondenz.acdh.oeaw.ac.at</ref>
+                <bibl xml:id="dd8c20cc-31b0-11ed-baad-f50cc1e65a15" type="online">Die Korrespondenz von Leo von Thun-Hohenstein<ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">https://thun-korrespondenz.acdh.oeaw.ac.at</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
 {% for x in data %}{% if x.doc_id %}
-        <correspDesc ref="{{ x.doc_id}}">
+        <correspDesc ref="https://thun-korrespondenz.acdh.oeaw.ac.at/{{ x.doc_id}}" source="#dd8c20cc-31b0-11ed-baad-f50cc1e65a15">
                 <correspAction type="sent">
                     <persName ref="{{ x.ref_x }}">{{ x.name_x }}</persName>
                     <placeName ref="{{ x.ref}}">{{ x.name }}</placeName>
-                    {% if x.date %}<date when="{{ x.date }}">{{ x.date }}</date>{% endif %}
+                    {% if x.date %}<date when="{{ x.date }}">{{ x.date_string }}</date>{% endif %}
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="{{ x.ref_y }}">{{ x.name_y }}</persName>

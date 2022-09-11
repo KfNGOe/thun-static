@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import jinja2
 
+from datetime import date
 
 from acdh_tei_pyutils.tei import TeiReader
 
@@ -53,7 +54,8 @@ items = []
 for x in sorted(files):
     _, tails = os.path.split(x)
     item = {
-        "doc_id": doc.any_xpath('.//tei:idno[@type="handle"]/text()')[0],
+        "doc_handle": doc.any_xpath('.//tei:idno[@type="handle"]/text()')[0],
+        "doc_id": tails.replace('.xml', '.html'),
         "sender_ref": unbekannt,
         "sender_place_ref": unbekannt,
         "receiver_ref": unbekannt,
@@ -64,6 +66,10 @@ for x in sorted(files):
         item['date'] = doc.any_xpath('.//@when-iso')[0]
     except:
         item['date'] = None
+    try:
+        item['date_string'] = doc.any_xpath('.//tei:date[1]/text()')[0]
+    except:
+        item['date_string'] = None
     try:
         item['sender_ref'] = doc.any_xpath('.//tei:title[1]/tei:rs[@type="person"][1]/@ref')[0]
     except:
@@ -98,5 +104,12 @@ data = []
 for i, row in df.iterrows():
     data.append(dict(row))
 
-with open(f'./data/indices/cmfi.xml', 'w') as f:
-    f.write(template.render({"data": data}))
+with open(f'./data/indices/cmif.xml', 'w') as f:
+    f.write(
+        template.render(
+            {
+                "data": data,
+                "date": f"{date.today()}"
+            }
+        )
+    )

@@ -48,7 +48,7 @@
                                  <a class="dropdown-item" href="schlagworte.html">Schlagworte</a>
                                 <div class="dropdown-divider"/>
                                 <a class="dropdown-item" href="beacon.txt">GND-BEACON</a>
-                                <a class="dropdown-item" href="cmfi.xml">CMIF</a>
+                                <a class="dropdown-item" href="cmif.xml">CMIF</a>
                             </div>
                         </li>
                     </ul>
