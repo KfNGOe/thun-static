@@ -81,22 +81,20 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="arndts-carl-ludwig">
+    <back><listPerson><person xml:id="apponyi-rudolf">
                         <persName>
-                            <surname>Arndts</surname>
-                            <forename>Carl Ludwig</forename>
+                            <surname>Apponyi</surname>
+                            <forename>Rudolf</forename>
                         </persName>
                         <note>
-                            <p>Arnsberg 1803–1878 Wien</p>
-                            <p>1836 Prof. für Römisches Recht an der Universität Bonn, ab 1838 Prof.
-                                für Zivilrecht an der Universität München, 1855–1873 Prof. an der
-                                Universität Wien, 1848/49 Mitglied der Frankfurter
-                                Nationalversammlung</p>
-                            <p>https://d-nb.info/gnd/100416993</p>
+                            <p>Karlsruhe 1812–1876 Venedig</p>
+                            <p>ab 1849 österr. Gesandter und bevollmächtigter Minister in Turin,
+                                1854–1856 österr. Gesandter in München, ab 1856 österr. Gesandter in
+                                London, ab 1860 Botschafter</p>
+                            <p/>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/100416993</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Ludwig Keller an Leo Thun, Berlin, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/keller-an-thun-1854-10-01-a3-xxi-d287.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, München, 3. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-04-03-a3-xxi-d160.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Wien, 26. Oktober 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-10-26-a3-xxi-d173.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Wien, 26. Oktober 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event></listEvent></person>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 4. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-10-04-a3-xxi-d289.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
@@ -127,20 +125,22 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/135932327</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nikolaus Weis an Leo Thun, Speyer, 26. November 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weis-an-thun-1856-11-26-a3-xxi-d392.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="apponyi-rudolf">
+                    <person xml:id="arndts-carl-ludwig">
                         <persName>
-                            <surname>Apponyi</surname>
-                            <forename>Rudolf</forename>
+                            <surname>Arndts</surname>
+                            <forename>Carl Ludwig</forename>
                         </persName>
                         <note>
-                            <p>Karlsruhe 1812–1876 Venedig</p>
-                            <p>ab 1849 österr. Gesandter und bevollmächtigter Minister in Turin,
-                                1854–1856 österr. Gesandter in München, ab 1856 österr. Gesandter in
-                                London, ab 1860 Botschafter</p>
-                            <p/>
+                            <p>Arnsberg 1803–1878 Wien</p>
+                            <p>1836 Prof. für Römisches Recht an der Universität Bonn, ab 1838 Prof.
+                                für Zivilrecht an der Universität München, 1855–1873 Prof. an der
+                                Universität Wien, 1848/49 Mitglied der Frankfurter
+                                Nationalversammlung</p>
+                            <p>https://d-nb.info/gnd/100416993</p>
                             <p/>
                         </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 4. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-10-04-a3-xxi-d289.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
+                        <idno type="URL">https://d-nb.info/gnd/100416993</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854 Rudolf Apponyi an Leo Thun, München, 7. Dezember 1854Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Ludwig Keller an Leo Thun, Berlin, 1. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/keller-an-thun-1854-10-01-a3-xxi-d287.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, München, 3. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-04-03-a3-xxi-d160.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Wien, 26. Oktober 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-10-26-a3-xxi-d173.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>George Phillips an Leo Thun, Wien, 26. Oktober 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Filippo Serafini an Leo Thun, Siena, 1. April 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/serafini-an-thun-1857-04-01-a3-xxi-d412.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_f1ead991a0ca32b465653b3071c5ea3e">
                         <placeName type="pref">München</placeName>
                         <placeName type="alt">München</placeName>

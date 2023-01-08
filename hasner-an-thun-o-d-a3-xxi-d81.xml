@@ -111,7 +111,25 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="hasner-von-artha-leopold">
+                        <persName>
+                            <surname>Hasner von Artha</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>Prag 1818–1891 Bad Ischl</p>
+                            <p>1842–1848 Konzeptsbeamter bei der Hofkammerprokuratur in Wien, ab
+                                1849 Prof. für Rechtsphilosophie an der Universität Prag, 1851–1863
+                                Prof. für Nationalökonomie und politische Wissenschaften an der
+                                Universität Prag, 1863–1865 Präsident des Unterrichtsrates im
+                                Staatsministerium, ab 1865 Prof. der politischen Ökonomie an der
+                                Universität Wien</p>
+                            <p>https://d-nb.info/gnd/119059495</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/119059495</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1850-07-12-a3-xxi-d60.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner von Artha an Leo Thun, Prag, 3. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1860-11-03-a3-xxi-d623a20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -141,24 +159,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/101607237</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/brenner-an-haferl-1854-09-21-a3-xxi-d284.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Mischler an Leo Thun, Prag, 25. Februar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mischler-an-thun-1855-02-25-a3-xxi-d330.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Rimpel an einen unbekannten Empfänger o. O., o. D. [1853?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rimpel-an-unbekannt-o-d-a3-xxi-d248.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Schwarzenberg an Leo Thun, Prag, 19. Dezember 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-1857-12-19-a3-xxi-d437.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Baptist Weiß an Leo Thun, Graz, 9. August 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-09-a3-xxi-d347d.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="hasner-von-artha-leopold">
-                        <persName>
-                            <surname>Hasner von Artha</surname>
-                            <forename>Leopold</forename>
-                        </persName>
-                        <note>
-                            <p>Prag 1818–1891 Bad Ischl</p>
-                            <p>1842–1848 Konzeptsbeamter bei der Hofkammerprokuratur in Wien, ab
-                                1849 Prof. für Rechtsphilosophie an der Universität Prag, 1851–1863
-                                Prof. für Nationalökonomie und politische Wissenschaften an der
-                                Universität Prag, 1863–1865 Präsident des Unterrichtsrates im
-                                Staatsministerium, ab 1865 Prof. der politischen Ökonomie an der
-                                Universität Wien</p>
-                            <p>https://d-nb.info/gnd/119059495</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/119059495</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 12. Juli 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1850-07-12-a3-xxi-d60.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, Prag, 11. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner von Artha an Leo Thun, Prag, 3. November 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1860-11-03-a3-xxi-d623a20.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leopold Hasner an Leo Thun, o. O., o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_4510d4e4afdfe71771afea781bc55d46">
                         <placeName>o. O.</placeName>
                         <location>

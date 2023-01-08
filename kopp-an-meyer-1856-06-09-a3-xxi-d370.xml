@@ -183,13 +183,6 @@
                         </location>
                         <idno>https://www.geonames.org/2659811</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_591cce2c0b9ced801c5b5929c9a46a61" type="placeName">
-                        <placeName type="pref">Sardinia</placeName>
-                        <location>
-                            <geo decls="#LatLng">40.027778 9.069444</geo>
-                        </location>
-                        <idno>http://d-nb.info/gnd/4051687-8</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sarah Austin an Leo Thun, Weybridge, 3. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/austin-sarah-an-thun-1859-07-03-a3-xxi-d511.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Etienne Gallois an Leo Thun, Paris, 17. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gallois-an-thun-1851-11-17-a3-xxi-d131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg-Rothenlöwen o. O., 13. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1860-02-13-a3-xxi-d562.xml"/></linkGrp></event></listEvent></place>
                     <place xml:id="place_bb924613631a24955ccdde82d6af5cc2">
                         <placeName>Göttingen</placeName>
                         <placeName type="pref">goettingen</placeName>
@@ -199,20 +192,14 @@
                         </location>
                         <idno>https://www.geonames.org/2918632</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Traktat über die Philosophie Ahrens' von Rudolf Eitelberger o. O., o. D. [1854/1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-a3-xxi-d319.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 2. August 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-08-02-a3-xxi-d464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ludwig Lange und Georg Bippart an Leo Thun, Prag, 22. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/lange-an-thun-1856-04-22-a3-xxi-d376.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Leonhardi an Leo Thun, Prag, 05. April 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-04-05-a3-xxi-d338.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 18. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun-1856-01-18-a3-xxi-d365.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-01-04_a3-xxi-d394.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 13. Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-02-13-a3-xxi-d497.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Emil Rössler an Leo Thun, Göttingen, 20. Juni 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/roessler-an-thun-1857-06-20-a3-xxi-d419.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="kopp-josef">
-                        <persName>
-                            <surname>Kopp</surname>
-                            <forename>Josef Eutych</forename>
-                        </persName>
-                        <note>
-                            <p>Beromünster 1793–1866 Luzern</p>
-                            <p>1819–1866 Prof. für alte Sprachen am Lyzeum in Luzern</p>
-                            <p>https://d-nb.info/gnd/11871404X</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/11871404X</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 27. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-27-a3-xxi-d156b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="meyer-bernhard">
+                    <place xml:id="place_591cce2c0b9ced801c5b5929c9a46a61" type="placeName">
+                        <placeName type="pref">Sardinia</placeName>
+                        <location>
+                            <geo decls="#LatLng">40.027778 9.069444</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4051687-8</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sarah Austin an Leo Thun, Weybridge, 3. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/austin-sarah-an-thun-1859-07-03-a3-xxi-d511.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Etienne Gallois an Leo Thun, Paris, 17. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gallois-an-thun-1851-11-17-a3-xxi-d131.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg-Rothenlöwen o. O., 13. Februar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1860-02-13-a3-xxi-d562.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="meyer-bernhard">
                         <persName>
                             <surname>Meyer</surname>
                             <forename>Bernhard</forename>
@@ -226,6 +213,31 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/103948430</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 14. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-14-a3-xxi-d232.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Philipp Segesser an Leo Thun, Wien, 30. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/segesser-an-thun-1858-09-30-a3-xxi-d471.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Philipp Anton Segesser, Wien, 27. Oktober 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-segesser-1856-10-27-ca567.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="albrecht-I">
+                        <persName>
+                            <surname>Albrecht I.</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>Rheinfelden 1255–1308 Königsfelden</p>
+                            <p>ab 1282 Herzog von Österreich, ab 1298 röm.-deutscher König</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="boehmer-johann-friedrich">
+                        <persName>
+                            <surname>Böhmer</surname>
+                            <forename>Johann Friedrich</forename>
+                        </persName>
+                        <note>
+                            <p>Frankfurt a. Main 1795–1863 Frankfurt a. Main</p>
+                            <p>Historiker, 1830–1862 Bibliothekar in Frankfurt</p>
+                            <p>https://d-nb.info/gnd/118660748</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118660748</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Erwiderung von Václav Vladivoj Tomek auf die Rezension seines "Handbuches der österreichischen Geschichte" im Literarischen Centralblatt für Deutschland vom 12. Februar 1859 o. O., Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/erwiderung-auf-rezension-von-tomek-1859-02-a3-xxi-d496.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 20. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-10-20-a3-xxi-d622.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="wurstemberger-ludwig">
                         <persName>
                             <surname>Wurstemberger</surname>
@@ -239,18 +251,6 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/101519990</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="albrecht-I">
-                        <persName>
-                            <surname>Albrecht I.</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Rheinfelden 1255–1308 Königsfelden</p>
-                            <p>ab 1282 Herzog von Österreich, ab 1298 röm.-deutscher König</p>
-                            <p/>
-                            <p/>
-                        </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="rudolph-I">
                         <persName>
@@ -266,18 +266,18 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/11860371X</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Constantin Höfler an Leo Thun, Prag, 18. November 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1854-11-18-a3-xxi-d300.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="boehmer-johann-friedrich">
+                    <person xml:id="kopp-josef">
                         <persName>
-                            <surname>Böhmer</surname>
-                            <forename>Johann Friedrich</forename>
+                            <surname>Kopp</surname>
+                            <forename>Josef Eutych</forename>
                         </persName>
                         <note>
-                            <p>Frankfurt a. Main 1795–1863 Frankfurt a. Main</p>
-                            <p>Historiker, 1830–1862 Bibliothekar in Frankfurt</p>
-                            <p>https://d-nb.info/gnd/118660748</p>
+                            <p>Beromünster 1793–1866 Luzern</p>
+                            <p>1819–1866 Prof. für alte Sprachen am Lyzeum in Luzern</p>
+                            <p>https://d-nb.info/gnd/11871404X</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/118660748</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Erwiderung von Václav Vladivoj Tomek auf die Rezension seines "Handbuches der österreichischen Geschichte" im Literarischen Centralblatt für Deutschland vom 12. Februar 1859 o. O., Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/erwiderung-auf-rezension-von-tomek-1859-02-a3-xxi-d496.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 20. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-10-20-a3-xxi-d622.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1858-09-19-a3-xxi-d470.xml"/></linkGrp></event></listEvent></person>
+                        <idno type="URL">https://d-nb.info/gnd/11871404X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Hartmann an Leo Thun, Linz, 27. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/hartmann-an-thun-1852-04-27-a3-xxi-d156b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Eutych Kopp an Bernhard Meyer, Luzern, 9. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kopp-an-meyer-1856-06-09-a3-xxi-d370.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Mozart an Leo Thun o. O., o. D. [1852]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-o-d-a3-xxi-d182.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>

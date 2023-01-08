@@ -87,7 +87,11 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listOrg><org xml:id="org_0090">
+                        <orgName>k.k. Priesterbildungs-Institut zum hl. Augustin</orgName>
+                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/400016-X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml"/></linkGrp></event></listEvent></org>
+                    </listOrg><listPerson><person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -117,18 +121,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118799185</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Ein bosnischer katholischer Priester an Joseph Strossmayer, Wien, 16. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/priester-an-strossmayer-1850-06-16-a3-xxi-d57.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="bozanic-bartol">
-                        <persName>
-                            <surname>Bozanich</surname>
-                            <forename>Bartholomäus</forename>
-                        </persName>
-                        <note>
-                            <p>Verbenico 1798–1854 Krk</p>
-                            <p>1839–1854 Bischof von Krk (Veglia)</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="feigerle-ignaz">
                         <persName>
                             <surname>Feigerle</surname>
@@ -157,6 +149,18 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bozanic-bartol">
+                        <persName>
+                            <surname>Bozanich</surname>
+                            <forename>Bartholomäus</forename>
+                        </persName>
+                        <note>
+                            <p>Verbenico 1798–1854 Krk</p>
+                            <p>1839–1854 Bischof von Krk (Veglia)</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="widmer-bartolomaeus">
                         <persName>
                             <surname>Widmer</surname>
@@ -176,9 +180,5 @@
                         <placeName type="pref">Đakovo</placeName>
                         <placeName type="alt">Đakovo</placeName>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listOrg><org xml:id="org_0090">
-                        <orgName>k.k. Priesterbildungs-Institut zum hl. Augustin</orgName>
-                        <idno type="URL" subtype="GND">http://d-nb.info/gnd/400016-X</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Strossmayer an Leo Thun, Đakovo, 17. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Othmar Rauscher, Wien, 17. Mai 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg></back></text>
+                    </listPlace></back></text>
 </TEI>

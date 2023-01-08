@@ -131,14 +131,7 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Clemens Faller an Leo Thun, Feldkirch, 31. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_fef029496b06aa0f5a4468390461f12c">
-                        <placeName>Feldkirch</placeName>
-                        <location>
-                            <geo decls="#LatLng">47.23306 9.6</geo>
-                        </location>
-                        <idno>https://www.geonames.org/2779674</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Clemens Faller an Leo Thun, Feldkirch, 31. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_f05bb634bb7db5dab69c443430ae9927">
+                    </listPerson><listPlace><place xml:id="place_f05bb634bb7db5dab69c443430ae9927">
                         <placeName>Köln</placeName>
                         <placeName type="alt">Colonia</placeName>
                         <placeName type="alt">Cöln</placeName>
@@ -147,5 +140,12 @@
                         </location>
                         <idno>https://www.geonames.org/2886242</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 28. Mai 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-05-28-a3-xxi-d70.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Melchior Diepenbrock an Leo Thun, Breslau, 4. Juni 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-06-04-a3-xxi-d70a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Clemens Faller an Leo Thun, Feldkirch, 31. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Georg Müller an Leo Thun, Hildesheim, 13. Oktober 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/mueller-an-thun-1854-10-13-a3-xxi-d291.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_fef029496b06aa0f5a4468390461f12c">
+                        <placeName>Feldkirch</placeName>
+                        <location>
+                            <geo decls="#LatLng">47.23306 9.6</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2779674</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Clemens Faller an Leo Thun, Feldkirch, 31. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event></listEvent></place>
                     </listPlace></back></text>
 </TEI>

@@ -109,7 +109,63 @@
             </div>
         </body>
         
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="kiechl-johann">
+                        <persName>
+                            <surname>Kiechl</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Sarnthein 1804–1893 Innsbruck</p>
+                            <p>1838–1843 Landrichter in Sarnthein, dann in Passeier, ab 1850
+                                Landesgerichtsrat in Bozen, ab 1854 Oberlandesgerichtsrat in
+                                Innsbruck, 1862–1867 Landeshauptmann von Tirol</p>
+                            <p>https://d-nb.info/gnd/140126406</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/140126406</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thaler-karl-sen">
+                        <persName>
+                            <surname>Thaler</surname>
+                            <forename>Karl sen.</forename>
+                        </persName>
+                        <note>
+                            <p>Freiburg i. B. 1796–1878 Wien</p>
+                            <p>ab 1820 in öster. Staatsdienst in Brixen und Innsbruck, zuletzt
+                                Kreisrat in Innsbruck</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thaler-anna">
+                        <persName>
+                            <surname>Thaler</surname>
+                            <forename>Anna Antonia</forename>
+                        </persName>
+                        <note>
+                            <p>Brünn 1814–1875 Wien</p>
+                            <p>Schriftstellerin, Gattin von Karl Thaler sen., Mutter von Karl
+                                Thaler</p>
+                            <p>https://d-nb.info/gnd/130163554</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/130163554</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="bissingen-cajetan">
+                        <persName>
+                            <surname>Bissingen-Nippenburg</surname>
+                            <forename>Cajetan Alexander</forename>
+                        </persName>
+                        <note>
+                            <p>Venedig 1806–1890 Schramberg</p>
+                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig
+                                Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
+                            <p>https://d-nb.info/gnd/116195843</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/116195843</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Cajetan Bissingen an Leo Thun, Wien, 14. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1852-05-14-a3-xxi-d167.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Cajetan Bissingen an Leo Thun, Schramberg in Württemberg, 22. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1854-09-22-a3-xxi-d285.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -137,35 +193,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/117298085</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="kiechl-johann">
-                        <persName>
-                            <surname>Kiechl</surname>
-                            <forename>Johann</forename>
-                        </persName>
-                        <note>
-                            <p>Sarnthein 1804–1893 Innsbruck</p>
-                            <p>1838–1843 Landrichter in Sarnthein, dann in Passeier, ab 1850
-                                Landesgerichtsrat in Bozen, ab 1854 Oberlandesgerichtsrat in
-                                Innsbruck, 1862–1867 Landeshauptmann von Tirol</p>
-                            <p>https://d-nb.info/gnd/140126406</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/140126406</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="bissingen-cajetan">
-                        <persName>
-                            <surname>Bissingen-Nippenburg</surname>
-                            <forename>Cajetan Alexander</forename>
-                        </persName>
-                        <note>
-                            <p>Venedig 1806–1890 Schramberg</p>
-                            <p>ab 1848 Statthalter für Tirol und Vorarlberg, ab 1852 gleichzeitig
-                                Landeshauptmann, 1855–1860 Statthalter von Venedig</p>
-                            <p>https://d-nb.info/gnd/116195843</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/116195843</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Cajetan Bissingen an Leo Thun, Wien, 14. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1852-05-14-a3-xxi-d167.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Cajetan Bissingen an Leo Thun, Schramberg in Württemberg, 22. September 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bissingen-an-thun-1854-09-22-a3-xxi-d285.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="moy-de-sons-ernst">
                         <persName>
                             <surname>Moy de Sons</surname>
@@ -182,33 +209,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/174390033</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Münster, 16.–20. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1860-09-16-a3-xxi-d612.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Unbekannt [, Innsbruck], 6. Juni 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-beamten-ministerium-fuer-kultus-und-unterricht-1851-06-06-a3-xxi-d118.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 9. November 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1851-11-09-a3-xxi-d128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-02-01-a3-xxi-d155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 5. April 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-04-05-a3-xxi-d161.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 21. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1853-07-21-a3-xxi-d219.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-07-19-a3-xxi-d270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 08. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-12-08-a3-xxi-d308.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 06. Jänner 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1855-01-06-a3-xxi-d322.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 28. Januar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1858-01-28-a3-xxi-d445.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 13. Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-02-13-a3-xxi-d497.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 2. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1860-01-02-a3-xxi-d544.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thaler-anna">
-                        <persName>
-                            <surname>Thaler</surname>
-                            <forename>Anna Antonia</forename>
-                        </persName>
-                        <note>
-                            <p>Brünn 1814–1875 Wien</p>
-                            <p>Schriftstellerin, Gattin von Karl Thaler sen., Mutter von Karl
-                                Thaler</p>
-                            <p>https://d-nb.info/gnd/130163554</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/130163554</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="thaler-karl-sen">
-                        <persName>
-                            <surname>Thaler</surname>
-                            <forename>Karl sen.</forename>
-                        </persName>
-                        <note>
-                            <p>Freiburg i. B. 1796–1878 Wien</p>
-                            <p>ab 1820 in öster. Staatsdienst in Brixen und Innsbruck, zuletzt
-                                Kreisrat in Innsbruck</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 7. Januar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_35ec7062379a5b1e1743de648e2f3809">
                         <placeName>Heidelberg</placeName>
                         <location>

@@ -252,32 +252,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/1044329998</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ernst Moy de Sons an Leo Thun, Innsbruck, 28. Januar 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1858-01-28-a3-xxi-d445.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Petter an Leo Thun, Spalato [Split], 14. April 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/petter-an-thun_1850-04-14_a3-xxi-d45.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Lungern, 15. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1857-08-15-ca184.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="prockner-franz-kajetan">
-                        <persName>
-                            <surname>Prockner</surname>
-                            <forename>Franz Kajetan</forename>
-                        </persName>
-                        <note>
-                            <p>Linz 1783–1863 Maribor</p>
-                            <p>1818–1856 Prof. des allgemeinen österreichisch-bürgerlichen Rechts an
-                                der Universität Innsbruck</p>
-                            <p>https://d-nb.info/gnd/12267944X</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/12267944X</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="ambreit-julie">
-                        <persName>
-                            <surname>Ambreit</surname>
-                            <forename>Julie</forename>
-                        </persName>
-                        <note>
-                            <p>1826–1894</p>
-                            <p>Gattin von Friedrich Maassen</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="savigny-friedrich-carl">
                         <persName>
                             <surname>Savigny</surname>
@@ -295,6 +269,32 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118605909</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Eitelberger an Leo Thun, Wien, 22. März 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/eitelberger-an-thun-1855-03-22-a3-xxi-d335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/linde-an-thun_1856-12-04_a3-xxi-d393.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 18. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1860-04-18-a3-xxi-d576.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift einer Rede Leo Thuns bei einer Promotion sub auspiciis, [Wien], 11. Mai 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/rede-thuns-bei-promotion-1852-05-11-a3-xxi-d165.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg-Rothenlöwen, Wien, 26. Dezember 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="ambreit-julie">
+                        <persName>
+                            <surname>Ambreit</surname>
+                            <forename>Julie</forename>
+                        </persName>
+                        <note>
+                            <p>1826–1894</p>
+                            <p>Gattin von Friedrich Maassen</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="prockner-franz-kajetan">
+                        <persName>
+                            <surname>Prockner</surname>
+                            <forename>Franz Kajetan</forename>
+                        </persName>
+                        <note>
+                            <p>Linz 1783–1863 Maribor</p>
+                            <p>1818–1856 Prof. des allgemeinen österreichisch-bürgerlichen Rechts an
+                                der Universität Innsbruck</p>
+                            <p>https://d-nb.info/gnd/12267944X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/12267944X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Friedrich Maassen an Leo Thun, Innsbruck, 12. Januar 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_fc3a4fb327706ca2220500871d60b94b">
                         <placeName>Pest megye</placeName>
                         <placeName type="pref">Pest</placeName>

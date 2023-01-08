@@ -106,7 +106,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="thun-hohenstein-leo">
+    <back><listPerson><person xml:id="czernin-von-und-zu-chudenitz-eugen">
+                        <persName>
+                            <surname>Czernin von und zu Chudenitz</surname>
+                            <forename>Eugen</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1796–1868 Schloss Petersburg, Böhmen</p>
+                            <p>Großgrundbesitzer, Industrieller, Intendant des Wiener
+                                Hoftheaters</p>
+                            <p>https://d-nb.info/gnd/102085779X</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/102085779X</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Czernin an Leo Thun, o. O. [Neuhaus], o. D. [18]50</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/czernin-an-thun-o-d-a3-xxi-d80.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
                             <forename>Leo (Leopold)</forename>
@@ -132,20 +146,6 @@
                             <p/>
                             <p/>
                         </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Czernin an Leo Thun, o. O. [Neuhaus], o. D. [18]50</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/czernin-an-thun-o-d-a3-xxi-d80.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="czernin-von-und-zu-chudenitz-eugen">
-                        <persName>
-                            <surname>Czernin von und zu Chudenitz</surname>
-                            <forename>Eugen</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1796–1868 Schloss Petersburg, Böhmen</p>
-                            <p>Großgrundbesitzer, Industrieller, Intendant des Wiener
-                                Hoftheaters</p>
-                            <p>https://d-nb.info/gnd/102085779X</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/102085779X</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Eugen Czernin an Leo Thun, o. O. [Neuhaus], o. D. [18]50</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/czernin-an-thun-o-d-a3-xxi-d80.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_4aee0ba8deb6ed0f68f1345844d493fb">
                         <placeName>Jindřichův Hradec</placeName>

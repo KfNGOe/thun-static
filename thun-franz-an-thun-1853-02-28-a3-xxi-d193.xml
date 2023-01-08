@@ -167,19 +167,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/117479659</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 28. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-02-28-a3-xxi-d193.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 25. Juli 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-07-25-a3-xxi-d220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Castelfondo, 12. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-08-12-a3-xxi-d224.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="tagliapietra-alberto-andrea">
-                        <persName>
-                            <surname>Tagliapietra</surname>
-                            <forename>Alberto Andrea</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Kustos der Gemäldegalerie der Akademie der bildenden Künste in
-                                Venedig</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 28. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-02-28-a3-xxi-d193.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="meschutar-andreas">
                         <persName>
                             <surname>Meschutar</surname>
@@ -193,6 +180,19 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht eines Referenten im Kultusministerium über die Anträge der Bischöfe Ungarns o. O., o. D. [1851]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-referent-kultusministerium-ueber-antraege-bischoefe-ungarn-1851-a3-xxi-d142.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufforderung an die Unterrichtsreferenten des MCU um Stellungnahme zum Antrag der Erzbischöfe und Bischöfe der Monarchie hinsichtlich der Umsetzung des Konkordats, von Leo Thun [Konzept] o. O. [, Wien], 9. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-zu-eingabe-der-erzbischoefe-auf-grundlage-konkordat-1856-a3-xxi-d383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O. [Slabce?], 7. Juli 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert o. O., 8. Februar 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-02-09-ca1422.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 28. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-02-28-a3-xxi-d193.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="tagliapietra-alberto-andrea">
+                        <persName>
+                            <surname>Tagliapietra</surname>
+                            <forename>Alberto Andrea</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Kustos der Gemäldegalerie der Akademie der bildenden Künste in
+                                Venedig</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun o. O., 28. Februar 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-02-28-a3-xxi-d193.xml"/></linkGrp></event></listEvent></person>
                     </listPerson><listPlace><place xml:id="place_80c239e539544aa459dc13996638cb2f">
                         <placeName>Venedig</placeName>
                         <placeName type="pref">venedig</placeName>
