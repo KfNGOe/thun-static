@@ -100,7 +100,42 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="apponyi-sophie">
+    <back><listPlace><place xml:id="place_d856324689e6964c27e3903e6f63a34e">
+                        <placeName>Komitat Neutra</placeName>
+                        <placeName type="alt">Neutra</placeName>
+                        <placeName type="alt">Neutraer Seniorate</placeName>
+                        <placeName type="alt">Neutraer</placeName>
+                        <placeName type="alt">Ober- und Unter-Neutra</placeName>
+                        <placeName type="alt">Neutraer Comitate</placeName>
+                        <placeName type="alt">Comitat de Neutra</placeName>
+                        <placeName type="alt">Comitate de Neutra</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.314722 18.0875</geo>
+                        </location>
+                        <idno>http://d-nb.info/gnd/4843030-4</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 1. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-01-a3-xxi-d605.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d606.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 7. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-07-a3-xxi-d609.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
+                    <place xml:id="place_c02c72b51669c91cfda3c0599a674b45">
+                        <placeName>Bad Ems</placeName>
+                        <placeName type="pref">bad-ems</placeName>
+                        <placeName type="alt">[Bad] Ems</placeName>
+                        <location>
+                            <geo decls="#LatLng">50.33544 7.71369</geo>
+                        </location>
+                        <idno>https://www.geonames.org/2953507</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace><listPerson><person xml:id="palugyay-imrich">
+                        <persName>
+                            <surname>Palugyai</surname>
+                            <forename>Emerich</forename>
+                        </persName>
+                        <note>
+                            <p>Palúdzka 1780–1858</p>
+                            <p>1830 Bischof von Kosice, 1838–1858 Bischof von Neutra</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 23. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="apponyi-sophie">
                         <persName>
                             <surname>Apponyi</surname>
                             <forename>Sophie</forename>
@@ -113,18 +148,18 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="palugyay-imrich">
+                    <person xml:id="apponyi-julius">
                         <persName>
-                            <surname>Palugyai</surname>
-                            <forename>Emerich</forename>
+                            <surname>Apponyi</surname>
+                            <forename>Julius</forename>
                         </persName>
                         <note>
-                            <p>Palúdzka 1780–1858</p>
-                            <p>1830 Bischof von Kosice, 1838–1858 Bischof von Neutra</p>
+                            <p>Florenz 1816–1857 Wien</p>
+                            <p>Kämmerer</p>
                             <p/>
                             <p/>
                         </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>János Simor an Leo Thun, Rom, 23. Dezember 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml"/></linkGrp></event></listEvent></person>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
@@ -153,40 +188,5 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/1017305595</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="apponyi-julius">
-                        <persName>
-                            <surname>Apponyi</surname>
-                            <forename>Julius</forename>
-                        </persName>
-                        <note>
-                            <p>Florenz 1816–1857 Wien</p>
-                            <p>Kämmerer</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/appony-an-thun-1860-09-30-a3-xxi-d616.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_d856324689e6964c27e3903e6f63a34e">
-                        <placeName>Komitat Neutra</placeName>
-                        <placeName type="alt">Neutra</placeName>
-                        <placeName type="alt">Neutraer Seniorate</placeName>
-                        <placeName type="alt">Neutraer</placeName>
-                        <placeName type="alt">Ober- und Unter-Neutra</placeName>
-                        <placeName type="alt">Neutraer Comitate</placeName>
-                        <placeName type="alt">Comitat de Neutra</placeName>
-                        <placeName type="alt">Comitate de Neutra</placeName>
-                        <location>
-                            <geo decls="#LatLng">48.314722 18.0875</geo>
-                        </location>
-                        <idno>http://d-nb.info/gnd/4843030-4</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 1. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-01-a3-xxi-d605.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 2. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-02-a3-xxi-d606.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kuzmány an Leo Thun, Neusohl, 7. September 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kuzmany-an-thun-1860-09-07-a3-xxi-d609.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum von Johann Mikulas zur Neuordnung der Verwaltung der evangelischen Kirchen in Ungarn o. D. [1860]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-mikulas-kirchenverwaltung-ungarn-1860-a3-xxi-d626.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski o. O., 5. Januar 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1860-01-05-a3-xxi-d525d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></place>
-                    <place xml:id="place_c02c72b51669c91cfda3c0599a674b45">
-                        <placeName>Bad Ems</placeName>
-                        <placeName type="pref">bad-ems</placeName>
-                        <placeName type="alt">[Bad] Ems</placeName>
-                        <location>
-                            <geo decls="#LatLng">50.33544 7.71369</geo>
-                        </location>
-                        <idno>https://www.geonames.org/2953507</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace></back></text>
+                    </listPerson></back></text>
 </TEI>

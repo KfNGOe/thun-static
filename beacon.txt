@@ -386,7 +386,7 @@ https://d-nb.info/gnd/118719785|Hadrian IV.|https://thun-korrespondenz.acdh.oeaw
 https://d-nb.info/gnd/100493580|Häufler, Josef Vinzenz|https://thun-korrespondenz.acdh.oeaw.ac.at/haeufler-josef-vinzenz.html
 https://d-nb.info/gnd/10275019X|Häusle, Johann Michael|https://thun-korrespondenz.acdh.oeaw.ac.at/haeusle-johann-michael.html
 https://d-nb.info/gnd/133711188|Hagn, Theodorich OSB|https://thun-korrespondenz.acdh.oeaw.ac.at/hagn-theoderich.html
-https://d-nb.info/gnd/118544918|Hahn, Friedrich|https://thun-korrespondenz.acdh.oeaw.ac.at/hahn-friedrich.html
+https://d-nb.info/gnd/102120455|Hahn, Friedrich|https://thun-korrespondenz.acdh.oeaw.ac.at/hahn-friedrich.html
 https://d-nb.info/gnd/11870060X|Hahn, Johann Georg|https://thun-korrespondenz.acdh.oeaw.ac.at/hahn-johann-georg.html
 https://d-nb.info/gnd/119435810|Haidinger, Wilhelm|https://thun-korrespondenz.acdh.oeaw.ac.at/haidinger-wilhelm.html
 https://d-nb.info/gnd/116392541|Haimberger, Anton|https://thun-korrespondenz.acdh.oeaw.ac.at/haimberger-anton-von.html

@@ -9,7 +9,7 @@
                 <publisher>
                     <ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">Die Korrespondenz von Leo von Thun-Hohenstein</ref>
                 </publisher>
-                <date when="2023-01-08"/>
+                <date when="2023-08-20"/>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
@@ -1771,7 +1771,7 @@
 
         <correspDesc ref="https://thun-korrespondenz.acdh.oeaw.ac.at/hahn-an-thun-1854-10-01-a3-xxi-d288.html" source="#dd8c20cc-31b0-11ed-baad-f50cc1e65a15">
                 <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/118544918">Friedrich Hahn</persName>
+                    <persName ref="https://d-nb.info/gnd/102120455">Friedrich Hahn</persName>
                     <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
                     <date when="1854-10-01">1.
                         Oktober 1854</date>

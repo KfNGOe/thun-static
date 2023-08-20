@@ -76,7 +76,32 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+    <back><listPerson><person xml:id="strehle-leopold">
+                        <persName>
+                            <surname>Strehle</surname>
+                            <forename>Leopold</forename>
+                        </persName>
+                        <note>
+                            <p>*Stronsdorf 1805</p>
+                            <p>1849–1861 Leiter des Polizeikommissariats Maria Hilf</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="contriner-leonhard">
+                        <persName>
+                            <surname>Contriner</surname>
+                            <forename>Leonhard</forename>
+                        </persName>
+                        <note>
+                            <p/>
+                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in
+                                Gumpendorf</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
                         <placeName>Wien</placeName>
                         <placeName type="alt">Wiener</placeName>
                         <placeName type="alt">Wiens</placeName>
@@ -120,30 +145,5 @@
                         </location>
                         <idno>http://d-nb.info/gnd/4136052-7</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="strehle-leopold">
-                        <persName>
-                            <surname>Strehle</surname>
-                            <forename>Leopold</forename>
-                        </persName>
-                        <note>
-                            <p>*Stronsdorf 1805</p>
-                            <p>1849–1861 Leiter des Polizeikommissariats Maria Hilf</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="contriner-leonhard">
-                        <persName>
-                            <surname>Contriner</surname>
-                            <forename>Leonhard</forename>
-                        </persName>
-                        <note>
-                            <p/>
-                            <p>Lehrer der Religionslehre am Schottengymnasium in Wien, Pfarrer in
-                                Gumpendorf</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeibezirkskommissariats Gumpendorf an die Stadthauptmannschaft [, Gumpendorf], 28. Februar 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-gumpendorf-an-stadthauptmannschaft-1851-02-28-a3-xxi-d106.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Bericht des Polizeikommissariats Maria Hilf an die k.k. Stadthauptmannschaft, Wien, 3. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/polizeikommissariat-maria-hilf-an-stadthauptmannschaft-1851-03-03-a3-xxi-d108.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson></back></text>
+                    </listPlace></back></text>
 </TEI>

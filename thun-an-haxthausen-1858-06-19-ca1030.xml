@@ -79,13 +79,20 @@
             </div>
         </body>
     
-    <back><listPlace><place xml:id="place_e3a1571b9091d6d78548ad3b4b159d11">
-                        <placeName>Hetzendorf</placeName>
-                        <location>
-                            <geo decls="#LatLng">48.165278 16.304167</geo>
-                        </location>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Berichte über das Schul- und Pfarrwesen mehrerer Bezirkskommissariate an die k.k. Stadthauptmannschaft 15. bis 17. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bezirkskommissariate-an-stadthauptmannschaft-1851-03-a3-xxi-d109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, 11. Juli [o. J.]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-07-11-ca945.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, Ostersonntag [23. März 1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, 8. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1859-07-08-ca941.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Schreibens von Leo Thun an Kaiser Franz Joseph, Hetzendorf, Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-franz-joseph-1859-06-a3-xxi-d510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg, Wien, 21. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1857-07-21-ca1571.xml"/></linkGrp></event></listEvent></place>
-                    </listPlace><listPerson><person xml:id="szaszkewycz-gregor">
+    <back><listPerson><person xml:id="haxthausen-august">
+                        <persName>
+                            <surname>Haxthausen</surname>
+                            <forename>August</forename>
+                        </persName>
+                        <note>
+                            <p>Bökendorf 1792–1866 Hannover</p>
+                            <p>Agrarwissenschaftler, Nationalökonom und Schriftsteller</p>
+                            <p>https://d-nb.info/gnd/118547305</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118547305</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="szaszkewycz-gregor">
                         <persName>
                             <surname>Szaszkewycz</surname>
                             <forename>Gregor</forename>
@@ -99,19 +106,6 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Bericht von Gregor Szazskewycz über die Situation der katholischen Kirche in Galizien 1850</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bericht-ueber-situation-katholische-kirche-galizien-1850-a3-xxi-d88.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 20. September 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1851-09-20-a3-xxi-d122.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Agenor Goluchowski an Leo Thun, Lemberg, 15. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/goluchowski-an-thun-1859-07-15-a3-xxi-d512.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="haxthausen-august">
-                        <persName>
-                            <surname>Haxthausen</surname>
-                            <forename>August</forename>
-                        </persName>
-                        <note>
-                            <p>Bökendorf 1792–1866 Hannover</p>
-                            <p>Agrarwissenschaftler, Nationalökonom und Schriftsteller</p>
-                            <p>https://d-nb.info/gnd/118547305</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118547305</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
@@ -131,5 +125,11 @@
                         <orgName>Jesuitenorden</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/80092-2</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Pierre Jean Beckx an Leo Thun, Rom, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/beckx-an-thun-1858-06-26-a3-xxi-d457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Julius Ficker, Wien, 22. September 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg></back></text>
+                    </listOrg><listPlace><place xml:id="place_e3a1571b9091d6d78548ad3b4b159d11">
+                        <placeName>Hetzendorf</placeName>
+                        <location>
+                            <geo decls="#LatLng">48.165278 16.304167</geo>
+                        </location>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Berichte über das Schul- und Pfarrwesen mehrerer Bezirkskommissariate an die k.k. Stadthauptmannschaft 15. bis 17. März 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bezirkskommissariate-an-stadthauptmannschaft-1851-03-a3-xxi-d109.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, 11. Juli [o. J.]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-07-11-ca945.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, Ostersonntag [23. März 1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Alexander Bach, Hetzendorf, 8. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1859-07-08-ca941.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Konzept eines Schreibens von Leo Thun an Kaiser Franz Joseph, Hetzendorf, Juni 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-franz-joseph-1859-06-a3-xxi-d510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Briefes von Leo Thun an Agenor Goluchowski, Hetzendorf, 25. bis 29. Juli 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Bernhard Rechberg, Wien, 21. Juli 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1857-07-21-ca1571.xml"/></linkGrp></event></listEvent></place>
+                    </listPlace></back></text>
 </TEI>

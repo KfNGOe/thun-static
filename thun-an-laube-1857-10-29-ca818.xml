@@ -73,19 +73,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="wallishausser-johann-baptist">
-                        <persName>
-                            <surname>Wallishausser</surname>
-                            <forename>Johann Baptist III.</forename>
-                        </persName>
-                        <note>
-                            <p>Wien 1831–1904 Düsseldorf</p>
-                            <p>Besitzer der gleichnamigen Wiener Buchhandlung und Druckerei</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Heinrich Laube, Wien, 29. Oktober 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1857-10-29-ca818.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="laube-heinrich">
+    <back><listPerson><person xml:id="laube-heinrich">
                         <persName>
                             <surname>Laube</surname>
                             <forename>Heinrich</forename>
@@ -99,6 +87,18 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118570080</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Heinrich Laube, Wien, 29. Oktober 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1857-10-29-ca818.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Heinrich Laube, Wien, 28. September 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1858-09-22-ca820.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="wallishausser-johann-baptist">
+                        <persName>
+                            <surname>Wallishausser</surname>
+                            <forename>Johann Baptist III.</forename>
+                        </persName>
+                        <note>
+                            <p>Wien 1831–1904 Düsseldorf</p>
+                            <p>Besitzer der gleichnamigen Wiener Buchhandlung und Druckerei</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an Heinrich Laube, Wien, 29. Oktober 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1857-10-29-ca818.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>

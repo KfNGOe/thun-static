@@ -69,19 +69,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="meysenbug-otto-heinrich-rivalier">
-                        <persName>
-                            <surname>Meysenburg</surname>
-                            <forename>Otto Heinrich Rivalier</forename>
-                        </persName>
-                        <note>
-                            <p>Kassel 1806–1886 Wien</p>
-                            <p>Ministerialrat im Ministerium des Äußeren</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="haxthausen-august">
+    <back><listPerson><person xml:id="haxthausen-august">
                         <persName>
                             <surname>Haxthausen</surname>
                             <forename>August</forename>
@@ -94,6 +82,18 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/118547305</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Sur la pacification de Districts polonais (Memorandum über die Verhältnisse in den polnischen Bezirken) von August Haxthausen 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memoire-ueber-verhaeltnisse-in-polnischen-bezirken-von-haxthausen-1856-a3-xxi-d400.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die Situation der orthodoxen Kirchen o. Autor [August Haxthausen] o. D. [1857/58]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-orientalische-kirche-od-a3-xxi-d653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, Hetzendorf, 19. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="meysenbug-otto-heinrich-rivalier">
+                        <persName>
+                            <surname>Meysenburg</surname>
+                            <forename>Otto Heinrich Rivalier</forename>
+                        </persName>
+                        <note>
+                            <p>Kassel 1806–1886 Wien</p>
+                            <p>Ministerialrat im Ministerium des Äußeren</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-15-ca1029.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>

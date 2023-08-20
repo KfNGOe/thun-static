@@ -466,20 +466,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="livius">
-                        <persName>
-                            <surname>Titus Livius</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Patavium 59 v. Chr.–17 n. Chr. Patavium</p>
-                            <p>römischer Geschichtsschreiber</p>
-                            <p>https://d-nb.info/gnd/174044089</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/174044089</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über den Zweck des Gymnasiums von Joseph Fick[?] o. D. [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficks-kritik-am-gymnasiallehrplan-1855-a3-xxi-d361.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="fick-joseph">
+    <back><listPerson><person xml:id="fick-joseph">
                         <persName>
                             <surname>Fick</surname>
                             <forename>Joseph</forename>
@@ -491,6 +478,19 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116489731</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über den Zweck des Gymnasiums von Joseph Fick[?] o. D. [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficks-kritik-am-gymnasiallehrplan-1855-a3-xxi-d361.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="livius">
+                        <persName>
+                            <surname>Titus Livius</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>Patavium 59 v. Chr.–17 n. Chr. Patavium</p>
+                            <p>römischer Geschichtsschreiber</p>
+                            <p>https://d-nb.info/gnd/174044089</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/174044089</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über den Zweck des Gymnasiums von Joseph Fick[?] o. D. [1855]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficks-kritik-am-gymnasiallehrplan-1855-a3-xxi-d361.xml"/></linkGrp></event></listEvent></person>
                     </listPerson></back></text>
 </TEI>
