@@ -41,7 +41,7 @@ jobs:
       - name: Fetch the Data
         run: ./fetch_data.sh
       - name: process data
-        run: process.sh
+        run: ./process.sh
       - name: search index
         run: uv run make_typesense_index.py
       - name: Build Edition HTMLS
