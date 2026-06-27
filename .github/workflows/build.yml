@@ -38,23 +38,14 @@ jobs:
         uses: actions/checkout@v7
       - name: set up uv (Python)
         uses: astral-sh/setup-uv@v8.1.0
-      - name: setup
-        run: ./script.sh
-      - name: install python libs
-        run: |
-          pip install -r requirements.txt
       - name: Fetch the Data
-        run: |
-          ./fetch_data.sh
-      - name: update cmif
-        run: |
-          python make_cmif.py
-      - name: denormalize indices
-        run: |
-          ./denormalize_indices.sh
+        run: ./fetch_data.sh
+      - name: process data
+        run: denormalize_indices.sh
+      - name: search index
+        run: uv run make_typesense_index.py
       - name: Build Edition HTMLS
-        run: |
-          ant
+        run: ant
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

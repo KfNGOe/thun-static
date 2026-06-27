@@ -1,0 +1,8 @@
+/html/out.html
+/thun-data.xpr
+*.xpr
+editions/petter-an-thun-1850-04-14-a3-xxi-d45.xml
+/env
+*.pyc
+*.ipynb
+/tmp
