@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="deutsch-an-finanzministerium-1859-1859-04-14-a3-xxi-d502.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/denkschrift-ueber-die-rechte-der-protestanten-in-ungarn-1858-a3-xxi-d485.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml">
     <teiHeader>
         <fileDesc>
@@ -217,20 +218,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="deutsch-ignaz">
-                        <persName>
-                            <surname>Deutsch</surname>
-                            <forename>Ignaz</forename>
-                        </persName>
-                        <note>
-                            <p>Preßburg 1808–1881</p>
-                            <p>Bankier, seit 1848 Vorsteher der polnischen Synagoge in Wien, Führer
-                                der orthodoxen Wiener Juden</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an das k.k. Finanzministerium, Wien, 14. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-finanzministerium-1859-1859-04-14-a3-xxi-d502.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an Leo Thun, Wien, 10. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml"/></linkGrp></event></listEvent></person>
-                    </listPerson><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
+    <back><listPlace><place xml:id="place_95b8315bd8f5c49ffd94d827cc5ece93">
                         <placeName>Wien</placeName>
                         <placeName type="alt">Wiener</placeName>
                         <placeName type="alt">Wiens</placeName>
@@ -276,5 +264,18 @@
                         <orgName>k.k. Finanzministerium (Österreich)</orgName>
                         <idno type="URL" subtype="GND">http://d-nb.info/gnd/118073-3</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an das k.k. Finanzministerium, Wien, 14. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-finanzministerium-1859-1859-04-14-a3-xxi-d502.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf der Grundzüge über die Organisierung der Zivilverwaltung in Lombardo-Venetien, Wien, 7. Oktober 1849</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/grundzuege-fuer-organisierung-der-zivilverwaltung-lombardo-venetiens-1849-10-07-a3-xxi-d8.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Johann Kleemann zu § 29 der Anträge der Erzbischöfe und Bischöfe des Kaiserreichs zur Umsetzung des Konkordats o. O. [, Wien], o. D. [1856]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-piaristengymnasien-kleemann-1856-a3-xxi-d383r.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum "Über die Scheidung der Geschäfte zwischen der königlich ungarischen Hofkanzlei und der obersten Unterrichtsbehörde" o. D. [1860/61]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/memorandum-neuorganisation-unterricht-1860-od-a3-xxi-d631.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Note von Franz Nádasdy an Agenor Goluchowski, Wien, 5. November 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/note-nadasdy-an-goluchowski-1859-11-05-a3-xxi-d525b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Interlaken, 22. August 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1857-08-22-ca1425.xml"/></linkGrp></event></listEvent></org>
-                    </listOrg></back></text>
+                    </listOrg><listPerson><person xml:id="deutsch-ignaz">
+                        <persName>
+                            <surname>Deutsch</surname>
+                            <forename>Ignaz</forename>
+                        </persName>
+                        <note>
+                            <p>Preßburg 1808–1881</p>
+                            <p>Bankier, seit 1848 Vorsteher der polnischen Synagoge in Wien, Führer
+                                der orthodoxen Wiener Juden</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an das k.k. Finanzministerium, Wien, 14. April 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-finanzministerium-1859-1859-04-14-a3-xxi-d502.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Ignaz Deutsch an Leo Thun, Wien, 10. April 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml"/></linkGrp></event></listEvent></person>
+                    </listPerson></back></text>
 </TEI>

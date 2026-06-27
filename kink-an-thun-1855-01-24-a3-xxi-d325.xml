@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kink-an-thun-1855-01-24-a3-xxi-d325.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml">
     <teiHeader>
         <fileDesc>
@@ -145,30 +146,33 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="wilhelm-andreas">
+    <back><listPerson><person xml:id="kink-rudolph">
                         <persName>
-                            <surname>Wilhelm</surname>
-                            <forename>Andreas</forename>
+                            <surname>Kink</surname>
+                            <forename>Rudolf</forename>
                         </persName>
                         <note>
-                            <p>*Egerland 1801</p>
-                            <p>1838 Lehrer in Tarnow, ab 1841 Präfekt des Gymnasiums, ab 1847
-                                Präfekt des Gymnasiums in Troppau, ab 1850 schlesischer Gymnasial-
-                                u. Volksschulinspektor (Schulrat), ab 1855 auch Schulrat in Krakau,
-                                ab 1860 Inspektor der Mittelschulen in Mähren und Schlesien</p>
-                            <p>https://d-nb.info/gnd/119057832</p>
+                            <p>Kufstein 1822–1864 Natters</p>
+                            <p>ab 1847 Beamter im Kreisamt Trient, ab 1848 Privatdozent für
+                                vaterländische Geschichte an der Universität Innsbruck, 1851
+                                Berufung ins Ministerium für Kultus und Unterricht, ab Juli 1854
+                                Kultus- und Unterrichtsreferent in Troppau, ab 1855
+                                Ministerialsekretär im Ministerium für Kultus und Unterricht, ab
+                                1856 Statthaltereirat in Triest</p>
+                            <p>https://d-nb.info/gnd/124862748</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/119057832</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 19. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-19-a3-xxi-d521.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Wien, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="larisch-von-moennich-johann">
+                        <idno type="URL">https://d-nb.info/gnd/124862748</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Rudolf Kink zur Reform des Statuts der Universität Wien o. O., 1. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ueber-universitaet-von-kink-1853-12-01-a3-xxi-d241.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 14. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-14-a3-xxi-d232.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 17. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 29. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-29-a3-xxi-d237.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Albert Jäger an Leo Thun, Meran, 23. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1851-04-23-a3-xxi-d114.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 23. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-08-23-a3-xxi-d227.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 20. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-20-a3-xxi-d227a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 26. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-26-a3-xxi-d227b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 27. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-27-a3-xxi-d227c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 6. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 25. März 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 23. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1860-10-23-a3-xxi-d623a12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="plasun-josef">
                         <persName>
-                            <surname>Larisch-Mönnich</surname>
-                            <forename>Johann</forename>
+                            <surname>Plasuń</surname>
+                            <forename>Josef</forename>
                         </persName>
                         <note>
-                            <p>Schönstein 1821–1884 Lamport Hall</p>
-                            <p>Großgrundbesitzer, 1861–1865 Landeshauptmann von Schlesien</p>
+                            <p/>
+                            <p>fürstbischöflicher Kommissär des Teschener Kommissariats, Erzpriester
+                                und Pfarrer in Freistadt, Schuldistriktsaufseher</p>
                             <p/>
                             <p/>
                         </note>
@@ -188,37 +192,22 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="plasun-josef">
+                    <person xml:id="wilhelm-andreas">
                         <persName>
-                            <surname>Plasuń</surname>
-                            <forename>Josef</forename>
+                            <surname>Wilhelm</surname>
+                            <forename>Andreas</forename>
                         </persName>
                         <note>
-                            <p/>
-                            <p>fürstbischöflicher Kommissär des Teschener Kommissariats, Erzpriester
-                                und Pfarrer in Freistadt, Schuldistriktsaufseher</p>
-                            <p/>
-                            <p/>
-                        </note>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="kink-rudolph">
-                        <persName>
-                            <surname>Kink</surname>
-                            <forename>Rudolf</forename>
-                        </persName>
-                        <note>
-                            <p>Kufstein 1822–1864 Natters</p>
-                            <p>ab 1847 Beamter im Kreisamt Trient, ab 1848 Privatdozent für
-                                vaterländische Geschichte an der Universität Innsbruck, 1851
-                                Berufung ins Ministerium für Kultus und Unterricht, ab Juli 1854
-                                Kultus- und Unterrichtsreferent in Troppau, ab 1855
-                                Ministerialsekretär im Ministerium für Kultus und Unterricht, ab
-                                1856 Statthaltereirat in Triest</p>
-                            <p>https://d-nb.info/gnd/124862748</p>
+                            <p>*Egerland 1801</p>
+                            <p>1838 Lehrer in Tarnow, ab 1841 Präfekt des Gymnasiums, ab 1847
+                                Präfekt des Gymnasiums in Troppau, ab 1850 schlesischer Gymnasial-
+                                u. Volksschulinspektor (Schulrat), ab 1855 auch Schulrat in Krakau,
+                                ab 1860 Inspektor der Mittelschulen in Mähren und Schlesien</p>
+                            <p>https://d-nb.info/gnd/119057832</p>
                             <p/>
                         </note>
-                        <idno type="URL">https://d-nb.info/gnd/124862748</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gutachten von Rudolf Kink zur Reform des Statuts der Universität Wien o. O., 1. Dezember 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/gutachten-ueber-universitaet-von-kink-1853-12-01-a3-xxi-d241.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 14. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-14-a3-xxi-d232.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 17. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-17-a3-xxi-d233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Joseph Alexander Helfert an Leo Thun, Wien, 29. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-29-a3-xxi-d237.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Albert Jäger an Leo Thun, Meran, 23. April 1851</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1851-04-23-a3-xxi-d114.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 23. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-08-23-a3-xxi-d227.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 20. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-20-a3-xxi-d227a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 26. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-26-a3-xxi-d227b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 27. September 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-27-a3-xxi-d227c.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Wien, 6. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-10-06-a3-xxi-d227d.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 25. März 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1858-07-18-a3-xxi-d461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Triest, 23. Oktober 1860</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1860-10-23-a3-xxi-d623a12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Leo Thun an Joseph Alexander Helfert, Smečno, 1. Oktober 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-10-01-ca1428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml"/></linkGrp></event></listEvent></person>
+                        <idno type="URL">https://d-nb.info/gnd/119057832</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bonitz an Leo Thun, Wien, 19. Oktober 1859</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/bonitz-an-thun-1859-10-19-a3-xxi-d521.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/foerster-an-thun-1855-09-10-a3-xxi-d348.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Kleemann an Leo Thun, Wien, 23. Juni 1858</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kleemann-an-thun-1858-06-23-a3-xxi-d456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Rudolph Kink, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-thun_1855-09-15_a3-xxi-d348a.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>
@@ -242,6 +231,18 @@
                         <note>
                             <p/>
                             <p>Konzipist im Ministerium für Kultus und Unterricht</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Rudolf Kink an Leo Thun, Troppau, 24. Januar 1855</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1855-01-24-a3-xxi-d325.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="larisch-von-moennich-johann">
+                        <persName>
+                            <surname>Larisch-Mönnich</surname>
+                            <forename>Johann</forename>
+                        </persName>
+                        <note>
+                            <p>Schönstein 1821–1884 Lamport Hall</p>
+                            <p>Großgrundbesitzer, 1861–1865 Landeshauptmann von Schlesien</p>
                             <p/>
                             <p/>
                         </note>

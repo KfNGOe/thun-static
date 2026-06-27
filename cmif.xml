@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/indices" xml:id="cmif.xml" next="https://id.acdh.oeaw.ac.at/thun/indices/listorg.xml">
     <teiHeader>
         <fileDesc>
@@ -9,7 +10,7 @@
                 <publisher>
                     <ref target="https://thun-korrespondenz.acdh.oeaw.ac.at">Die Korrespondenz von Leo von Thun-Hohenstein</ref>
                 </publisher>
-                <date when="2023-08-20"/>
+                <date when="2026-06-27"/>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>

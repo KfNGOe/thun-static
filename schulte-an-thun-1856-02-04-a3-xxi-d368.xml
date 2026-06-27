@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulte-an-thun-1856-02-04-a3-xxi-d368.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1854-10-07-a3-xxi-d290.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-09-a3-xxi-d369.xml">
     <teiHeader>
         <fileDesc>
@@ -90,7 +91,23 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="schulte-friedrich">
+    <back><listPerson><person xml:id="goebel-eduard">
+                        <persName>
+                            <surname>Goebel</surname>
+                            <forename>Eduard</forename>
+                        </persName>
+                        <note>
+                            <p>Hillesheim 1831–1904 Fulda</p>
+                            <p>ab 1855 Lehrer am Gymnasium in Aachen, 1856 Lehrer am Gymnasium in
+                                Bonn, 1857–1860 Lehrer am Gymnasium in Salzburg, 1860–1863
+                                Oberlehrer am Apostelgymnasium in Köln, 1863–1897 Direktor des
+                                Gymnasiums in Fulda</p>
+                            <p>https://d-nb.info/gnd/1020890657</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/1020890657</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1857-11-22-a3-xxi-d434.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 4. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-04-a3-xxi-d368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 9. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-09-a3-xxi-d369.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 20. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-20-a3-xxi-d375.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="schulte-friedrich">
                         <persName>
                             <surname>Schulte</surname>
                             <forename>Johann Friedrich</forename>
@@ -121,22 +138,6 @@
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116066881</idno>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1857-11-22-a3-xxi-d434.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 4. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-04-a3-xxi-d368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 20. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-20-a3-xxi-d375.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 2. Juni 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-06-02-a3-xxi-d380.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 19. Juli 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-07-19-a3-xxi-d384.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="goebel-eduard">
-                        <persName>
-                            <surname>Goebel</surname>
-                            <forename>Eduard</forename>
-                        </persName>
-                        <note>
-                            <p>Hillesheim 1831–1904 Fulda</p>
-                            <p>ab 1855 Lehrer am Gymnasium in Aachen, 1856 Lehrer am Gymnasium in
-                                Bonn, 1857–1860 Lehrer am Gymnasium in Salzburg, 1860–1863
-                                Oberlehrer am Apostelgymnasium in Köln, 1863–1897 Direktor des
-                                Gymnasiums in Fulda</p>
-                            <p>https://d-nb.info/gnd/1020890657</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/1020890657</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1857-11-22-a3-xxi-d434.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 4. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-04-a3-xxi-d368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 9. Februar 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-09-a3-xxi-d369.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Johann Friedrich Schulte an Leo Thun, Prag, 20. April 1856</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-20-a3-xxi-d375.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="thun-hohenstein-leo">
                         <persName>
                             <surname>Thun-Hohenstein</surname>

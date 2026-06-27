@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="publikationsliste-theologie-o-d-a3-xxi-d187.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/promemoria-von-gaertner_1856_a3-xxi-d397.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/puffer-an-thun-1849-11-22-a3-xxi-d16.xml">
     <teiHeader>
         <fileDesc>
@@ -78,7 +79,21 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="riffel-caspar">
+    <back><listPerson><person xml:id="wick-joseph">
+                        <persName>
+                            <surname>Wick</surname>
+                            <forename>Joseph Lorenz</forename>
+                        </persName>
+                        <note>
+                            <p>Mellenthin 1820–1903 Breslau</p>
+                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik,
+                                Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert
+                                in Breslau, Gründer zahlreicher katholischer Vereine</p>
+                            <p/>
+                            <p/>
+                        </note>
+                    </person>
+                    <person xml:id="riffel-caspar">
                         <persName>
                             <surname>Riffel</surname>
                             <forename>Caspar</forename>
@@ -92,20 +107,6 @@
                             <p/>
                         </note>
                         <idno type="URL">https://d-nb.info/gnd/116546824</idno>
-                    </person>
-                    <person xml:id="wick-joseph">
-                        <persName>
-                            <surname>Wick</surname>
-                            <forename>Joseph Lorenz</forename>
-                        </persName>
-                        <note>
-                            <p>Mellenthin 1820–1903 Breslau</p>
-                            <p>kath. Priester, 1847–1851 Privatdozent für Apologetik, Symbolik,
-                                Kirchengeschichte an der Universität Breslau, Kurat bei St. Adalbert
-                                in Breslau, Gründer zahlreicher katholischer Vereine</p>
-                            <p/>
-                            <p/>
-                        </note>
                     </person>
                     </listPerson><listPlace><place xml:id="place_3496da6c1db0a5223edb1fb4c415a154">
                         <placeName>Mainz</placeName>

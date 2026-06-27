@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ueber-protestanten-in-tirol-od-a3-xxi-d652.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml">
     <teiHeader>
         <fileDesc>
@@ -106,21 +107,7 @@
             </div>
         </body>
     
-    <back><listPerson><person xml:id="ferdinand-I-oesterreich">
-                        <persName>
-                            <surname>Ferdinand I. (Österreich)</surname>
-                            <forename/>
-                        </persName>
-                        <note>
-                            <p>Wien 1793–1875 Prag</p>
-                            <p>1835–1848 Kaiser von Österreich, König von Böhmen, als Ferdinand V.
-                                König von Ungarn und Kroatien</p>
-                            <p>https://d-nb.info/gnd/118686747</p>
-                            <p/>
-                        </note>
-                        <idno type="URL">https://d-nb.info/gnd/118686747</idno>
-                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>diktiertes Konzept von Leo Thun o. O., o. D. [1849] Leo Thun</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/konzept-thuns-uber-zustande-in-prag-1849-a3-xxi-d22.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Castelfondo, 12. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-08-12-a3-xxi-d224.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></person>
-                    <person xml:id="franz-I-II">
+    <back><listPerson><person xml:id="franz-I-II">
                         <persName>
                             <surname>Franz I./II.</surname>
                             <forename/>
@@ -147,6 +134,20 @@
                             <p/>
                         </note>
                     <listEvent><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event></listEvent></person>
+                    <person xml:id="ferdinand-I-oesterreich">
+                        <persName>
+                            <surname>Ferdinand I. (Österreich)</surname>
+                            <forename/>
+                        </persName>
+                        <note>
+                            <p>Wien 1793–1875 Prag</p>
+                            <p>1835–1848 Kaiser von Österreich, König von Böhmen, als Ferdinand V.
+                                König von Ungarn und Kroatien</p>
+                            <p>https://d-nb.info/gnd/118686747</p>
+                            <p/>
+                        </note>
+                        <idno type="URL">https://d-nb.info/gnd/118686747</idno>
+                    <listEvent><event type="mentioned"><p>erwähnt in <title>Maria Antonia Damianovich an Kaiserin Elisabeth, Rab, 10. Mai 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/damianovich-an-kaiserin-1854-05-10-a3-xxi-d320g.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Entwurf des Patents zur Einführung des Allgemeinen Bürgerlichen Gesetzbuchs in Ungarn, Kroatien, Slawonien, der serbischen Woiwodschaft und dem Temescher Banat 1852</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/entwurf-einfuehrungspatent-zum-abgb-fuer-ungarn-kroatien-slawonien-1852-a3-xxi-d180.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>diktiertes Konzept von Leo Thun o. O., o. D. [1849] Leo Thun</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/konzept-thuns-uber-zustande-in-prag-1849-a3-xxi-d22.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Francesco Pino an Kaiserin Elisabeth, Verona, 13. Juni 1854</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/pino-an-kaiserin-1854-06-13-a3-xxi-d320i.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Franz Thun an Leo Thun, Castelfondo, 12. August 1853</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/thun-franz-an-thun-1853-08-12-a3-xxi-d224.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Memorandum über die rechtliche Stellung von Protestanten in Tirol o. D.</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueber-protestanten-in-tirol-od-a3-xxi-d652.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Überblick über die historische Entwicklung des evangelischen Kirchenrechts in Österreich o. O., o. D. [1850]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/ueberblick-entwicklung-evangelisches-kirchenrecht-oesterreich-o-d-a3-xxi-d93.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Abschrift eines Vortrags des Ministerialrates Metel Ožegović von Barlabaševec und Bela über die Unabhängigkeitsbestrebungen der Slowaken o. O. [Wien], o. D. [7. Juni 1849]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/thun/editions/vortrag-ozegovich-slowaken-1849-a3-xxi-d99.xml"/></linkGrp></event></listEvent></person>
                     <person xml:id="angern-agnes">
                         <persName>
                             <surname>Angern</surname>
