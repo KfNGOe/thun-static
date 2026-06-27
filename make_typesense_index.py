@@ -19,6 +19,11 @@ except ObjectNotFound:
 
 current_schema = {
     "name": "thun-static",
+    "metadata": {
+        "owners": ["Peter Andorfer"],
+        "description": "https://github.com/KfNGOe/thun-static",
+        "service_ids": [18716],
+    },
     "fields": [
         {
             "name": "id",
